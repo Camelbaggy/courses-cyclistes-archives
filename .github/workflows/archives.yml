@@ -1,0 +1,117 @@
+name: Archives (saisons passées)
+
+# Collecte des saisons passées dans data/archives/ de CE dépôt. Le code (collector.py, run_pipeline.py…) vient du dépôt
+# Camelbaggy/courses-cyclistes (branche main, checkout dans code/) ; le data/ de ce checkout est lu en lecture seule
+# par la rotation (migrer_saisons_anciennes : saisons N-2 et plus ancien du Calendrier -> archives). Les fichiers
+# archivés sont retirés de data/ du dépôt principal par update.yml de ce dépôt-là, une fois l'archive publiée
+# (index.json avec complete: true), jamais par ce workflow.
+# Passages nocturnes, hors des créneaux d'update.yml ; chaque passage reprend où le précédent s'est arrêté (budget de
+# temps). run_archive traite les saisons de la plus récente à la plus ancienne et ignore les complètes.
+# Saisons : entrée manuelle, sinon variable de dépôt ARCHIVES_SAISONS, sinon 2016-2025.
+# Le cron (que GitHub saute ou retarde souvent) n'est qu'une amorce : après le commit, le workflow se relance lui-même
+# tant qu'une saison demandée n'est pas complète, sauf entre 11 h et 23 h UTC (créneau d'update.yml du dépôt principal,
+# 13 h-22 h UTC : limite la charge sur DataRide pendant les courses) et si le passage n'a rien changé (pas de boucle
+# sans progrès).
+on:
+  schedule:
+    - cron: '23 0-5 * * *'
+  workflow_dispatch:
+    inputs:
+      saisons:
+        description: "Saisons (« 2016-2025 », « 2023 », « 2021,2023 » ; vide = variable ARCHIVES_SAISONS ou 2016-2025)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+  actions: write   # relance du workflow (gh workflow run)
+
+concurrency:
+  group: archives-data
+  cancel-in-progress: false
+
+jobs:
+  archives:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - name: Checkout du dépôt d'archives (données)
+        uses: actions/checkout@v4
+        with:
+          path: archives
+          ref: ${{ github.ref_name }}
+      - name: Checkout du dépôt principal (code)
+        uses: actions/checkout@v4
+        with:
+          repository: Camelbaggy/courses-cyclistes
+          ref: main
+          path: code
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Collecte des archives
+        env:
+          PYTHONUNBUFFERED: "1"
+          AI_BUDGET_SECONDS: "0"
+          SAISONS_ENTREE: ${{ inputs.saisons }}
+          SAISONS_VAR: ${{ vars.ARCHIVES_SAISONS }}
+        run: |
+          SAISONS="${SAISONS_ENTREE:-${SAISONS_VAR:-2016-2025}}"
+          echo "Saisons : $SAISONS"
+          echo "SAISONS=$SAISONS" >> "$GITHUB_ENV"
+          cd code
+          ARCHIVES_DIR="$GITHUB_WORKSPACE/archives/data/archives" python run_pipeline.py --archive "$SAISONS" --budget-min 50
+      - name: Commit des archives
+        working-directory: archives
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then echo "Aucun changement"; exit 0; fi
+          echo "CHANGED=1" >> "$GITHUB_ENV"
+          git commit -m "chore: archives ${SAISONS}"
+          # Poussée robuste : en cas de course (relance, passage concurrent), on rebase (nos fichiers l'emportent)
+          # et on réessaie, 5 fois au plus.
+          for ESSAI in 1 2 3 4 5; do
+            if git pull --rebase -X theirs origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}"; then
+              PUSH_OK=1
+              break
+            fi
+            echo "push refusé (essai ${ESSAI}/5)"
+            git rebase --abort 2>/dev/null || true
+            sleep $((5 + RANDOM % 16))
+          done
+          if [ "${PUSH_OK:-0}" != "1" ]; then
+            echo "::error::échec du push après 5 essais"
+            exit 1
+          fi
+      - name: Relance si des saisons restent à collecter
+        working-directory: code
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          INCOMPLETES=$(python -c "
+          import json, os, sys
+          from run_pipeline import parse_saisons
+          reste = []
+          for a in parse_saisons(sys.argv[1]):
+              try:
+                  with open(os.path.join(os.environ['GITHUB_WORKSPACE'], 'archives', 'data', 'archives', str(a), 'state.json'), encoding='utf-8') as f:
+                      complete = bool(json.load(f).get('complete'))
+              except (OSError, ValueError):
+                  complete = False
+              if not complete:
+                  reste.append(a)
+          print(','.join(str(a) for a in reste))
+          " "$SAISONS")
+          HEURE=$(date -u +%H)
+          if [ -z "$INCOMPLETES" ]; then
+            echo "pas de relance : toutes les saisons demandées ($SAISONS) sont complètes"
+          elif [ "$CHANGED" != "1" ]; then
+            echo "pas de relance : saisons incomplètes [$INCOMPLETES] mais ce passage n'a rien changé (pas de progrès)"
+          elif [ "$((10#$HEURE))" -ge 11 ] && [ "$((10#$HEURE))" -lt 23 ]; then
+            echo "pas de relance : saisons incomplètes [$INCOMPLETES] mais il est ${HEURE} h UTC (créneau d'update.yml, 11 h-23 h) ; le cron reprendra"
+          else
+            echo "relance : saisons incomplètes [$INCOMPLETES] (${HEURE} h UTC)"
+            gh workflow run archives.yml --repo "$GITHUB_REPOSITORY" --ref "$GITHUB_REF_NAME" -f saisons="$SAISONS"
+          fi
