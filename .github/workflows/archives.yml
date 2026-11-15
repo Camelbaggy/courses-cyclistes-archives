@@ -7,7 +7,7 @@ name: Archives (saisons passées)
 # (index.json avec complete: true), jamais par ce workflow.
 # Passages nocturnes, hors des créneaux d'update.yml ; chaque passage reprend où le précédent s'est arrêté (budget de
 # temps). run_archive traite les saisons de la plus récente à la plus ancienne et ignore les complètes.
-# Saisons : entrée manuelle, sinon variable de dépôt ARCHIVES_SAISONS, sinon 2016-2025.
+# Saisons : entrée manuelle, sinon variable de dépôt ARCHIVES_SAISONS, sinon 2011-2025.
 # Le cron (que GitHub saute ou retarde souvent) n'est qu'une amorce : après le commit, le workflow se relance lui-même
 # tant qu'une saison demandée n'est pas complète, sauf entre 11 h et 23 h UTC (créneau d'update.yml du dépôt principal,
 # 13 h-22 h UTC : limite la charge sur DataRide pendant les courses) et si le passage n'a rien changé (pas de boucle
@@ -18,7 +18,7 @@ on:
   workflow_dispatch:
     inputs:
       saisons:
-        description: "Saisons (« 2016-2025 », « 2023 », « 2021,2023 » ; vide = variable ARCHIVES_SAISONS ou 2016-2025)"
+        description: "Saisons (« 2011-2025 », « 2023 », « 2021,2023 » ; vide = variable ARCHIVES_SAISONS ou 2011-2025)"
         required: false
         default: ""
 
@@ -56,7 +56,7 @@ jobs:
           SAISONS_ENTREE: ${{ inputs.saisons }}
           SAISONS_VAR: ${{ vars.ARCHIVES_SAISONS }}
         run: |
-          SAISONS="${SAISONS_ENTREE:-${SAISONS_VAR:-2016-2025}}"
+          SAISONS="${SAISONS_ENTREE:-${SAISONS_VAR:-2011-2025}}"
           echo "Saisons : $SAISONS"
           echo "SAISONS=$SAISONS" >> "$GITHUB_ENV"
           cd code
@@ -89,6 +89,7 @@ jobs:
         working-directory: code
         env:
           GH_TOKEN: ${{ github.token }}
+          SAISONS_ENTREE: ${{ inputs.saisons }}
         run: |
           INCOMPLETES=$(python -c "
           import json, os, sys
@@ -113,5 +114,11 @@ jobs:
             echo "pas de relance : saisons incomplètes [$INCOMPLETES] mais il est ${HEURE} h UTC (créneau d'update.yml, 11 h-23 h) ; le cron reprendra"
           else
             echo "relance : saisons incomplètes [$INCOMPLETES] (${HEURE} h UTC)"
-            gh workflow run archives.yml --repo "$GITHUB_REPOSITORY" --ref "$GITHUB_REF_NAME" -f saisons="$SAISONS"
+            # Saisons saisies à la main : transmises ; sinon relance sans entrée, pour que le défaut du workflow
+            # (ou ARCHIVES_SAISONS) s'applique au passage suivant (ex. extension de la plage par défaut).
+            if [ -n "$SAISONS_ENTREE" ]; then
+              gh workflow run archives.yml --repo "$GITHUB_REPOSITORY" --ref "$GITHUB_REF_NAME" -f saisons="$SAISONS_ENTREE"
+            else
+              gh workflow run archives.yml --repo "$GITHUB_REPOSITORY" --ref "$GITHUB_REF_NAME"
+            fi
           fi
