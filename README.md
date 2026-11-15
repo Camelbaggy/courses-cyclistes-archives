@@ -29,7 +29,7 @@ Exemple : `https://camelbaggy.github.io/courses-cyclistes-archives/data/archives
 ## Fonctionnement
 
 - Le workflow `archives.yml` (passages nocturnes, relance automatique tant qu'une saison demandée n'est pas complète)
-  récupère le code du dépôt principal, collecte les saisons de la plus récente à la plus ancienne (2016-2025 par
+  récupère le code du dépôt principal, collecte les saisons de la plus récente à la plus ancienne (2011-2025 par
   défaut, variable de dépôt `ARCHIVES_SAISONS` ou entrée manuelle `saisons`) puis commite `data/`.
 - Une saison `complete` n'est plus recollectée (sauf révision ciblée des temps illisibles).
 - Les saisons N-2 et plus anciennes quittent le Calendrier du dépôt principal pour arriver ici ; le dépôt principal
