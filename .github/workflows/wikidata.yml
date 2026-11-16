@@ -12,9 +12,13 @@ on:
   workflow_dispatch:
     inputs:
       budget:
-        description: "Budget en minutes (défaut 300)"
+        description: "Budget Wikidata (coureurs, équipes) en minutes (défaut 300)"
         required: false
         default: "300"
+      budget_historique:
+        description: "Budget de l'historique des épreuves en minutes (défaut 30)"
+        required: false
+        default: "30"
 
 permissions:
   contents: write
@@ -26,7 +30,7 @@ concurrency:
 jobs:
   wikidata:
     runs-on: ubuntu-latest
-    timeout-minutes: 340
+    timeout-minutes: 358
     steps:
       - name: Checkout du dépôt d'archives (données)
         uses: actions/checkout@v4
@@ -42,7 +46,19 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+      - name: Historique des épreuves (palmarès Wikidata)
+        env:
+          PYTHONUNBUFFERED: "1"
+          BUDGET_ENTREE: ${{ inputs.budget_historique }}
+        run: |
+          BUDGET="${BUDGET_ENTREE:-30}"
+          case "$BUDGET" in ''|*[!0-9]*) echo "budget invalide : $BUDGET"; exit 1;; esac
+          [ "$BUDGET" = "0" ] && { echo "historique ignoré (budget 0)"; exit 0; }
+          cd code
+          ARCHIVES_DIR="$GITHUB_WORKSPACE/archives/data/archives" timeout $((BUDGET + 15))m \
+            python run_pipeline.py --historique --budget-min "$BUDGET"
       - name: Enrichissement Wikidata
+        if: ${{ !cancelled() }}
         env:
           PYTHONUNBUFFERED: "1"
           BUDGET_ENTREE: ${{ inputs.budget }}
@@ -59,9 +75,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/archives/entites/wikidata/ 2>/dev/null || true
+          git add data/archives/entites/wikidata/ data/archives/entites/historique/ 2>/dev/null || true
           if git diff --cached --quiet; then echo "Aucun changement"; exit 0; fi
-          git commit -m "chore: cache Wikidata"
+          git commit -m "chore: cache Wikidata et historique"
           for ESSAI in 1 2 3 4 5; do
             if git pull --rebase -X theirs origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}"; then
               PUSH_OK=1
