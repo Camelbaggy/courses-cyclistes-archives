@@ -9,9 +9,10 @@ name: Archives (saisons passées)
 # temps). run_archive traite les saisons de la plus récente à la plus ancienne et ignore les complètes.
 # Saisons : entrée manuelle, sinon variable de dépôt ARCHIVES_SAISONS, sinon 2011-2025.
 # Le cron (que GitHub saute ou retarde souvent) n'est qu'une amorce : après le commit, le workflow se relance lui-même
-# tant qu'une saison demandée n'est pas complète, sauf entre 11 h et 23 h UTC (créneau d'update.yml du dépôt principal,
-# 13 h-22 h UTC : limite la charge sur DataRide pendant les courses) et si le passage n'a rien changé (pas de boucle
-# sans progrès).
+# tant qu'une saison demandée n'est pas complète, sauf entre 11 h et 23 h UTC PENDANT LA SAISON DES COURSES (créneau
+# d'update.yml du dépôt principal, 13 h-22 h UTC : limite la charge sur DataRide pendant les courses ; en intersaison,
+# collector.periode_de_courses faux = aucune course en cours ou à 3 jours près, la journée est libre) et si le passage
+# n'a rien changé (pas de boucle sans progrès).
 on:
   schedule:
     - cron: '23 0-5 * * *'
@@ -106,14 +107,16 @@ jobs:
           print(','.join(str(a) for a in reste))
           " "$SAISONS")
           HEURE=$(date -u +%H)
+          # « non » seulement si le Calendrier montre l'intersaison ; toute autre sortie (erreur comprise) : prudence
+          COURSES=$(python -c "import collector; print('oui' if collector.periode_de_courses_depuis() else 'non')" 2>/dev/null || echo oui)
           if [ -z "$INCOMPLETES" ]; then
             echo "pas de relance : toutes les saisons demandées ($SAISONS) sont complètes"
           elif [ "$CHANGED" != "1" ]; then
             echo "pas de relance : saisons incomplètes [$INCOMPLETES] mais ce passage n'a rien changé (pas de progrès)"
-          elif [ "$((10#$HEURE))" -ge 11 ] && [ "$((10#$HEURE))" -lt 23 ]; then
-            echo "pas de relance : saisons incomplètes [$INCOMPLETES] mais il est ${HEURE} h UTC (créneau d'update.yml, 11 h-23 h) ; le cron reprendra"
+          elif [ "$((10#$HEURE))" -ge 11 ] && [ "$((10#$HEURE))" -lt 23 ] && [ "$COURSES" != "non" ]; then
+            echo "pas de relance : saisons incomplètes [$INCOMPLETES] mais il est ${HEURE} h UTC et des courses sont en cours ou proches (créneau d'update.yml, 11 h-23 h) ; le cron reprendra"
           else
-            echo "relance : saisons incomplètes [$INCOMPLETES] (${HEURE} h UTC)"
+            echo "relance : saisons incomplètes [$INCOMPLETES] (${HEURE} h UTC, période de courses : $COURSES)"
             # Saisons saisies à la main : transmises ; sinon relance sans entrée, pour que le défaut du workflow
             # (ou ARCHIVES_SAISONS) s'applique au passage suivant (ex. extension de la plage par défaut).
             if [ -n "$SAISONS_ENTREE" ]; then

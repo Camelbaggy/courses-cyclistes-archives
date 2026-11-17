@@ -9,7 +9,9 @@ Dépôt de **données** : `data/archives/` (saisons passées du dashboard des co
 - **Ne jamais modifier `data/` à la main** (ni committer d'archives générées en local) : le workflow est seul auteur.
   Seuls les workflows (`archives.yml`, `wikidata.yml`, `veille.yml`) et README / CLAUDE.md se modifient ici.
 - `veille.yml` (toutes les heures, GitHub saute souvent les crons) relance `archives.yml` si aucun passage n'a démarré depuis 20 h
-  (seulement entre 23 h et 11 h UTC) et `wikidata.yml` si aucun depuis 8 jours ; rien si un passage est en file ou en cours.
+  (entre 23 h et 11 h UTC pendant la saison ; en intersaison, `collector.periode_de_courses` faux, à toute heure et dès 1 h sans passage
+  s'il reste des saisons incomplètes) et `wikidata.yml` si aucun depuis 8 jours ; rien si un passage est en file ou en cours.
+  `archives.yml` se relance lui-même en journée aussi pendant l'intersaison.
 - `.nojekyll` doit rester à la racine (Pages sans Jekyll).
 - Claude peut fusionner lui-même ses PR (outils GitHub MCP) une fois le travail vérifié (YAML valide, essai du workflow).
 - Déléguer à des agents Sonnet (outil Agent, `model: "sonnet"`) les tâches opérationnelles (lecture de logs, contrôles)
