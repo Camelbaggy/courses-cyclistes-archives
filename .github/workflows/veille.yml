@@ -1,0 +1,56 @@
+name: Veille (relance des passages sautés)
+
+# GitHub retarde ou abandonne souvent les déclenchements programmés (crons) de ce dépôt, surtout la nuit : archives.yml
+# (6 crons nocturnes) peut ne jamais démarrer. Ce workflow, déclenché toutes les heures (24 chances par jour), relance :
+#   - archives.yml si aucun passage n'a démarré depuis 20 h, et seulement entre 23 h et 11 h UTC (hors créneau d'update.yml,
+#     pour limiter la charge sur DataRide pendant les courses) ;
+#   - wikidata.yml si aucun passage n'a démarré depuis 8 jours (le cron du dimanche a été sauté).
+# Rien n'est relancé si un passage du même workflow est en file ou en cours. Aucun accès aux données : lecture de la liste
+# des exécutions et déclenchement seulement (jeton du dépôt).
+on:
+  schedule:
+    - cron: '47 * * * *'
+  workflow_dispatch:
+
+permissions:
+  actions: write
+  contents: read
+
+concurrency:
+  group: veille
+  cancel-in-progress: true
+
+jobs:
+  veille:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Relance des passages sautés
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        run: |
+          set -u
+          maintenant=$(date -u +%s)
+          heure=$((10#$(date -u +%H)))
+          # relancer <workflow> <âge maximal en heures> <fenêtre nocturne : oui|non>
+          relancer() {
+            wf="$1"; age_max=$2; nuit="$3"
+            en_cours=$(gh run list --repo "$REPO" --workflow "$wf" --limit 20 --json status \
+                         --jq '[.[] | select(.status != "completed")] | length')
+            if [ "${en_cours:-0}" != "0" ]; then echo "[VEILLE] $wf : un passage est en file ou en cours, rien à faire"; return; fi
+            dernier=$(gh run list --repo "$REPO" --workflow "$wf" --limit 1 --json createdAt --jq '.[0].createdAt // ""')
+            if [ -n "$dernier" ]; then
+              age=$(( (maintenant - $(date -u -d "$dernier" +%s)) / 3600 ))
+            else
+              age=999999
+            fi
+            if [ "$age" -lt "$age_max" ]; then echo "[VEILLE] $wf : dernier passage il y a ${age} h (< ${age_max} h), rien à faire"; return; fi
+            if [ "$nuit" = "oui" ] && [ "$heure" -ge 11 ] && [ "$heure" -lt 23 ]; then
+              echo "[VEILLE] $wf : dernier passage il y a ${age} h, mais il est ${heure} h UTC (créneau d'update.yml) : relance à partir de 23 h"; return
+            fi
+            echo "[VEILLE] $wf : dernier passage il y a ${age} h (>= ${age_max} h) : relance"
+            gh workflow run "$wf" --repo "$REPO" --ref "${GITHUB_REF_NAME:-main}"
+          }
+          relancer archives.yml 20 oui
+          relancer wikidata.yml 192 non
