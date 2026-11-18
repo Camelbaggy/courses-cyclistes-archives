@@ -1110,13 +1110,19 @@
   "regle": 2
  },
  "anc_belgique/lys_bavikhove_1985.html": {
-  "essais": 1
+  "dernier_essai": "2026-11-18T23:12:22Z",
+  "essais": 1,
+  "regle": 2
  },
  "anc_belgique/lys_bavikhove_1986.html": {
-  "essais": 1
+  "dernier_essai": "2026-11-18T23:12:25Z",
+  "essais": 1,
+  "regle": 2
  },
  "anc_belgique/lys_bavikhove_1987.html": {
-  "essais": 1
+  "dernier_essai": "2026-11-18T23:12:28Z",
+  "essais": 1,
+  "regle": 2
  },
  "anc_belgique/lys_bavikhove_1988.html": {
   "essais": 1
