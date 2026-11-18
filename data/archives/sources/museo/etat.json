@@ -1,5 +1,8 @@
 {
- "coureurs_restants": 9976,
- "editions_restantes": 108,
+ "albos_restants": 212,
+ "coureurs_restants": 0,
+ "editions_a_decider": 626,
+ "editions_restantes": 6477,
+ "phase": "index",
  "termine": false
 }
