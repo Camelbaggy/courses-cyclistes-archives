@@ -36,7 +36,7 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
           REPO: ${{ github.repository }}
-          SAISONS: ${{ vars.ARCHIVES_SAISONS || '2011-2025' }}
+          SAISONS: ${{ vars.ARCHIVES_SAISONS || '2009-2025' }}
         run: |
           set -u
           maintenant=$(date -u +%s)
