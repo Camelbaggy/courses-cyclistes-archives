@@ -23,7 +23,7 @@ Dépôt de **données** : `data/archives/` (saisons passées du dashboard des co
   >= 3,2 s entre requêtes) et commite SEULEMENT `data/archives/sources/mdc/` ; auto-relance tant que `etat.json` dit `termine: false` ET que le passage a progressé.
 - `cqranking.yml` (même modèle : cron `51 3 * * *`, groupe `cqranking-data`) lance `cqranking.py` (CQ Ranking, accord du 18/11/2026, >= 2,6 s entre requêtes)
   et commite SEULEMENT `data/archives/sources/cqranking/` ; auto-relance tant que `etat.json` dit `termine: false` ET que le passage a progressé.
-- `museo.yml` (même modèle : cron `29 4 * * *`, groupe `museo-data`) lance `museo.py --suivies` (Museo del Ciclismo, accord du 18/11/2026, >= 3,2 s entre
+- `museo.yml` (même modèle : cron `29 4 * * *`, groupe `museo-data`) lance `museo.py --selection --sans-fiches --listes-coureurs professionisti` (sélection élargie du 18/11/2026 ; avant : `--suivies`) (Museo del Ciclismo, accord du 18/11/2026, >= 3,2 s entre
   requêtes ; courses suivies seulement) et commite SEULEMENT `data/archives/sources/museo/` ; auto-relance tant que `etat.json` dit `termine: false` ET que le passage a progressé.
 - `.nojekyll` doit rester à la racine (Pages sans Jekyll).
 - Claude peut fusionner lui-même ses PR (outils GitHub MCP) une fois le travail vérifié (YAML valide, essai du workflow).
