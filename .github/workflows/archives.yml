@@ -7,7 +7,7 @@ name: Archives (saisons passées)
 # (index.json avec complete: true), jamais par ce workflow.
 # Passages nocturnes, hors des créneaux d'update.yml ; chaque passage reprend où le précédent s'est arrêté (budget de
 # temps). run_archive traite les saisons de la plus récente à la plus ancienne et ignore les complètes.
-# Saisons : entrée manuelle, sinon variable de dépôt ARCHIVES_SAISONS, sinon 2011-2025.
+# Saisons : entrée manuelle, sinon variable de dépôt ARCHIVES_SAISONS, sinon 2009-2025.
 # Le cron (que GitHub saute ou retarde souvent) n'est qu'une amorce : après le commit, le workflow se relance lui-même
 # tant qu'une saison demandée n'est pas complète, sauf entre 11 h et 23 h UTC PENDANT LA SAISON DES COURSES (créneau
 # d'update.yml du dépôt principal, 13 h-22 h UTC : limite la charge sur DataRide pendant les courses ; en intersaison,
@@ -19,7 +19,7 @@ on:
   workflow_dispatch:
     inputs:
       saisons:
-        description: "Saisons (« 2011-2025 », « 2023 », « 2021,2023 » ; vide = variable ARCHIVES_SAISONS ou 2011-2025)"
+        description: "Saisons (« 2009-2025 », « 2023 », « 2021,2023 » ; vide = variable ARCHIVES_SAISONS ou 2009-2025)"
         required: false
         default: ""
 
@@ -57,7 +57,7 @@ jobs:
           SAISONS_ENTREE: ${{ inputs.saisons }}
           SAISONS_VAR: ${{ vars.ARCHIVES_SAISONS }}
         run: |
-          SAISONS="${SAISONS_ENTREE:-${SAISONS_VAR:-2011-2025}}"
+          SAISONS="${SAISONS_ENTREE:-${SAISONS_VAR:-2009-2025}}"
           echo "Saisons : $SAISONS"
           echo "SAISONS=$SAISONS" >> "$GITHUB_ENV"
           cd code
