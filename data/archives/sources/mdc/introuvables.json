@@ -1,236 +1,485 @@
 {
  "amateurs/circuit_hainaut_1990.html": {
-  "essais": 1
+  "essais": 2
  },
  "amateurs/circuit_hainaut_1991.html": {
-  "essais": 1
+  "essais": 2
  },
  "amateurs/circuit_hainaut_1992.html": {
-  "essais": 1
+  "essais": 2
  },
  "amateurs/circuit_hainaut_1993.html": {
-  "essais": 1
+  "essais": 2
  },
  "amateurs/circuit_hainaut_1994.html": {
-  "essais": 1
+  "essais": 2
  },
  "amateurs/circuit_hainaut_1995.html": {
-  "essais": 1
+  "essais": 2
  },
  "amateurs/circuit_hainaut_1996.html": {
-  "essais": 1
+  "essais": 2
  },
  "amateurs/paris_conches_1939.html": {
-  "essais": 1
+  "essais": 2
  },
  "amateurs/paris_connerre.html": {
-  "essais": 1
+  "essais": 2
  },
  "amateurs/rund_koln_amateur.html": {
+  "essais": 2
+ },
+ "amateurs/vietto_gianello.html": {
+  "essais": 1
+ },
+ "anc_belgique/3_provinces_lauwe_1947.html": {
+  "essais": 1
+ },
+ "anc_belgique/gp_betekom_1962.html": {
+  "essais": 1
+ },
+ "anc_belgique/gp_betekom_1963.html": {
+  "essais": 1
+ },
+ "anc_belgique/gp_betekom_1965.html": {
+  "essais": 1
+ },
+ "anc_belgique/gp_betekom_1966.html": {
+  "essais": 1
+ },
+ "anc_belgique/gp_betekom_1968.html": {
+  "essais": 1
+ },
+ "anc_belgique/gp_e5_1971.html": {
+  "essais": 1
+ },
+ "anc_belgique/gp_e5_1972.html": {
+  "essais": 1
+ },
+ "anc_belgique/gp_e5_1973.html": {
+  "essais": 1
+ },
+ "anc_belgique/gp_e5_1974.html": {
+  "essais": 1
+ },
+ "anc_belgique/gp_e5_1975.html": {
+  "essais": 1
+ },
+ "anc_belgique/gp_e5_1976.html": {
+  "essais": 1
+ },
+ "anc_belgique/gp_e5_1977.html": {
+  "essais": 1
+ },
+ "anc_belgique/gp_e5_1979.html": {
+  "essais": 1
+ },
+ "anc_belgique/gp_e5_1980.html": {
+  "essais": 1
+ },
+ "anc_belgique/gp_e5_1981.html": {
+  "essais": 1
+ },
+ "anc_belgique/gp_e5_1982.html": {
+  "essais": 1
+ },
+ "anc_belgique/gp_e5_1983.html": {
+  "essais": 1
+ },
+ "anc_espagne/3cantos_1985.html": {
+  "essais": 1
+ },
+ "anc_espagne/3cantos_1986.html": {
+  "essais": 1
+ },
+ "anc_espagne/3cantos_1987.html": {
+  "essais": 1
+ },
+ "anc_espagne/3cantos_1988.html": {
+  "essais": 1
+ },
+ "anc_espagne/3cantos_1989.html": {
+  "essais": 1
+ },
+ "anc_espagne/bayonne_bilbao_1962.html": {
+  "essais": 1
+ },
+ "anc_espagne/bilbao_balmaseda_1893.html": {
+  "essais": 1
+ },
+ "anc_espagne/bilbao_munguia_bilbao_1912.html": {
+  "essais": 1
+ },
+ "anc_espagne/bilbao_sanseb_bilbao_1938.html": {
+  "essais": 1
+ },
+ "anc_espagne/bilbao_santander_1903.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bastia_ajaccio_1946.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bocage_normand_1930.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bocage_normand_1931.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bocage_normand_1932.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bocage_normand_1933.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bocage_normand_1934.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_angely_1936.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_angouleme_1934.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_angouleme_1935.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_angouleme_1936.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_angouleme_1937.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_angouleme_1938.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_angouleme_1939.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_angouleme_1941.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_angouleme_1942.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_angouleme_1943.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_mussidan_1901.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1891.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1892.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1893.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1894.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1895.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1896.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1897.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1898.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1899.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1900.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1901.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1903.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1904.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1905.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1906.html": {
+  "essais": 1
+ },
+ "anc_france_eta/3j_cyclistes_avenir_1929.html": {
+  "essais": 1
+ },
+ "anc_france_eta/aiglons_1932.html": {
+  "essais": 1
+ },
+ "anc_france_eta/bordeaux_marseille_1923.html": {
+  "essais": 1
+ },
+ "anc_france_eta/bordeaux_marseille_1924.html": {
+  "essais": 1
+ },
+ "anc_italie/3capitales_1911.html": {
+  "essais": 1
+ },
+ "anc_italie/belmonte_piceno_1951.html": {
+  "essais": 1
+ },
+ "anc_italie/belmonte_piceno_1952.html": {
+  "essais": 1
+ },
+ "anc_italie/bolzano_trento_1952.html": {
+  "essais": 1
+ },
+ "anc_monde/first_union_atlanta_1995.html": {
+  "essais": 1
+ },
+ "anc_suisse/berne_geneve_1909.html": {
+  "essais": 1
+ },
+ "anc_suisse/berne_geneve_1916.html": {
+  "essais": 1
+ },
+ "anc_suisse/berne_geneve_1917.html": {
+  "essais": 1
+ },
+ "anc_suisse/berne_geneve_1918.html": {
+  "essais": 1
+ },
+ "anc_suisse/berne_geneve_1919.html": {
+  "essais": 1
+ },
+ "anc_suisse/berne_geneve_1927.html": {
+  "essais": 1
+ },
+ "anc_suisse/berne_geneve_1928.html": {
+  "essais": 1
+ },
+ "anc_suisse/berne_geneve_1940.html": {
+  "essais": 1
+ },
+ "anc_suisse/berne_geneve_1959.html": {
+  "essais": 1
+ },
+ "anc_suisse/berne_geneve_1960.html": {
+  "essais": 1
+ },
+ "anc_suisse/berne_geneve_1961.html": {
+  "essais": 1
+ },
+ "anc_suisse/berne_zurich_1917.html": {
   "essais": 1
  },
  "chp_monde/mondial_amateur_1921.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1922.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1923.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1924.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1925.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1926.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1927.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1928.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1929.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1930.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1931.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1932.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1933.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1934.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1935.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1936.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1937.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1938.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1946.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1947.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1948.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1949.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1950.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1951.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1952.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1953.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1954.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1955.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1956.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1957.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1958.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1959.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1960.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1961.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1962.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1963.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1964.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1965.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1966.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1967.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1968.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1969.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1970.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1971.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1973.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1974.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1975.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1977.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1978.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1979.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1980.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1981.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1982.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1983.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1985.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1986.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1987.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1989.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1990.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1991.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1993.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1994.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/mondial_amateur_1995.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/olymp1972r.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/olymp1976r.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/olymp1984r.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/olymp1988r.html": {
-  "essais": 1
+  "essais": 2
  },
  "chp_monde/olymp1992r.html": {
+  "essais": 2
+ },
+ "disparues/anc_belfort_strasbourg.html": {
   "essais": 1
  }
 }
