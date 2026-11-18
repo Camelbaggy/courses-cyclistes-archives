@@ -1,0 +1,43 @@
+name: Battement (veille auto-entretenue)
+
+# GitHub saute la plupart des crons, mais jamais les workflow_dispatch. Ce workflow est donc un « battement » : un job de ~330 min
+# qui, toutes les 10 min, exécute les contrôles de veille.yml (archives.yml, wikidata.yml : .github/scripts/veille.sh) et relance
+# les 4 collectes de sources (thesports, mdc, cqranking, museo) dont la chaîne d'auto-relance s'est arrêtée (etat.json publié
+# « termine: false », aucun passage en file ou en cours, dernier passage terminé depuis >= 60 min : relances_sources.sh).
+# Au bout de ~330 min, il se relance lui-même (workflow_dispatch) puis se termine ; la concurrence (groupe battement, sans
+# annulation) place le suivant en attente jusqu'à la fin de celui-ci. Un autre battement déjà en cours à l'arrivée : sortie.
+# Secours : veille.yml (cron) relance battement.yml s'il n'est ni en file ni en cours. Lecture de la liste des exécutions et
+# déclenchements seulement (jeton du dépôt).
+on:
+  workflow_dispatch:
+
+permissions:
+  actions: write
+  contents: read
+
+concurrency:
+  group: battement
+  cancel-in-progress: false
+
+jobs:
+  battement:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - name: Checkout des scripts (dépôt d'archives)
+        uses: actions/checkout@v4
+        with:
+          sparse-checkout: .github/scripts
+      - name: Checkout du dépôt principal (code et Calendrier)
+        uses: actions/checkout@v4
+        with:
+          repository: Camelbaggy/courses-cyclistes
+          ref: main
+          path: code
+      - name: Battement
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          SAISONS: ${{ vars.ARCHIVES_SAISONS || '2009-2025' }}
+          CODE_DIR: code
+        run: bash .github/scripts/battement.sh

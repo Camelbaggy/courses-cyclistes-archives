@@ -8,6 +8,8 @@ name: Veille (relance des passages sautés)
 #   - wikidata.yml si aucun passage n'a démarré depuis 8 jours (le cron du dimanche a été sauté).
 # Rien n'est relancé si un passage du même workflow est en file ou en cours. Aucun accès aux données : lecture de la liste
 # des exécutions et déclenchement seulement (jeton du dépôt).
+# Les contrôles sont dans .github/scripts/veille.sh, partagé avec battement.yml (qui les exécute toutes les 10 min : ce cron
+# n'est que le secours). En plus : relance battement.yml s'il n'est ni en file ni en cours.
 on:
   schedule:
     - cron: '47 * * * *'
@@ -26,6 +28,10 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
+      - name: Checkout des scripts (dépôt d'archives)
+        uses: actions/checkout@v4
+        with:
+          sparse-checkout: .github/scripts
       - name: Checkout du dépôt principal (code et Calendrier)
         uses: actions/checkout@v4
         with:
@@ -37,42 +43,11 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           REPO: ${{ github.repository }}
           SAISONS: ${{ vars.ARCHIVES_SAISONS || '2009-2025' }}
-        run: |
-          set -u
-          maintenant=$(date -u +%s)
-          heure=$((10#$(date -u +%H)))
-          # « non » seulement si le Calendrier montre l'intersaison ; toute autre sortie (erreur comprise) : prudence
-          courses=$(cd code && python3 -c "import collector; print('oui' if collector.periode_de_courses_depuis() else 'non')" 2>/dev/null || echo oui)
-          echo "[VEILLE] période de courses : $courses"
-          # saisons demandées encore incomplètes, d'après l'index publié (vide = tout est complet ; « inconnu » si illisible)
-          incompletes=$(curl -sf "https://camelbaggy.github.io/courses-cyclistes-archives/data/archives/index.json" | (cd code && python3 -c "
-          import json, sys
-          from run_pipeline import parse_saisons
-          d = json.load(sys.stdin)
-          ok = {s['season'] for s in d.get('seasons', []) if s.get('complete')}
-          print(','.join(str(a) for a in parse_saisons(sys.argv[1]) if a not in ok))
-          " "$SAISONS") || echo inconnu)
-          echo "[VEILLE] saisons d'archives incomplètes : ${incompletes:-aucune}"
-          # intersaison avec des saisons à collecter : relance dès 1 h sans passage (chaîne de relances cassée) ; sinon 20 h
-          if [ "$courses" = "non" ] && [ -n "$incompletes" ]; then age_archives=1; else age_archives=20; fi
-          # relancer <workflow> <âge maximal en heures> <fenêtre nocturne : oui|non>
-          relancer() {
-            wf="$1"; age_max=$2; nuit="$3"
-            en_cours=$(gh run list --repo "$REPO" --workflow "$wf" --limit 20 --json status \
-                         --jq '[.[] | select(.status != "completed")] | length')
-            if [ "${en_cours:-0}" != "0" ]; then echo "[VEILLE] $wf : un passage est en file ou en cours, rien à faire"; return; fi
-            dernier=$(gh run list --repo "$REPO" --workflow "$wf" --limit 1 --json createdAt --jq '.[0].createdAt // ""')
-            if [ -n "$dernier" ]; then
-              age=$(( (maintenant - $(date -u -d "$dernier" +%s)) / 3600 ))
-            else
-              age=999999
-            fi
-            if [ "$age" -lt "$age_max" ]; then echo "[VEILLE] $wf : dernier passage il y a ${age} h (< ${age_max} h), rien à faire"; return; fi
-            if [ "$nuit" = "oui" ] && [ "$courses" != "non" ] && [ "$heure" -ge 11 ] && [ "$heure" -lt 23 ]; then
-              echo "[VEILLE] $wf : dernier passage il y a ${age} h, mais il est ${heure} h UTC (créneau d'update.yml) : relance à partir de 23 h"; return
-            fi
-            echo "[VEILLE] $wf : dernier passage il y a ${age} h (>= ${age_max} h) : relance"
-            gh workflow run "$wf" --repo "$REPO" --ref "${GITHUB_REF_NAME:-main}"
-          }
-          relancer archives.yml "$age_archives" oui
-          relancer wikidata.yml 192 non
+          CODE_DIR: code
+        run: bash .github/scripts/veille.sh
+      - name: Relance du battement s'il ne tourne pas
+        if: ${{ !cancelled() }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+        run: bash .github/scripts/relance_battement.sh
