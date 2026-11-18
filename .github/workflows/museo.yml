@@ -1,8 +1,9 @@
 name: Museo del Ciclismo (classements avant 2009)
 
 # Collecte du Museo del Ciclismo (museociclismo.it ; accord obtenu par le propriétaire, 18/11/2026, crédit « Museo del Ciclismo ») :
-# classements d'avant 2009 des courses SUIVIES par le projet (--suivies : clés de series_historiques.json ; le site ne distingue pas
-# pros / amateurs par course), puis fiches coureurs (naissance). Écrit data/archives/sources/museo/ SEUL. Code : museo.py du dépôt
+# classements d'avant 2009 selon la sélection élargie (--selection, décision du propriétaire du 18/11/2026 : épreuves de notre index,
+# championnats, courses du calendrier CQ Ranking 1999-2008 en France ou avec un Français dans le top 10 ; selection.json), puis listes
+# « professionisti » (dates de naissance) au lieu des fiches coureurs. Écrit data/archives/sources/museo/ SEUL. Code : museo.py du dépôt
 # Camelbaggy/courses-cyclistes (main). >= 3,2 s entre requêtes. Se relance tant que etat.json annonce du travail ET que le passage progresse.
 on:
   schedule:
@@ -50,7 +51,7 @@ jobs:
           echo "Budget : ${BUDGET} min"
           echo "BUDGET=$BUDGET" >> "$GITHUB_ENV"
           cd code
-          timeout $((BUDGET + 10))m python museo.py --suivies --sortie "$GITHUB_WORKSPACE/archives/data/archives/sources/museo" --budget-min "$BUDGET"
+          timeout $((BUDGET + 10))m python museo.py --selection --archives "$GITHUB_WORKSPACE/archives/data/archives" --sortie "$GITHUB_WORKSPACE/archives/data/archives/sources/museo" --budget-min "$BUDGET" --sans-fiches --listes-coureurs professionisti
       - name: Commit des résultats
         # même si la collecte a échoué ou dépassé le délai : ce qui est écrit (fichiers écrits au fil de l'eau) est conservé
         if: ${{ !cancelled() }}
