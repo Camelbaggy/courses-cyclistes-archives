@@ -34,9 +34,13 @@ Exemple : `https://camelbaggy.github.io/courses-cyclistes-archives/data/archives
 - Une saison `complete` n'est plus recollectée (sauf révision ciblée des temps illisibles).
 - Les saisons N-2 et plus anciennes quittent le Calendrier du dépôt principal pour arriver ici ; le dépôt principal
   retire alors ses propres fichiers de la saison, une fois qu'elle figure ici avec `complete: true`.
+- `thesports.yml` (cron quotidien d'amorce + auto-relance, groupe `thesports-data`) collecte sur the-sports.org (accord de
+  l'éditeur, crédit « the-sports.org ») les résultats des courses sur route hommes d'avant 2009 et les fiches de leurs coureurs
+  (date de naissance) : il n'écrit que `data/archives/sources/thesports/` (`courses.json`, `editions/`, `coureurs.json`,
+  `etat.json`, `cache/`).
 - Ne jamais modifier `data/` à la main.
 
 ## Source et licence
 
-Source : UCI DataRide (résultats officiels). Classement UCI : pages publiques DataRide. Les données sont reproduites à
+Source : UCI DataRide (résultats officiels) ; avant 2009, the-sports.org (`sources/thesports/`). Classement UCI : pages publiques DataRide. Les données sont reproduites à
 titre d'information pour le dashboard ; voir le dépôt principal pour les sources et conditions d'usage.
