@@ -30,249 +30,1767 @@
   "essais": 2
  },
  "amateurs/vietto_gianello.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_belgique/3_provinces_lauwe_1947.html": {
+  "essais": 2
+ },
+ "anc_belgique/circ_3p_avelgem_1947.html": {
+  "essais": 1
+ },
+ "anc_belgique/circ_3p_avelgem_1948.html": {
+  "essais": 1
+ },
+ "anc_belgique/circ_3p_avelgem_1949.html": {
+  "essais": 1
+ },
+ "anc_belgique/circ_3p_avelgem_1950.html": {
+  "essais": 1
+ },
+ "anc_belgique/circ_3p_avelgem_1951.html": {
+  "essais": 1
+ },
+ "anc_belgique/circ_3p_avelgem_1952.html": {
+  "essais": 1
+ },
+ "anc_belgique/circ_3p_avelgem_1953.html": {
+  "essais": 1
+ },
+ "anc_belgique/circ_3p_avelgem_1954.html": {
+  "essais": 1
+ },
+ "anc_belgique/circ_3p_avelgem_1955.html": {
+  "essais": 1
+ },
+ "anc_belgique/circ_3p_avelgem_1956.html": {
+  "essais": 1
+ },
+ "anc_belgique/circ_3p_avelgem_1957.html": {
+  "essais": 1
+ },
+ "anc_belgique/circ_3p_avelgem_1958.html": {
+  "essais": 1
+ },
+ "anc_belgique/circ_3p_avelgem_1959.html": {
+  "essais": 1
+ },
+ "anc_belgique/circ_3p_avelgem_1960.html": {
+  "essais": 1
+ },
+ "anc_belgique/circ_3p_avelgem_1961.html": {
+  "essais": 1
+ },
+ "anc_belgique/circ_3p_avelgem_1962.html": {
+  "essais": 1
+ },
+ "anc_belgique/circ_3p_avelgem_1963.html": {
+  "essais": 1
+ },
+ "anc_belgique/circ_3p_avelgem_1964.html": {
+  "essais": 1
+ },
+ "anc_belgique/circ_3p_avelgem_1965.html": {
+  "essais": 1
+ },
+ "anc_belgique/circ_3p_avelgem_1966.html": {
+  "essais": 1
+ },
+ "anc_belgique/circ_3p_avelgem_1967.html": {
+  "essais": 1
+ },
+ "anc_belgique/circ_3p_avelgem_1968.html": {
+  "essais": 1
+ },
+ "anc_belgique/circ_3p_avelgem_1969.html": {
+  "essais": 1
+ },
+ "anc_belgique/circ_3p_avelgem_1970.html": {
+  "essais": 1
+ },
+ "anc_belgique/circ_3p_avelgem_1971.html": {
+  "essais": 1
+ },
+ "anc_belgique/circ_3p_avelgem_1972.html": {
+  "essais": 1
+ },
+ "anc_belgique/circ_3p_avelgem_1973.html": {
+  "essais": 1
+ },
+ "anc_belgique/circ_3p_avelgem_1974.html": {
+  "essais": 1
+ },
+ "anc_belgique/circ_3p_avelgem_1975.html": {
+  "essais": 1
+ },
+ "anc_belgique/circ_3p_avelgem_1976.html": {
+  "essais": 1
+ },
+ "anc_belgique/circ_3p_avelgem_1977.html": {
+  "essais": 1
+ },
+ "anc_belgique/circ_3p_avelgem_1978.html": {
+  "essais": 1
+ },
+ "anc_belgique/circ_3p_avelgem_1979.html": {
+  "essais": 1
+ },
+ "anc_belgique/circ_3p_avelgem_1980.html": {
+  "essais": 1
+ },
+ "anc_belgique/circ_3p_avelgem_1981.html": {
+  "essais": 1
+ },
+ "anc_belgique/circ_3p_avelgem_1982.html": {
+  "essais": 1
+ },
+ "anc_belgique/circuit_brecht_1977.html": {
+  "essais": 1
+ },
+ "anc_belgique/circuit_brecht_1978.html": {
+  "essais": 1
+ },
+ "anc_belgique/circuit_brecht_1979.html": {
+  "essais": 1
+ },
+ "anc_belgique/circuit_brecht_1980.html": {
+  "essais": 1
+ },
+ "anc_belgique/circuit_brecht_1981.html": {
   "essais": 1
  },
  "anc_belgique/gp_betekom_1962.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_belgique/gp_betekom_1963.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_belgique/gp_betekom_1965.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_belgique/gp_betekom_1966.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_belgique/gp_betekom_1968.html": {
+  "essais": 2
+ },
+ "anc_belgique/gp_brabant_wallon_1948.html": {
+  "essais": 1
+ },
+ "anc_belgique/gp_brabant_wallon_1950.html": {
+  "essais": 1
+ },
+ "anc_belgique/gp_brabant_wallon_1951.html": {
+  "essais": 1
+ },
+ "anc_belgique/gp_brabant_wallon_1953.html": {
+  "essais": 1
+ },
+ "anc_belgique/gp_brabant_wallon_1954.html": {
+  "essais": 1
+ },
+ "anc_belgique/gp_brabant_wallon_1955.html": {
+  "essais": 1
+ },
+ "anc_belgique/gp_brabant_wallon_1956.html": {
+  "essais": 1
+ },
+ "anc_belgique/gp_brabant_wallon_1957.html": {
+  "essais": 1
+ },
+ "anc_belgique/gp_brabant_wallon_1958.html": {
+  "essais": 1
+ },
+ "anc_belgique/gp_brabant_wallon_1960.html": {
+  "essais": 1
+ },
+ "anc_belgique/gp_brabant_wallon_1962.html": {
+  "essais": 1
+ },
+ "anc_belgique/gp_burst_1963.html": {
+  "essais": 1
+ },
+ "anc_belgique/gp_burst_1964.html": {
+  "essais": 1
+ },
+ "anc_belgique/gp_burst_1965.html": {
+  "essais": 1
+ },
+ "anc_belgique/gp_burst_1966.html": {
+  "essais": 1
+ },
+ "anc_belgique/gp_burst_1967.html": {
   "essais": 1
  },
  "anc_belgique/gp_e5_1971.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_belgique/gp_e5_1972.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_belgique/gp_e5_1973.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_belgique/gp_e5_1974.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_belgique/gp_e5_1975.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_belgique/gp_e5_1976.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_belgique/gp_e5_1977.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_belgique/gp_e5_1979.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_belgique/gp_e5_1980.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_belgique/gp_e5_1981.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_belgique/gp_e5_1982.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_belgique/gp_e5_1983.html": {
+  "essais": 2
+ },
+ "anc_belgique/wattrelos_meulebeke_1975.html": {
   "essais": 1
  },
  "anc_espagne/3cantos_1985.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_espagne/3cantos_1986.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_espagne/3cantos_1987.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_espagne/3cantos_1988.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_espagne/3cantos_1989.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_espagne/bayonne_bilbao_1962.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_espagne/bilbao_balmaseda_1893.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_espagne/bilbao_munguia_bilbao_1912.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_espagne/bilbao_sanseb_bilbao_1938.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_espagne/bilbao_santander_1903.html": {
+  "essais": 2
+ },
+ "anc_espagne/campeonato_barcelona_1918.html": {
+  "essais": 1
+ },
+ "anc_espagne/campeonato_barcelona_1925.html": {
+  "essais": 1
+ },
+ "anc_espagne/campeonato_barcelona_1927.html": {
+  "essais": 1
+ },
+ "anc_espagne/campeonato_barcelona_1928.html": {
+  "essais": 1
+ },
+ "anc_espagne/campeonato_barcelona_1929.html": {
+  "essais": 1
+ },
+ "anc_espagne/campeonato_barcelona_1930.html": {
+  "essais": 1
+ },
+ "anc_espagne/campeonato_barcelona_1931.html": {
+  "essais": 1
+ },
+ "anc_espagne/campeonato_barcelona_1932.html": {
+  "essais": 1
+ },
+ "anc_espagne/campeonato_barcelona_1934.html": {
+  "essais": 1
+ },
+ "anc_espagne/campeonato_barcelona_1935.html": {
+  "essais": 1
+ },
+ "anc_espagne/campeonato_barcelona_1940.html": {
+  "essais": 1
+ },
+ "anc_espagne/campeonato_barcelona_1942.html": {
+  "essais": 1
+ },
+ "anc_espagne/campeonato_barcelona_1943.html": {
+  "essais": 1
+ },
+ "anc_espagne/campeonato_barcelona_1944.html": {
+  "essais": 1
+ },
+ "anc_espagne/campeonato_barcelona_1945.html": {
+  "essais": 1
+ },
+ "anc_espagne/campeonato_barcelona_1946.html": {
+  "essais": 1
+ },
+ "anc_espagne/campeonato_barcelona_1947.html": {
+  "essais": 1
+ },
+ "anc_espagne/campeonato_barcelona_1948.html": {
+  "essais": 1
+ },
+ "anc_espagne/campeonato_barcelona_1949.html": {
+  "essais": 1
+ },
+ "anc_espagne/campeonato_barcelona_1950.html": {
+  "essais": 1
+ },
+ "anc_espagne/campeonato_barcelona_1951.html": {
+  "essais": 1
+ },
+ "anc_espagne/campeonato_barcelona_1952.html": {
+  "essais": 1
+ },
+ "anc_espagne/campeonato_barcelona_1953.html": {
+  "essais": 1
+ },
+ "anc_espagne/campeonato_barcelona_1954.html": {
+  "essais": 1
+ },
+ "anc_espagne/campeonato_barcelona_1955.html": {
+  "essais": 1
+ },
+ "anc_espagne/campeonato_barcelona_1956.html": {
+  "essais": 1
+ },
+ "anc_espagne/campeonato_barcelona_1957.html": {
+  "essais": 1
+ },
+ "anc_espagne/campeonato_barcelona_1958.html": {
+  "essais": 1
+ },
+ "anc_espagne/campeonato_barcelona_1959.html": {
+  "essais": 1
+ },
+ "anc_espagne/carrera_nacional_burgos_1925.html": {
+  "essais": 1
+ },
+ "anc_espagne/carrera_nacional_burgos_1926.html": {
+  "essais": 1
+ },
+ "anc_espagne/carrera_nacional_burgos_1927.html": {
+  "essais": 1
+ },
+ "anc_espagne/carrera_nacional_burgos_1928.html": {
+  "essais": 1
+ },
+ "anc_espagne/carrera_nacional_burgos_1929.html": {
+  "essais": 1
+ },
+ "anc_espagne/carrera_nacional_burgos_1930.html": {
+  "essais": 1
+ },
+ "anc_espagne/carrera_nacional_burgos_1931.html": {
+  "essais": 1
+ },
+ "anc_espagne/carrera_nacional_burgos_1932.html": {
+  "essais": 1
+ },
+ "anc_espagne/carrera_nacional_burgos_1933.html": {
+  "essais": 1
+ },
+ "anc_espagne/carrera_nacional_burgos_1934.html": {
+  "essais": 1
+ },
+ "anc_espagne/carrera_nacional_burgos_1935.html": {
+  "essais": 1
+ },
+ "anc_espagne/carrera_nacional_burgos_1936.html": {
+  "essais": 1
+ },
+ "anc_espagne/carrera_nacional_burgos_1941.html": {
+  "essais": 1
+ },
+ "anc_espagne/carrera_nacional_burgos_1943.html": {
+  "essais": 1
+ },
+ "anc_europe/brighton_glasgow_1945.html": {
+  "essais": 1
+ },
+ "anc_europe/brighton_glasgow_1946.html": {
+  "essais": 1
+ },
+ "anc_europe/brighton_glasgow_1947.html": {
+  "essais": 1
+ },
+ "anc_europe/brux_lux_mon_1913.html": {
+  "essais": 1
+ },
+ "anc_europe/brux_lux_mon_1921.html": {
+  "essais": 1
+ },
+ "anc_europe/brux_lux_mon_1922.html": {
+  "essais": 1
+ },
+ "anc_europe/brux_lux_mon_1923.html": {
+  "essais": 1
+ },
+ "anc_europe/brux_lux_mon_1924.html": {
+  "essais": 1
+ },
+ "anc_europe/brux_lux_mon_1925.html": {
+  "essais": 1
+ },
+ "anc_europe/brux_lux_mon_1926.html": {
+  "essais": 1
+ },
+ "anc_europe/brux_lux_mon_1927.html": {
+  "essais": 1
+ },
+ "anc_europe/brux_lux_mon_1928.html": {
+  "essais": 1
+ },
+ "anc_europe/brux_lux_mon_1932.html": {
+  "essais": 1
+ },
+ "anc_europe/brux_lux_mon_1934.html": {
+  "essais": 1
+ },
+ "anc_europe/brux_lux_mon_1939.html": {
+  "essais": 1
+ },
+ "anc_europe/brux_lux_mon_1950.html": {
   "essais": 1
  },
  "anc_france_cla/bastia_ajaccio_1946.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_france_cla/bocage_normand_1930.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_france_cla/bocage_normand_1931.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_france_cla/bocage_normand_1932.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_france_cla/bocage_normand_1933.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_france_cla/bocage_normand_1934.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_france_cla/bordeaux_angely_1936.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_france_cla/bordeaux_angouleme_1934.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_france_cla/bordeaux_angouleme_1935.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_france_cla/bordeaux_angouleme_1936.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_france_cla/bordeaux_angouleme_1937.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_france_cla/bordeaux_angouleme_1938.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_france_cla/bordeaux_angouleme_1939.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_france_cla/bordeaux_angouleme_1941.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_france_cla/bordeaux_angouleme_1942.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_france_cla/bordeaux_angouleme_1943.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_france_cla/bordeaux_mussidan_1901.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_france_cla/bordeaux_paris1891.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_france_cla/bordeaux_paris1892.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_france_cla/bordeaux_paris1893.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_france_cla/bordeaux_paris1894.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_france_cla/bordeaux_paris1895.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_france_cla/bordeaux_paris1896.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_france_cla/bordeaux_paris1897.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_france_cla/bordeaux_paris1898.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_france_cla/bordeaux_paris1899.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_france_cla/bordeaux_paris1900.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_france_cla/bordeaux_paris1901.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_france_cla/bordeaux_paris1903.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_france_cla/bordeaux_paris1904.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_france_cla/bordeaux_paris1905.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_france_cla/bordeaux_paris1906.html": {
+  "essais": 2
+ },
+ "anc_france_cla/bordeaux_paris1907.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1908.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1909.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1910.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1911.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1912.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1913.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1914.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1919.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1920.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1921.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1922.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1923.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1924.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1925.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1926.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1927.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1928.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1929.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1930.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1931.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1932.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1933.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1934.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1935.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1936.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1937.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1938.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1939.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1946.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1947.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1948.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1949.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1950.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1951.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1952.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1953.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1954.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1956.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1957.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1958.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1959.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1960.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1961.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1962.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1963.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1964.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1965.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1966.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1967.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1968.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1969.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1970.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1973.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1974.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1975.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1976.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1977.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1978.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1979.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1980.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1981.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1982.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1983.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1984.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1985.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1986.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1987.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris1988.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_paris_bordeaux_1920.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_pau1938.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_pau1939.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bordeaux_toulouse_1908.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_pertuis_1964.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_pertuis_1965.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_pertuis_1967.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_roquevairoises_1958.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_roquevairoises_1959.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_roquevairoises_1960.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_roquevairoises_1961.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_roquevairoises_1962.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_roquevairoises_1963.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_roquevairoises_1964.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_seine_1945.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_seine_1946.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_seine_1947.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_seine_1948.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_seine_1949.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_seine_1950.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_seine_1951.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_seine_1952.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_seine_1953.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_seine_1954.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_seine_1955.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_seine_1956.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_seine_1957.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_seine_1958.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_seine_1959.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_seine_1960.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_seine_1961.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_seine_1962.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_seine_1964.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_seine_1965.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_seine_1966.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_seine_1967.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_seine_1969.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_seine_1970.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_seine_1971.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_seine_1973.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_sospel_1922.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_sospel_1923.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_sospel_1924.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_sospel_1925.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_sospel_1926.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_sospel_1927.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_sospel_1928.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_sospel_1929.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_sospel_1930.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_sospel_1931.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_sospel_1932.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_sospel_1933.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_sospel_1934.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_sospel_1935.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_sospel_1936.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_sospel_1937.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_sospel_1938.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_sospel_1939.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_sospel_1941.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_sospel_1942.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_sospel_1943.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_sospel_1947.html": {
+  "essais": 1
+ },
+ "anc_france_cla/boucles_stdenis_1998.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bourg_geneve_bourg_1933.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bourg_geneve_bourg_1934.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bourg_geneve_bourg_1935.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bourg_geneve_bourg_1936.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bourg_geneve_bourg_1937.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bourg_geneve_bourg_1938.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bourg_geneve_bourg_1939.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bourg_geneve_bourg_1947.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bourg_geneve_bourg_1948.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bourg_geneve_bourg_1949.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bourg_geneve_bourg_1950.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bourg_geneve_bourg_1951.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bourg_geneve_bourg_1952.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bourg_geneve_bourg_1953.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bourg_geneve_bourg_1954.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bourg_geneve_bourg_1955.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bourg_geneve_bourg_1956.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bourg_geneve_bourg_1957.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bourg_geneve_bourg_1958.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bourg_geneve_bourg_1959.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bourg_geneve_bourg_1960.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bruxelles_maubeuge_1925.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bruxelles_paris_1924.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bruxelles_paris_1925.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bruxelles_paris_1926.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bruxelles_paris_1927.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bruxelles_paris_1928.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bruxelles_paris_1929.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bruxelles_paris_1943.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bruxelles_roubaix_1901.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bruxelles_roubaix_1905.html": {
+  "essais": 1
+ },
+ "anc_france_cla/bruxelles_roubaix_1910.html": {
+  "essais": 1
+ },
+ "anc_france_cla/cannes_monaco_cannes_1894.html": {
+  "essais": 1
+ },
+ "anc_france_cla/catox1949.html": {
+  "essais": 1
+ },
+ "anc_france_cla/catox1950.html": {
+  "essais": 1
+ },
+ "anc_france_cla/catox1951.html": {
+  "essais": 1
+ },
+ "anc_france_cla/catox1952.html": {
+  "essais": 1
+ },
+ "anc_france_cla/catox1953.html": {
+  "essais": 1
+ },
+ "anc_france_cla/catox1954.html": {
+  "essais": 1
+ },
+ "anc_france_cla/catox1955.html": {
+  "essais": 1
+ },
+ "anc_france_cla/catox1956.html": {
+  "essais": 1
+ },
+ "anc_france_cla/challenge_sigrand_1922.html": {
+  "essais": 1
+ },
+ "anc_france_cla/challenge_sigrand_1923.html": {
+  "essais": 1
+ },
+ "anc_france_cla/challenge_sigrand_1924.html": {
+  "essais": 1
+ },
+ "anc_france_cla/challenge_sigrand_1925.html": {
+  "essais": 1
+ },
+ "anc_france_cla/challenge_sigrand_1926.html": {
+  "essais": 1
+ },
+ "anc_france_cla/challenge_sigrand_1927.html": {
+  "essais": 1
+ },
+ "anc_france_cla/challenge_sigrand_1928.html": {
+  "essais": 1
+ },
+ "anc_france_cla/challenge_sigrand_1929.html": {
+  "essais": 1
+ },
+ "anc_france_cla/challenge_sigrand_1930.html": {
+  "essais": 1
+ },
+ "anc_france_cla/challenge_sigrand_1931.html": {
+  "essais": 1
+ },
+ "anc_france_cla/challenge_sigrand_brest_1927.html": {
+  "essais": 1
+ },
+ "anc_france_cla/challenge_sigrand_brest_1928.html": {
+  "essais": 1
+ },
+ "anc_france_cla/challenge_sigrand_brest_1929.html": {
+  "essais": 1
+ },
+ "anc_france_cla/challenge_sigrand_brest_1930.html": {
+  "essais": 1
+ },
+ "anc_france_cla/challenge_sigrand_brest_1931.html": {
+  "essais": 1
+ },
+ "anc_france_cla/challenge_sigrand_brest_1933.html": {
+  "essais": 1
+ },
+ "anc_france_cla/challenge_sigrand_rochefort_1927.html": {
+  "essais": 1
+ },
+ "anc_france_cla/challenge_sigrand_rochefort_1928.html": {
+  "essais": 1
+ },
+ "anc_france_cla/challenge_sigrand_rochefort_1929.html": {
+  "essais": 1
+ },
+ "anc_france_cla/challenge_sigrand_rochefort_1930.html": {
+  "essais": 1
+ },
+ "anc_france_cla/challenge_sigrand_rochefort_1931.html": {
+  "essais": 1
+ },
+ "anc_france_cla/chat_limoges1980.html": {
+  "essais": 1
+ },
+ "anc_france_cla/chat_limoges1981.html": {
+  "essais": 1
+ },
+ "anc_france_cla/chat_limoges1982.html": {
+  "essais": 1
+ },
+ "anc_france_cla/chat_limoges1983.html": {
+  "essais": 1
+ },
+ "anc_france_cla/chat_limoges1984.html": {
+  "essais": 1
+ },
+ "anc_france_cla/chat_limoges1985.html": {
+  "essais": 1
+ },
+ "anc_france_cla/chat_limoges1986.html": {
+  "essais": 1
+ },
+ "anc_france_cla/chat_limoges1987.html": {
+  "essais": 1
+ },
+ "anc_france_cla/chat_limoges1988.html": {
+  "essais": 1
+ },
+ "anc_france_cla/chat_limoges1989.html": {
+  "essais": 1
+ },
+ "anc_france_cla/chat_limoges1990.html": {
+  "essais": 1
+ },
+ "anc_france_cla/chat_mans_chat_1923.html": {
+  "essais": 1
+ },
+ "anc_france_cla/choisy_tours_choisy_1893.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circ_2sevres_1933.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circ_2sevres_1934.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circ_2sevres_1935.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circ_2sevres_1936.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circ_2sevres_1937.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circ_2sevres_1938.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circ_2sevres_1939.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circ_3lacs1928.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circ_3lacs1929.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circ_3lacs1949.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circ_ain_minaret_1947.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circ_ain_minaret_1953.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circ_ain_minaret_1954.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circ_ain_minaret_1955.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circ_ain_minaret_1956.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circ_aisne_oise_1921.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circ_alencon_1921.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circ_alencon_1922.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circ_alencon_1923.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circ_alencon_1924.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circ_alencon_1925.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circ_alencon_1926.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circuit_allier_1921.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circuit_allier_1922.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circuit_allier_1923.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circuit_allier_1924.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circuit_allier_1925.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circuit_allier_1926.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circuit_allier_1927.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circuit_allier_1928.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circuit_allier_1929.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circuit_allier_1930.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circuit_allier_1931.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circuit_allier_1932.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circuit_allier_1933.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circuit_allier_1934.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circuit_allier_1935.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circuit_allier_1936.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circuit_cantal_1922.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circuit_cantal_1923.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circuit_cantal_1924.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circuit_cantal_1925.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circuit_cantal_1926.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circuit_cantal_1927.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circuit_cantal_1928.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circuit_cantal_1929.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circuit_cantal_1930.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circuit_cantal_1931.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circuit_cantal_1932.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circuit_cantal_1933.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circuit_cantal_1934.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circuit_cantal_1935.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circuit_cantal_1936.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circuit_cantal_1937.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circuit_cantal_1938.html": {
+  "essais": 1
+ },
+ "anc_france_cla/circuit_cantal_1939.html": {
+  "essais": 1
+ },
+ "anc_france_cla/gp_cannes_1926.html": {
+  "essais": 1
+ },
+ "anc_france_cla/gp_cannes_1927.html": {
+  "essais": 1
+ },
+ "anc_france_cla/gp_cannes_1928.html": {
+  "essais": 1
+ },
+ "anc_france_cla/gp_cannes_1929.html": {
+  "essais": 1
+ },
+ "anc_france_cla/gp_cannes_1930.html": {
+  "essais": 1
+ },
+ "anc_france_cla/gp_cannes_1931.html": {
+  "essais": 1
+ },
+ "anc_france_cla/gp_cannes_1932.html": {
+  "essais": 1
+ },
+ "anc_france_cla/gp_cannes_1933.html": {
+  "essais": 1
+ },
+ "anc_france_cla/gp_cannes_1934.html": {
+  "essais": 1
+ },
+ "anc_france_cla/gp_cannes_1935.html": {
+  "essais": 1
+ },
+ "anc_france_cla/gp_cannes_1936.html": {
+  "essais": 1
+ },
+ "anc_france_cla/gp_cannes_1937.html": {
+  "essais": 1
+ },
+ "anc_france_cla/gp_cannes_1938.html": {
+  "essais": 1
+ },
+ "anc_france_cla/gp_cannes_1939.html": {
+  "essais": 1
+ },
+ "anc_france_cla/gp_cannes_1941.html": {
+  "essais": 1
+ },
+ "anc_france_cla/gp_cannes_1942.html": {
+  "essais": 1
+ },
+ "anc_france_cla/gp_cannes_1946.html": {
+  "essais": 1
+ },
+ "anc_france_cla/gp_cannes_1947.html": {
+  "essais": 1
+ },
+ "anc_france_cla/gp_cannes_1948.html": {
+  "essais": 1
+ },
+ "anc_france_cla/gp_cannes_1949.html": {
+  "essais": 1
+ },
+ "anc_france_cla/gp_cannes_1950.html": {
+  "essais": 1
+ },
+ "anc_france_cla/gp_cannes_1951.html": {
+  "essais": 1
+ },
+ "anc_france_cla/gp_cannes_1952.html": {
+  "essais": 1
+ },
+ "anc_france_cla/gp_cannes_1953.html": {
+  "essais": 1
+ },
+ "anc_france_cla/gp_cannes_1954.html": {
+  "essais": 1
+ },
+ "anc_france_cla/gp_cannes_1955.html": {
+  "essais": 1
+ },
+ "anc_france_cla/gp_cannes_1956.html": {
+  "essais": 1
+ },
+ "anc_france_cla/gp_cannes_1957.html": {
+  "essais": 1
+ },
+ "anc_france_cla/gp_cannes_1963.html": {
+  "essais": 1
+ },
+ "anc_france_cla/gp_cannes_1964.html": {
+  "essais": 1
+ },
+ "anc_france_cla/gp_cannes_1965.html": {
+  "essais": 1
+ },
+ "anc_france_cla/gp_cannes_1966.html": {
+  "essais": 1
+ },
+ "anc_france_cla/gp_cannes_1981.html": {
+  "essais": 1
+ },
+ "anc_france_cla/gp_cannes_1991.html": {
   "essais": 1
  },
  "anc_france_eta/3j_cyclistes_avenir_1929.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_france_eta/aiglons_1932.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_france_eta/bordeaux_marseille_1923.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_france_eta/bordeaux_marseille_1924.html": {
+  "essais": 2
+ },
+ "anc_france_eta/boucles_gartempe_1950.html": {
+  "essais": 1
+ },
+ "anc_france_eta/boucles_gartempe_1951.html": {
+  "essais": 1
+ },
+ "anc_france_eta/boucles_gartempe_1953.html": {
+  "essais": 1
+ },
+ "anc_france_eta/capbreton_hossegor_1952.html": {
+  "essais": 1
+ },
+ "anc_france_eta/champs1919.html": {
   "essais": 1
  },
  "anc_italie/3capitales_1911.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_italie/belmonte_piceno_1951.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_italie/belmonte_piceno_1952.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_italie/bolzano_trento_1952.html": {
+  "essais": 2
+ },
+ "anc_italie/brescia_milano_pallanza_1906.html": {
+  "essais": 1
+ },
+ "anc_italie/calabria1988.html": {
+  "essais": 1
+ },
+ "anc_italie/calabria1989.html": {
+  "essais": 1
+ },
+ "anc_italie/calabria1990.html": {
+  "essais": 1
+ },
+ "anc_italie/calabria1996.html": {
+  "essais": 1
+ },
+ "anc_italie/calabria1998.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1922.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1926.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1929.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1931.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1932.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1934.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1935.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1938.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1939.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1940.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1941.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1942.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1945.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1948.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1950.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1952.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1953.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1954.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1955.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1956.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1957.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1958.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1959.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1960.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1961.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1962.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1963.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1964.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1965.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1966.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1967.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1968.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1969.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1970.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1971.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1972.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1974.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1975.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1976.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1977.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1978.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1979.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1980.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1981.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1982.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1983.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1984.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1985.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1986.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1987.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1988.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1989.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1990.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1991.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1992.html": {
+  "essais": 1
+ },
+ "anc_italie/campania1993.html": {
+  "essais": 1
+ },
+ "anc_italie/campania2000.html": {
+  "essais": 1
+ },
+ "anc_italie/campania2001.html": {
+  "essais": 1
+ },
+ "anc_italie/castellanza_macugnaga_1934.html": {
+  "essais": 1
+ },
+ "anc_italie/catene_regina_1934.html": {
+  "essais": 1
+ },
+ "anc_italie/cemab_mirandola_1966.html": {
+  "essais": 1
+ },
+ "anc_italie/cemab_mirandola_1967.html": {
+  "essais": 1
+ },
+ "anc_italie/cemab_mirandola_1970.html": {
+  "essais": 1
+ },
+ "anc_italie/ceramisti_1948.html": {
+  "essais": 1
+ },
+ "anc_italie/ceramisti_1952.html": {
+  "essais": 1
+ },
+ "anc_italie/ceramisti_1953.html": {
+  "essais": 1
+ },
+ "anc_italie/ceramisti_1954.html": {
+  "essais": 1
+ },
+ "anc_italie/ceramisti_1955.html": {
+  "essais": 1
+ },
+ "anc_italie/ceramisti_1958.html": {
+  "essais": 1
+ },
+ "anc_italie/ceramisti_1963.html": {
+  "essais": 1
+ },
+ "anc_italie/chilometro_mestre_1984.html": {
+  "essais": 1
+ },
+ "anc_italie/chilometro_mestre_1985.html": {
+  "essais": 1
+ },
+ "anc_italie/chilometro_mestre_1986.html": {
+  "essais": 1
+ },
+ "anc_italie/chilometro_mestre_1987.html": {
+  "essais": 1
+ },
+ "anc_italie/chilometro_mestre_1988.html": {
+  "essais": 1
+ },
+ "anc_italie/chilometro_mestre_1989.html": {
+  "essais": 1
+ },
+ "anc_italie/chilometro_mestre_1990.html": {
+  "essais": 1
+ },
+ "anc_italie/chilometro_mestre_1991.html": {
   "essais": 1
  },
  "anc_monde/first_union_atlanta_1995.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_suisse/berne_geneve_1909.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_suisse/berne_geneve_1916.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_suisse/berne_geneve_1917.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_suisse/berne_geneve_1918.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_suisse/berne_geneve_1919.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_suisse/berne_geneve_1927.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_suisse/berne_geneve_1928.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_suisse/berne_geneve_1940.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_suisse/berne_geneve_1959.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_suisse/berne_geneve_1960.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_suisse/berne_geneve_1961.html": {
-  "essais": 1
+  "essais": 2
  },
  "anc_suisse/berne_zurich_1917.html": {
+  "essais": 2
+ },
+ "anc_suisse/brigue_geneve_1920.html": {
+  "essais": 1
+ },
+ "anc_suisse/brigue_geneve_1922.html": {
+  "essais": 1
+ },
+ "anc_suisse/brigue_geneve_1924.html": {
   "essais": 1
  },
  "chp_monde/mondial_amateur_1921.html": {
@@ -480,6 +1998,24 @@
   "essais": 2
  },
  "disparues/anc_belfort_strasbourg.html": {
+  "essais": 2
+ },
+ "disparues/anc_brux_lux_charleroi.html": {
+  "essais": 1
+ },
+ "disparues/anc_bruxelles_strijpen.html": {
+  "essais": 1
+ },
+ "disparues/anc_campeonato_cataluna.html": {
+  "essais": 1
+ },
+ "disparues/anc_cinturonbilbao.html": {
+  "essais": 1
+ },
+ "eta_espagne/sem_catal1965_4.html": {
+  "essais": 1
+ },
+ "eta_espagne/sem_catal1966_4.html": {
   "essais": 1
  }
 }
