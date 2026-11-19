@@ -232722,12 +232722,73 @@
    "url": "disparues/anc_emiliano_lombardo.html"
   },
   "disparues-epernay_chaumont_belfort": {
+   "drapeau": "fra",
+   "editions": [
+    {
+     "annee": 1929,
+     "cle": "1929",
+     "date_debut": "1929-05-19",
+     "date_fin": "1929-05-20",
+     "date_txt": "du 19 au 20 mai",
+     "podium": [
+      {
+       "affiche": "MARIENNE Georges",
+       "nom_famille": "MARIENNE",
+       "prenom": "Georges",
+       "rang": 1
+      },
+      {
+       "affiche": "DELLA CORTE Giuseppe",
+       "nom_famille": "DELLA CORTE",
+       "prenom": "Giuseppe",
+       "rang": 2
+      },
+      {
+       "affiche": "SIMONIN Henri",
+       "nom_famille": "SIMONIN",
+       "prenom": "Henri",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_eta/epernay_chaumont_belfort_1929.html"
+    },
+    {
+     "annee": 1931,
+     "cle": "1931",
+     "date_debut": "1931-05-24",
+     "date_fin": "1931-05-25",
+     "date_txt": "du 24 au 25 mai",
+     "podium": [
+      {
+       "affiche": "GODINAT André",
+       "nom_famille": "GODINAT",
+       "prenom": "André",
+       "rang": 1
+      },
+      {
+       "affiche": "VAN WIERST André",
+       "nom_famille": "VAN WIERST",
+       "prenom": "André",
+       "rang": 2
+      },
+      {
+       "affiche": "BERNARD René",
+       "nom_famille": "BERNARD",
+       "prenom": "René",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_eta/epernay_chaumont_belfort_1931.html"
+    }
+   ],
    "gras": true,
    "groupe": "FRA",
    "id": "disparues-epernay_chaumont_belfort",
+   "lu_le": "2026-11-19T05:56:40Z",
    "nom": "Epernay-Chaumont-Belfort",
    "section": "disparues",
    "suffixe_index": "1929-1931",
+   "titre_page": "Epernay-Chaumont-Belfort (Fra) - Ex.",
    "url": "disparues/anc_epernay_chaumont_belfort.html"
   },
   "disparues-escaut_dendre_lys": {
