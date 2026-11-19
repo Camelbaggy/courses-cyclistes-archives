@@ -25668,6 +25668,14 @@
   "lu_le": "2026-11-19T20:51:22Z",
   "nb_coureurs": 1
  },
+ "pages/s/schurer-schuttkowsky-adolf.html": {
+  "empreinte": "50ef55e27b801402",
+  "lastmod": "2026-11-19T23:11:34+01:00",
+  "lastmod_lu": "2026-11-19T23:11:34+01:00",
+  "libelle": "SCHURER - SCHÜTTKOWSKY Adolf",
+  "lu_le": "2026-11-19T23:13:55Z",
+  "nb_coureurs": 17
+ },
  "pages/s/schutz-gody-schneiberger.html": {
   "empreinte": "b8cf9646444f88be",
   "lastmod": "2026-10-23T22:46:19+02:00",
@@ -25675,5 +25683,29 @@
   "libelle": "SCHMUTZ Gody - SCHNEIBERGER",
   "lu_le": "2026-11-19T06:02:39Z",
   "nb_coureurs": 11
+ },
+ "pages/s/schutz-horst-schwab-jean.html": {
+  "empreinte": "48ecb22ec3c4a2bf",
+  "lastmod": "2026-11-19T23:22:52+01:00",
+  "lastmod_lu": "2026-11-19T23:22:52+01:00",
+  "libelle": "SCHUTZ Horst - SCHWAB Jean",
+  "lu_le": "2026-11-19T23:14:04Z",
+  "nb_coureurs": 15
+ },
+ "pages/s/schutz-schutz-hans.html": {
+  "empreinte": "cfb6ce78049b950b",
+  "lastmod": "2026-11-19T23:16:36+01:00",
+  "lastmod_lu": "2026-11-19T23:16:36+01:00",
+  "libelle": "SCHUTZ -SCHUTZ Hans",
+  "lu_le": "2026-11-19T23:13:51Z",
+  "nb_coureurs": 6
+ },
+ "pages/s/schwabik-johann-schwarshaupt-victor.html": {
+  "empreinte": "ef692f6f6c15db60",
+  "lastmod": "2026-11-19T23:35:07+01:00",
+  "lastmod_lu": "2026-11-19T23:35:07+01:00",
+  "libelle": "SCHWABIK Johann - SCHWARSHAUPT Victor",
+  "lu_le": "2026-11-19T23:13:35Z",
+  "nb_coureurs": 17
  }
 }
