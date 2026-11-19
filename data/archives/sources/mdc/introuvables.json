@@ -8709,6 +8709,16 @@
   "essais": 1,
   "regle": 2
  },
+ "anc_italie/due_provincia_prato_1935.html": {
+  "dernier_essai": "2026-11-19T03:23:41Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/due_provincia_prato_1937.html": {
+  "dernier_essai": "2026-11-19T03:23:44Z",
+  "essais": 1,
+  "regle": 2
+ },
  "anc_monde/circuit_gharb_1938.html": {
   "dernier_essai": "2026-11-19T01:18:47Z",
   "essais": 1,
@@ -8724,9 +8734,119 @@
   "essais": 1,
   "regle": 2
  },
+ "anc_monde/echo_alger_1924.html": {
+  "dernier_essai": "2026-11-19T03:23:50Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_monde/echo_alger_1925.html": {
+  "dernier_essai": "2026-11-19T03:23:54Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_monde/echo_alger_1926.html": {
+  "dernier_essai": "2026-11-19T03:23:57Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_monde/echo_alger_1927.html": {
+  "dernier_essai": "2026-11-19T03:24:00Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_monde/echo_alger_1928.html": {
+  "dernier_essai": "2026-11-19T03:24:03Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_monde/echo_alger_1929.html": {
+  "dernier_essai": "2026-11-19T03:24:06Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_monde/echo_alger_1930.html": {
+  "dernier_essai": "2026-11-19T03:24:10Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_monde/echo_alger_1931.html": {
+  "dernier_essai": "2026-11-19T03:24:13Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_monde/echo_alger_1932.html": {
+  "dernier_essai": "2026-11-19T03:24:16Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_monde/echo_alger_1933.html": {
+  "dernier_essai": "2026-11-19T03:24:19Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_monde/echo_alger_1934.html": {
+  "dernier_essai": "2026-11-19T03:24:22Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_monde/echo_alger_1936.html": {
+  "dernier_essai": "2026-11-19T03:24:29Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_monde/echo_alger_1948.html": {
+  "dernier_essai": "2026-11-19T03:24:45Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_monde/echo_alger_1949.html": {
+  "dernier_essai": "2026-11-19T03:24:48Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_monde/echo_alger_1950.html": {
+  "dernier_essai": "2026-11-19T03:24:51Z",
+  "essais": 1,
+  "regle": 2
+ },
  "anc_monde/first_union_atlanta_1995.html": {
   "dernier_essai": "2026-11-19T00:08:50Z",
   "essais": 2,
+  "regle": 2
+ },
+ "anc_monde/gp_echo_alger_1935.html": {
+  "dernier_essai": "2026-11-19T03:24:26Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_monde/gp_echo_alger_1937.html": {
+  "dernier_essai": "2026-11-19T03:24:32Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_monde/gp_echo_alger_1938.html": {
+  "dernier_essai": "2026-11-19T03:24:35Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_monde/gp_echo_alger_1939.html": {
+  "dernier_essai": "2026-11-19T03:24:38Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_monde/gp_echo_alger_1947.html": {
+  "dernier_essai": "2026-11-19T03:24:42Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_monde/gp_echo_alger_1952.html": {
+  "dernier_essai": "2026-11-19T03:24:54Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_monde/gp_echo_alger_1955.html": {
+  "dernier_essai": "2026-11-19T03:24:58Z",
+  "essais": 1,
   "regle": 2
  },
  "anc_suisse/berne_geneve_1909.html": {

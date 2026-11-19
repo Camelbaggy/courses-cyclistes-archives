@@ -231467,21 +231467,825 @@
    "url": "disparues/anc_due_provincia_prato.html"
   },
   "disparues-echo_alger": {
+   "drapeau": "alg",
+   "editions": [
+    {
+     "annee": 1924,
+     "cle": "1924",
+     "date": "1924-04-20",
+     "date_txt": "20 avril",
+     "podium": [
+      {
+       "affiche": "REMADNI Ahmed",
+       "nom_famille": "REMADNI",
+       "prenom": "Ahmed",
+       "rang": 1
+      },
+      {
+       "affiche": "SEGUY Albert",
+       "nom_famille": "SEGUY",
+       "prenom": "Albert",
+       "rang": 2
+      },
+      {
+       "affiche": "TORRES Emile",
+       "nom_famille": "TORRES",
+       "prenom": "Emile",
+       "rang": 3
+      }
+     ],
+     "url": "anc_monde/echo_alger_1924.html"
+    },
+    {
+     "annee": 1925,
+     "cle": "1925",
+     "date": "1925-04-12",
+     "date_txt": "12 avril",
+     "podium": [
+      {
+       "affiche": "TORRES Emile",
+       "nom_famille": "TORRES",
+       "prenom": "Emile",
+       "rang": 1
+      },
+      {
+       "affiche": "GUERCY Antoine",
+       "nom_famille": "GUERCY",
+       "prenom": "Antoine",
+       "rang": 2
+      },
+      {
+       "affiche": "SEGUY Albert",
+       "nom_famille": "SEGUY",
+       "prenom": "Albert",
+       "rang": 3
+      }
+     ],
+     "url": "anc_monde/echo_alger_1925.html"
+    },
+    {
+     "annee": 1926,
+     "cle": "1926",
+     "date": "1926-04-04",
+     "date_txt": "4 avril",
+     "podium": [
+      {
+       "affiche": "BESSADI Saïd",
+       "nom_famille": "BESSADI",
+       "prenom": "Saïd",
+       "rang": 1
+      },
+      {
+       "affiche": "KYBILENE Abdelkader",
+       "nom_famille": "KYBILENE",
+       "prenom": "Abdelkader",
+       "rang": 2
+      },
+      {
+       "affiche": "TORRES Emile",
+       "nom_famille": "TORRES",
+       "prenom": "Emile",
+       "rang": 3
+      }
+     ],
+     "url": "anc_monde/echo_alger_1926.html"
+    },
+    {
+     "annee": 1927,
+     "cle": "1927",
+     "date": "1927-04-17",
+     "date_txt": "17 avril",
+     "podium": [
+      {
+       "affiche": "PELLETIER José",
+       "nom_famille": "PELLETIER",
+       "prenom": "José",
+       "rang": 1
+      },
+      {
+       "affiche": "TORRES Emile",
+       "nom_famille": "TORRES",
+       "prenom": "Emile",
+       "rang": 2
+      },
+      {
+       "affiche": "THOMAS Antoine",
+       "nom_famille": "THOMAS",
+       "prenom": "Antoine",
+       "rang": 3
+      }
+     ],
+     "url": "anc_monde/echo_alger_1927.html"
+    },
+    {
+     "annee": 1928,
+     "cle": "1928",
+     "date": "1928-04-08",
+     "date_txt": "8 avril",
+     "podium": [
+      {
+       "affiche": "BAUD Félix",
+       "nom_famille": "BAUD",
+       "prenom": "Félix",
+       "rang": 1
+      },
+      {
+       "affiche": "RELIEU Albert",
+       "nom_famille": "RELIEU",
+       "prenom": "Albert",
+       "rang": 2
+      },
+      {
+       "affiche": "KYBILENE Abdelkader",
+       "nom_famille": "KYBILENE",
+       "prenom": "Abdelkader",
+       "rang": 3
+      }
+     ],
+     "url": "anc_monde/echo_alger_1928.html"
+    },
+    {
+     "annee": 1929,
+     "cle": "1929",
+     "date_debut": "1929-03-31",
+     "date_fin": "1929-04-01",
+     "date_txt": "du 31 mars au 1er avril",
+     "podium": [
+      {
+       "affiche": "FICHOT Léon",
+       "nom_famille": "FICHOT",
+       "prenom": "Léon",
+       "rang": 1
+      },
+      {
+       "affiche": "FILLIAT Paul",
+       "nom_famille": "FILLIAT",
+       "prenom": "Paul",
+       "rang": 2
+      },
+      {
+       "affiche": "CASCAN Jean",
+       "nom_famille": "CASCAN",
+       "prenom": "Jean",
+       "rang": 3
+      }
+     ],
+     "url": "anc_monde/echo_alger_1929.html"
+    },
+    {
+     "annee": 1930,
+     "cle": "1930",
+     "date_debut": "1930-03-29",
+     "date_fin": "1930-03-30",
+     "date_txt": "du 29 au 30 mars",
+     "podium": [
+      {
+       "affiche": "NEUHARD Ernest",
+       "nom_famille": "NEUHARD",
+       "prenom": "Ernest",
+       "rang": 1
+      },
+      {
+       "affiche": "MOINEAU Julien",
+       "nom_famille": "MOINEAU",
+       "prenom": "Julien",
+       "rang": 2
+      },
+      {
+       "affiche": "MAGNE Antonin",
+       "nom_famille": "MAGNE",
+       "prenom": "Antonin",
+       "rang": 3
+      }
+     ],
+     "url": "anc_monde/echo_alger_1930.html"
+    },
+    {
+     "annee": 1931,
+     "cle": "1931",
+     "date_debut": "1931-04-05",
+     "date_fin": "1931-04-06",
+     "date_txt": "du 5 au 6 avril",
+     "podium": [
+      {
+       "affiche": "BUCHI Albert",
+       "nat": "SUI",
+       "nom_famille": "BUCHI",
+       "pays_site": "Sui",
+       "prenom": "Albert",
+       "rang": 1
+      },
+      {
+       "affiche": "DJILLALI Ben Amar",
+       "nom_famille": "DJILLALI",
+       "prenom": "Ben Amar",
+       "rang": 2
+      },
+      {
+       "affiche": "VEY Georges",
+       "nom_famille": "VEY",
+       "prenom": "Georges",
+       "rang": 3
+      }
+     ],
+     "url": "anc_monde/echo_alger_1931.html"
+    },
+    {
+     "annee": 1932,
+     "cle": "1932",
+     "date_debut": "1932-03-05",
+     "date_fin": "1932-03-06",
+     "date_txt": "du 5 au 6 mars",
+     "podium": [
+      {
+       "affiche": "MAGNE Pierre",
+       "nom_famille": "MAGNE",
+       "prenom": "Pierre",
+       "rang": 1
+      },
+      {
+       "affiche": "MAGNE Antonin",
+       "nom_famille": "MAGNE",
+       "prenom": "Antonin",
+       "rang": 2
+      },
+      {
+       "affiche": "COLLEU Marcel",
+       "nom_famille": "COLLEU",
+       "prenom": "Marcel",
+       "rang": 3
+      }
+     ],
+     "url": "anc_monde/echo_alger_1932.html"
+    },
+    {
+     "annee": 1933,
+     "cle": "1933",
+     "date_debut": "1933-03-04",
+     "date_fin": "1933-03-05",
+     "date_txt": "du 4 au 5 mars",
+     "podium": [
+      {
+       "affiche": "LAPEBIE Roger",
+       "nom_famille": "LAPEBIE",
+       "prenom": "Roger",
+       "rang": 1
+      },
+      {
+       "affiche": "GODINAT André",
+       "nom_famille": "GODINAT",
+       "prenom": "André",
+       "rang": 2
+      },
+      {
+       "affiche": "VEY Georges",
+       "nom_famille": "VEY",
+       "prenom": "Georges",
+       "rang": 3
+      }
+     ],
+     "url": "anc_monde/echo_alger_1933.html"
+    },
+    {
+     "annee": 1934,
+     "cle": "1934",
+     "date_debut": "1934-03-17",
+     "date_fin": "1934-03-18",
+     "date_txt": "du 17 au 18 mars",
+     "podium": [
+      {
+       "affiche": "MONTERO Luciano",
+       "nat": "ESP",
+       "nom_famille": "MONTERO",
+       "pays_site": "Esp",
+       "prenom": "Luciano",
+       "rang": 1
+      },
+      {
+       "affiche": "WEISS Lucien",
+       "nom_famille": "WEISS",
+       "prenom": "Lucien",
+       "rang": 2
+      },
+      {
+       "affiche": "BLANCHON Marcel",
+       "nom_famille": "BLANCHON",
+       "prenom": "Marcel",
+       "rang": 3
+      }
+     ],
+     "url": "anc_monde/echo_alger_1934.html"
+    },
+    {
+     "annee": 1935,
+     "cle": "1935",
+     "date_debut": "1935-03-16",
+     "date_fin": "1935-03-17",
+     "date_txt": "du 16 au 17 mars",
+     "podium": [
+      {
+       "affiche": "ARCHAMBAUD Maurice",
+       "nom_famille": "ARCHAMBAUD",
+       "prenom": "Maurice",
+       "rang": 1
+      },
+      {
+       "affiche": "VANDERDONCKT André",
+       "nom_famille": "VANDERDONCKT",
+       "prenom": "André",
+       "rang": 2
+      },
+      {
+       "affiche": "DEFORGE André",
+       "nom_famille": "DEFORGE",
+       "prenom": "André",
+       "rang": 3
+      }
+     ],
+     "url": "anc_monde/gp_echo_alger_1935.html"
+    },
+    {
+     "annee": 1936,
+     "cle": "1936",
+     "date_debut": "1936-03-07",
+     "date_fin": "1936-03-08",
+     "date_txt": "du 7 au 8 mars",
+     "podium": [
+      {
+       "affiche": "SPEICHER Georges",
+       "nom_famille": "SPEICHER",
+       "prenom": "Georges",
+       "rang": 1
+      },
+      {
+       "affiche": "LOUVIOT Raymond",
+       "nom_famille": "LOUVIOT",
+       "prenom": "Raymond",
+       "rang": 2
+      },
+      {
+       "affiche": "VICENTE Demetrio",
+       "nat": "ESP",
+       "nom_famille": "VICENTE",
+       "pays_site": "Esp",
+       "prenom": "Demetrio",
+       "rang": 3
+      }
+     ],
+     "url": "anc_monde/echo_alger_1936.html"
+    },
+    {
+     "annee": 1937,
+     "cle": "1937",
+     "date": "1937-02-28",
+     "date_txt": "28 février",
+     "podium": [
+      {
+       "affiche": "VICENTE Demetrio",
+       "nat": "ESP",
+       "nom_famille": "VICENTE",
+       "pays_site": "Esp",
+       "prenom": "Demetrio",
+       "rang": 1
+      },
+      {
+       "affiche": "LAUK Lucien",
+       "nom_famille": "LAUK",
+       "prenom": "Lucien",
+       "rang": 2
+      },
+      {
+       "affiche": "FOURNIER Amédée",
+       "nom_famille": "FOURNIER",
+       "prenom": "Amédée",
+       "rang": 3
+      }
+     ],
+     "url": "anc_monde/gp_echo_alger_1937.html"
+    },
+    {
+     "annee": 1938,
+     "cle": "1938",
+     "date": "1938-02-20",
+     "date_txt": "20 février",
+     "podium": [
+      {
+       "affiche": "ROSSI Jules",
+       "nat": "ITA",
+       "nom_famille": "ROSSI",
+       "pays_site": "Ita",
+       "prenom": "Jules",
+       "rang": 1
+      },
+      {
+       "affiche": "LESUEUR Raoul",
+       "nom_famille": "LESUEUR",
+       "prenom": "Raoul",
+       "rang": 2
+      },
+      {
+       "affiche": "BERRENDERO Julian",
+       "nat": "ESP",
+       "nom_famille": "BERRENDERO",
+       "pays_site": "Esp",
+       "prenom": "Julian",
+       "rang": 3
+      }
+     ],
+     "url": "anc_monde/gp_echo_alger_1938.html"
+    },
+    {
+     "annee": 1939,
+     "cle": "1939",
+     "date": "1939-03-05",
+     "date_txt": "5 mars",
+     "podium": [
+      {
+       "affiche": "GALATEAU Fabien",
+       "nom_famille": "GALATEAU",
+       "prenom": "Fabien",
+       "rang": 1
+      },
+      {
+       "affiche": "MAYE Paul",
+       "nom_famille": "MAYE",
+       "prenom": "Paul",
+       "rang": 2
+      },
+      {
+       "affiche": "LOUVIOT Raymond",
+       "nom_famille": "LOUVIOT",
+       "prenom": "Raymond",
+       "rang": 3
+      }
+     ],
+     "url": "anc_monde/gp_echo_alger_1939.html"
+    },
+    {
+     "annee": 1947,
+     "cle": "1947",
+     "date": "1947-03-02",
+     "date_txt": "2 mars",
+     "podium": [
+      {
+       "affiche": "DE MUER Maurice",
+       "nom_famille": "DE MUER",
+       "prenom": "Maurice",
+       "rang": 1
+      },
+      {
+       "affiche": "CHAPATTE Robert",
+       "nom_famille": "CHAPATTE",
+       "prenom": "Robert",
+       "rang": 2
+      },
+      {
+       "affiche": "OROSCO André ou J.",
+       "nom_famille": "OROSCO",
+       "prenom": "André ou J.",
+       "rang": 3
+      }
+     ],
+     "url": "anc_monde/gp_echo_alger_1947.html"
+    },
+    {
+     "annee": 1948,
+     "cle": "1948",
+     "date": "1948-03-07",
+     "date_txt": "7 mars",
+     "podium": [
+      {
+       "affiche": "QUEUGNET Roger",
+       "nom_famille": "QUEUGNET",
+       "prenom": "Roger",
+       "rang": 1
+      },
+      {
+       "affiche": "FACHLEITNER Edouard",
+       "nom_famille": "FACHLEITNER",
+       "prenom": "Edouard",
+       "rang": 2
+      },
+      {
+       "affiche": "PERNAC Victor",
+       "nom_famille": "PERNAC",
+       "prenom": "Victor",
+       "rang": 3
+      }
+     ],
+     "url": "anc_monde/echo_alger_1948.html"
+    },
+    {
+     "annee": 1949,
+     "cle": "1949",
+     "date": "1949-03-06",
+     "date_txt": "6 mars",
+     "podium": [
+      {
+       "affiche": "BEYAERT José",
+       "nom_famille": "BEYAERT",
+       "prenom": "José",
+       "rang": 1
+      },
+      {
+       "affiche": "LAMBRECHT Roger",
+       "nat": "BEL",
+       "nom_famille": "LAMBRECHT",
+       "pays_site": "Bel",
+       "prenom": "Roger",
+       "rang": 2
+      },
+      {
+       "affiche": "DANGUILLAUME Camille",
+       "nom_famille": "DANGUILLAUME",
+       "prenom": "Camille",
+       "rang": 3
+      }
+     ],
+     "url": "anc_monde/echo_alger_1949.html"
+    },
+    {
+     "annee": 1950,
+     "cle": "1950",
+     "date": "1950-03-05",
+     "date_txt": "5 mars",
+     "podium": [
+      {
+       "affiche": "BOBET Louison",
+       "nom_famille": "BOBET",
+       "prenom": "Louison",
+       "rang": 1
+      },
+      {
+       "affiche": "MAHE André",
+       "nom_famille": "MAHE",
+       "prenom": "André",
+       "rang": 2
+      },
+      {
+       "affiche": "LE STRAT Ange",
+       "nom_famille": "LE STRAT",
+       "prenom": "Ange",
+       "rang": 3
+      }
+     ],
+     "url": "anc_monde/echo_alger_1950.html"
+    },
+    {
+     "annee": 1951,
+     "cle": "1951",
+     "date": "1951-03-04",
+     "date_txt": "4 mars",
+     "podium": [
+      {
+       "affiche": "MAHE André",
+       "nom_famille": "MAHE",
+       "prenom": "André",
+       "rang": 1
+      },
+      {
+       "affiche": "DARRIGADE André",
+       "nom_famille": "DARRIGADE",
+       "prenom": "André",
+       "rang": 2
+      },
+      {
+       "affiche": "DIOT Maurice",
+       "nom_famille": "DIOT",
+       "prenom": "Maurice",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1952,
+     "cle": "1952",
+     "date": "1952-03-02",
+     "date_txt": "2 mars",
+     "podium": [
+      {
+       "affiche": "GAUTHIER Bernard",
+       "nom_famille": "GAUTHIER",
+       "prenom": "Bernard",
+       "rang": 1
+      },
+      {
+       "affiche": "DIOT Maurice",
+       "nom_famille": "DIOT",
+       "prenom": "Maurice",
+       "rang": 2
+      },
+      {
+       "affiche": "REDOLFI Attilio",
+       "nom_famille": "REDOLFI",
+       "prenom": "Attilio",
+       "rang": 3
+      }
+     ],
+     "url": "anc_monde/gp_echo_alger_1952.html"
+    },
+    {
+     "annee": 1953,
+     "cle": "1953",
+     "date": "1953-03-01",
+     "date_txt": "1er mars",
+     "podium": [
+      {
+       "affiche": "MICHEL Pierre",
+       "nom_famille": "MICHEL",
+       "prenom": "Pierre",
+       "rang": 1
+      },
+      {
+       "affiche": "DUPONT Jacques",
+       "nom_famille": "DUPONT",
+       "prenom": "Jacques",
+       "rang": 2
+      },
+      {
+       "affiche": "ROLLAND Antonin",
+       "nom_famille": "ROLLAND",
+       "prenom": "Antonin",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1954,
+     "cle": "1954",
+     "date": "1954-03-06",
+     "date_txt": "6 mars",
+     "podium": [
+      {
+       "affiche": "REMY Raoul",
+       "nom_famille": "REMY",
+       "prenom": "Raoul",
+       "rang": 1
+      },
+      {
+       "affiche": "GAUTHIER Bernard",
+       "nom_famille": "GAUTHIER",
+       "prenom": "Bernard",
+       "rang": 2
+      },
+      {
+       "affiche": "BOBET Louison",
+       "nom_famille": "BOBET",
+       "prenom": "Louison",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1955,
+     "cle": "1955",
+     "date": "1955-03-06",
+     "date_txt": "6 mars",
+     "podium": [
+      {
+       "affiche": "DARRIGADE André",
+       "nom_famille": "DARRIGADE",
+       "prenom": "André",
+       "rang": 1
+      },
+      {
+       "affiche": "FORESTIER Jean",
+       "nom_famille": "FORESTIER",
+       "prenom": "Jean",
+       "rang": 2
+      },
+      {
+       "affiche": "ROLLAND Antonin",
+       "nom_famille": "ROLLAND",
+       "prenom": "Antonin",
+       "rang": 3
+      }
+     ],
+     "url": "anc_monde/gp_echo_alger_1955.html"
+    },
+    {
+     "annee": 1956,
+     "cle": "1956",
+     "date": "1956-03-03",
+     "date_txt": "3 mars",
+     "podium": [
+      {
+       "affiche": "ELLIOTT Seamus",
+       "nat": "IRL",
+       "nom_famille": "ELLIOTT",
+       "pays_site": "Irl",
+       "prenom": "Seamus",
+       "rang": 1
+      },
+      {
+       "affiche": "DARRIGADE André",
+       "nom_famille": "DARRIGADE",
+       "prenom": "André",
+       "rang": 2
+      },
+      {
+       "affiche": "GAUTHIER Bernard",
+       "nom_famille": "GAUTHIER",
+       "prenom": "Bernard",
+       "rang": 3
+      }
+     ]
+    }
+   ],
    "gras": true,
    "groupe": "DIV",
    "id": "disparues-echo_alger",
+   "lu_le": "2026-11-19T03:23:47Z",
    "nom": "G.P de l'Echo d'Alger",
    "section": "disparues",
    "suffixe_index": "(Alg) - 1924-1956",
+   "titre_page": "G.P de l'Echo d'Alger (Alg/Fra) - Ex.",
    "url": "disparues/anc_echo_alger.html"
   },
   "disparues-eindhoven_ttt": {
+   "drapeau": "hol",
+   "editions": [
+    {
+     "annee": 2005,
+     "cle": "2005",
+     "date": "2005-06-19",
+     "date_txt": "19 juin",
+     "podium": [
+      {
+       "affiche": "GEROLSTEINER",
+       "nom_famille": "GEROLSTEINER",
+       "rang": 1
+      },
+      {
+       "affiche": "PHONAK HEARING SYSTEMS",
+       "nom_famille": "PHONAK HEARING SYSTEMS",
+       "rang": 2
+      },
+      {
+       "affiche": "TEAM CSC",
+       "nom_famille": "TEAM CSC",
+       "rang": 3
+      }
+     ],
+     "url": "cla_europe/eindhoven_ttt_2005.html"
+    },
+    {
+     "annee": 2006,
+     "cle": "2006",
+     "date": "2006-06-18",
+     "date_txt": "18 juin",
+     "podium": [
+      {
+       "affiche": "TEAM CSC",
+       "nom_famille": "TEAM CSC",
+       "rang": 1
+      },
+      {
+       "affiche": "DISCOVERY CHANNEL",
+       "nom_famille": "DISCOVERY CHANNEL",
+       "rang": 2
+      },
+      {
+       "affiche": "GEROLSTEINER",
+       "nom_famille": "GEROLSTEINER",
+       "rang": 3
+      }
+     ],
+     "url": "cla_europe/eindhoven_ttt_2006.html"
+    },
+    {
+     "annee": 2007,
+     "cle": "2007",
+     "date": "2007-06-24",
+     "date_txt": "24 juin",
+     "podium": [
+      {
+       "affiche": "TEAM CSC",
+       "nom_famille": "TEAM CSC",
+       "rang": 1
+      },
+      {
+       "affiche": "TINKOFF CREDIT SYSTEMS",
+       "nom_famille": "TINKOFF CREDIT SYSTEMS",
+       "rang": 2
+      },
+      {
+       "affiche": "TEAM MILRAM",
+       "nom_famille": "TEAM MILRAM",
+       "rang": 3
+      }
+     ],
+     "url": "cla_europe/eindhoven_ttt_2007.html"
+    }
+   ],
    "gras": true,
    "groupe": "HOL",
    "id": "disparues-eindhoven_ttt",
+   "lu_le": "2026-11-19T03:25:01Z",
    "nom": "Eindhoven CLM par équipes",
    "section": "disparues",
    "suffixe_index": "2005-2007",
+   "titre_page": "Eindhoven CLM par équipes (Hol) - Ex.",
    "url": "disparues/anc_eindhoven_ttt.html"
   },
   "disparues-elan_parisien": {
