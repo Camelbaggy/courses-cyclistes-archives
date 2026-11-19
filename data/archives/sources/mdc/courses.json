@@ -232330,21 +232330,395 @@
    "url": "disparues/anc_elan_parisien.html"
   },
   "disparues-elola": {
+   "drapeau": "esp",
+   "editions": [
+    {
+     "annee": 1966,
+     "cle": "1966",
+     "podium": [
+      {
+       "affiche": "MENDIBURU Ramon",
+       "nom_famille": "MENDIBURU",
+       "prenom": "Ramon",
+       "rang": 1
+      },
+      {
+       "affiche": "MARTIN PINERA Manuel",
+       "nom_famille": "MARTIN PINERA",
+       "prenom": "Manuel",
+       "rang": 2
+      },
+      {
+       "affiche": "PERURENA Domingo",
+       "nom_famille": "PERURENA",
+       "prenom": "Domingo",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1967,
+     "cle": "1967",
+     "podium": [
+      {
+       "affiche": "SAEZ Ramon",
+       "nom_famille": "SAEZ",
+       "prenom": "Ramon",
+       "rang": 1
+      },
+      {
+       "affiche": "SANCHEZ Fulgencio",
+       "nom_famille": "SANCHEZ",
+       "prenom": "Fulgencio",
+       "rang": 2
+      },
+      {
+       "affiche": "GOMEZ DEL MORAL Antonio",
+       "nom_famille": "GOMEZ DEL MORAL",
+       "prenom": "Antonio",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1968,
+     "cle": "1968",
+     "podium": [
+      {
+       "affiche": "MOMENE José Antonio",
+       "nom_famille": "MOMENE",
+       "prenom": "José Antonio",
+       "rang": 1
+      },
+      {
+       "affiche": "ERRANDONEA José Maria",
+       "nom_famille": "ERRANDONEA",
+       "prenom": "José Maria",
+       "rang": 2
+      },
+      {
+       "affiche": "ECHEVARRIA Carlos",
+       "nom_famille": "ECHEVARRIA",
+       "prenom": "Carlos",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1969,
+     "cle": "1969",
+     "podium": [
+      {
+       "affiche": "MANZANEQUE Jesus",
+       "nom_famille": "MANZANEQUE",
+       "prenom": "Jesus",
+       "rang": 1
+      },
+      {
+       "affiche": "GOMEZ LUCAS José",
+       "nom_famille": "GOMEZ LUCAS",
+       "prenom": "José",
+       "rang": 2
+      },
+      {
+       "affiche": "CIFUENTES Enrique",
+       "nom_famille": "CIFUENTES",
+       "prenom": "Enrique",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1970,
+     "cle": "1970",
+     "podium": [
+      {
+       "affiche": "PERURENA Domingo",
+       "nom_famille": "PERURENA",
+       "prenom": "Domingo",
+       "rang": 1
+      },
+      {
+       "affiche": "TAMAMES Agustin",
+       "nom_famille": "TAMAMES",
+       "prenom": "Agustin",
+       "rang": 2
+      },
+      {
+       "affiche": "LOPEZ RODRIGUEZ José Manuel",
+       "nom_famille": "LOPEZ RODRIGUEZ",
+       "prenom": "José Manuel",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1971,
+     "cle": "1971",
+     "podium": [
+      {
+       "affiche": "LOPEZ CARRIL Vicente",
+       "nom_famille": "LOPEZ CARRIL",
+       "prenom": "Vicente",
+       "rang": 1
+      },
+      {
+       "affiche": "OLIVA Andres",
+       "nom_famille": "OLIVA",
+       "prenom": "Andres",
+       "rang": 2
+      },
+      {
+       "affiche": "PERURENA Domingo",
+       "nom_famille": "PERURENA",
+       "prenom": "Domingo",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1972,
+     "cle": "1972",
+     "podium": [
+      {
+       "affiche": "LOPEZ RODRIGUEZ José Manuel",
+       "nom_famille": "LOPEZ RODRIGUEZ",
+       "prenom": "José Manuel",
+       "rang": 1
+      },
+      {
+       "affiche": "GALDOS Francisco",
+       "nom_famille": "GALDOS",
+       "prenom": "Francisco",
+       "rang": 2
+      },
+      {
+       "affiche": "PESARRODONA José",
+       "nom_famille": "PESARRODONA",
+       "prenom": "José",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1973,
+     "cle": "1973",
+     "podium": [
+      {
+       "affiche": "PERURENA Domingo",
+       "nom_famille": "PERURENA",
+       "prenom": "Domingo",
+       "rang": 1
+      },
+      {
+       "affiche": "TAMAMES Agustin",
+       "nom_famille": "TAMAMES",
+       "prenom": "Agustin",
+       "rang": 2
+      },
+      {
+       "affiche": "VIEJO José Luis",
+       "nom_famille": "VIEJO",
+       "prenom": "José Luis",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1974,
+     "cle": "1974",
+     "podium": [
+      {
+       "affiche": "MANZANEQUE Jesus",
+       "nom_famille": "MANZANEQUE",
+       "prenom": "Jesus",
+       "rang": 1
+      },
+      {
+       "affiche": "MARTOS Antonio",
+       "nom_famille": "MARTOS",
+       "prenom": "Antonio",
+       "rang": 2
+      },
+      {
+       "affiche": "VALLORI Antonio",
+       "nom_famille": "VALLORI",
+       "prenom": "Antonio",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1975,
+     "cle": "1975",
+     "podium": [
+      {
+       "affiche": "GARCIA Manuel Antonio",
+       "nom_famille": "GARCIA",
+       "prenom": "Manuel Antonio",
+       "rang": 1
+      },
+      {
+       "affiche": "NISTAL Tomas",
+       "nom_famille": "NISTAL",
+       "prenom": "Tomas",
+       "rang": 2
+      },
+      {
+       "affiche": "MANZANEQUE Jesus",
+       "nom_famille": "MANZANEQUE",
+       "prenom": "Jesus",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1976,
+     "cle": "1976",
+     "podium": [
+      {
+       "affiche": "PERURENA Domingo",
+       "nom_famille": "PERURENA",
+       "prenom": "Domingo",
+       "rang": 1
+      },
+      {
+       "affiche": "ELORRIAGA Javier",
+       "nom_famille": "ELORRIAGA",
+       "prenom": "Javier",
+       "rang": 2
+      },
+      {
+       "affiche": "PEELMAN Eddy",
+       "nat": "BEL",
+       "nom_famille": "PEELMAN",
+       "pays_site": "Bel",
+       "prenom": "Eddy",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1977,
+     "cle": "1977",
+     "podium": [
+      {
+       "affiche": "SUAREZ CUEVA Jesus",
+       "nom_famille": "SUAREZ CUEVA",
+       "prenom": "Jesus",
+       "rang": 1
+      },
+      {
+       "affiche": "MENENDEZ Antonio",
+       "nom_famille": "MENENDEZ",
+       "prenom": "Antonio",
+       "rang": 2
+      },
+      {
+       "affiche": "SAN JOSE José Luis",
+       "nom_famille": "SAN JOSE",
+       "prenom": "José Luis",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1978,
+     "cle": "1978",
+     "podium": [
+      {
+       "affiche": "VIEJO José Luis",
+       "nom_famille": "VIEJO",
+       "prenom": "José Luis",
+       "rang": 1
+      },
+      {
+       "affiche": "GARCIA Eulalio",
+       "nom_famille": "GARCIA",
+       "prenom": "Eulalio",
+       "rang": 2
+      },
+      {
+       "affiche": "SUAREZ CUEVA Jesus",
+       "nom_famille": "SUAREZ CUEVA",
+       "prenom": "Jesus",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1979,
+     "cle": "1979",
+     "podium": [
+      {
+       "affiche": "CEDENA Javier",
+       "nom_famille": "CEDENA",
+       "prenom": "Javier",
+       "rang": 1
+      },
+      {
+       "affiche": "FORTIA Jorge",
+       "nom_famille": "FORTIA",
+       "prenom": "Jorge",
+       "rang": 2
+      },
+      {
+       "affiche": "LOPEZ DEL ALAMO Angel",
+       "nom_famille": "LOPEZ DEL ALAMO",
+       "prenom": "Angel",
+       "rang": 3
+      }
+     ]
+    }
+   ],
    "gras": false,
    "groupe": "ESP",
    "id": "disparues-elola",
+   "lu_le": "2026-11-19T05:06:03Z",
    "nom": "Trofeo Elola",
    "section": "disparues",
    "suffixe_index": "1966-1979",
+   "titre_page": "Trofeo Elola (Esp) - Ex.",
    "url": "disparues/anc_elola.html"
   },
   "disparues-emiliano_lombardo": {
+   "drapeau": "ita",
+   "editions": [
+    {
+     "annee": 1912,
+     "cle": "1912",
+     "date": "1912-08-18",
+     "date_txt": "18 août",
+     "podium": [
+      {
+       "affiche": "TIBILETTI Alfredo",
+       "nom_famille": "TIBILETTI",
+       "prenom": "Alfredo",
+       "rang": 1
+      },
+      {
+       "affiche": "GIRARDENGO Costante",
+       "nom_famille": "GIRARDENGO",
+       "prenom": "Costante",
+       "rang": 2
+      },
+      {
+       "affiche": "ORIANI Carlo",
+       "nom_famille": "ORIANI",
+       "prenom": "Carlo",
+       "rang": 3
+      }
+     ]
+    }
+   ],
    "gras": false,
    "groupe": "ITA",
    "id": "disparues-emiliano_lombardo",
+   "lu_le": "2026-11-19T05:06:06Z",
    "nom": "Circuito Emiliano-Lombardo",
    "section": "disparues",
    "suffixe_index": "1912",
+   "titre_page": "Circuito Emiliano-Lombardo (Ita) - Ex.",
    "url": "disparues/anc_emiliano_lombardo.html"
   },
   "disparues-epernay_chaumont_belfort": {
