@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Relance des 5 collectes de sources (thesports, mdc, cqranking, museo, clics) dont la chaîne d'auto-relance s'est arrêtée :
+# Relance des 6 collectes de sources (thesports, mdc, cqranking, museo, cyclingranking, clics) dont la chaîne d'auto-relance s'est arrêtée :
 # le etat.json PUBLIÉ (API contents, pas le checkout du job) dit « termine: false », aucun passage n'est en file ou en
 # cours, et le dernier passage s'est TERMINÉ il y a au moins 60 min. Appelé par battement.yml seulement.
 # Environnement : REPO, GH_TOKEN. Surcharges facultatives : MAINTENANT (epoch), SOURCES (liste, défaut les 5),
@@ -12,7 +12,7 @@ maintenant=${MAINTENANT:-$(date -u +%s)}
 seuil=${SEUIL_SOURCES_MIN:-60}
 branche=${BRANCHE_DONNEES:-main}
 
-for src in ${SOURCES:-thesports mdc cqranking museo clics}; do
+for src in ${SOURCES:-thesports mdc cqranking museo cyclingranking clics}; do
   wf="$src.yml"
   etat=$(gh api -H "Accept: application/vnd.github.raw+json" \
            "repos/$REPO/contents/data/archives/sources/$src/etat.json?ref=$branche" 2>/dev/null) || etat=""

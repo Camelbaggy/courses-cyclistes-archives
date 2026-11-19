@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Battement auto-entretenu (appelé par battement.yml) : toutes les 10 min, un passage de veille.sh (archives.yml, wikidata.yml)
-# puis de relances_sources.sh (thesports, mdc, cqranking, museo). Après ~330 min, relance battement.yml puis se termine.
+# puis de relances_sources.sh (thesports, mdc, cqranking, museo, cyclingranking). Après ~330 min, relance battement.yml puis se termine.
 # Environnement : REPO, GH_TOKEN, SAISONS, CODE_DIR. Surcharges facultatives : DUREE_MIN (330) ou DUREE_S, PAUSE_S (600).
 set -u
 RACINE=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)

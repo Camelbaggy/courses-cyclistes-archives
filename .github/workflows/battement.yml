@@ -2,7 +2,7 @@ name: Battement (veille auto-entretenue)
 
 # GitHub saute la plupart des crons, mais jamais les workflow_dispatch. Ce workflow est donc un « battement » : un job de ~330 min
 # qui, toutes les 10 min, exécute les contrôles de veille.yml (archives.yml, wikidata.yml : .github/scripts/veille.sh) et relance
-# les 5 collectes de sources (thesports, mdc, cqranking, museo, clics) dont la chaîne d'auto-relance s'est arrêtée (etat.json publié
+# les 6 collectes de sources (thesports, mdc, cqranking, museo, cyclingranking, clics) dont la chaîne d'auto-relance s'est arrêtée (etat.json publié
 # « termine: false », aucun passage en file ou en cours, dernier passage terminé depuis >= 60 min : relances_sources.sh).
 # Au bout de ~330 min, il se relance lui-même (workflow_dispatch) puis se termine ; la concurrence (groupe battement, sans
 # annulation) place le suivant en attente jusqu'à la fin de celui-ci. Un autre battement déjà en cours à l'arrivée : sortie.
