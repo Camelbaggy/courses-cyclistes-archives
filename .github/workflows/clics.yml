@@ -1,0 +1,109 @@
+name: Clics sur le cyclisme (fiches de coureurs)
+
+# Collecte de Clics sur le cyclisme (clicssurlecyclisme.net ; accord du propriétaire du site, 19/11/2026, crédit « Clics sur le cyclisme ») :
+# fiches de coureurs (état civil, équipe de chaque saison, résultats bruts), pages découvertes par le sitemap.xml déclaré dans robots.txt
+# (robots.txt respecté), une page n'est relue que si son lastmod a changé. Écrit data/archives/sources/clics/ SEUL. Code : clics.py du
+# dépôt Camelbaggy/courses-cyclistes (main). >= 3,2 s entre requêtes, un seul passage à la fois. Se relance tant que etat.json annonce du
+# travail ET que le passage a changé des fichiers.
+on:
+  schedule:
+    - cron: '41 5 * * *'
+  workflow_dispatch:
+    inputs:
+      budget:
+        description: "Budget de temps du passage, en minutes"
+        required: false
+        default: "50"
+
+permissions:
+  contents: write
+  actions: write   # relance du workflow (gh workflow run)
+
+concurrency:
+  group: clics-data
+  cancel-in-progress: false
+
+jobs:
+  clics:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - name: Checkout du dépôt d'archives (données)
+        uses: actions/checkout@v4
+        with:
+          path: archives
+          ref: ${{ github.ref_name }}
+      - name: Checkout du dépôt principal (code)
+        uses: actions/checkout@v4
+        with:
+          repository: Camelbaggy/courses-cyclistes
+          ref: main
+          path: code
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Collecte Clics sur le cyclisme
+        env:
+          PYTHONUNBUFFERED: "1"
+          BUDGET_ENTREE: ${{ inputs.budget }}
+        run: |
+          BUDGET="${BUDGET_ENTREE:-50}"
+          echo "Budget : ${BUDGET} min"
+          echo "BUDGET=$BUDGET" >> "$GITHUB_ENV"
+          cd code
+          timeout $((BUDGET + 10))m python clics.py --sortie "$GITHUB_WORKSPACE/archives/data/archives/sources/clics" --archives "$GITHUB_WORKSPACE/archives/data/archives" --budget-min "$BUDGET"
+      - name: Commit des résultats
+        # même si la collecte a échoué ou dépassé le délai : ce qui est écrit (fichiers écrits au fil de l'eau) est conservé
+        if: ${{ !cancelled() }}
+        working-directory: archives
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/archives/sources/clics/
+          if git diff --cached --quiet; then echo "Aucun changement"; exit 0; fi
+          echo "CHANGED=1" >> "$GITHUB_ENV"
+          git commit -m "chore: fiches Clics sur le cyclisme"
+          # Poussée robuste : en cas de course (relance, passage concurrent d'un autre workflow), on rebase (nos fichiers
+          # l'emportent) et on réessaie, 5 fois au plus.
+          for ESSAI in 1 2 3 4 5; do
+            if git pull --rebase -X theirs origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}"; then
+              PUSH_OK=1
+              break
+            fi
+            echo "push refusé (essai ${ESSAI}/5)"
+            git rebase --abort 2>/dev/null || true
+            sleep $((5 + RANDOM % 16))
+          done
+          if [ "${PUSH_OK:-0}" != "1" ]; then
+            echo "::error::échec du push après 5 essais"
+            exit 1
+          fi
+      - name: Relance s'il reste du travail
+        env:
+          GH_TOKEN: ${{ github.token }}
+          BUDGET_ENTREE: ${{ inputs.budget }}
+        run: |
+          ETAT="archives/data/archives/sources/clics/etat.json"
+          RESTE=$(python -c "
+          import json, sys
+          try:
+              with open(sys.argv[1], encoding='utf-8') as f:
+                  e = json.load(f)
+              print('non' if e.get('termine') else 'oui (%s pages, dont %s à relire)' % (e.get('pages_restantes'), e.get('pages_a_relire')))
+          except (OSError, ValueError):
+              print('inconnu')
+          " "$ETAT")
+          if [ "$RESTE" = "non" ]; then
+            echo "pas de relance : collecte terminée (etat.json : termine)"
+          elif [ "$RESTE" = "inconnu" ]; then
+            echo "pas de relance : etat.json absent ou illisible"
+          elif [ "$CHANGED" != "1" ]; then
+            echo "pas de relance : reste du travail ($RESTE) mais ce passage n'a rien changé (pas de progrès)"
+          else
+            echo "relance : reste du travail $RESTE"
+            if [ -n "$BUDGET_ENTREE" ]; then
+              gh workflow run clics.yml --repo "$GITHUB_REPOSITORY" --ref "$GITHUB_REF_NAME" -f budget="$BUDGET_ENTREE"
+            else
+              gh workflow run clics.yml --repo "$GITHUB_REPOSITORY" --ref "$GITHUB_REF_NAME"
+            fi
+          fi
