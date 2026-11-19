@@ -1,8 +1,8 @@
 {
- "albos_restants": 96,
+ "albos_restants": 35,
  "coureurs_restants": 0,
  "editions_a_decider": 1,
- "editions_restantes": 530,
- "phase": "index",
+ "editions_restantes": 96,
+ "phase": "calendrier",
  "termine": false
 }
