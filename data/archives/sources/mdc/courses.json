@@ -232289,12 +232289,44 @@
    "url": "disparues/anc_eindhoven_ttt.html"
   },
   "disparues-elan_parisien": {
+   "drapeau": "fra",
+   "editions": [
+    {
+     "annee": 1950,
+     "cle": "1950",
+     "date": "1950-03-15",
+     "date_txt": "15 mars",
+     "podium": [
+      {
+       "affiche": "BARBOTIN Pierre",
+       "nom_famille": "BARBOTIN",
+       "prenom": "Pierre",
+       "rang": 1
+      },
+      {
+       "affiche": "AUDAIRE Amand",
+       "nom_famille": "AUDAIRE",
+       "prenom": "Amand",
+       "rang": 2
+      },
+      {
+       "affiche": "BAFFERT Emile",
+       "nom_famille": "BAFFERT",
+       "prenom": "Emile",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/premier_elan_parisien_1950.html"
+    }
+   ],
    "gras": true,
    "groupe": "FRA",
    "id": "disparues-elan_parisien",
+   "lu_le": "2026-11-19T04:15:34Z",
    "nom": "Premier élan parisien",
    "section": "disparues",
    "suffixe_index": "1950",
+   "titre_page": "Premier Elan parisien (Fra) - Ex.",
    "url": "disparues/anc_elan_parisien.html"
   },
   "disparues-elola": {
