@@ -286851,30 +286851,1090 @@
    "url": "disparues/anc_havre_libre.html"
   },
   "disparues-heestert_tournai_heestert": {
+   "drapeau": "bel",
+   "editions": [
+    {
+     "annee": 1953,
+     "cle": "1953",
+     "date": "1953-05-10",
+     "date_txt": "10 mai",
+     "podium": [
+      {
+       "affiche": "VANDECASTEELE Odiel",
+       "nom_famille": "VANDECASTEELE",
+       "prenom": "Odiel",
+       "rang": 1
+      },
+      {
+       "affiche": "VERBEKE Roger",
+       "nom_famille": "VERBEKE",
+       "prenom": "Roger",
+       "rang": 2
+      },
+      {
+       "affiche": "VAN DE WIELE Gilbert",
+       "nom_famille": "VAN DE WIELE",
+       "prenom": "Gilbert",
+       "rang": 3
+      }
+     ],
+     "url": "anc_belgique/heestert_tournai_heestert_1953.html"
+    },
+    {
+     "annee": 1954,
+     "cle": "1954",
+     "date": "1954-05-16",
+     "date_txt": "16 mai",
+     "podium": [
+      {
+       "affiche": "COOLS Julien",
+       "nom_famille": "COOLS",
+       "prenom": "Julien",
+       "rang": 1
+      },
+      {
+       "affiche": "AMELIJNCK Etienne",
+       "nom_famille": "AMELIJNCK",
+       "prenom": "Etienne",
+       "rang": 2
+      },
+      {
+       "affiche": "CHRISTIAENS Albert",
+       "nom_famille": "CHRISTIAENS",
+       "prenom": "Albert",
+       "rang": 3
+      }
+     ],
+     "url": "anc_belgique/heestert_tournai_heestert_1954.html"
+    },
+    {
+     "annee": 1955,
+     "cle": "1955",
+     "date": "1955-05-15",
+     "date_txt": "15 mai",
+     "podium": [
+      {
+       "affiche": "GOSSELIN Pierrot",
+       "nom_famille": "GOSSELIN",
+       "prenom": "Pierrot",
+       "rang": 1
+      },
+      {
+       "affiche": "VERBEKE Roger",
+       "nom_famille": "VERBEKE",
+       "prenom": "Roger",
+       "rang": 2
+      },
+      {
+       "affiche": "FORÉ Noël",
+       "nom_famille": "FORÉ",
+       "prenom": "Noël",
+       "rang": 3
+      }
+     ],
+     "url": "anc_belgique/heestert_tournai_heestert_1955.html"
+    },
+    {
+     "annee": 1959,
+     "cle": "1959",
+     "date": "1959-05-07",
+     "date_txt": "7 mai",
+     "podium": [
+      {
+       "affiche": "ONGENAE Marcel",
+       "nom_famille": "ONGENAE",
+       "prenom": "Marcel",
+       "rang": 1
+      },
+      {
+       "affiche": "SALEMBIER Wilfried",
+       "nom_famille": "SALEMBIER",
+       "prenom": "Wilfried",
+       "rang": 2
+      },
+      {
+       "affiche": "HUYGHE Victor",
+       "nom_famille": "HUYGHE",
+       "prenom": "Victor",
+       "rang": 3
+      }
+     ],
+     "url": "anc_belgique/heestert_tournai_heestert_1959.html"
+    },
+    {
+     "annee": 1960,
+     "cle": "1960",
+     "date": "1960-05-22",
+     "date_txt": "22 mai",
+     "podium": [
+      {
+       "affiche": "VAN POLLAERT Florent",
+       "nom_famille": "VAN POLLAERT",
+       "prenom": "Florent",
+       "rang": 1
+      },
+      {
+       "affiche": "DELEYE Johnny",
+       "nom_famille": "DELEYE",
+       "prenom": "Johnny",
+       "rang": 2
+      },
+      {
+       "affiche": "TEMBUYSER Willy",
+       "nom_famille": "TEMBUYSER",
+       "prenom": "Willy",
+       "rang": 3
+      }
+     ],
+     "url": "anc_belgique/heestert_tournai_heestert_1960.html"
+    },
+    {
+     "annee": 1961,
+     "cle": "1961",
+     "date": "1961-04-29",
+     "date_txt": "29 avril",
+     "podium": [
+      {
+       "affiche": "STEVENS Lucien",
+       "nom_famille": "STEVENS",
+       "prenom": "Lucien",
+       "rang": 1
+      },
+      {
+       "affiche": "GEKIERE Julien",
+       "nom_famille": "GEKIERE",
+       "prenom": "Julien",
+       "rang": 2
+      },
+      {
+       "affiche": "VANDECAVEYE Robert",
+       "nom_famille": "VANDECAVEYE",
+       "prenom": "Robert",
+       "rang": 3
+      }
+     ],
+     "url": "anc_belgique/heestert_tournai_heestert_1961.html"
+    },
+    {
+     "annee": 1962,
+     "cle": "1962",
+     "date": "1962-05-13",
+     "date_txt": "13 mai",
+     "podium": [
+      {
+       "affiche": "APER Roland",
+       "nom_famille": "APER",
+       "prenom": "Roland",
+       "rang": 1
+      },
+      {
+       "affiche": "CALLENS Eric",
+       "nom_famille": "CALLENS",
+       "prenom": "Eric",
+       "rang": 2
+      },
+      {
+       "affiche": "CARPENTIER Daniel",
+       "nom_famille": "CARPENTIER",
+       "prenom": "Daniel",
+       "rang": 3
+      }
+     ],
+     "url": "anc_belgique/heestert_tournai_heestert_1962.html"
+    },
+    {
+     "annee": 1963,
+     "cle": "1963",
+     "date": "1963-05-12",
+     "date_txt": "12 mai",
+     "podium": [
+      {
+       "affiche": "VAN DER VLOET Adriaan",
+       "nom_famille": "VAN DER VLOET",
+       "prenom": "Adriaan",
+       "rang": 1
+      },
+      {
+       "affiche": "GAELENS Julien",
+       "nom_famille": "GAELENS",
+       "prenom": "Julien",
+       "rang": 2
+      },
+      {
+       "affiche": "DE BRAUWER Urbain",
+       "nom_famille": "DE BRAUWER",
+       "prenom": "Urbain",
+       "rang": 3
+      }
+     ],
+     "url": "anc_belgique/heestert_tournai_heestert_1963.html"
+    },
+    {
+     "annee": 1964,
+     "cle": "1964",
+     "date": "1964-05-10",
+     "date_txt": "10 mai",
+     "podium": [
+      {
+       "affiche": "NEMEGEER Noël",
+       "nom_famille": "NEMEGEER",
+       "prenom": "Noël",
+       "rang": 1
+      },
+      {
+       "affiche": "STEENVOORDEN Piet",
+       "nat": "NED",
+       "nom_famille": "STEENVOORDEN",
+       "pays_site": "Hol",
+       "prenom": "Piet",
+       "rang": 2
+      },
+      {
+       "affiche": "ESPRIT Eric",
+       "nom_famille": "ESPRIT",
+       "prenom": "Eric",
+       "rang": 3
+      }
+     ],
+     "url": "anc_belgique/heestert_tournai_heestert_1964.html"
+    },
+    {
+     "annee": 1965,
+     "cle": "1965",
+     "date": "1965-05-09",
+     "date_txt": "9 mai",
+     "podium": [
+      {
+       "affiche": "DELVAEL Georges",
+       "nom_famille": "DELVAEL",
+       "prenom": "Georges",
+       "rang": 1
+      },
+      {
+       "affiche": "CRIEL Hubert",
+       "nom_famille": "CRIEL",
+       "prenom": "Hubert",
+       "rang": 2
+      },
+      {
+       "affiche": "DELAMEILLEURE Daniel",
+       "nom_famille": "DELAMEILLEURE",
+       "prenom": "Daniel",
+       "rang": 3
+      }
+     ],
+     "url": "anc_belgique/heestert_tournai_heestert_1965.html"
+    }
+   ],
    "gras": true,
    "groupe": "BEL",
    "id": "disparues-heestert_tournai_heestert",
+   "lu_le": "2026-11-20T04:44:54Z",
    "nom": "Heestert-Tournai-Heestert",
    "section": "disparues",
    "suffixe_index": "1953-1965",
+   "titre_page": "Heestert-Tournai-Heestert (Bel) - Ex.",
    "url": "disparues/anc_heestert_tournai_heestert.html"
   },
   "disparues-herault": {
+   "drapeau": "fra",
+   "editions": [
+    {
+     "annee": 1961,
+     "cle": "1961",
+     "podium": [
+      {
+       "affiche": "GEYRE Arnaud",
+       "nom_famille": "GEYRE",
+       "prenom": "Arnaud",
+       "rang": 1
+      },
+      {
+       "affiche": "COSSOU",
+       "nom_famille": "COSSOU",
+       "rang": 2
+      },
+      {
+       "affiche": "ABADIE René",
+       "nom_famille": "ABADIE",
+       "prenom": "René",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1962,
+     "cle": "1962",
+     "date": "1962-03-18",
+     "date_txt": "18 mars",
+     "podium": [
+      {
+       "affiche": "SALVADOR Gilbert",
+       "nom_famille": "SALVADOR",
+       "prenom": "Gilbert",
+       "rang": 1
+      },
+      {
+       "affiche": "MILESI Jean",
+       "nom_famille": "MILESI",
+       "prenom": "Jean",
+       "rang": 2
+      },
+      {
+       "affiche": "VIOT Bernard",
+       "nom_famille": "VIOT",
+       "prenom": "Bernard",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/td_herault_1962.html"
+    },
+    {
+     "annee": 1963,
+     "cle": "1963",
+     "date": "1963-05-31",
+     "date_txt": "31 mai",
+     "podium": [
+      {
+       "affiche": "VALDOIS Gilbert",
+       "nom_famille": "VALDOIS",
+       "prenom": "Gilbert",
+       "rang": 1
+      },
+      {
+       "affiche": "VIOT Bernard",
+       "nom_famille": "VIOT",
+       "prenom": "Bernard",
+       "rang": 2
+      },
+      {
+       "affiche": "DUCARD Robert",
+       "nom_famille": "DUCARD",
+       "prenom": "Robert",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/td_herault_1963.html"
+    },
+    {
+     "annee": 1964,
+     "cle": "1964",
+     "date": "1964-04-05",
+     "date_txt": "5 avril",
+     "podium": [
+      {
+       "affiche": "DEN HARTOG Arie",
+       "nat": "NED",
+       "nom_famille": "DEN HARTOG",
+       "pays_site": "Hol",
+       "prenom": "Arie",
+       "rang": 1
+      },
+      {
+       "affiche": "ANASTASI Jean",
+       "nom_famille": "ANASTASI",
+       "prenom": "Jean",
+       "rang": 2
+      },
+      {
+       "affiche": "NOVAK Anatole",
+       "nom_famille": "NOVAK",
+       "prenom": "Anatole",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/td_herault_1964.html"
+    },
+    {
+     "annee": 1965,
+     "cle": "1965",
+     "date": "1965-04-22",
+     "date_txt": "22 avril",
+     "podium": [
+      {
+       "affiche": "NOVAK Anatole",
+       "nom_famille": "NOVAK",
+       "prenom": "Anatole",
+       "rang": 1
+      },
+      {
+       "affiche": "GENET Jean-Pierre",
+       "nom_famille": "GENET",
+       "prenom": "Jean-Pierre",
+       "rang": 2
+      },
+      {
+       "affiche": "FERRER Hubert",
+       "nom_famille": "FERRER",
+       "prenom": "Hubert",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/td_herault_1965.html"
+    },
+    {
+     "annee": 1966,
+     "cle": "1966",
+     "date": "1966-04-21",
+     "date_txt": "21 avril",
+     "podium": [
+      {
+       "affiche": "ANGLADE Henry",
+       "nom_famille": "ANGLADE",
+       "prenom": "Henry",
+       "rang": 1
+      },
+      {
+       "affiche": "FOUCHET André",
+       "nom_famille": "FOUCHET",
+       "prenom": "André",
+       "rang": 2
+      },
+      {
+       "affiche": "FERRER Hubert",
+       "nom_famille": "FERRER",
+       "prenom": "Hubert",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/td_herault_1966.html"
+    },
+    {
+     "annee": 1967,
+     "cle": "1967",
+     "date": "1967-04-20",
+     "date_txt": "20 avril",
+     "podium": [
+      {
+       "affiche": "GUYOT Bernard",
+       "nom_famille": "GUYOT",
+       "prenom": "Bernard",
+       "rang": 1
+      },
+      {
+       "affiche": "ANQUETIL Jacques",
+       "nom_famille": "ANQUETIL",
+       "prenom": "Jacques",
+       "rang": 2
+      },
+      {
+       "affiche": "JANSSEN Jan",
+       "nat": "NED",
+       "nom_famille": "JANSSEN",
+       "pays_site": "Hol",
+       "prenom": "Jan",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/td_herault_1967.html"
+    },
+    {
+     "annee": 1968,
+     "cle": "1968",
+     "date": "1968-04-25",
+     "date_txt": "25 avril",
+     "podium": [
+      {
+       "affiche": "LEGEIN Robert",
+       "nat": "BEL",
+       "nom_famille": "LEGEIN",
+       "pays_site": "Bel",
+       "prenom": "Robert",
+       "rang": 1
+      },
+      {
+       "affiche": "RIOTTE Raymond",
+       "nom_famille": "RIOTTE",
+       "prenom": "Raymond",
+       "rang": 2
+      },
+      {
+       "affiche": "GENET Jean-Pierre",
+       "nom_famille": "GENET",
+       "prenom": "Jean-Pierre",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/td_herault_1968.html"
+    },
+    {
+     "annee": 1969,
+     "cle": "1969",
+     "date": "1969-04-24",
+     "date_txt": "24 avril",
+     "podium": [
+      {
+       "affiche": "DELISLE Raymond",
+       "nom_famille": "DELISLE",
+       "prenom": "Raymond",
+       "rang": 1
+      },
+      {
+       "affiche": "RIOTTE Raymond",
+       "nom_famille": "RIOTTE",
+       "prenom": "Raymond",
+       "rang": 2
+      },
+      {
+       "affiche": "DALER Jiri",
+       "nat": "TCH",
+       "nom_famille": "DALER",
+       "pays_site": "Tch",
+       "prenom": "Jiri",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/td_herault_1969.html"
+    },
+    {
+     "annee": 1970,
+     "cle": "1970",
+     "date": "1970-04-23",
+     "date_txt": "23 avril",
+     "podium": [
+      {
+       "affiche": "CATIEAU José",
+       "nom_famille": "CATIEAU",
+       "prenom": "José",
+       "rang": 1
+      },
+      {
+       "affiche": "GENET Jean-Pierre",
+       "nom_famille": "GENET",
+       "prenom": "Jean-Pierre",
+       "rang": 2
+      },
+      {
+       "affiche": "LEBLANC Jean-Marie",
+       "nom_famille": "LEBLANC",
+       "prenom": "Jean-Marie",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/td_herault_1970.html"
+    }
+   ],
    "gras": true,
    "groupe": "FRA",
    "id": "disparues-herault",
+   "lu_le": "2026-11-20T04:45:30Z",
    "nom": "Tour de l'Hérault",
    "section": "disparues",
    "suffixe_index": "1961-1970",
+   "titre_page": "Tour de l'Hérault (Fra) - Ex.",
    "url": "disparues/anc_herault.html"
   },
   "disparues-hesbaye": {
+   "drapeau": "bel",
+   "editions": [
+    {
+     "annee": 1933,
+     "cle": "1933",
+     "date": "1933-03-19",
+     "date_txt": "19 mars",
+     "podium": [
+      {
+       "affiche": "DUERLOO Louis",
+       "nom_famille": "DUERLOO",
+       "prenom": "Louis",
+       "rang": 1
+      },
+      {
+       "affiche": "WAUTERS Jean",
+       "nom_famille": "WAUTERS",
+       "prenom": "Jean",
+       "rang": 2
+      },
+      {
+       "affiche": "DICTUS Frans",
+       "nom_famille": "DICTUS",
+       "prenom": "Frans",
+       "rang": 3
+      }
+     ],
+     "url": "anc_belgique/hesbaye_1933.html"
+    },
+    {
+     "annee": 1934,
+     "cle": "1934",
+     "date": "1934-03-25",
+     "date_txt": "25 mars",
+     "podium": [
+      {
+       "affiche": "DICTUS Frans",
+       "nom_famille": "DICTUS",
+       "prenom": "Frans",
+       "rang": 1
+      },
+      {
+       "affiche": "VERLINDEN André",
+       "nom_famille": "VERLINDEN",
+       "prenom": "André",
+       "rang": 2
+      },
+      {
+       "affiche": "HARDIQUEST Louis",
+       "nom_famille": "HARDIQUEST",
+       "prenom": "Louis",
+       "rang": 3
+      }
+     ],
+     "url": "anc_belgique/hesbaye_1934.html"
+    },
+    {
+     "annee": 1935,
+     "cle": "1935",
+     "date": "1935-03-24",
+     "date_txt": "24 mars",
+     "podium": [
+      {
+       "affiche": "BONDUEL Frans",
+       "nom_famille": "BONDUEL",
+       "prenom": "Frans",
+       "rang": 1
+      },
+      {
+       "affiche": "VAN DER RUIT Gerrit",
+       "nat": "NED",
+       "nom_famille": "VAN DER RUIT",
+       "pays_site": "Hol",
+       "prenom": "Gerrit",
+       "rang": 2
+      },
+      {
+       "affiche": "HUTS Joseph",
+       "nom_famille": "HUTS",
+       "prenom": "Joseph",
+       "rang": 3
+      }
+     ],
+     "url": "anc_belgique/hesbaye_1935.html"
+    },
+    {
+     "annee": 1941,
+     "cle": "1941",
+     "date": "1941-08-15",
+     "date_txt": "15 août",
+     "podium": [
+      {
+       "affiche": "CLAES Georges",
+       "nom_famille": "CLAES",
+       "prenom": "Georges",
+       "rang": 1
+      },
+      {
+       "affiche": "DELTOUR Hubert",
+       "nom_famille": "DELTOUR",
+       "prenom": "Hubert",
+       "rang": 2
+      },
+      {
+       "affiche": "MICHIELS Lode",
+       "nom_famille": "MICHIELS",
+       "prenom": "Lode",
+       "rang": 3
+      }
+     ],
+     "url": "anc_belgique/hesbaye_1941.html"
+    },
+    {
+     "annee": 1942,
+     "cle": "1942",
+     "date": "1942-08-10",
+     "date_txt": "10 août",
+     "podium": [
+      {
+       "affiche": "CLAES Georges",
+       "nom_famille": "CLAES",
+       "prenom": "Georges",
+       "rang": 1
+      },
+      {
+       "affiche": "POELS Louis",
+       "nom_famille": "POELS",
+       "prenom": "Louis",
+       "rang": 2
+      },
+      {
+       "affiche": "JACOBS Eugeen",
+       "nom_famille": "JACOBS",
+       "prenom": "Eugeen",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1950,
+     "cle": "1950",
+     "date": "1950-03-26",
+     "date_txt": "26 mars",
+     "podium": [
+      {
+       "affiche": "BREUER Jean",
+       "nom_famille": "BREUER",
+       "prenom": "Jean",
+       "rang": 1
+      },
+      {
+       "affiche": "VERSCHUEREN Marcel",
+       "nom_famille": "VERSCHUEREN",
+       "prenom": "Marcel",
+       "rang": 2
+      },
+      {
+       "affiche": "CERAMI Pino",
+       "nat": "ITA",
+       "nom_famille": "CERAMI",
+       "pays_site": "Ita",
+       "prenom": "Pino",
+       "rang": 3
+      }
+     ],
+     "url": "anc_belgique/hesbaye_1950.html"
+    },
+    {
+     "annee": 1951,
+     "cle": "1951",
+     "date": "1951-05-03",
+     "date_txt": "3 mai",
+     "podium": [
+      {
+       "affiche": "MOLLIN Maurice",
+       "nom_famille": "MOLLIN",
+       "prenom": "Maurice",
+       "rang": 1
+      },
+      {
+       "affiche": "VANDERSTOCKT Robert",
+       "nom_famille": "VANDERSTOCKT",
+       "prenom": "Robert",
+       "rang": 2
+      },
+      {
+       "affiche": "VAN ROOSBROECK Eugène",
+       "nom_famille": "VAN ROOSBROECK",
+       "prenom": "Eugène",
+       "rang": 3
+      }
+     ],
+     "url": "anc_belgique/hesbaye_1951.html"
+    },
+    {
+     "annee": 1952,
+     "cle": "1952",
+     "date": "1952-03-16",
+     "date_txt": "16 mars",
+     "podium": [
+      {
+       "affiche": "IMPANIS Raymond",
+       "nom_famille": "IMPANIS",
+       "prenom": "Raymond",
+       "rang": 1
+      },
+      {
+       "affiche": "DE BAERE Karel",
+       "nom_famille": "DE BAERE",
+       "prenom": "Karel",
+       "rang": 2
+      },
+      {
+       "affiche": "KETELEER Désiré",
+       "nom_famille": "KETELEER",
+       "prenom": "Désiré",
+       "rang": 3
+      }
+     ],
+     "url": "anc_belgique/hesbaye_1952.html"
+    },
+    {
+     "annee": 1953,
+     "cle": "1953",
+     "date": "1953-03-14",
+     "date_txt": "14 mars",
+     "podium": [
+      {
+       "affiche": "WAGTMANS Wout",
+       "nat": "NED",
+       "nom_famille": "WAGTMANS",
+       "pays_site": "Hol",
+       "prenom": "Wout",
+       "rang": 1
+      },
+      {
+       "affiche": "LAMBRICHS Jan",
+       "nom_famille": "LAMBRICHS",
+       "prenom": "Jan",
+       "rang": 2
+      },
+      {
+       "affiche": "RYCKAERT Marcel",
+       "nom_famille": "RYCKAERT",
+       "prenom": "Marcel",
+       "rang": 3
+      }
+     ],
+     "url": "anc_belgique/hesbaye_1953.html"
+    },
+    {
+     "annee": 1954,
+     "cle": "1954",
+     "date": "1954-03-21",
+     "date_txt": "21 mars",
+     "podium": [
+      {
+       "affiche": "SCHILS Jozef",
+       "nom_famille": "SCHILS",
+       "prenom": "Jozef",
+       "rang": 1
+      },
+      {
+       "affiche": "DESMET Gilbert 1",
+       "nom_famille": "DESMET",
+       "prenom": "Gilbert 1",
+       "rang": 2
+      },
+      {
+       "affiche": "CERAMI Pino",
+       "nat": "ITA",
+       "nom_famille": "CERAMI",
+       "pays_site": "Ita",
+       "prenom": "Pino",
+       "rang": 3
+      }
+     ],
+     "url": "anc_belgique/hesbaye_1954.html"
+    },
+    {
+     "annee": 1955,
+     "cle": "1955",
+     "date": "1955-03-13",
+     "date_txt": "13 mars",
+     "podium": [
+      {
+       "affiche": "STERCKX Ernest",
+       "nom_famille": "STERCKX",
+       "prenom": "Ernest",
+       "rang": 1
+      },
+      {
+       "affiche": "DE WACHTER Gaston",
+       "nom_famille": "DE WACHTER",
+       "prenom": "Gaston",
+       "rang": 2
+      },
+      {
+       "affiche": "ANTHONIS Lode",
+       "nom_famille": "ANTHONIS",
+       "prenom": "Lode",
+       "rang": 3
+      }
+     ],
+     "url": "anc_belgique/hesbaye_1955.html"
+    },
+    {
+     "annee": 1956,
+     "cle": "1956",
+     "date": "1956-03-18",
+     "date_txt": "18 mars",
+     "podium": [
+      {
+       "affiche": "DEBORRE Gérard",
+       "nom_famille": "DEBORRE",
+       "prenom": "Gérard",
+       "rang": 1
+      },
+      {
+       "affiche": "STERCKX Ernest",
+       "nom_famille": "STERCKX",
+       "prenom": "Ernest",
+       "rang": 2
+      },
+      {
+       "affiche": "ANTHONIS Lode",
+       "nom_famille": "ANTHONIS",
+       "prenom": "Lode",
+       "rang": 3
+      }
+     ],
+     "url": "anc_belgique/hesbaye_1956.html"
+    },
+    {
+     "annee": 1957,
+     "cle": "1957",
+     "date": "1957-03-17",
+     "date_txt": "17 mars",
+     "podium": [
+      {
+       "affiche": "DERIJCKE Germain",
+       "nom_famille": "DERIJCKE",
+       "prenom": "Germain",
+       "rang": 1
+      },
+      {
+       "affiche": "MOLENAERS Yvo",
+       "nom_famille": "MOLENAERS",
+       "prenom": "Yvo",
+       "rang": 2
+      },
+      {
+       "affiche": "VAN GENEUGDEN Martin",
+       "nom_famille": "VAN GENEUGDEN",
+       "prenom": "Martin",
+       "rang": 3
+      }
+     ],
+     "url": "anc_belgique/hesbaye_1957.html"
+    },
+    {
+     "annee": 1958,
+     "cle": "1958",
+     "date": "1958-03-16",
+     "date_txt": "16 mars",
+     "podium": [
+      {
+       "affiche": "VAN DEN BOSSCHE Henri",
+       "nom_famille": "VAN DEN BOSSCHE",
+       "prenom": "Henri",
+       "rang": 1
+      },
+      {
+       "affiche": "SEVEREYNS Emiel",
+       "nom_famille": "SEVEREYNS",
+       "prenom": "Emiel",
+       "rang": 2
+      },
+      {
+       "affiche": "SCHAEKEN Léopold",
+       "nom_famille": "SCHAEKEN",
+       "prenom": "Léopold",
+       "rang": 3
+      }
+     ],
+     "url": "anc_belgique/hesbaye_1958.html"
+    },
+    {
+     "annee": 1960,
+     "cle": "1960",
+     "date": "1960-03-20",
+     "date_txt": "20 mars",
+     "podium": [
+      {
+       "affiche": "VAN DER BORGH Martin",
+       "nat": "NED",
+       "nom_famille": "VAN DER BORGH",
+       "pays_site": "Hol",
+       "prenom": "Martin",
+       "rang": 1
+      },
+      {
+       "affiche": "DE KEULENAER René",
+       "nom_famille": "DE KEULENAER",
+       "prenom": "René",
+       "rang": 2
+      },
+      {
+       "affiche": "BOSMANS Joseph",
+       "nom_famille": "BOSMANS",
+       "prenom": "Joseph",
+       "rang": 3
+      }
+     ],
+     "url": "anc_belgique/hesbaye_1960.html"
+    },
+    {
+     "annee": 1961,
+     "cle": "1961",
+     "date": "1961-03-19",
+     "date_txt": "19 mars",
+     "podium": [
+      {
+       "affiche": "VERACHTERT Jozef",
+       "nom_famille": "VERACHTERT",
+       "prenom": "Jozef",
+       "rang": 1
+      },
+      {
+       "affiche": "VAN STEENBERGEN Rik",
+       "nom_famille": "VAN STEENBERGEN",
+       "prenom": "Rik",
+       "rang": 2
+      },
+      {
+       "affiche": "ZAGERS Jan",
+       "nom_famille": "ZAGERS",
+       "prenom": "Jan",
+       "rang": 3
+      }
+     ],
+     "url": "anc_belgique/hesbaye_1961.html"
+    },
+    {
+     "annee": 1962,
+     "cle": "1962",
+     "date": "1962-03-18",
+     "date_txt": "18 mars",
+     "podium": [
+      {
+       "affiche": "HERMANS Alfons",
+       "nom_famille": "HERMANS",
+       "prenom": "Alfons",
+       "rang": 1
+      },
+      {
+       "affiche": "KERSTEN Jaap",
+       "nat": "NED",
+       "nom_famille": "KERSTEN",
+       "pays_site": "Hol",
+       "prenom": "Jaap",
+       "rang": 2
+      },
+      {
+       "affiche": "TROONBECKX Louis",
+       "nom_famille": "TROONBECKX",
+       "prenom": "Louis",
+       "rang": 3
+      }
+     ],
+     "url": "anc_belgique/hesbaye_1962.html"
+    },
+    {
+     "annee": 1963,
+     "cle": "1963",
+     "date": "1963-03-10",
+     "date_txt": "10 mars",
+     "podium": [
+      {
+       "affiche": "THYSSEN René",
+       "nom_famille": "THYSSEN",
+       "prenom": "René",
+       "rang": 1
+      },
+      {
+       "affiche": "DE HAAN Jo",
+       "nat": "NED",
+       "nom_famille": "DE HAAN",
+       "pays_site": "Hol",
+       "prenom": "Jo",
+       "rang": 2
+      },
+      {
+       "affiche": "CLAES Jean-Baptiste",
+       "nom_famille": "CLAES",
+       "prenom": "Jean-Baptiste",
+       "rang": 3
+      }
+     ],
+     "url": "anc_belgique/hesbaye_1963.html"
+    }
+   ],
    "gras": true,
    "groupe": "BEL",
    "id": "disparues-hesbaye",
+   "lu_le": "2026-11-20T04:46:01Z",
    "nom": "Tour d'Hesbaye",
    "section": "disparues",
    "suffixe_index": "1933-1963",
+   "titre_page": "Tour d'Hesbaye (Bel) - Ex.",
    "url": "disparues/anc_hesbaye.html"
   },
   "disparues-hesbaye_condroz": {

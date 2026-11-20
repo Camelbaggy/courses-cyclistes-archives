@@ -2724,6 +2724,111 @@
   "essais": 1,
   "regle": 2
  },
+ "anc_belgique/heestert_tournai_heestert_1953.html": {
+  "dernier_essai": "2026-11-20T04:44:57Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_belgique/heestert_tournai_heestert_1954.html": {
+  "dernier_essai": "2026-11-20T04:45:01Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_belgique/heestert_tournai_heestert_1955.html": {
+  "dernier_essai": "2026-11-20T04:45:04Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_belgique/heestert_tournai_heestert_1959.html": {
+  "dernier_essai": "2026-11-20T04:45:07Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_belgique/heestert_tournai_heestert_1960.html": {
+  "dernier_essai": "2026-11-20T04:45:10Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_belgique/heestert_tournai_heestert_1961.html": {
+  "dernier_essai": "2026-11-20T04:45:13Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_belgique/heestert_tournai_heestert_1962.html": {
+  "dernier_essai": "2026-11-20T04:45:17Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_belgique/heestert_tournai_heestert_1963.html": {
+  "dernier_essai": "2026-11-20T04:45:20Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_belgique/heestert_tournai_heestert_1964.html": {
+  "dernier_essai": "2026-11-20T04:45:23Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_belgique/heestert_tournai_heestert_1965.html": {
+  "dernier_essai": "2026-11-20T04:45:26Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_belgique/hesbaye_1933.html": {
+  "dernier_essai": "2026-11-20T04:46:05Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_belgique/hesbaye_1934.html": {
+  "dernier_essai": "2026-11-20T04:46:08Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_belgique/hesbaye_1935.html": {
+  "dernier_essai": "2026-11-20T04:46:11Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_belgique/hesbaye_1941.html": {
+  "dernier_essai": "2026-11-20T04:46:14Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_belgique/hesbaye_1950.html": {
+  "dernier_essai": "2026-11-20T04:46:17Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_belgique/hesbaye_1951.html": {
+  "dernier_essai": "2026-11-20T04:46:21Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_belgique/hesbaye_1952.html": {
+  "dernier_essai": "2026-11-20T04:46:24Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_belgique/hesbaye_1953.html": {
+  "dernier_essai": "2026-11-20T04:46:27Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_belgique/hesbaye_1954.html": {
+  "dernier_essai": "2026-11-20T04:46:30Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_belgique/hesbaye_1955.html": {
+  "dernier_essai": "2026-11-20T04:46:33Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_belgique/hesbaye_1956.html": {
+  "dernier_essai": "2026-11-20T04:46:37Z",
+  "essais": 1,
+  "regle": 2
+ },
  "anc_belgique/hulste_ingelmunster_1964.html": {
   "dernier_essai": "2026-11-20T00:48:40Z",
   "essais": 2,
@@ -10396,6 +10501,51 @@
  },
  "anc_france_cla/provence1945.html": {
   "dernier_essai": "2026-11-20T02:09:58Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/td_herault_1962.html": {
+  "dernier_essai": "2026-11-20T04:45:33Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/td_herault_1963.html": {
+  "dernier_essai": "2026-11-20T04:45:36Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/td_herault_1964.html": {
+  "dernier_essai": "2026-11-20T04:45:39Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/td_herault_1965.html": {
+  "dernier_essai": "2026-11-20T04:45:42Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/td_herault_1966.html": {
+  "dernier_essai": "2026-11-20T04:45:45Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/td_herault_1967.html": {
+  "dernier_essai": "2026-11-20T04:45:49Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/td_herault_1968.html": {
+  "dernier_essai": "2026-11-20T04:45:52Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/td_herault_1969.html": {
+  "dernier_essai": "2026-11-20T04:45:55Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/td_herault_1970.html": {
+  "dernier_essai": "2026-11-20T04:45:58Z",
   "essais": 1,
   "regle": 2
  },
