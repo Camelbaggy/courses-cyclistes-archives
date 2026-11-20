@@ -2514,6 +2514,11 @@
   "essais": 1,
   "regle": 2
  },
+ "anc_belgique/gp_frans_verbeeck_1978.html": {
+  "dernier_essai": "2026-11-20T02:58:52Z",
+  "essais": 1,
+  "regle": 2
+ },
  "anc_belgique/gp_groene_zegel_1930.html": {
   "dernier_essai": "2026-11-20T01:53:50Z",
   "essais": 1,
@@ -2641,6 +2646,56 @@
  },
  "anc_belgique/gp_salvarani_1967.html": {
   "dernier_essai": "2026-11-20T02:11:15Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_belgique/gp_tielt_1911.html": {
+  "dernier_essai": "2026-11-20T02:56:41Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_belgique/gp_tielt_1935.html": {
+  "dernier_essai": "2026-11-20T02:56:44Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_belgique/gp_tielt_1941.html": {
+  "dernier_essai": "2026-11-20T02:56:47Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_belgique/gp_tielt_1942.html": {
+  "dernier_essai": "2026-11-20T02:56:51Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_belgique/gp_tielt_1948.html": {
+  "dernier_essai": "2026-11-20T02:56:54Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_belgique/gp_tielt_1949.html": {
+  "dernier_essai": "2026-11-20T02:56:57Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_belgique/gp_tielt_1957.html": {
+  "dernier_essai": "2026-11-20T02:57:00Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_belgique/gp_tielt_1958.html": {
+  "dernier_essai": "2026-11-20T02:57:03Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_belgique/gp_tielt_1959.html": {
+  "dernier_essai": "2026-11-20T02:57:07Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_belgique/gp_tielt_1960.html": {
+  "dernier_essai": "2026-11-20T02:57:10Z",
   "essais": 1,
   "regle": 2
  },
@@ -3799,6 +3854,36 @@
   "essais": 1,
   "regle": 2
  },
+ "anc_espagne/gp_victoria_1940.html": {
+  "dernier_essai": "2026-11-20T03:00:06Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_espagne/gp_victoria_1942.html": {
+  "dernier_essai": "2026-11-20T03:00:09Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_espagne/gp_victoria_1943.html": {
+  "dernier_essai": "2026-11-20T03:00:12Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_espagne/gp_victoria_1944.html": {
+  "dernier_essai": "2026-11-20T03:00:15Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_espagne/gp_victoria_1945.html": {
+  "dernier_essai": "2026-11-20T03:00:19Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_espagne/gp_victoria_1946.html": {
+  "dernier_essai": "2026-11-20T03:00:22Z",
+  "essais": 1,
+  "regle": 2
+ },
  "anc_espagne/gran_premio_alava_1942.html": {
   "dernier_essai": "2026-11-20T01:42:50Z",
   "essais": 1,
@@ -3806,6 +3891,56 @@
  },
  "anc_espagne/gran_premio_alava_1943.html": {
   "dernier_essai": "2026-11-20T01:42:53Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_espagne/gran_premio_torrelavega_1934.html": {
+  "dernier_essai": "2026-11-20T03:05:00Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_espagne/gran_premio_torrelavega_1935.html": {
+  "dernier_essai": "2026-11-20T03:05:03Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_espagne/gran_premio_torrelavega_1939.html": {
+  "dernier_essai": "2026-11-20T03:05:06Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_espagne/zumarraga_1953.html": {
+  "dernier_essai": "2026-11-20T03:04:34Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_espagne/zumarraga_1954.html": {
+  "dernier_essai": "2026-11-20T03:04:37Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_espagne/zumarraga_1955.html": {
+  "dernier_essai": "2026-11-20T03:04:41Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_espagne/zumarraga_1956.html": {
+  "dernier_essai": "2026-11-20T03:04:44Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_espagne/zumarraga_1957.html": {
+  "dernier_essai": "2026-11-20T03:04:47Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_espagne/zumarraga_1958.html": {
+  "dernier_essai": "2026-11-20T03:04:50Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_espagne/zumarraga_1959.html": {
+  "dernier_essai": "2026-11-20T03:04:53Z",
   "essais": 1,
   "regle": 2
  },
@@ -4006,6 +4141,21 @@
  },
  "anc_europe/gp_nederland_1966.html": {
   "dernier_essai": "2026-11-20T02:05:26Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_europe/gp_weltour_2000.html": {
+  "dernier_essai": "2026-11-20T03:02:52Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_europe/gp_weltour_2002.html": {
+  "dernier_essai": "2026-11-20T03:02:56Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_europe/gp_winterthur_2002.html": {
+  "dernier_essai": "2026-11-20T03:03:05Z",
   "essais": 1,
   "regle": 2
  },
@@ -9414,6 +9564,311 @@
   "essais": 1,
   "regle": 2
  },
+ "anc_france_cla/gp_troyes_1935.html": {
+  "dernier_essai": "2026-11-20T02:57:35Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_troyes_1936.html": {
+  "dernier_essai": "2026-11-20T02:57:39Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_troyes_1937.html": {
+  "dernier_essai": "2026-11-20T02:57:42Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_urago_1931.html": {
+  "dernier_essai": "2026-11-20T02:57:51Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_urago_1932.html": {
+  "dernier_essai": "2026-11-20T02:57:55Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_urago_1933.html": {
+  "dernier_essai": "2026-11-20T02:57:58Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_urago_1934.html": {
+  "dernier_essai": "2026-11-20T02:58:01Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_urago_1935.html": {
+  "dernier_essai": "2026-11-20T02:58:04Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_urago_1936.html": {
+  "dernier_essai": "2026-11-20T02:58:07Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_victoire_1919.html": {
+  "dernier_essai": "2026-11-20T02:58:59Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_victoire_1920.html": {
+  "dernier_essai": "2026-11-20T02:59:02Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_victoire_1921.html": {
+  "dernier_essai": "2026-11-20T02:59:05Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_victoire_1922.html": {
+  "dernier_essai": "2026-11-20T02:59:08Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_victoire_1923.html": {
+  "dernier_essai": "2026-11-20T02:59:11Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_victoire_1924.html": {
+  "dernier_essai": "2026-11-20T02:59:15Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_victoire_1925.html": {
+  "dernier_essai": "2026-11-20T02:59:18Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_victoire_1926.html": {
+  "dernier_essai": "2026-11-20T02:59:21Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_victoire_1927.html": {
+  "dernier_essai": "2026-11-20T02:59:24Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_victoire_1928.html": {
+  "dernier_essai": "2026-11-20T02:59:28Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_victoire_1929.html": {
+  "dernier_essai": "2026-11-20T02:59:31Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_victoire_1930.html": {
+  "dernier_essai": "2026-11-20T02:59:34Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_victoire_1931.html": {
+  "dernier_essai": "2026-11-20T02:59:37Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_victoire_1932.html": {
+  "dernier_essai": "2026-11-20T02:59:40Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_victoire_1933.html": {
+  "dernier_essai": "2026-11-20T02:59:43Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_victoire_1934.html": {
+  "dernier_essai": "2026-11-20T02:59:47Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_victoire_1935.html": {
+  "dernier_essai": "2026-11-20T02:59:50Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_victoire_1936.html": {
+  "dernier_essai": "2026-11-20T02:59:53Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_victoire_1937.html": {
+  "dernier_essai": "2026-11-20T02:59:56Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_victoire_1938.html": {
+  "dernier_essai": "2026-11-20T02:59:59Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_ville_gueret_1961.html": {
+  "dernier_essai": "2026-11-20T03:01:29Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_ville_limoges_1930.html": {
+  "dernier_essai": "2026-11-20T03:01:35Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_ville_limoges_1931.html": {
+  "dernier_essai": "2026-11-20T03:01:39Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_ville_limoges_1932.html": {
+  "dernier_essai": "2026-11-20T03:01:42Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_ville_limoges_1933.html": {
+  "dernier_essai": "2026-11-20T03:01:45Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_ville_limoges_1934.html": {
+  "dernier_essai": "2026-11-20T03:01:48Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_ville_limoges_1935.html": {
+  "dernier_essai": "2026-11-20T03:01:51Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_ville_limoges_1936.html": {
+  "dernier_essai": "2026-11-20T03:01:55Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_ville_limoges_1937.html": {
+  "dernier_essai": "2026-11-20T03:01:58Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_ville_limoges_1938.html": {
+  "dernier_essai": "2026-11-20T03:02:01Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_ville_limoges_1939.html": {
+  "dernier_essai": "2026-11-20T03:02:04Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_ville_limoges_1941.html": {
+  "dernier_essai": "2026-11-20T03:02:07Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_ville_limoges_1949.html": {
+  "dernier_essai": "2026-11-20T03:02:11Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_ville_limoges_1950.html": {
+  "dernier_essai": "2026-11-20T03:02:14Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_ville_limoges_1951.html": {
+  "dernier_essai": "2026-11-20T03:02:17Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_ville_limoges_1952.html": {
+  "dernier_essai": "2026-11-20T03:02:20Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_walsdorff_1930.html": {
+  "dernier_essai": "2026-11-20T03:02:30Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_walsdorff_1931.html": {
+  "dernier_essai": "2026-11-20T03:02:33Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_walsdorff_1932.html": {
+  "dernier_essai": "2026-11-20T03:02:36Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_walsdorff_1933.html": {
+  "dernier_essai": "2026-11-20T03:02:39Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_walsdorff_1934.html": {
+  "dernier_essai": "2026-11-20T03:02:43Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_wolber1922.html": {
+  "dernier_essai": "2026-11-20T03:03:13Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_wolber1923.html": {
+  "dernier_essai": "2026-11-20T03:03:25Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_wolber1924.html": {
+  "dernier_essai": "2026-11-20T03:03:27Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_wolber1925.html": {
+  "dernier_essai": "2026-11-20T03:03:30Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_wolber1926.html": {
+  "dernier_essai": "2026-11-20T03:03:42Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_wolber1927.html": {
+  "dernier_essai": "2026-11-20T03:03:46Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_wolber1928.html": {
+  "dernier_essai": "2026-11-20T03:03:46Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_wolber1929.html": {
+  "dernier_essai": "2026-11-20T03:03:49Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_wolber1930.html": {
+  "dernier_essai": "2026-11-20T03:03:53Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/gp_wolber1931.html": {
+  "dernier_essai": "2026-11-20T03:03:56Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/grand_circuit_raveu_1920.html": {
+  "dernier_essai": "2026-11-20T03:05:32Z",
+  "essais": 1,
+  "regle": 2
+ },
  "anc_france_cla/justin_berta_1921.html": {
   "dernier_essai": "2026-11-19T00:49:47Z",
   "essais": 2,
@@ -9756,6 +10211,41 @@
  },
  "anc_france_cla/provence1945.html": {
   "dernier_essai": "2026-11-20T02:09:58Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/thizy1942.html": {
+  "dernier_essai": "2026-11-20T02:56:21Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/thizy1946.html": {
+  "dernier_essai": "2026-11-20T02:56:22Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/thizy1947.html": {
+  "dernier_essai": "2026-11-20T02:56:25Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/thizy1949.html": {
+  "dernier_essai": "2026-11-20T02:56:28Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/thizy1955.html": {
+  "dernier_essai": "2026-11-20T02:56:31Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/thizy1967.html": {
+  "dernier_essai": "2026-11-20T02:56:35Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/trinite_gueret_1954.html": {
+  "dernier_essai": "2026-11-20T02:57:29Z",
   "essais": 1,
   "regle": 2
  },
@@ -11199,6 +11689,61 @@
   "essais": 1,
   "regle": 2
  },
+ "anc_france_eta/gp_tomate_1948.html": {
+  "dernier_essai": "2026-11-20T02:57:16Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_eta/gp_tomate_1949.html": {
+  "dernier_essai": "2026-11-20T02:57:19Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_eta/gp_tomate_1950.html": {
+  "dernier_essai": "2026-11-20T02:57:23Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_eta/gp_wolber_amateur_1932.html": {
+  "dernier_essai": "2026-11-20T03:04:02Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_eta/gp_wolber_amateur_1933.html": {
+  "dernier_essai": "2026-11-20T03:04:05Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_eta/gp_wolber_amateur_1934.html": {
+  "dernier_essai": "2026-11-20T03:04:09Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_eta/gp_wolber_amateur_1935.html": {
+  "dernier_essai": "2026-11-20T03:04:12Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_eta/gp_wolber_amateur_1936.html": {
+  "dernier_essai": "2026-11-20T03:04:15Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_eta/gp_wolber_amateur_1937.html": {
+  "dernier_essai": "2026-11-20T03:04:18Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_eta/gp_wolber_amateur_1938.html": {
+  "dernier_essai": "2026-11-20T03:04:21Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_eta/gp_wolber_amateur_1939.html": {
+  "dernier_essai": "2026-11-20T03:04:25Z",
+  "essais": 1,
+  "regle": 2
+ },
  "anc_france_eta/granville_magdeleine_1952.html": {
   "dernier_essai": "2026-11-20T01:53:34Z",
   "essais": 1,
@@ -12099,6 +12644,31 @@
   "essais": 1,
   "regle": 2
  },
+ "anc_italie/granfondo1912.html": {
+  "dernier_essai": "2026-11-20T03:05:13Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/granfondo1913.html": {
+  "dernier_essai": "2026-11-20T03:05:16Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/granfondo1919.html": {
+  "dernier_essai": "2026-11-20T03:05:19Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/granfondo1941.html": {
+  "dernier_essai": "2026-11-20T03:05:22Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/granfondo1979.html": {
+  "dernier_essai": "2026-11-20T03:05:25Z",
+  "essais": 1,
+  "regle": 2
+ },
  "anc_monde/circuit_gharb_1938.html": {
   "dernier_essai": "2026-11-20T00:57:27Z",
   "essais": 2,
@@ -12251,6 +12821,86 @@
  },
  "anc_monde/gp_riven_1929.html": {
   "dernier_essai": "2026-11-20T02:10:43Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_monde/gp_ville_bone_1927.html": {
+  "dernier_essai": "2026-11-20T03:00:31Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_monde/gp_ville_bone_1928.html": {
+  "dernier_essai": "2026-11-20T03:00:35Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_monde/gp_ville_bone_1929.html": {
+  "dernier_essai": "2026-11-20T03:00:38Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_monde/gp_ville_bone_1930.html": {
+  "dernier_essai": "2026-11-20T03:00:41Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_monde/gp_ville_bone_1931.html": {
+  "dernier_essai": "2026-11-20T03:00:44Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_monde/gp_ville_bone_1932.html": {
+  "dernier_essai": "2026-11-20T03:00:47Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_monde/gp_ville_bone_1933.html": {
+  "dernier_essai": "2026-11-20T03:00:51Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_monde/gp_ville_bone_1934.html": {
+  "dernier_essai": "2026-11-20T03:00:54Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_monde/gp_ville_bone_1935.html": {
+  "dernier_essai": "2026-11-20T03:00:57Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_monde/gp_ville_bone_1947.html": {
+  "dernier_essai": "2026-11-20T03:01:00Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_monde/gp_ville_bone_1948.html": {
+  "dernier_essai": "2026-11-20T03:01:03Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_monde/gp_ville_guelma_1946.html": {
+  "dernier_essai": "2026-11-20T03:01:10Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_monde/gp_ville_guelma_1947.html": {
+  "dernier_essai": "2026-11-20T03:01:13Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_monde/gp_ville_guelma_1948.html": {
+  "dernier_essai": "2026-11-20T03:01:16Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_monde/gp_ville_guelma_1949.html": {
+  "dernier_essai": "2026-11-20T03:01:19Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_monde/gp_ville_guelma_1950.html": {
+  "dernier_essai": "2026-11-20T03:01:23Z",
   "essais": 1,
   "regle": 2
  },
@@ -12474,6 +13124,11 @@
   "essais": 1,
   "regle": 2
  },
+ "anc_suisse/gp_winterthur_1980.html": {
+  "dernier_essai": "2026-11-20T03:03:02Z",
+  "essais": 1,
+  "regle": 2
+ },
  "anc_suisse/gpsuisse48.html": {
   "dernier_essai": "2026-11-20T02:14:53Z",
   "essais": 1,
@@ -12481,6 +13136,36 @@
  },
  "anc_suisse/gpsuisse49.html": {
   "dernier_essai": "2026-11-20T02:14:56Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_suisse/gpsuisse50.html": {
+  "dernier_essai": "2026-11-20T02:55:47Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_suisse/gpsuisse51.html": {
+  "dernier_essai": "2026-11-20T02:55:49Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_suisse/gpsuisse52.html": {
+  "dernier_essai": "2026-11-20T02:55:53Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_suisse/gpsuisse53.html": {
+  "dernier_essai": "2026-11-20T02:55:59Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_suisse/gpsuisse54.html": {
+  "dernier_essai": "2026-11-20T02:56:00Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_suisse/gpsuisse55.html": {
+  "dernier_essai": "2026-11-20T02:56:04Z",
   "essais": 1,
   "regle": 2
  },
