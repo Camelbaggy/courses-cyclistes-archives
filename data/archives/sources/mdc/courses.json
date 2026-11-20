@@ -281999,237 +281999,4855 @@
    "url": "disparues/anc_grand_circuit_raveu.html"
   },
   "disparues-grand_circuit_sud_est": {
+   "drapeau": "france",
+   "editions": [
+    {
+     "annee": 1911,
+     "cle": "1911",
+     "date": "1911-09-17",
+     "date_txt": "17 septembre",
+     "podium": [
+      {
+       "affiche": "NOVO Jean",
+       "nom_famille": "NOVO",
+       "prenom": "Jean",
+       "rang": 1
+      },
+      {
+       "affiche": "MORINI Jean",
+       "nom_famille": "MORINI",
+       "prenom": "Jean",
+       "rang": 2
+      },
+      {
+       "affiche": "GABBA Luigi",
+       "nat": "ITA",
+       "nom_famille": "GABBA",
+       "pays_site": "Ita",
+       "prenom": "Luigi",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/grand_circuit_sud_est_1911.html"
+    },
+    {
+     "annee": 1912,
+     "cle": "1912",
+     "date": "1912-05-26",
+     "date_txt": "26 mai",
+     "podium": [
+      {
+       "affiche": "NOVO Jean",
+       "nom_famille": "NOVO",
+       "prenom": "Jean",
+       "rang": 1
+      },
+      {
+       "affiche": "GABBA Luigi",
+       "nat": "ITA",
+       "nom_famille": "GABBA",
+       "pays_site": "Ita",
+       "prenom": "Luigi",
+       "rang": 2
+      },
+      {
+       "affiche": "VILLETTE Marius",
+       "nom_famille": "VILLETTE",
+       "prenom": "Marius",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/grand_circuit_sud_est_1912.html"
+    }
+   ],
    "gras": true,
    "groupe": "FRA",
    "id": "disparues-grand_circuit_sud_est",
+   "lu_le": "2026-11-20T03:52:41Z",
    "nom": "Grand Circuit du Sud-Est",
    "section": "disparues",
    "suffixe_index": "1911-1912",
+   "titre_page": "Grand Circuit du Sud-Est (Fra) - Ex.",
    "url": "disparues/anc_grand_circuit_sud_est.html"
   },
   "disparues-grand_circuit_velo_nicois": {
+   "drapeau": "fra",
+   "editions": [
+    {
+     "annee": 1920,
+     "cle": "1920",
+     "date": "1920-06-06",
+     "date_txt": "6 juin",
+     "podium": [
+      {
+       "affiche": "FERRARA Henri",
+       "nom_famille": "FERRARA",
+       "prenom": "Henri",
+       "rang": 1
+      },
+      {
+       "affiche": "NOVO Jean",
+       "nom_famille": "NOVO",
+       "prenom": "Jean",
+       "rang": 2
+      },
+      {
+       "affiche": "PAOLI Napoléon",
+       "nom_famille": "PAOLI",
+       "prenom": "Napoléon",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/grand_circuit_velo_nicois_1920.html"
+    },
+    {
+     "annee": 1921,
+     "cle": "1921",
+     "date": "1921-10-30",
+     "date_txt": "30 octobre",
+     "podium": [
+      {
+       "affiche": "PAOLI Napoléon",
+       "nom_famille": "PAOLI",
+       "prenom": "Napoléon",
+       "rang": 1
+      },
+      {
+       "affiche": "BROCCARDO Paul",
+       "nom_famille": "BROCCARDO",
+       "prenom": "Paul",
+       "rang": 2
+      },
+      {
+       "affiche": "SÉASSAU Honoré",
+       "nom_famille": "SÉASSAU",
+       "prenom": "Honoré",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/grand_circuit_velo_nicois_1921.html"
+    }
+   ],
    "gras": true,
    "groupe": "FRA",
    "id": "disparues-grand_circuit_velo_nicois",
+   "lu_le": "2026-11-20T03:52:51Z",
    "nom": "Grand Circuit du Vélo Niçois",
    "section": "disparues",
    "suffixe_index": "1920-1921",
+   "titre_page": "Grand Circuit du Vélo Niçois (Fra) - Ex.",
    "url": "disparues/anc_grand_circuit_velo_nicois.html"
   },
   "disparues-grand_combien": {
+   "drapeau": "fra",
+   "editions": [
+    {
+     "annee": 1933,
+     "cle": "1933",
+     "podium": [
+      {
+       "affiche": "RIEU Paul",
+       "nom_famille": "RIEU",
+       "prenom": "Paul",
+       "rang": 1
+      },
+      {
+       "affiche": "PUY Joseph",
+       "nom_famille": "PUY",
+       "prenom": "Joseph",
+       "rang": 2
+      },
+      {
+       "affiche": "CHARRAS Florian",
+       "nom_famille": "CHARRAS",
+       "prenom": "Florian",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1934,
+     "cle": "1934",
+     "podium": [
+      {
+       "affiche": "OLIVIERI Alfred",
+       "nom_famille": "OLIVIERI",
+       "prenom": "Alfred",
+       "rang": 1
+      },
+      {
+       "affiche": "TERRAGO Séraphin",
+       "nom_famille": "TERRAGO",
+       "prenom": "Séraphin",
+       "rang": 2
+      },
+      {
+       "affiche": "DE WINTER André",
+       "nom_famille": "DE WINTER",
+       "prenom": "André",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1935,
+     "cle": "1935",
+     "podium": [
+      {
+       "affiche": "DE WINTER André",
+       "nom_famille": "DE WINTER",
+       "prenom": "André",
+       "rang": 1
+      },
+      {
+       "affiche": "PUGLIESI Antoine",
+       "nom_famille": "PUGLIESI",
+       "prenom": "Antoine",
+       "rang": 2
+      },
+      {
+       "affiche": "PIERACCI Yves",
+       "nom_famille": "PIERACCI",
+       "prenom": "Yves",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1936,
+     "cle": "1936",
+     "podium": [
+      {
+       "affiche": "DE WINTER André",
+       "nom_famille": "DE WINTER",
+       "prenom": "André",
+       "rang": 1
+      },
+      {
+       "affiche": "PUGLIESI Antoine",
+       "nom_famille": "PUGLIESI",
+       "prenom": "Antoine",
+       "rang": 2
+      },
+      {
+       "affiche": "PIERACCI Yves",
+       "nom_famille": "PIERACCI",
+       "prenom": "Yves",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1937,
+     "cle": "1937",
+     "date": "1937-08-08",
+     "date_txt": "8 août",
+     "podium": [
+      {
+       "affiche": "DE WINTER André",
+       "nom_famille": "DE WINTER",
+       "prenom": "André",
+       "rang": 1
+      },
+      {
+       "affiche": "VANDYCK Emile",
+       "nom_famille": "VANDYCK",
+       "prenom": "Emile",
+       "rang": 2
+      },
+      {
+       "affiche": "PUGLIESI Antoine",
+       "nom_famille": "PUGLIESI",
+       "prenom": "Antoine",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1938,
+     "cle": "1938",
+     "date": "1938-08-14",
+     "date_txt": "14 août",
+     "podium": [
+      {
+       "affiche": "PUGLIESI Antoine",
+       "nom_famille": "PUGLIESI",
+       "prenom": "Antoine",
+       "rang": 1
+      },
+      {
+       "affiche": "SICILIANO Jules",
+       "nom_famille": "SICILIANO",
+       "prenom": "Jules",
+       "rang": 2
+      },
+      {
+       "affiche": "BISTAGNE Clément",
+       "nom_famille": "BISTAGNE",
+       "prenom": "Clément",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1939,
+     "cle": "1939",
+     "date": "1939-08-13",
+     "date_txt": "13 août",
+     "podium": [
+      {
+       "affiche": "MAGNE Antonin",
+       "nom_famille": "MAGNE",
+       "prenom": "Antonin",
+       "rang": 1
+      },
+      {
+       "affiche": "SICILIANO Jules",
+       "nom_famille": "SICILIANO",
+       "prenom": "Jules",
+       "rang": 2
+      },
+      {
+       "affiche": "PUGLIESI Antoine",
+       "nom_famille": "PUGLIESI",
+       "prenom": "Antoine",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1940,
+     "cle": "1940",
+     "date": "1940-08-15",
+     "date_txt": "15 août",
+     "podium": [
+      {
+       "affiche": "ZANTI Dominique",
+       "nom_famille": "ZANTI",
+       "prenom": "Dominique",
+       "rang": 1
+      },
+      {
+       "affiche": "MOULINIER Fernand",
+       "nom_famille": "MOULINIER",
+       "prenom": "Fernand",
+       "rang": 2
+      },
+      {
+       "affiche": "MINASSO André",
+       "nom_famille": "MINASSO",
+       "prenom": "André",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1941,
+     "cle": "1941",
+     "podium": [
+      {
+       "affiche": "SOFFIETTI Joseph",
+       "nom_famille": "SOFFIETTI",
+       "prenom": "Joseph",
+       "rang": 1
+      },
+      {
+       "affiche": "BERTOCCO Aldo",
+       "nom_famille": "BERTOCCO",
+       "prenom": "Aldo",
+       "rang": 2
+      },
+      {
+       "affiche": "GIORGETTI Alvaro",
+       "nom_famille": "GIORGETTI",
+       "prenom": "Alvaro",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1943,
+     "cle": "1943",
+     "podium": [
+      {
+       "affiche": "SICILIANO Jules",
+       "nom_famille": "SICILIANO",
+       "prenom": "Jules",
+       "rang": 1
+      },
+      {
+       "affiche": "COTTYN Roger",
+       "nom_famille": "COTTYN",
+       "prenom": "Roger",
+       "rang": 2
+      },
+      {
+       "affiche": "QUEZEL René",
+       "nom_famille": "QUEZEL",
+       "prenom": "René",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1944,
+     "cle": "1944",
+     "podium": [
+      {
+       "affiche": "REMY Raoul",
+       "nom_famille": "REMY",
+       "prenom": "Raoul",
+       "rang": 1
+      },
+      {
+       "affiche": "MOULINIER Fernand",
+       "nom_famille": "MOULINIER",
+       "prenom": "Fernand",
+       "rang": 2
+      },
+      {
+       "affiche": "RAYMOND Gérard",
+       "nom_famille": "RAYMOND",
+       "prenom": "Gérard",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1945,
+     "cle": "1945",
+     "podium": [
+      {
+       "affiche": "CHARDONNET Henri",
+       "nom_famille": "CHARDONNET",
+       "prenom": "Henri",
+       "rang": 1
+      },
+      {
+       "affiche": "COGAN Pierre",
+       "nom_famille": "COGAN",
+       "prenom": "Pierre",
+       "rang": 2
+      },
+      {
+       "affiche": "CASSAGNE Joseph",
+       "nom_famille": "CASSAGNE",
+       "prenom": "Joseph",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1946,
+     "cle": "1946",
+     "podium": [
+      {
+       "affiche": "FACHLEITNER Edouard",
+       "nom_famille": "FACHLEITNER",
+       "prenom": "Edouard",
+       "rang": 1
+      },
+      {
+       "affiche": "GIORGETTI Alvaro",
+       "nom_famille": "GIORGETTI",
+       "prenom": "Alvaro",
+       "rang": 2
+      },
+      {
+       "affiche": "MAYE Paul",
+       "nom_famille": "MAYE",
+       "prenom": "Paul",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1947,
+     "cle": "1947",
+     "podium": [
+      {
+       "affiche": "REMY Raoul",
+       "nom_famille": "REMY",
+       "prenom": "Raoul",
+       "rang": 1
+      },
+      {
+       "affiche": "MICHAUD Antoine",
+       "nom_famille": "MICHAUD",
+       "prenom": "Antoine",
+       "rang": 2
+      },
+      {
+       "affiche": "FERNANDEZ Bernard",
+       "nom_famille": "FERNANDEZ",
+       "prenom": "Bernard",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1948,
+     "cle": "1948",
+     "date": "1948-08-03",
+     "date_txt": "3 août",
+     "podium": [
+      {
+       "affiche": "REMY Raoul",
+       "nom_famille": "REMY",
+       "prenom": "Raoul",
+       "rang": 1
+      },
+      {
+       "affiche": "PERNAC Victor",
+       "nom_famille": "PERNAC",
+       "prenom": "Victor",
+       "rang": 2
+      },
+      {
+       "affiche": "LOUVIOT Raymond",
+       "nom_famille": "LOUVIOT",
+       "prenom": "Raymond",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1950,
+     "cle": "1950",
+     "podium": [
+      {
+       "affiche": "CHARDONNET Henri",
+       "nom_famille": "CHARDONNET",
+       "prenom": "Henri",
+       "rang": 1
+      },
+      {
+       "affiche": "MULLER Edouard",
+       "nom_famille": "MULLER",
+       "prenom": "Edouard",
+       "rang": 2
+      },
+      {
+       "affiche": "BONNET Marius",
+       "nom_famille": "BONNET",
+       "prenom": "Marius",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1951,
+     "cle": "1951",
+     "podium": [
+      {
+       "affiche": "GENIN René",
+       "nom_famille": "GENIN",
+       "prenom": "René",
+       "rang": 1
+      },
+      {
+       "affiche": "CANAVESE Antonin",
+       "nom_famille": "CANAVESE",
+       "prenom": "Antonin",
+       "rang": 2
+      },
+      {
+       "affiche": "CHARDONNET Henri",
+       "nom_famille": "CHARDONNET",
+       "prenom": "Henri",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1952,
+     "cle": "1952",
+     "podium": [
+      {
+       "affiche": "HYARDET Gaston",
+       "nom_famille": "HYARDET",
+       "prenom": "Gaston",
+       "rang": 1
+      },
+      {
+       "affiche": "RUIZ Bernardo",
+       "nat": "ESP",
+       "nom_famille": "RUIZ",
+       "pays_site": "Esp",
+       "prenom": "Bernardo",
+       "rang": 2
+      },
+      {
+       "affiche": "ZAAF Abdelkader",
+       "nat": "ALG",
+       "nom_famille": "ZAAF",
+       "pays_site": "Alg",
+       "prenom": "Abdelkader",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1954,
+     "cle": "1954",
+     "podium": [
+      {
+       "affiche": "KÜBLER Ferdi",
+       "nat": "SUI",
+       "nom_famille": "KÜBLER",
+       "pays_site": "Sui",
+       "prenom": "Ferdi",
+       "rang": 1
+      },
+      {
+       "affiche": "ANQUETIL Jacques",
+       "nom_famille": "ANQUETIL",
+       "prenom": "Jacques",
+       "rang": 2
+      },
+      {
+       "affiche": "PAYAN André",
+       "nom_famille": "PAYAN",
+       "prenom": "André",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1955,
+     "cle": "1955",
+     "date": "1955-05-22",
+     "date_txt": "22 mai",
+     "podium": [
+      {
+       "affiche": "BOBET Louison",
+       "nom_famille": "BOBET",
+       "prenom": "Louison",
+       "rang": 1
+      },
+      {
+       "affiche": "POBLET Miguel",
+       "nat": "ESP",
+       "nom_famille": "POBLET",
+       "pays_site": "Esp",
+       "prenom": "Miguel",
+       "rang": 2
+      },
+      {
+       "affiche": "ROLLAND Antonin",
+       "nom_famille": "ROLLAND",
+       "prenom": "Antonin",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1956,
+     "cle": "1956",
+     "date": "1956-05-10",
+     "date_txt": "10 mai",
+     "podium": [
+      {
+       "affiche": "PRIVAT René",
+       "nom_famille": "PRIVAT",
+       "prenom": "René",
+       "rang": 1
+      },
+      {
+       "affiche": "BIANCHI Siro",
+       "nom_famille": "BIANCHI",
+       "prenom": "Siro",
+       "rang": 2
+      },
+      {
+       "affiche": "AMIC Henri",
+       "nom_famille": "AMIC",
+       "prenom": "Henri",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1957,
+     "cle": "1957",
+     "date": "1957-06-02",
+     "date_txt": "2 juin",
+     "podium": [
+      {
+       "affiche": "DOTTO Jean",
+       "nom_famille": "DOTTO",
+       "prenom": "Jean",
+       "rang": 1
+      },
+      {
+       "affiche": "ROSTOLLAN Louis",
+       "nom_famille": "ROSTOLLAN",
+       "prenom": "Louis",
+       "rang": 2
+      },
+      {
+       "affiche": "BIANCHI Siro",
+       "nom_famille": "BIANCHI",
+       "prenom": "Siro",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1958,
+     "cle": "1958",
+     "date": "1958-05-18",
+     "date_txt": "18 mai",
+     "podium": [
+      {
+       "affiche": "LERDA Jean",
+       "nom_famille": "LERDA",
+       "prenom": "Jean",
+       "rang": 1
+      },
+      {
+       "affiche": "PAYAN André",
+       "nom_famille": "PAYAN",
+       "prenom": "André",
+       "rang": 2
+      },
+      {
+       "affiche": "MATTIO Claude",
+       "nom_famille": "MATTIO",
+       "prenom": "Claude",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1966,
+     "cle": "1966",
+     "date": "1966-06-12",
+     "date_txt": "12 juin",
+     "podium": [
+      {
+       "affiche": "AIMAR Lucien",
+       "nom_famille": "AIMAR",
+       "prenom": "Lucien",
+       "rang": 1
+      },
+      {
+       "affiche": "DE ROO Jo",
+       "nat": "NED",
+       "nom_famille": "DE ROO",
+       "pays_site": "Hol",
+       "prenom": "Jo",
+       "rang": 2
+      },
+      {
+       "affiche": "MERCKX Eddy",
+       "nat": "BEL",
+       "nom_famille": "MERCKX",
+       "pays_site": "Bel",
+       "prenom": "Eddy",
+       "rang": 3
+      }
+     ]
+    }
+   ],
    "gras": false,
    "groupe": "FRA",
    "id": "disparues-grand_combien",
+   "lu_le": "2026-11-20T03:53:01Z",
    "nom": "Circuit Grand-Combien",
    "section": "disparues",
    "suffixe_index": "1933-1966",
+   "titre_page": "Circuit Grand-Combien (Fra) - Ex.",
    "url": "disparues/anc_grand_combien.html"
   },
   "disparues-grand_criterium_alcyon": {
+   "drapeau": "fra",
+   "editions": [
+    {
+     "annee": 1926,
+     "cle": "1926",
+     "date_txt": "étapes entre le 18 avril et le 16 mai",
+     "podium": [
+      {
+       "affiche": "GRAS Louis",
+       "nom_famille": "GRAS",
+       "prenom": "Louis",
+       "rang": 1
+      },
+      {
+       "affiche": "DELBART Paul",
+       "nom_famille": "DELBART",
+       "prenom": "Paul",
+       "rang": 2
+      },
+      {
+       "affiche": "BONNEY Maurice",
+       "nom_famille": "BONNEY",
+       "prenom": "Maurice",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_eta/grand_criterium_alcyon_1926%20.html"
+    }
+   ],
    "gras": true,
    "groupe": "FRA",
    "id": "disparues-grand_criterium_alcyon",
+   "lu_le": "2026-11-20T03:53:04Z",
    "nom": "Grand Critérium Alcyon",
    "section": "disparues",
    "suffixe_index": "1926",
+   "titre_page": "Grand Critérium ALCYON (Fra) - Ex.",
    "url": "disparues/anc_grand_criterium_alcyon.html"
   },
   "disparues-grand_derby_francorchamps": {
+   "drapeau": "bel",
+   "editions": [
+    {
+     "annee": 1937,
+     "cle": "1937",
+     "date": "1937-08-08",
+     "date_txt": "8 août",
+     "podium": [
+      {
+       "affiche": "VAN SIMAEYS Adelin",
+       "nom_famille": "VAN SIMAEYS",
+       "prenom": "Adelin",
+       "rang": 1
+      },
+      {
+       "affiche": "DEMONDT Frans",
+       "nom_famille": "DEMONDT",
+       "prenom": "Frans",
+       "rang": 2
+      },
+      {
+       "affiche": "DE GEETER Hubert",
+       "nom_famille": "DE GEETER",
+       "prenom": "Hubert",
+       "rang": 3
+      }
+     ],
+     "url": "anc_belgique/grand_derby_francorchamps_1937%20.html"
+    }
+   ],
    "gras": true,
    "groupe": "BEL",
    "id": "disparues-grand_derby_francorchamps",
+   "lu_le": "2026-11-20T03:53:10Z",
    "nom": "Grand Derby de Francorchamps",
    "section": "disparues",
    "suffixe_index": "1937",
+   "titre_page": "Grand Derby de Francorchamps (Bel) - Ex.",
    "url": "disparues/anc_grand_derby_francorchamps.html"
   },
   "disparues-grenoble_turin": {
+   "drapeau": "fra",
+   "editions": [
+    {
+     "annee": 1947,
+     "cle": "1947",
+     "date_debut": "1947-08-09",
+     "date_fin": "1947-08-10",
+     "date_txt": "du 9 au 10 août",
+     "podium": [
+      {
+       "affiche": "MARANGONI Egidio",
+       "nat": "ITA",
+       "nom_famille": "MARANGONI",
+       "pays_site": "Ita",
+       "prenom": "Egidio",
+       "rang": 1
+      },
+      {
+       "affiche": "GAUTHIER Bernard",
+       "nat": "FRA",
+       "nom_famille": "GAUTHIER",
+       "pays_site": "Fra",
+       "prenom": "Bernard",
+       "rang": 2
+      },
+      {
+       "affiche": "CHAPATTE Robert",
+       "nat": "FRA",
+       "nom_famille": "CHAPATTE",
+       "pays_site": "Fra",
+       "prenom": "Robert",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_eta/grenoble_turin_1947.html"
+    }
+   ],
    "gras": true,
    "groupe": "FRA",
    "id": "disparues-grenoble_turin",
+   "lu_le": "2026-11-20T03:53:17Z",
    "nom": "Grenoble-Turin-Grenoble",
    "section": "disparues",
    "suffixe_index": "1947",
+   "titre_page": "Grenoble-Turin-Grenoble (Fra/Ita) - Ex.",
    "url": "disparues/anc_grenoble_turin.html"
   },
   "disparues-grosser_bremen": {
+   "drapeau": "all",
+   "editions": [
+    {
+     "annee": 1919,
+     "cle": "1919",
+     "date": "1919-08-17",
+     "date_txt": "17 août",
+     "podium": [
+      {
+       "affiche": "DÜWEL Max",
+       "nom_famille": "DÜWEL",
+       "prenom": "Max",
+       "rang": 1
+      },
+      {
+       "affiche": "KOCH Paul",
+       "nom_famille": "KOCH",
+       "prenom": "Paul",
+       "rang": 2
+      },
+      {
+       "affiche": "GOLLE Richard",
+       "nom_famille": "GOLLE",
+       "prenom": "Richard",
+       "rang": 3
+      }
+     ]
+    }
+   ],
    "gras": false,
    "groupe": "ALL",
    "id": "disparues-grosser_bremen",
+   "lu_le": "2026-11-20T03:53:23Z",
    "nom": "Großer Straßenpreis von Bremen",
    "section": "disparues",
    "suffixe_index": "1919",
+   "titre_page": "Großer Straßenpreis von Bremen (All) - Ex.",
    "url": "disparues/anc_grosser_bremen.html"
   },
   "disparues-grosser_hamburg": {
+   "drapeau": "all",
+   "editions": [
+    {
+     "annee": 1914,
+     "cle": "1914",
+     "date": "1914-03-29",
+     "date_txt": "29 mars",
+     "podium": [
+      {
+       "affiche": "BAUER Fritz",
+       "nom_famille": "BAUER",
+       "prenom": "Fritz",
+       "rang": 1
+      },
+      {
+       "affiche": "WEISE Richard",
+       "nom_famille": "WEISE",
+       "prenom": "Richard",
+       "rang": 2
+      },
+      {
+       "affiche": "SCHENKEL Richard",
+       "nom_famille": "SCHENKEL",
+       "prenom": "Richard",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1934,
+     "cle": "1934",
+     "date": "1934-06-03",
+     "date_txt": "3 juin",
+     "podium": [
+      {
+       "affiche": "HUSCHKE Gerhard",
+       "nom_famille": "HUSCHKE",
+       "prenom": "Gerhard",
+       "rang": 1
+      },
+      {
+       "affiche": "NATZKE Alfred",
+       "nom_famille": "NATZKE",
+       "prenom": "Alfred",
+       "rang": 2
+      },
+      {
+       "affiche": "STÖPEL Kurt",
+       "nom_famille": "STÖPEL",
+       "prenom": "Kurt",
+       "rang": 3
+      }
+     ]
+    }
+   ],
    "gras": false,
    "groupe": "ALL",
    "id": "disparues-grosser_hamburg",
+   "lu_le": "2026-11-20T03:53:26Z",
    "nom": "Großer Straßenpreis von Hamburg",
    "section": "disparues",
    "suffixe_index": "1914-1934",
+   "titre_page": "Großer Straßenpreis von Hamburg (All) - Ex.",
    "url": "disparues/anc_grosser_hamburg.html"
   },
   "disparues-grosser_hannover": {
+   "drapeau": "all",
+   "editions": [
+    {
+     "annee": 1910,
+     "cle": "1910",
+     "date": "1910-07-17",
+     "date_txt": "17 juillet",
+     "podium": [
+      {
+       "affiche": "SCHÖNWEISS Gustav",
+       "nom_famille": "SCHÖNWEISS",
+       "prenom": "Gustav",
+       "rang": 1
+      },
+      {
+       "affiche": "MECK Jakob",
+       "nom_famille": "MECK",
+       "prenom": "Jakob",
+       "rang": 2
+      },
+      {
+       "affiche": "SCHALLWIG Fritz",
+       "nom_famille": "SCHALLWIG",
+       "prenom": "Fritz",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1911,
+     "cle": "1911",
+     "date": "1911-05-14",
+     "date_txt": "14 mai",
+     "podium": [
+      {
+       "affiche": "SCHALLWIG Fritz",
+       "nom_famille": "SCHALLWIG",
+       "prenom": "Fritz",
+       "rang": 1
+      },
+      {
+       "affiche": "ROSELLEN Jean",
+       "nom_famille": "ROSELLEN",
+       "prenom": "Jean",
+       "rang": 2
+      },
+      {
+       "affiche": "SCHULZE Gustav",
+       "nom_famille": "SCHULZE",
+       "prenom": "Gustav",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1912,
+     "cle": "1912",
+     "date": "1912-04-21",
+     "date_txt": "21 avril",
+     "podium": [
+      {
+       "affiche": "ROSELLEN Jean",
+       "nom_famille": "ROSELLEN",
+       "prenom": "Jean",
+       "rang": 1
+      },
+      {
+       "affiche": "HARTMANN Hans",
+       "nom_famille": "HARTMANN",
+       "prenom": "Hans",
+       "rang": 2
+      },
+      {
+       "affiche": "ZANDER Karl",
+       "nom_famille": "ZANDER",
+       "prenom": "Karl",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1913,
+     "cle": "1913",
+     "date": "1913-04-27",
+     "date_txt": "27 avril",
+     "podium": [
+      {
+       "affiche": "ROSELLEN Jean",
+       "nom_famille": "ROSELLEN",
+       "prenom": "Jean",
+       "rang": 1
+      },
+      {
+       "affiche": "ABERGER Erich",
+       "nom_famille": "ABERGER",
+       "prenom": "Erich",
+       "rang": 2
+      },
+      {
+       "affiche": "SUTER Paul",
+       "nat": "SUI",
+       "nom_famille": "SUTER",
+       "pays_site": "Sui",
+       "prenom": "Paul",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1914,
+     "cle": "1914",
+     "date": "1914-04-26",
+     "date_txt": "26 avril",
+     "podium": [
+      {
+       "affiche": "ABERGER Erich",
+       "nom_famille": "ABERGER",
+       "prenom": "Erich",
+       "rang": 1
+      },
+      {
+       "affiche": "FRANZ Ernst",
+       "nom_famille": "FRANZ",
+       "pays_site": "Boh",
+       "prenom": "Ernst",
+       "rang": 2
+      },
+      {
+       "affiche": "HUSCHKE Adolf",
+       "nom_famille": "HUSCHKE",
+       "prenom": "Adolf",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1915,
+     "cle": "1915",
+     "date": "1915-05-30",
+     "date_txt": "30 mai",
+     "podium": [
+      {
+       "affiche": "BAUER Fritz",
+       "nom_famille": "BAUER",
+       "prenom": "Fritz",
+       "rang": 1
+      },
+      {
+       "affiche": "FACKLAM Hermann",
+       "nom_famille": "FACKLAM",
+       "prenom": "Hermann",
+       "rang": 2
+      },
+      {
+       "affiche": "BÖHM Peter",
+       "nom_famille": "BÖHM",
+       "prenom": "Peter",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1916,
+     "cle": "1916",
+     "date": "1916-05-14",
+     "date_txt": "14 mai",
+     "podium": [
+      {
+       "affiche": "TARTSCH Robert",
+       "nom_famille": "TARTSCH",
+       "prenom": "Robert",
+       "rang": 1
+      },
+      {
+       "affiche": "DUSCHINSKI Ernst",
+       "nat": "AUT",
+       "nom_famille": "DUSCHINSKI",
+       "pays_site": "Aut",
+       "prenom": "Ernst",
+       "rang": 2
+      },
+      {
+       "affiche": "WENDT Kurt",
+       "nom_famille": "WENDT",
+       "prenom": "Kurt",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1919,
+     "cle": "1919",
+     "date_txt": "1er juin sur bandages métalliques",
+     "podium": [
+      {
+       "affiche": "KLEIKAMP Emil",
+       "nom_famille": "KLEIKAMP",
+       "prenom": "Emil",
+       "rang": 1
+      },
+      {
+       "affiche": "MICHAEL Rudolf",
+       "nom_famille": "MICHAEL",
+       "prenom": "Rudolf",
+       "rang": 2
+      },
+      {
+       "affiche": "ABERGER Erich",
+       "nom_famille": "ABERGER",
+       "prenom": "Erich",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1919,
+     "cle": "1919-2",
+     "date_txt": "1er juin sur pneumatiques",
+     "podium": [
+      {
+       "affiche": "NAGEL Gustav",
+       "nom_famille": "NAGEL",
+       "prenom": "Gustav",
+       "rang": 1
+      },
+      {
+       "affiche": "BÜTTNER Otto",
+       "nom_famille": "BÜTTNER",
+       "prenom": "Otto",
+       "rang": 2
+      },
+      {
+       "affiche": "DUSCHINSKI Ernst",
+       "nat": "AUT",
+       "nom_famille": "DUSCHINSKI",
+       "pays_site": "Aut",
+       "prenom": "Ernst",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1920,
+     "cle": "1920",
+     "date": "1920-05-30",
+     "date_txt": "30 mai",
+     "podium": [
+      {
+       "affiche": "HUSCHKE Adolf",
+       "nom_famille": "HUSCHKE",
+       "prenom": "Adolf",
+       "rang": 1
+      },
+      {
+       "affiche": "HUSCHKE Richard",
+       "nom_famille": "HUSCHKE",
+       "prenom": "Richard",
+       "rang": 2
+      },
+      {
+       "affiche": "GABRIEL Otto",
+       "nom_famille": "GABRIEL",
+       "prenom": "Otto",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1921,
+     "cle": "1921",
+     "date": "1921-04-10",
+     "date_txt": "10 avril",
+     "podium": [
+      {
+       "affiche": "HUSCHKE Adolf",
+       "nom_famille": "HUSCHKE",
+       "prenom": "Adolf",
+       "rang": 1
+      },
+      {
+       "affiche": "ABERGER Erich",
+       "nom_famille": "ABERGER",
+       "prenom": "Erich",
+       "rang": 2
+      },
+      {
+       "affiche": "HUSCHKE Richard",
+       "nom_famille": "HUSCHKE",
+       "prenom": "Richard",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1922,
+     "cle": "1922",
+     "date": "1922-08-20",
+     "date_txt": "20 août",
+     "podium": [
+      {
+       "affiche": "HUSCHKE Richard",
+       "nom_famille": "HUSCHKE",
+       "prenom": "Richard",
+       "rang": 1
+      },
+      {
+       "affiche": "HUSCHKE Adolf",
+       "nom_famille": "HUSCHKE",
+       "prenom": "Adolf",
+       "rang": 2
+      },
+      {
+       "affiche": "STEINGASS Jean",
+       "nom_famille": "STEINGASS",
+       "prenom": "Jean",
+       "rang": 3
+      }
+     ],
+     "url": "anc_allemagne/grosser_hannover_1922%20.html"
+    },
+    {
+     "annee": 1923,
+     "cle": "1923",
+     "date": "1923-07-15",
+     "date_txt": "15 juillet",
+     "podium": [
+      {
+       "affiche": "GEISDORF Walter",
+       "nom_famille": "GEISDORF",
+       "prenom": "Walter",
+       "rang": 1
+      },
+      {
+       "affiche": "ABERGER Erich",
+       "nom_famille": "ABERGER",
+       "prenom": "Erich",
+       "rang": 2
+      },
+      {
+       "affiche": "HUSCHKE Adolf",
+       "nom_famille": "HUSCHKE",
+       "prenom": "Adolf",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1924,
+     "cle": "1924",
+     "date": "1924-08-10",
+     "date_txt": "10 août",
+     "podium": [
+      {
+       "affiche": "NÖRENBERG Arthur",
+       "nom_famille": "NÖRENBERG",
+       "prenom": "Arthur",
+       "rang": 1
+      },
+      {
+       "affiche": "SUTER Max",
+       "nat": "SUI",
+       "nom_famille": "SUTER",
+       "pays_site": "Sui",
+       "prenom": "Max",
+       "rang": 2
+      },
+      {
+       "affiche": "PFISTER Karl",
+       "nom_famille": "PFISTER",
+       "prenom": "Karl",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1925,
+     "cle": "1925",
+     "date": "1925-05-03",
+     "date_txt": "3 mai",
+     "podium": [
+      {
+       "affiche": "SUTER Max",
+       "nat": "SUI",
+       "nom_famille": "SUTER",
+       "pays_site": "Sui",
+       "prenom": "Max",
+       "rang": 1
+      },
+      {
+       "affiche": "HUSCHKE Richard",
+       "nom_famille": "HUSCHKE",
+       "prenom": "Richard",
+       "rang": 2
+      },
+      {
+       "affiche": "NÖRENBERG Arthur",
+       "nom_famille": "NÖRENBERG",
+       "prenom": "Arthur",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1926,
+     "cle": "1926",
+     "date": "1926-04-11",
+     "date_txt": "11 avril",
+     "podium": [
+      {
+       "affiche": "BELLONI Gaetano",
+       "nat": "ITA",
+       "nom_famille": "BELLONI",
+       "pays_site": "Ita",
+       "prenom": "Gaetano",
+       "rang": 1
+      },
+      {
+       "affiche": "VAN HEVEL Jules",
+       "nat": "BEL",
+       "nom_famille": "VAN HEVEL",
+       "pays_site": "Bel",
+       "prenom": "Jules",
+       "rang": 2
+      },
+      {
+       "affiche": "ZANAGA Adriano",
+       "nat": "ITA",
+       "nom_famille": "ZANAGA",
+       "pays_site": "Ita",
+       "prenom": "Adriano",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1928,
+     "cle": "1928",
+     "date": "1928-04-01",
+     "date_txt": "1er avril",
+     "podium": [
+      {
+       "affiche": "HUSCHKE Richard",
+       "nom_famille": "HUSCHKE",
+       "prenom": "Richard",
+       "rang": 1
+      },
+      {
+       "affiche": "WOLKE Rudolf",
+       "nom_famille": "WOLKE",
+       "prenom": "Rudolf",
+       "rang": 2
+      },
+      {
+       "affiche": "NEBE Herbert",
+       "nom_famille": "NEBE",
+       "prenom": "Herbert",
+       "rang": 3
+      }
+     ],
+     "url": "anc_allemagne/grosser_hannover_1928%20.html"
+    },
+    {
+     "annee": 1934,
+     "cle": "1934",
+     "date": "1934-07-29",
+     "date_txt": "29 juillet",
+     "podium": [
+      {
+       "affiche": "HUSCHKE Gerhard",
+       "nom_famille": "HUSCHKE",
+       "prenom": "Gerhard",
+       "rang": 1
+      },
+      {
+       "affiche": "ALTENBURGER Karl",
+       "nom_famille": "ALTENBURGER",
+       "prenom": "Karl",
+       "rang": 2
+      },
+      {
+       "affiche": "REMOLD Josef",
+       "nom_famille": "REMOLD",
+       "prenom": "Josef",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1935,
+     "cle": "1935",
+     "date": "1935-04-28",
+     "date_txt": "28 avril",
+     "podium": [
+      {
+       "affiche": "HODEY Anton",
+       "nom_famille": "HODEY",
+       "prenom": "Anton",
+       "rang": 1
+      },
+      {
+       "affiche": "KUTSCHBACH Willi",
+       "nom_famille": "KUTSCHBACH",
+       "prenom": "Willi",
+       "rang": 2
+      },
+      {
+       "affiche": "WECKERLING Otto",
+       "nom_famille": "WECKERLING",
+       "prenom": "Otto",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1936,
+     "cle": "1936",
+     "date": "1936-04-12",
+     "date_txt": "12 avril",
+     "podium": [
+      {
+       "affiche": "HEIDE Karl",
+       "nom_famille": "HEIDE",
+       "prenom": "Karl",
+       "rang": 1
+      },
+      {
+       "affiche": "KUTSCHBACH Willi",
+       "nom_famille": "KUTSCHBACH",
+       "prenom": "Willi",
+       "rang": 2
+      },
+      {
+       "affiche": "RISCH Rudolf",
+       "nom_famille": "RISCH",
+       "prenom": "Rudolf",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1952,
+     "cle": "1952",
+     "date": "1952-09-07",
+     "date_txt": "7 septembre",
+     "podium": [
+      {
+       "affiche": "HOLTHÖFER Werner",
+       "nom_famille": "HOLTHÖFER",
+       "prenom": "Werner",
+       "rang": 1
+      },
+      {
+       "affiche": "SCHILD Hermann",
+       "nom_famille": "SCHILD",
+       "prenom": "Hermann",
+       "rang": 2
+      },
+      {
+       "affiche": "HOLZMANN Horst",
+       "nom_famille": "HOLZMANN",
+       "prenom": "Horst",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1953,
+     "cle": "1953",
+     "date": "1953-06-07",
+     "date_txt": "7 juin",
+     "podium": [
+      {
+       "affiche": "HÖRMANN Ludwig",
+       "nom_famille": "HÖRMANN",
+       "prenom": "Ludwig",
+       "rang": 1
+      },
+      {
+       "affiche": "MÜLLER Heinz I",
+       "nom_famille": "MÜLLER",
+       "prenom": "Heinz I",
+       "rang": 2
+      },
+      {
+       "affiche": "KIRCHEN Jean",
+       "nat": "LUX",
+       "nom_famille": "KIRCHEN",
+       "pays_site": "Lux",
+       "prenom": "Jean",
+       "rang": 3
+      }
+     ],
+     "url": "anc_allemagne/grosser_hannover_1953%20.html"
+    },
+    {
+     "annee": 1955,
+     "cle": "1955",
+     "date": "1955-06-19",
+     "date_txt": "19 juin",
+     "podium": [
+      {
+       "affiche": "SCHWARZENBERG Hubert",
+       "nom_famille": "SCHWARZENBERG",
+       "prenom": "Hubert",
+       "rang": 1
+      },
+      {
+       "affiche": "MÜLLER Heinz I",
+       "nom_famille": "MÜLLER",
+       "prenom": "Heinz I",
+       "rang": 2
+      },
+      {
+       "affiche": "KAIN Alfred",
+       "nat": "AUT",
+       "nom_famille": "KAIN",
+       "pays_site": "Aut",
+       "prenom": "Alfred",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1956,
+     "cle": "1956",
+     "date": "1956-06-10",
+     "date_txt": "10 juin",
+     "podium": [
+      {
+       "affiche": "MÜLLER Heinz I",
+       "nom_famille": "MÜLLER",
+       "prenom": "Heinz I",
+       "rang": 1
+      },
+      {
+       "affiche": "REINECKE Emil",
+       "nom_famille": "REINECKE",
+       "prenom": "Emil",
+       "rang": 2
+      },
+      {
+       "affiche": "EBBERS Herbert",
+       "nom_famille": "EBBERS",
+       "prenom": "Herbert",
+       "rang": 3
+      }
+     ]
+    }
+   ],
    "gras": true,
    "groupe": "ALL",
    "id": "disparues-grosser_hannover",
+   "lu_le": "2026-11-20T03:53:29Z",
    "nom": "Großer Straßenpreis von Hannover",
    "section": "disparues",
    "suffixe_index": "1910-1956",
+   "titre_page": "Großen Straßenpreis von Hannover (All) - Ex.",
    "url": "disparues/anc_grosser_hannover.html"
   },
   "disparues-grosser_sachsenpreis": {
+   "drapeau": "allemagne",
+   "editions": [
+    {
+     "annee": 1911,
+     "cle": "1911",
+     "date": "1911-09-10",
+     "date_txt": "10 septembre",
+     "podium": [
+      {
+       "affiche": "SUTER Paul",
+       "nat": "SUI",
+       "nom_famille": "SUTER",
+       "pays_site": "Sui",
+       "prenom": "Paul",
+       "rang": 1
+      },
+      {
+       "affiche": "HÜBNER Josef",
+       "nom_famille": "HÜBNER",
+       "prenom": "Josef",
+       "rang": 2
+      },
+      {
+       "affiche": "SCHALLWIG Fritz",
+       "nom_famille": "SCHALLWIG",
+       "prenom": "Fritz",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1912,
+     "cle": "1912",
+     "date": "1912-09-15",
+     "date_txt": "15 septembre",
+     "podium": [
+      {
+       "affiche": "BUYSSE Marcel",
+       "nat": "BEL",
+       "nom_famille": "BUYSSE",
+       "pays_site": "Bel",
+       "prenom": "Marcel",
+       "rang": 1
+      },
+      {
+       "affiche": "CRUPELANDT Charles",
+       "nat": "FRA",
+       "nom_famille": "CRUPELANDT",
+       "pays_site": "Fra",
+       "prenom": "Charles",
+       "rang": 2
+      },
+      {
+       "affiche": "SCHENKEL Richard",
+       "nom_famille": "SCHENKEL",
+       "prenom": "Richard",
+       "rang": 3
+      }
+     ],
+     "url": "anc_allemagne/sachsenpreis_1912.html"
+    },
+    {
+     "annee": 1914,
+     "cle": "1914",
+     "date": "1914-05-24",
+     "date_txt": "24 mai",
+     "podium": [
+      {
+       "affiche": "WEISE Richard",
+       "nom_famille": "WEISE",
+       "prenom": "Richard",
+       "rang": 1
+      },
+      {
+       "affiche": "LEWIS Rudolph",
+       "nat": "RSA",
+       "nom_famille": "LEWIS",
+       "pays_site": "Afs",
+       "prenom": "Rudolph",
+       "rang": 2
+      },
+      {
+       "affiche": "FRANZ Ernst",
+       "nom_famille": "FRANZ",
+       "pays_site": "Boh",
+       "prenom": "Ernst",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1921,
+     "cle": "1921",
+     "date": "1921-07-31",
+     "date_txt": "31 juillet",
+     "podium": [
+      {
+       "affiche": "KOHL Paul",
+       "nom_famille": "KOHL",
+       "prenom": "Paul",
+       "rang": 1
+      },
+      {
+       "affiche": "ABERGER Erich",
+       "nom_famille": "ABERGER",
+       "prenom": "Erich",
+       "rang": 2
+      },
+      {
+       "affiche": "HUSCHKE Adolf",
+       "nom_famille": "HUSCHKE",
+       "prenom": "Adolf",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1922,
+     "cle": "1922",
+     "date": "1922-07-09",
+     "date_txt": "9 juillet",
+     "podium": [
+      {
+       "affiche": "KOHL Paul",
+       "nom_famille": "KOHL",
+       "prenom": "Paul",
+       "rang": 1
+      },
+      {
+       "affiche": "MANTHEY Felix",
+       "nom_famille": "MANTHEY",
+       "prenom": "Felix",
+       "rang": 2
+      },
+      {
+       "affiche": "GEISDORF Walter",
+       "nom_famille": "GEISDORF",
+       "prenom": "Walter",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1923,
+     "cle": "1923",
+     "date": "1923-06-10",
+     "date_txt": "10 juin",
+     "podium": [
+      {
+       "affiche": "ABERGER Erich",
+       "nom_famille": "ABERGER",
+       "prenom": "Erich",
+       "rang": 1
+      },
+      {
+       "affiche": "MANTHEY Felix",
+       "nom_famille": "MANTHEY",
+       "prenom": "Felix",
+       "rang": 2
+      },
+      {
+       "affiche": "FISCHER Fritz I",
+       "nom_famille": "FISCHER",
+       "prenom": "Fritz I",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1924,
+     "cle": "1924",
+     "date": "1924-07-06",
+     "date_txt": "6 juillet",
+     "podium": [
+      {
+       "affiche": "KOHL Paul",
+       "nom_famille": "KOHL",
+       "prenom": "Paul",
+       "rang": 1
+      },
+      {
+       "affiche": "HUSCHKE Richard",
+       "nom_famille": "HUSCHKE",
+       "prenom": "Richard",
+       "rang": 2
+      },
+      {
+       "affiche": "KROLL Paul",
+       "nom_famille": "KROLL",
+       "prenom": "Paul",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1925,
+     "cle": "1925",
+     "date": "1925-07-05",
+     "date_txt": "5 juillet",
+     "podium": [
+      {
+       "affiche": "NÖRENBERG Arthur",
+       "nom_famille": "NÖRENBERG",
+       "prenom": "Arthur",
+       "rang": 1
+      },
+      {
+       "affiche": "KOHL Karl",
+       "nom_famille": "KOHL",
+       "prenom": "Karl",
+       "rang": 2
+      },
+      {
+       "affiche": "HUSCHKE Richard",
+       "nom_famille": "HUSCHKE",
+       "prenom": "Richard",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1926,
+     "cle": "1926",
+     "date": "1926-06-20",
+     "date_txt": "20 juin",
+     "podium": [
+      {
+       "affiche": "BELLONI Gaetano",
+       "nat": "ITA",
+       "nom_famille": "BELLONI",
+       "pays_site": "Ita",
+       "prenom": "Gaetano",
+       "rang": 1
+      },
+      {
+       "affiche": "SUTER Heinrich",
+       "nat": "SUI",
+       "nom_famille": "SUTER",
+       "pays_site": "Sui",
+       "prenom": "Heinrich",
+       "rang": 2
+      },
+      {
+       "affiche": "BLATTMANN Albert",
+       "nat": "SUI",
+       "nom_famille": "BLATTMANN",
+       "pays_site": "Sui",
+       "prenom": "Albert",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1928,
+     "cle": "1928",
+     "date": "1928-06-24",
+     "date_txt": "24 juin",
+     "podium": [
+      {
+       "affiche": "PIEMONTESI Domenico",
+       "nat": "ITA",
+       "nom_famille": "PIEMONTESI",
+       "pays_site": "Ita",
+       "prenom": "Domenico",
+       "rang": 1
+      },
+      {
+       "affiche": "VAN HEVEL Jules",
+       "nat": "BEL",
+       "nom_famille": "VAN HEVEL",
+       "pays_site": "Bel",
+       "prenom": "Jules",
+       "rang": 2
+      },
+      {
+       "affiche": "BELLONI Gaetano",
+       "nat": "ITA",
+       "nom_famille": "BELLONI",
+       "pays_site": "Ita",
+       "prenom": "Gaetano",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1934,
+     "cle": "1934",
+     "date": "1934-06-24",
+     "date_txt": "24 juin",
+     "podium": [
+      {
+       "affiche": "GEYER Ludwig",
+       "nom_famille": "GEYER",
+       "prenom": "Ludwig",
+       "rang": 1
+      },
+      {
+       "affiche": "ROTH Bruno",
+       "nom_famille": "ROTH",
+       "prenom": "Bruno",
+       "rang": 2
+      },
+      {
+       "affiche": "HODEY Anton",
+       "nom_famille": "HODEY",
+       "prenom": "Anton",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1935,
+     "cle": "1935",
+     "date": "1935-06-20",
+     "date_txt": "20 juin",
+     "podium": [
+      {
+       "affiche": "KIJEWSKI Emil",
+       "nom_famille": "KIJEWSKI",
+       "prenom": "Emil",
+       "rang": 1
+      },
+      {
+       "affiche": "UMBENHAUER Georg",
+       "nom_famille": "UMBENHAUER",
+       "prenom": "Georg",
+       "rang": 2
+      },
+      {
+       "affiche": "KUTSCHBACH Willi",
+       "nom_famille": "KUTSCHBACH",
+       "prenom": "Willi",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1936,
+     "cle": "1936",
+     "date": "1936-06-07",
+     "date_txt": "7 juin",
+     "podium": [
+      {
+       "affiche": "UMBENHAUER Georg",
+       "nom_famille": "UMBENHAUER",
+       "prenom": "Georg",
+       "rang": 1
+      },
+      {
+       "affiche": "BAUTZ Erich",
+       "nom_famille": "BAUTZ",
+       "prenom": "Erich",
+       "rang": 2
+      },
+      {
+       "affiche": "HODEY Anton",
+       "nom_famille": "HODEY",
+       "prenom": "Anton",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1937,
+     "cle": "1937",
+     "date": "1937-09-05",
+     "date_txt": "5 septembre",
+     "podium": [
+      {
+       "affiche": "BAUTZ Erich",
+       "nom_famille": "BAUTZ",
+       "prenom": "Erich",
+       "rang": 1
+      },
+      {
+       "affiche": "KIJEWSKI Emil",
+       "nom_famille": "KIJEWSKI",
+       "prenom": "Emil",
+       "rang": 2
+      },
+      {
+       "affiche": "ROTH Bruno",
+       "nom_famille": "ROTH",
+       "prenom": "Bruno",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1938,
+     "cle": "1938",
+     "date": "1938-08-18",
+     "date_txt": "18 août",
+     "podium": [
+      {
+       "affiche": "FISCHER Willi",
+       "nom_famille": "FISCHER",
+       "prenom": "Willi",
+       "rang": 1
+      },
+      {
+       "affiche": "ARENTS Josef",
+       "nom_famille": "ARENTS",
+       "prenom": "Josef",
+       "rang": 2
+      },
+      {
+       "affiche": "GERBER Herbert",
+       "nom_famille": "GERBER",
+       "prenom": "Herbert",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1940,
+     "cle": "1940",
+     "date": "1940-05-05",
+     "date_txt": "5 mai",
+     "podium": [
+      {
+       "affiche": "STACH Georg",
+       "nom_famille": "STACH",
+       "prenom": "Georg",
+       "rang": 1
+      },
+      {
+       "affiche": "GERBER Herbert",
+       "nom_famille": "GERBER",
+       "prenom": "Herbert",
+       "rang": 2
+      },
+      {
+       "affiche": "MENAPACE Richard *",
+       "nom_famille": "MENAPACE",
+       "prenom": "Richard *",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1941,
+     "cle": "1941",
+     "date": "1941-08-03",
+     "date_txt": "3 août",
+     "podium": [
+      {
+       "affiche": "DIDIER Christophe *",
+       "nom_famille": "DIDIER",
+       "prenom": "Christophe *",
+       "rang": 1
+      },
+      {
+       "affiche": "SCHILD Hermann",
+       "nom_famille": "SCHILD",
+       "prenom": "Hermann",
+       "rang": 2
+      },
+      {
+       "affiche": "BAUTZ Erich",
+       "nom_famille": "BAUTZ",
+       "prenom": "Erich",
+       "rang": 3
+      }
+     ]
+    }
+   ],
    "gras": true,
    "groupe": "ALL",
    "id": "disparues-grosser_sachsenpreis",
+   "lu_le": "2026-11-20T03:53:42Z",
    "nom": "Großer Sachsenpreis",
    "section": "disparues",
    "suffixe_index": "1911-1941",
+   "titre_page": "Großer Sachsenpreis (All) - Ex.",
    "url": "disparues/anc_grosser_sachsenpreis.html"
   },
   "disparues-grossherzogtum_oldenburg": {
+   "drapeau": "all",
+   "editions": [
+    {
+     "annee": 1911,
+     "cle": "1911",
+     "date": "1911-07-16",
+     "date_txt": "16 juillet",
+     "podium": [
+      {
+       "affiche": "HUSCHKE Adolf",
+       "nom_famille": "HUSCHKE",
+       "prenom": "Adolf",
+       "rang": 1
+      },
+      {
+       "affiche": "SCHENKEL Richard",
+       "nom_famille": "SCHENKEL",
+       "prenom": "Richard",
+       "rang": 2
+      },
+      {
+       "affiche": "SUTER Paul",
+       "nat": "SUI",
+       "nom_famille": "SUTER",
+       "pays_site": "Sui",
+       "prenom": "Paul",
+       "rang": 3
+      }
+     ]
+    }
+   ],
    "gras": false,
    "groupe": "ALL",
    "id": "disparues-grossherzogtum_oldenburg",
+   "lu_le": "2026-11-20T03:53:49Z",
    "nom": "Rund um das Großherzogtum Oldenburg",
    "section": "disparues",
    "suffixe_index": "1911",
+   "titre_page": "Rund um das Großherzogtum Oldenburg (All) - Ex.",
    "url": "disparues/anc_grossherzogtum_oldenburg.html"
   },
   "disparues-guingamp_morlaix_guin": {
+   "drapeau": "fra",
+   "editions": [
+    {
+     "annee": 1895,
+     "cle": "1895",
+     "podium": [
+      {
+       "affiche": "GARIN Maurice",
+       "nom_famille": "GARIN",
+       "prenom": "Maurice",
+       "rang": 1
+      },
+      {
+       "affiche": "BONTEMPS",
+       "nom_famille": "BONTEMPS",
+       "rang": 2
+      },
+      {
+       "affiche": "HAMONIC Henri",
+       "nom_famille": "HAMONIC",
+       "prenom": "Henri",
+       "rang": 3
+      }
+     ]
+    }
+   ],
    "gras": false,
    "groupe": "FRA",
    "id": "disparues-guingamp_morlaix_guin",
+   "lu_le": "2026-11-20T03:53:52Z",
    "nom": "Guingamp-Morlaix-Guingamp",
    "section": "disparues",
    "suffixe_index": "1895",
+   "titre_page": "Guingamp-Morlaix-Guingamp (Fra) - Ex.",
    "url": "disparues/anc_guingamp_morlaix_guin.html"
   },
   "disparues-guipuzcoa": {
+   "drapeau": "esp",
+   "editions": [
+    {
+     "annee": 1923,
+     "cle": "1923",
+     "date": "1923-10-28",
+     "date_txt": "28 octobre",
+     "podium": [
+      {
+       "affiche": "FONTAN Victor",
+       "nat": "FRA",
+       "nom_famille": "FONTAN",
+       "pays_site": "Fra",
+       "prenom": "Victor",
+       "rang": 1
+      },
+      {
+       "affiche": "MASSAL Joseph",
+       "nat": "FRA",
+       "nom_famille": "MASSAL",
+       "pays_site": "Fra",
+       "prenom": "Joseph",
+       "rang": 2
+      },
+      {
+       "affiche": "MOURGUIAT Maxime",
+       "nat": "FRA",
+       "nom_famille": "MOURGUIAT",
+       "pays_site": "Fra",
+       "prenom": "Maxime",
+       "rang": 3
+      }
+     ],
+     "url": "anc_espagne/guipuzcoa_1923.html"
+    },
+    {
+     "annee": 1924,
+     "cle": "1924",
+     "date": "1924-10-05",
+     "date_txt": "5 octobre",
+     "podium": [
+      {
+       "affiche": "SARDUY Cesareo",
+       "nom_famille": "SARDUY",
+       "prenom": "Cesareo",
+       "rang": 1
+      },
+      {
+       "affiche": "MONTERO Ricardo",
+       "nom_famille": "MONTERO",
+       "prenom": "Ricardo",
+       "rang": 2
+      },
+      {
+       "affiche": "GUTIERREZ Domingo",
+       "nom_famille": "GUTIERREZ",
+       "prenom": "Domingo",
+       "rang": 3
+      }
+     ],
+     "url": "anc_espagne/guipuzcoa_1924.html"
+    },
+    {
+     "annee": 1925,
+     "cle": "1925",
+     "date": "1925-10-11",
+     "date_txt": "11 octobre",
+     "podium": [
+      {
+       "affiche": "GUTIERREZ Domingo",
+       "nom_famille": "GUTIERREZ",
+       "prenom": "Domingo",
+       "rang": 1
+      },
+      {
+       "affiche": "FONTAN Victor",
+       "nat": "FRA",
+       "nom_famille": "FONTAN",
+       "pays_site": "Fra",
+       "prenom": "Victor",
+       "rang": 2
+      },
+      {
+       "affiche": "TEQUI Simon",
+       "nat": "FRA",
+       "nom_famille": "TEQUI",
+       "pays_site": "Fra",
+       "prenom": "Simon",
+       "rang": 3
+      }
+     ],
+     "url": "anc_espagne/guipuzcoa_1925.html"
+    },
+    {
+     "annee": 1933,
+     "cle": "1933",
+     "date": "1933-09-10",
+     "date_txt": "10 septembre",
+     "podium": [
+      {
+       "affiche": "ESCURIET Antonio",
+       "nom_famille": "ESCURIET",
+       "prenom": "Antonio",
+       "rang": 1
+      },
+      {
+       "affiche": "BAUTISTA Urbano",
+       "nom_famille": "BAUTISTA",
+       "prenom": "Urbano",
+       "rang": 2
+      },
+      {
+       "affiche": "GOJENOLA Félix",
+       "nom_famille": "GOJENOLA",
+       "prenom": "Félix",
+       "rang": 3
+      }
+     ],
+     "url": "anc_espagne/guipuzcoa_1933.html"
+    },
+    {
+     "annee": 1935,
+     "cle": "1935",
+     "date": "1935-07-25",
+     "date_txt": "25 juillet",
+     "podium": [
+      {
+       "affiche": "MONTERO Ricardo",
+       "nom_famille": "MONTERO",
+       "prenom": "Ricardo",
+       "rang": 1
+      },
+      {
+       "affiche": "MOLINA Salvador",
+       "nom_famille": "MOLINA",
+       "prenom": "Salvador",
+       "rang": 2
+      },
+      {
+       "affiche": "ESCURIET Antonio",
+       "nom_famille": "ESCURIET",
+       "prenom": "Antonio",
+       "rang": 3
+      }
+     ],
+     "url": "anc_espagne/guipuzcoa_1935.html"
+    },
+    {
+     "annee": 1945,
+     "cle": "1945",
+     "date_debut": "1945-06-09",
+     "date_fin": "1945-06-10",
+     "date_txt": "du 9 au 10 juin",
+     "podium": [
+      {
+       "affiche": "LANGARICA Dalmacio",
+       "nom_famille": "LANGARICA",
+       "prenom": "Dalmacio",
+       "rang": 1
+      },
+      {
+       "affiche": "BERRENDERO Julian",
+       "nom_famille": "BERRENDERO",
+       "prenom": "Julian",
+       "rang": 2
+      },
+      {
+       "affiche": "LOPEZ GANDARA José",
+       "nom_famille": "LOPEZ GANDARA",
+       "prenom": "José",
+       "rang": 3
+      }
+     ],
+     "url": "anc_espagne/guipuzcoa_1945.html"
+    },
+    {
+     "annee": 1946,
+     "cle": "1946",
+     "date_debut": "1946-06-07",
+     "date_fin": "1946-06-09",
+     "date_txt": "du 7 au 9 juin",
+     "podium": [
+      {
+       "affiche": "VIDAURRETA Félix",
+       "nom_famille": "VIDAURRETA",
+       "prenom": "Félix",
+       "rang": 1
+      },
+      {
+       "affiche": "TRUEBA Fermin",
+       "nom_famille": "TRUEBA",
+       "prenom": "Fermin",
+       "rang": 2
+      },
+      {
+       "affiche": "AGUIRREZABAL Julian",
+       "nom_famille": "AGUIRREZABAL",
+       "prenom": "Julian",
+       "rang": 3
+      }
+     ],
+     "url": "anc_espagne/guipuzcoa_1946.html"
+    }
+   ],
    "gras": true,
    "groupe": "ESP",
    "id": "disparues-guipuzcoa",
+   "lu_le": "2026-11-20T03:53:55Z",
    "nom": "Vuelta a Guipuzcoa",
    "section": "disparues",
    "suffixe_index": "1923-1946",
+   "titre_page": "Vuelta a Guipuzcoa (Esp) - Ex.",
    "url": "disparues/anc_guipuzcoa.html"
   },
   "disparues-guiseris": {
+   "drapeau": "esp",
+   "editions": [
+    {
+     "annee": 1934,
+     "cle": "1934",
+     "date": "1934-05-13",
+     "date_txt": "13 mai",
+     "podium": [
+      {
+       "affiche": "DE CASTRO Bernardo",
+       "nom_famille": "DE CASTRO",
+       "prenom": "Bernardo",
+       "rang": 1
+      },
+      {
+       "affiche": "CARRETERO Vicente",
+       "nom_famille": "CARRETERO",
+       "prenom": "Vicente",
+       "rang": 2
+      },
+      {
+       "affiche": "TIERO Américo",
+       "nom_famille": "TIERO",
+       "prenom": "Américo",
+       "rang": 3
+      }
+     ],
+     "url": "anc_espagne/trofeo_guiseris_1934.html"
+    },
+    {
+     "annee": 1935,
+     "cle": "1935",
+     "date": "1935-11-03",
+     "date_txt": "3 novembre",
+     "podium": [
+      {
+       "affiche": "ARIAS José",
+       "nom_famille": "ARIAS",
+       "prenom": "José",
+       "rang": 1
+      },
+      {
+       "affiche": "RUIZ TRILLO Manuel",
+       "nom_famille": "RUIZ TRILLO",
+       "prenom": "Manuel",
+       "rang": 2
+      },
+      {
+       "affiche": "BAILON Joaquín",
+       "nom_famille": "BAILON",
+       "prenom": "Joaquín",
+       "rang": 3
+      }
+     ],
+     "url": "anc_espagne/trofeo_guiseris_1935.html"
+    },
+    {
+     "annee": 1939,
+     "cle": "1939",
+     "date": "1939-11-12",
+     "date_txt": "12 novembre",
+     "podium": [
+      {
+       "affiche": "MARTIN Antonio",
+       "nom_famille": "MARTIN",
+       "prenom": "Antonio",
+       "rang": 1
+      },
+      {
+       "affiche": "TRUEBA Fermín",
+       "nom_famille": "TRUEBA",
+       "prenom": "Fermín",
+       "rang": 2
+      },
+      {
+       "affiche": "ESCURIET Antonio",
+       "nom_famille": "ESCURIET",
+       "prenom": "Antonio",
+       "rang": 3
+      }
+     ],
+     "url": "anc_espagne/trofeo_guiseris_1939.html"
+    },
+    {
+     "annee": 1940,
+     "cle": "1940",
+     "date": "1940-06-16",
+     "date_txt": "16 juin",
+     "podium": [
+      {
+       "affiche": "LOPEZ Luis",
+       "nom_famille": "LOPEZ",
+       "prenom": "Luis",
+       "rang": 1
+      },
+      {
+       "affiche": "MOLINA Salvador",
+       "nom_famille": "MOLINA",
+       "prenom": "Salvador",
+       "rang": 2
+      },
+      {
+       "affiche": "GIMENO Juan",
+       "nom_famille": "GIMENO",
+       "prenom": "Juan",
+       "rang": 3
+      }
+     ],
+     "url": "anc_espagne/trofeo_guiseris_1940.html"
+    }
+   ],
    "gras": true,
    "groupe": "ESP",
    "id": "disparues-guiseris",
+   "lu_le": "2026-11-20T03:54:21Z",
    "nom": "Trofeo Guiseris",
    "section": "disparues",
    "suffixe_index": "1934-1940",
+   "titre_page": "Trofeo Guiseris (Esp) - Ex.",
    "url": "disparues/anc_guiseris.html"
   },
   "disparues-gulden_sporen_roeselare": {
+   "drapeau": "bel",
+   "editions": [
+    {
+     "annee": 1928,
+     "cle": "1928",
+     "date": "1928-07-11",
+     "date_txt": "11 juillet",
+     "podium": [
+      {
+       "affiche": "DEOLET Aimé",
+       "nom_famille": "DEOLET",
+       "prenom": "Aimé",
+       "rang": 1
+      },
+      {
+       "affiche": "VAN IMPE Rémi",
+       "nom_famille": "VAN IMPE",
+       "prenom": "Rémi",
+       "rang": 2
+      },
+      {
+       "affiche": "MATTON Léopold-Albert",
+       "nom_famille": "MATTON",
+       "prenom": "Léopold-Albert",
+       "rang": 3
+      }
+     ]
+    }
+   ],
    "gras": false,
    "groupe": "BEL",
    "id": "disparues-gulden_sporen_roeselare",
+   "lu_le": "2026-11-20T03:54:37Z",
    "nom": "Gulden Sporen Roeselare",
    "section": "disparues",
    "suffixe_index": "1928",
+   "titre_page": "Gulden Sporen Roeselare (Bel) - Ex.",
    "url": "disparues/anc_gulden_sporen_roeselare.html"
   },
   "disparues-hamburg_flensburg": {
+   "drapeau": "all",
+   "editions": [
+    {
+     "annee": 1909,
+     "cle": "1909",
+     "date": "1909-09-12",
+     "date_txt": "12 septembre",
+     "podium": [
+      {
+       "affiche": "ZEEH Wilhelm",
+       "nom_famille": "ZEEH",
+       "prenom": "Wilhelm",
+       "rang": 1
+      },
+      {
+       "affiche": "PAWKE Otto",
+       "nom_famille": "PAWKE",
+       "prenom": "Otto",
+       "rang": 2
+      },
+      {
+       "affiche": "MARX Willi",
+       "nom_famille": "MARX",
+       "prenom": "Willi",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1910,
+     "cle": "1910",
+     "date": "1910-05-22",
+     "date_txt": "22 mai",
+     "podium": [
+      {
+       "affiche": "LUDWIG Hans",
+       "nom_famille": "LUDWIG",
+       "prenom": "Hans",
+       "rang": 1
+      },
+      {
+       "affiche": "MARX Willi",
+       "nom_famille": "MARX",
+       "prenom": "Willi",
+       "rang": 2
+      },
+      {
+       "affiche": "RAHAUS Henri",
+       "nom_famille": "RAHAUS",
+       "prenom": "Henri",
+       "rang": 3
+      }
+     ]
+    }
+   ],
    "gras": false,
    "groupe": "ALL",
    "id": "disparues-hamburg_flensburg",
+   "lu_le": "2026-11-20T03:54:40Z",
    "nom": "Hamburg-Flensburg-Hamburg",
    "section": "disparues",
    "suffixe_index": "1909-1910",
+   "titre_page": "Hamburg-Flensburg-Hamburg (All) - Ex.",
    "url": "disparues/anc_hamburg_flensburg.html"
   },
   "disparues-hannover_berlin": {
+   "drapeau": "all",
+   "editions": [
+    {
+     "annee": 1909,
+     "cle": "1909",
+     "date": "1909-06-27",
+     "date_txt": "27 juin",
+     "podium": [
+      {
+       "affiche": "THUMM Eduard",
+       "nom_famille": "THUMM",
+       "prenom": "Eduard",
+       "rang": 1
+      },
+      {
+       "affiche": "MECK Jakob",
+       "nom_famille": "MECK",
+       "prenom": "Jakob",
+       "rang": 2
+      },
+      {
+       "affiche": "HÖPPNER Willi",
+       "nom_famille": "HÖPPNER",
+       "prenom": "Willi",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1910,
+     "cle": "1910",
+     "date": "1910-07-24",
+     "date_txt": "24 juillet",
+     "podium": [
+      {
+       "affiche": "WITTIG Karl",
+       "nom_famille": "WITTIG",
+       "prenom": "Karl",
+       "rang": 1
+      },
+      {
+       "affiche": "RITTER Arno",
+       "nom_famille": "RITTER",
+       "prenom": "Arno",
+       "rang": 2
+      },
+      {
+       "affiche": "SCHÖNWEISS Gustav",
+       "nom_famille": "SCHÖNWEISS",
+       "prenom": "Gustav",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1915,
+     "cle": "1915",
+     "date": "1915-05-02",
+     "date_txt": "2 mai",
+     "podium": [
+      {
+       "affiche": "BAUER Fritz",
+       "nom_famille": "BAUER",
+       "prenom": "Fritz",
+       "rang": 1
+      },
+      {
+       "affiche": "HILDEBRANDT Max",
+       "nom_famille": "HILDEBRANDT",
+       "prenom": "Max",
+       "rang": 2
+      },
+      {
+       "affiche": "GRÖHL Karl",
+       "nom_famille": "GRÖHL",
+       "prenom": "Karl",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1919,
+     "cle": "1919",
+     "date": "1919-10-05",
+     "date_txt": "5 octobre",
+     "podium": [
+      {
+       "affiche": "GOLLE Richard",
+       "nom_famille": "GOLLE",
+       "prenom": "Richard",
+       "rang": 1
+      },
+      {
+       "affiche": "KOCH Paul",
+       "nom_famille": "KOCH",
+       "prenom": "Paul",
+       "rang": 2
+      },
+      {
+       "affiche": "FRANKE Wilhelm",
+       "nom_famille": "FRANKE",
+       "prenom": "Wilhelm",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1920,
+     "cle": "1920",
+     "date_txt": "- 1 - 19 septembre",
+     "podium": [
+      {
+       "affiche": "HUSCHKE Adolf",
+       "nom_famille": "HUSCHKE",
+       "prenom": "Adolf",
+       "rang": 1
+      },
+      {
+       "affiche": "HUSCHKE Richard",
+       "nom_famille": "HUSCHKE",
+       "prenom": "Richard",
+       "rang": 2
+      },
+      {
+       "affiche": "MANTHEY Felix",
+       "nom_famille": "MANTHEY",
+       "prenom": "Felix",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1920,
+     "cle": "1920-2",
+     "date_txt": "- 2 - 26 septembre",
+     "podium": [
+      {
+       "affiche": "KOCH Paul",
+       "nom_famille": "KOCH",
+       "prenom": "Paul",
+       "rang": 1
+      },
+      {
+       "affiche": "HUSCHKE Adolf",
+       "nom_famille": "HUSCHKE",
+       "prenom": "Adolf",
+       "rang": 2
+      },
+      {
+       "affiche": "MANTHEY Felix",
+       "nom_famille": "MANTHEY",
+       "prenom": "Felix",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1921,
+     "cle": "1921",
+     "date": "1921-10-02",
+     "date_txt": "2 octobre",
+     "podium": [
+      {
+       "affiche": "HUSCHKE Richard",
+       "nom_famille": "HUSCHKE",
+       "prenom": "Richard",
+       "rang": 1
+      },
+      {
+       "affiche": "HUSCHKE Adolf",
+       "nom_famille": "HUSCHKE",
+       "prenom": "Adolf",
+       "rang": 2
+      },
+      {
+       "affiche": "ABERGER Erich",
+       "nom_famille": "ABERGER",
+       "prenom": "Erich",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1922,
+     "cle": "1922",
+     "date": "1922-10-08",
+     "date_txt": "8 octobre",
+     "podium": [
+      {
+       "affiche": "ABERGER Erich",
+       "nom_famille": "ABERGER",
+       "prenom": "Erich",
+       "rang": 1
+      },
+      {
+       "affiche": "HUSCHKE Richard",
+       "nom_famille": "HUSCHKE",
+       "prenom": "Richard",
+       "rang": 2
+      },
+      {
+       "affiche": "MANTHEY Félix",
+       "nom_famille": "MANTHEY",
+       "prenom": "Félix",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1996,
+     "cle": "1996",
+     "date": "1996-05-05",
+     "date_txt": "5 mai",
+     "podium": [
+      {
+       "affiche": "ZABEL Erik",
+       "nom_famille": "ZABEL",
+       "prenom": "Erik",
+       "rang": 1
+      },
+      {
+       "affiche": "SCHAFFRATH Jan",
+       "nom_famille": "SCHAFFRATH",
+       "prenom": "Jan",
+       "rang": 2
+      },
+      {
+       "affiche": "REIN Steffen",
+       "nom_famille": "REIN",
+       "prenom": "Steffen",
+       "rang": 3
+      }
+     ]
+    }
+   ],
    "gras": false,
    "groupe": "ALL",
    "id": "disparues-hannover_berlin",
+   "lu_le": "2026-11-20T03:54:44Z",
    "nom": "Hannover-Berlin",
    "section": "disparues",
    "suffixe_index": "1909-1996",
+   "titre_page": "Hannover-Berlin (All) - Ex.",
    "url": "disparues/anc_hannover_berlin.html"
   },
   "disparues-hannover_berlin_leipzig": {
+   "drapeau": "all",
+   "editions": [
+    {
+     "annee": 1925,
+     "cle": "1925",
+     "date_debut": "1925-08-15",
+     "date_fin": "1925-08-16",
+     "date_txt": "du 15 au 16 août",
+     "podium": [
+      {
+       "affiche": "TIETZ Oskar",
+       "nom_famille": "TIETZ",
+       "prenom": "Oskar",
+       "rang": 1
+      },
+      {
+       "affiche": "HUSCHKE Richard",
+       "nom_famille": "HUSCHKE",
+       "prenom": "Richard",
+       "rang": 2
+      },
+      {
+       "affiche": "NÖRENBERG Arthur",
+       "nom_famille": "NÖRENBERG",
+       "prenom": "Arthur",
+       "rang": 3
+      }
+     ]
+    }
+   ],
    "gras": false,
    "groupe": "ALL",
    "id": "disparues-hannover_berlin_leipzig",
+   "lu_le": "2026-11-20T03:54:46Z",
    "nom": "Hannover-Berlin-Leipzig",
    "section": "disparues",
    "suffixe_index": "1925",
+   "titre_page": "Hannover-Berlin-Leipzig (All) - Ex.",
    "url": "disparues/anc_hannover_berlin_leipzig.html"
   },
   "disparues-hannover_bremen_hamburg": {
+   "drapeau": "all",
+   "editions": [
+    {
+     "annee": 1927,
+     "cle": "1927",
+     "date": "1927-05-22",
+     "date_txt": "22 mai",
+     "podium": [
+      {
+       "affiche": "VAN HEVEL Jules",
+       "nat": "BEL",
+       "nom_famille": "VAN HEVEL",
+       "pays_site": "Bel",
+       "prenom": "Jules",
+       "rang": 1
+      },
+      {
+       "affiche": "DEBAETS Gérard",
+       "nat": "BEL",
+       "nom_famille": "DEBAETS",
+       "pays_site": "Bel",
+       "prenom": "Gérard",
+       "rang": 2
+      },
+      {
+       "affiche": "ZANAGA Adriano",
+       "nat": "ITA",
+       "nom_famille": "ZANAGA",
+       "pays_site": "Ita",
+       "prenom": "Adriano",
+       "rang": 3
+      }
+     ]
+    }
+   ],
    "gras": false,
    "groupe": "ALL",
    "id": "disparues-hannover_bremen_hamburg",
+   "lu_le": "2026-11-20T03:54:49Z",
    "nom": "Hannover-Bremen-Hamburg",
    "section": "disparues",
    "suffixe_index": "1927",
+   "titre_page": "Hannover-Bremen-Hamburg (All) - Ex.",
    "url": "disparues/anc_hannover_bremen_hamburg.html"
   },
   "disparues-hannover_hamburg_hannover": {
+   "drapeau": "all",
+   "editions": [
+    {
+     "annee": 1911,
+     "cle": "1911",
+     "date": "1911-07-02",
+     "date_txt": "2 juillet",
+     "podium": [
+      {
+       "affiche": "EICKHOLL Albert",
+       "nom_famille": "EICKHOLL",
+       "prenom": "Albert",
+       "rang": 1
+      },
+      {
+       "affiche": "HÖPPNER Willi",
+       "nom_famille": "HÖPPNER",
+       "prenom": "Willi",
+       "rang": 2
+      },
+      {
+       "affiche": "SCHULZE Gustav",
+       "nom_famille": "SCHULZE",
+       "prenom": "Gustav",
+       "rang": 3
+      }
+     ]
+    }
+   ],
    "gras": false,
    "groupe": "ALL",
    "id": "disparues-hannover_hamburg_hannover",
+   "lu_le": "2026-11-20T03:54:53Z",
    "nom": "Hannover-Hamburg-Hannover",
    "section": "disparues",
    "suffixe_index": "1911",
+   "titre_page": "Hannover-Hamburg-Hannover (All) - Ex.",
    "url": "disparues/anc_hannover_hamburg_hannover.html"
   },
   "disparues-hannover_magdeburg_hannover": {
+   "drapeau": "all",
+   "editions": [
+    {
+     "annee": 1910,
+     "cle": "1910",
+     "date": "1910-09-25",
+     "date_txt": "25 septembre",
+     "podium": [
+      {
+       "affiche": "WITTIG Karl",
+       "nom_famille": "WITTIG",
+       "prenom": "Karl",
+       "rang": 1
+      },
+      {
+       "affiche": "MECK Jakob",
+       "nom_famille": "MECK",
+       "prenom": "Jakob",
+       "rang": 2
+      },
+      {
+       "affiche": "EICKHOLL Albert",
+       "nom_famille": "EICKHOLL",
+       "prenom": "Albert",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1911,
+     "cle": "1911",
+     "date": "1911-06-11",
+     "date_txt": "11 juin",
+     "podium": [
+      {
+       "affiche": "STRASSER Peter",
+       "nom_famille": "STRASSER",
+       "prenom": "Peter",
+       "rang": 1
+      },
+      {
+       "affiche": "FRANKE Otto",
+       "nom_famille": "FRANKE",
+       "prenom": "Otto",
+       "rang": 2
+      },
+      {
+       "affiche": "HALLER Albert",
+       "nom_famille": "HALLER",
+       "prenom": "Albert",
+       "rang": 3
+      }
+     ]
+    }
+   ],
    "gras": false,
    "groupe": "ALL",
    "id": "disparues-hannover_magdeburg_hannover",
+   "lu_le": "2026-11-20T03:54:56Z",
    "nom": "Hannover-Magdeburg-Hannover",
    "section": "disparues",
    "suffixe_index": "1910-1911",
+   "titre_page": "Hannover-Magdeburg-Hannover (All) - Ex.",
    "url": "disparues/anc_hannover_magdeburg_hannover.html"
   },
   "disparues-hannut": {
+   "drapeau": "bel",
+   "editions": [
+    {
+     "annee": 1967,
+     "cle": "1967",
+     "date": "1967-03-27",
+     "date_txt": "27 mars",
+     "podium": [
+      {
+       "affiche": "CLAES Jean-Baptiste",
+       "nom_famille": "CLAES",
+       "prenom": "Jean-Baptiste",
+       "rang": 1
+      },
+      {
+       "affiche": "BODART Emile",
+       "nom_famille": "BODART",
+       "prenom": "Emile",
+       "rang": 2
+      },
+      {
+       "affiche": "PREZIOSI Carmine",
+       "nom_famille": "PREZIOSI",
+       "prenom": "Carmine",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1968,
+     "cle": "1968",
+     "date": "1968-04-14",
+     "date_txt": "14 avril",
+     "podium": [
+      {
+       "affiche": "VRANCKEN Herman",
+       "nom_famille": "VRANCKEN",
+       "prenom": "Herman",
+       "rang": 1
+      },
+      {
+       "affiche": "PAUWELS Henri",
+       "nom_famille": "PAUWELS",
+       "prenom": "Henri",
+       "rang": 2
+      },
+      {
+       "affiche": "BLOCKX Roger",
+       "nom_famille": "BLOCKX",
+       "prenom": "Roger",
+       "rang": 3
+      }
+     ],
+     "url": "anc_belgique/printemps_hannut_1968.html"
+    },
+    {
+     "annee": 1969,
+     "cle": "1969",
+     "date": "1969-04-07",
+     "date_txt": "7 avril",
+     "podium": [
+      {
+       "affiche": "VAN VLIERBERGHE Albert",
+       "nom_famille": "VAN VLIERBERGHE",
+       "prenom": "Albert",
+       "rang": 1
+      },
+      {
+       "affiche": "PEELMAN Eddy",
+       "nom_famille": "PEELMAN",
+       "prenom": "Eddy",
+       "rang": 2
+      },
+      {
+       "affiche": "DONIE Willy",
+       "nom_famille": "DONIE",
+       "prenom": "Willy",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1970,
+     "cle": "1970",
+     "date": "1970-03-30",
+     "date_txt": "30 mars",
+     "podium": [
+      {
+       "affiche": "SWERTS Roger",
+       "nom_famille": "SWERTS",
+       "prenom": "Roger",
+       "rang": 1
+      },
+      {
+       "affiche": "VANCONINGSLOO Georges",
+       "nom_famille": "VANCONINGSLOO",
+       "prenom": "Georges",
+       "rang": 2
+      },
+      {
+       "affiche": "MOONEN Willy",
+       "nom_famille": "MOONEN",
+       "prenom": "Willy",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1971,
+     "cle": "1971",
+     "date": "1971-04-12",
+     "date_txt": "12 avril",
+     "podium": [
+      {
+       "affiche": "VAN VLIERBERGHE Albert",
+       "nom_famille": "VAN VLIERBERGHE",
+       "prenom": "Albert",
+       "rang": 1
+      },
+      {
+       "affiche": "MINTJENS Frans",
+       "nom_famille": "MINTJENS",
+       "prenom": "Frans",
+       "rang": 2
+      },
+      {
+       "affiche": "TABAK Tino",
+       "nom_famille": "TABAK",
+       "prenom": "Tino",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1972,
+     "cle": "1972",
+     "date": "1972-04-03",
+     "date_txt": "3 avril",
+     "podium": [
+      {
+       "affiche": "VAN VLIERBERGHE Albert",
+       "nom_famille": "VAN VLIERBERGHE",
+       "prenom": "Albert",
+       "rang": 1
+      },
+      {
+       "affiche": "VERSTRAETEN Eddy",
+       "nom_famille": "VERSTRAETEN",
+       "prenom": "Eddy",
+       "rang": 2
+      },
+      {
+       "affiche": "VAN DER LINDEN Ludo",
+       "nom_famille": "VAN DER LINDEN",
+       "prenom": "Ludo",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1973,
+     "cle": "1973",
+     "date": "1973-04-23",
+     "date_txt": "23 avril",
+     "podium": [
+      {
+       "affiche": "GAKENS Tony",
+       "nom_famille": "GAKENS",
+       "prenom": "Tony",
+       "rang": 1
+      },
+      {
+       "affiche": "CALLENS Christian",
+       "nom_famille": "CALLENS",
+       "prenom": "Christian",
+       "rang": 2
+      },
+      {
+       "affiche": "VRIJDERS Herman",
+       "nom_famille": "VRIJDERS",
+       "prenom": "Herman",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1974,
+     "cle": "1974",
+     "date": "1974-04-15",
+     "date_txt": "15 avril",
+     "podium": [
+      {
+       "affiche": "VERSTRAETEN Eddy",
+       "nom_famille": "VERSTRAETEN",
+       "prenom": "Eddy",
+       "rang": 1
+      },
+      {
+       "affiche": "DIERICKX André",
+       "nom_famille": "DIERICKX",
+       "prenom": "André",
+       "rang": 2
+      },
+      {
+       "affiche": "BODART Emile",
+       "nom_famille": "BODART",
+       "prenom": "Emile",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1975,
+     "cle": "1975",
+     "date": "1975-03-31",
+     "date_txt": "31 mars",
+     "podium": [
+      {
+       "affiche": "LOYSCH Roger 2",
+       "nom_famille": "LOYSCH",
+       "prenom": "Roger 2",
+       "rang": 1
+      },
+      {
+       "affiche": "VAN STAEYEN Ludo",
+       "nom_famille": "VAN STAEYEN",
+       "prenom": "Ludo",
+       "rang": 2
+      },
+      {
+       "affiche": "PLANCKAERT Walter",
+       "nom_famille": "PLANCKAERT",
+       "prenom": "Walter",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1976,
+     "cle": "1976",
+     "date": "1976-04-19",
+     "date_txt": "19 avril",
+     "podium": [
+      {
+       "affiche": "GIJSEMANS Jozef",
+       "nom_famille": "GIJSEMANS",
+       "prenom": "Jozef",
+       "rang": 1
+      },
+      {
+       "affiche": "IN'T VEN Willy",
+       "nom_famille": "IN'T VEN",
+       "prenom": "Willy",
+       "rang": 2
+      },
+      {
+       "affiche": "SWERTS Roger",
+       "nom_famille": "SWERTS",
+       "prenom": "Roger",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1977,
+     "cle": "1977",
+     "date": "1977-04-11",
+     "date_txt": "11 avril",
+     "podium": [
+      {
+       "affiche": "PEETERS Willem",
+       "nom_famille": "PEETERS",
+       "prenom": "Willem",
+       "rang": 1
+      },
+      {
+       "affiche": "DE BAL Alfons",
+       "nom_famille": "DE BAL",
+       "prenom": "Alfons",
+       "rang": 2
+      },
+      {
+       "affiche": "WUYCKENS René",
+       "nom_famille": "WUYCKENS",
+       "prenom": "René",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1978,
+     "cle": "1978",
+     "date": "1978-03-27",
+     "date_txt": "27 mars",
+     "podium": [
+      {
+       "affiche": "VAN ROOSBROECK Gustaaf",
+       "nom_famille": "VAN ROOSBROECK",
+       "prenom": "Gustaaf",
+       "rang": 1
+      },
+      {
+       "affiche": "RENIER Marc",
+       "nom_famille": "RENIER",
+       "prenom": "Marc",
+       "rang": 2
+      },
+      {
+       "affiche": "DE BAL Alfons",
+       "nom_famille": "DE BAL",
+       "prenom": "Alfons",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1979,
+     "cle": "1979",
+     "date": "1979-04-16",
+     "date_txt": "16 avril",
+     "podium": [
+      {
+       "affiche": "ROSIERS Roger",
+       "nom_famille": "ROSIERS",
+       "prenom": "Roger",
+       "rang": 1
+      },
+      {
+       "affiche": "DEN HERTOG Fedor",
+       "nom_famille": "DEN HERTOG",
+       "prenom": "Fedor",
+       "rang": 2
+      },
+      {
+       "affiche": "BORGUET Joseph",
+       "nom_famille": "BORGUET",
+       "prenom": "Joseph",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1980,
+     "cle": "1980",
+     "date": "1980-04-07",
+     "date_txt": "7 avril",
+     "podium": [
+      {
+       "affiche": "VANHAERENS Eddy",
+       "nom_famille": "VANHAERENS",
+       "prenom": "Eddy",
+       "rang": 1
+      },
+      {
+       "affiche": "ALING Jan",
+       "nom_famille": "ALING",
+       "prenom": "Jan",
+       "rang": 2
+      },
+      {
+       "affiche": "VAARTEN Michel",
+       "nom_famille": "VAARTEN",
+       "prenom": "Michel",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1981,
+     "cle": "1981",
+     "date": "1981-04-20",
+     "date_txt": "20 avril",
+     "podium": [
+      {
+       "affiche": "DE KEYSER Paul",
+       "nom_famille": "DE KEYSER",
+       "prenom": "Paul",
+       "rang": 1
+      },
+      {
+       "affiche": "BLOCKX Gérard",
+       "nom_famille": "BLOCKX",
+       "prenom": "Gérard",
+       "rang": 2
+      },
+      {
+       "affiche": "VAN LOOY Frans",
+       "nom_famille": "VAN LOOY",
+       "prenom": "Frans",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1982,
+     "cle": "1982",
+     "date": "1982-04-12",
+     "date_txt": "12 avril",
+     "podium": [
+      {
+       "affiche": "BOGAERT Jan",
+       "nom_famille": "BOGAERT",
+       "prenom": "Jan",
+       "rang": 1
+      },
+      {
+       "affiche": "LAMOTE Yvan",
+       "nom_famille": "LAMOTE",
+       "prenom": "Yvan",
+       "rang": 2
+      },
+      {
+       "affiche": "VAN SWEEVELT Guido",
+       "nom_famille": "VAN SWEEVELT",
+       "prenom": "Guido",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1983,
+     "cle": "1983",
+     "date": "1983-04-04",
+     "date_txt": "4 avril",
+     "podium": [
+      {
+       "affiche": "MAERTENS Freddy",
+       "nom_famille": "MAERTENS",
+       "prenom": "Freddy",
+       "rang": 1
+      },
+      {
+       "affiche": "DALGAL Walter",
+       "nom_famille": "DALGAL",
+       "prenom": "Walter",
+       "rang": 2
+      },
+      {
+       "affiche": "LIECKENS Jos",
+       "nom_famille": "LIECKENS",
+       "prenom": "Jos",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1984,
+     "cle": "1984",
+     "date": "1984-04-23",
+     "date_txt": "23 avril",
+     "podium": [
+      {
+       "affiche": "VERLINDEN Gery",
+       "nom_famille": "VERLINDEN",
+       "prenom": "Gery",
+       "rang": 1
+      },
+      {
+       "affiche": "WAMPERS Jean-Marie",
+       "nom_famille": "WAMPERS",
+       "prenom": "Jean-Marie",
+       "rang": 2
+      },
+      {
+       "affiche": "TURCKSIN Dominique",
+       "nom_famille": "TURCKSIN",
+       "prenom": "Dominique",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1985,
+     "cle": "1985",
+     "date": "1985-04-08",
+     "date_txt": "8 avril",
+     "podium": [
+      {
+       "affiche": "DE ROO Alain",
+       "nom_famille": "DE ROO",
+       "prenom": "Alain",
+       "rang": 1
+      },
+      {
+       "affiche": "TEIRLINCK Willy",
+       "nom_famille": "TEIRLINCK",
+       "prenom": "Willy",
+       "rang": 2
+      },
+      {
+       "affiche": "BOGAERT Jan",
+       "nom_famille": "BOGAERT",
+       "prenom": "Jan",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1986,
+     "cle": "1986",
+     "date": "1986-03-31",
+     "date_txt": "31 mars",
+     "podium": [
+      {
+       "affiche": "PLANCKAERT Eddy",
+       "nom_famille": "PLANCKAERT",
+       "prenom": "Eddy",
+       "rang": 1
+      },
+      {
+       "affiche": "HOSTE Frank",
+       "nom_famille": "HOSTE",
+       "prenom": "Frank",
+       "rang": 2
+      },
+      {
+       "affiche": "NIJDAM Jelle",
+       "nom_famille": "NIJDAM",
+       "prenom": "Jelle",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1987,
+     "cle": "1987",
+     "date": "1987-04-20",
+     "date_txt": "20 avril",
+     "podium": [
+      {
+       "affiche": "VAN SLIJCKE Rik",
+       "nom_famille": "VAN SLIJCKE",
+       "prenom": "Rik",
+       "rang": 1
+      },
+      {
+       "affiche": "GEUENS Bruno",
+       "nom_famille": "GEUENS",
+       "prenom": "Bruno",
+       "rang": 2
+      },
+      {
+       "affiche": "VANDENBERGHE Jean-Marc",
+       "nom_famille": "VANDENBERGHE",
+       "prenom": "Jean-Marc",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1988,
+     "cle": "1988",
+     "date": "1988-04-04",
+     "date_txt": "4 avril",
+     "podium": [
+      {
+       "affiche": "GIESBERTS Ludo",
+       "nom_famille": "GIESBERTS",
+       "prenom": "Ludo",
+       "rang": 1
+      },
+      {
+       "affiche": "HABETS Jean",
+       "nom_famille": "HABETS",
+       "prenom": "Jean",
+       "rang": 2
+      },
+      {
+       "affiche": "GEUENS Bruno",
+       "nom_famille": "GEUENS",
+       "prenom": "Bruno",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1989,
+     "cle": "1989",
+     "date": "1989-03-27",
+     "date_txt": "27 mars",
+     "podium": [
+      {
+       "affiche": "VAN BRABANT Benny",
+       "nom_famille": "VAN BRABANT",
+       "prenom": "Benny",
+       "rang": 1
+      },
+      {
+       "affiche": "CORNELISSE Michel",
+       "nom_famille": "CORNELISSE",
+       "prenom": "Michel",
+       "rang": 2
+      },
+      {
+       "affiche": "VAN POPPEL Jean-Paul",
+       "nom_famille": "VAN POPPEL",
+       "prenom": "Jean-Paul",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1990,
+     "cle": "1990",
+     "date": "1990-04-16",
+     "date_txt": "16 avril",
+     "podium": [
+      {
+       "affiche": "NIJDAM Jelle",
+       "nat": "NED",
+       "nom_famille": "NIJDAM",
+       "pays_site": "Hol",
+       "prenom": "Jelle",
+       "rang": 1
+      },
+      {
+       "affiche": "BOGAERT Jan",
+       "nom_famille": "BOGAERT",
+       "prenom": "Jan",
+       "rang": 2
+      },
+      {
+       "affiche": "CAPIOT Johan",
+       "nom_famille": "CAPIOT",
+       "prenom": "Johan",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1991,
+     "cle": "1991",
+     "date": "1991-04-01",
+     "date_txt": "1er avril",
+     "podium": [
+      {
+       "affiche": "GIESBERTS Ludo",
+       "nom_famille": "GIESBERTS",
+       "prenom": "Ludo",
+       "rang": 1
+      },
+      {
+       "affiche": "PRIEM Didier",
+       "nom_famille": "PRIEM",
+       "prenom": "Didier",
+       "rang": 2
+      },
+      {
+       "affiche": "HEYNDERICKS Jean-Pierre",
+       "nom_famille": "HEYNDERICKS",
+       "prenom": "Jean-Pierre",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1992,
+     "cle": "1992",
+     "date": "1992-04-20",
+     "date_txt": "20 avril",
+     "podium": [
+      {
+       "affiche": "CORNELISSE Michel",
+       "nat": "NED",
+       "nom_famille": "CORNELISSE",
+       "pays_site": "Hol",
+       "prenom": "Michel",
+       "rang": 1
+      },
+      {
+       "affiche": "ROELANDT Patrick",
+       "nom_famille": "ROELANDT",
+       "prenom": "Patrick",
+       "rang": 2
+      },
+      {
+       "affiche": "VAN DE VIN Robert",
+       "nom_famille": "VAN DE VIN",
+       "prenom": "Robert",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1993,
+     "cle": "1993",
+     "date": "1993-04-12",
+     "date_txt": "12 avril",
+     "podium": [
+      {
+       "affiche": "OMLOOP Wim",
+       "nom_famille": "OMLOOP",
+       "prenom": "Wim",
+       "rang": 1
+      },
+      {
+       "affiche": "VAN DE VIN Robert",
+       "nom_famille": "VAN DE VIN",
+       "prenom": "Robert",
+       "rang": 2
+      },
+      {
+       "affiche": "DE FRENNE Peter",
+       "nom_famille": "DE FRENNE",
+       "prenom": "Peter",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1994,
+     "cle": "1994",
+     "date": "1994-04-04",
+     "date_txt": "4 avril",
+     "podium": [
+      {
+       "affiche": "SPAENHOVEN Peter",
+       "nom_famille": "SPAENHOVEN",
+       "prenom": "Peter",
+       "rang": 1
+      },
+      {
+       "affiche": "MONCASSIN Frédéric",
+       "nat": "FRA",
+       "nom_famille": "MONCASSIN",
+       "pays_site": "Fra",
+       "prenom": "Frédéric",
+       "rang": 2
+      },
+      {
+       "affiche": "DE MEESTER Hans",
+       "nom_famille": "DE MEESTER",
+       "prenom": "Hans",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1995,
+     "cle": "1995",
+     "date": "1995-04-17",
+     "date_txt": "17 avril",
+     "podium": [
+      {
+       "affiche": "EECKHOUT Nico",
+       "nom_famille": "EECKHOUT",
+       "prenom": "Nico",
+       "rang": 1
+      },
+      {
+       "affiche": "DE MEESTER Hans",
+       "nom_famille": "DE MEESTER",
+       "prenom": "Hans",
+       "rang": 2
+      },
+      {
+       "affiche": "VAN DEN AKKER John",
+       "nom_famille": "VAN DEN AKKER",
+       "prenom": "John",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1996,
+     "cle": "1996",
+     "date": "1996-04-08",
+     "date_txt": "8 avril",
+     "podium": [
+      {
+       "affiche": "DE SMET Andy",
+       "nom_famille": "DE SMET",
+       "prenom": "Andy",
+       "rang": 1
+      },
+      {
+       "affiche": "NIJDAM Jelle",
+       "nom_famille": "NIJDAM",
+       "prenom": "Jelle",
+       "rang": 2
+      },
+      {
+       "affiche": "HEIREWEGH Bart",
+       "nom_famille": "HEIREWEGH",
+       "prenom": "Bart",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1998,
+     "cle": "1998",
+     "date": "1998-04-13",
+     "date_txt": "13 avril",
+     "podium": [
+      {
+       "affiche": "GUYTON Scott",
+       "nat": "NZL",
+       "nom_famille": "GUYTON",
+       "pays_site": "Nzl",
+       "prenom": "Scott",
+       "rang": 1
+      },
+      {
+       "affiche": "THIJS Erwin",
+       "nom_famille": "THIJS",
+       "prenom": "Erwin",
+       "rang": 2
+      },
+      {
+       "affiche": "RENDERS Nico",
+       "nom_famille": "RENDERS",
+       "prenom": "Nico",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1999,
+     "cle": "1999",
+     "date": "1999-04-06",
+     "date_txt": "6 avril",
+     "podium": [
+      {
+       "affiche": "MEIJS Raymond",
+       "nom_famille": "MEIJS",
+       "prenom": "Raymond",
+       "rang": 1
+      },
+      {
+       "affiche": "SILOVS Juris",
+       "nat": "LAT",
+       "nom_famille": "SILOVS",
+       "pays_site": "Let",
+       "prenom": "Juris",
+       "rang": 2
+      },
+      {
+       "affiche": "CORVERS Frank",
+       "nat": "NED",
+       "nom_famille": "CORVERS",
+       "pays_site": "Hol",
+       "prenom": "Frank",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 2000,
+     "cle": "2000",
+     "date": "2000-04-24",
+     "date_txt": "24 avril",
+     "podium": [
+      {
+       "affiche": "HOSTE Leif",
+       "nom_famille": "HOSTE",
+       "prenom": "Leif",
+       "rang": 1
+      },
+      {
+       "affiche": "HEIREWEGH Bart",
+       "nom_famille": "HEIREWEGH",
+       "prenom": "Bart",
+       "rang": 2
+      },
+      {
+       "affiche": "HOEDEMAKERS Berry",
+       "nat": "NED",
+       "nom_famille": "HOEDEMAKERS",
+       "pays_site": "Hol",
+       "prenom": "Berry",
+       "rang": 3
+      }
+     ]
+    }
+   ],
    "gras": true,
    "groupe": "BEL",
    "id": "disparues-hannut",
+   "lu_le": "2026-11-20T03:54:59Z",
    "nom": "G.P du Printemps à Hannut",
    "section": "disparues",
    "suffixe_index": "1967-2000",
+   "titre_page": "G.P du Printemps - Hannut (Bel) - Ex.",
    "url": "disparues/anc_hannut.html"
   },
   "disparues-haribo": {
+   "drapeau": "fra",
+   "editions": [
+    {
+     "annee": 1994,
+     "cle": "1994",
+     "date": "1994-02-17",
+     "date_txt": "17 février",
+     "podium": [
+      {
+       "affiche": "ZABEL Erik",
+       "nat": "GER",
+       "nom_famille": "ZABEL",
+       "pays_site": "All",
+       "prenom": "Erik",
+       "rang": 1
+      },
+      {
+       "affiche": "ABDOUJAPAROV Djam.",
+       "nom_famille": "ABDOUJAPAROV",
+       "pays_site": "Ouz",
+       "prenom": "Djam.",
+       "rang": 2
+      },
+      {
+       "affiche": "MUSEEUW Johan",
+       "nat": "BEL",
+       "nom_famille": "MUSEEUW",
+       "pays_site": "Bel",
+       "prenom": "Johan",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/haribo1994.html"
+    },
+    {
+     "annee": 1995,
+     "cle": "1995",
+     "date": "1995-02-16",
+     "date_txt": "16 février",
+     "podium": [
+      {
+       "affiche": "CITTERIO Giuseppe",
+       "nat": "ITA",
+       "nom_famille": "CITTERIO",
+       "pays_site": "Ita",
+       "prenom": "Giuseppe",
+       "rang": 1
+      },
+      {
+       "affiche": "FIDANZA Giovanni",
+       "nat": "ITA",
+       "nom_famille": "FIDANZA",
+       "pays_site": "Ita",
+       "prenom": "Giovanni",
+       "rang": 2
+      },
+      {
+       "affiche": "MUSEEUW Johan",
+       "nat": "BEL",
+       "nom_famille": "MUSEEUW",
+       "pays_site": "Bel",
+       "prenom": "Johan",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/haribo1995.html"
+    },
+    {
+     "annee": 1996,
+     "cle": "1996",
+     "date": "1996-02-22",
+     "date_txt": "22 février",
+     "podium": [
+      {
+       "affiche": "JALABERT Laurent",
+       "nom_famille": "JALABERT",
+       "prenom": "Laurent",
+       "rang": 1
+      },
+      {
+       "affiche": "PIANEGONDA Gianluca",
+       "nat": "ITA",
+       "nom_famille": "PIANEGONDA",
+       "pays_site": "Ita",
+       "prenom": "Gianluca",
+       "rang": 2
+      },
+      {
+       "affiche": "KNAVEN Servais",
+       "nat": "NED",
+       "nom_famille": "KNAVEN",
+       "pays_site": "Hol",
+       "prenom": "Servais",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/haribo1996.html"
+    },
+    {
+     "annee": 1997,
+     "cle": "1997",
+     "date": "1997-02-23",
+     "date_txt": "23 février",
+     "podium": [
+      {
+       "affiche": "GUESDON Frédéric",
+       "nom_famille": "GUESDON",
+       "prenom": "Frédéric",
+       "rang": 1
+      },
+      {
+       "affiche": "KIRSIPUU Jaan",
+       "nat": "EST",
+       "nom_famille": "KIRSIPUU",
+       "pays_site": "Est",
+       "prenom": "Jaan",
+       "rang": 2
+      },
+      {
+       "affiche": "ZUCCHI Simone",
+       "nat": "ITA",
+       "nom_famille": "ZUCCHI",
+       "pays_site": "Ita",
+       "prenom": "Simone",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/haribo1997.html"
+    },
+    {
+     "annee": 1998,
+     "cle": "1998",
+     "date": "1998-02-22",
+     "date_txt": "22 février",
+     "podium": [
+      {
+       "affiche": "AUS Lauri",
+       "nat": "EST",
+       "nom_famille": "AUS",
+       "pays_site": "Est",
+       "prenom": "Lauri",
+       "rang": 1
+      },
+      {
+       "affiche": "O'GRADY Stuart",
+       "nat": "AUS",
+       "nom_famille": "O'GRADY",
+       "pays_site": "Aus",
+       "prenom": "Stuart",
+       "rang": 2
+      },
+      {
+       "affiche": "KIRSIPUU Jaan",
+       "nat": "EST",
+       "nom_famille": "KIRSIPUU",
+       "pays_site": "Est",
+       "prenom": "Jaan",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/haribo1998.html"
+    },
+    {
+     "annee": 1999,
+     "cle": "1999",
+     "date": "1999-02-21",
+     "date_txt": "21 février",
+     "podium": [
+      {
+       "affiche": "O'GRADY Stuart",
+       "nat": "AUS",
+       "nom_famille": "O'GRADY",
+       "pays_site": "Aus",
+       "prenom": "Stuart",
+       "rang": 1
+      },
+      {
+       "affiche": "ZBERG Beat",
+       "nat": "SUI",
+       "nom_famille": "ZBERG",
+       "pays_site": "Sui",
+       "prenom": "Beat",
+       "rang": 2
+      },
+      {
+       "affiche": "VINOKOUROV Alexandre",
+       "nat": "KAZ",
+       "nom_famille": "VINOKOUROV",
+       "pays_site": "Kaz",
+       "prenom": "Alexandre",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/haribo1999.html"
+    },
+    {
+     "annee": 2000,
+     "cle": "2000",
+     "date": "2000-02-20",
+     "date_txt": "20 février",
+     "podium": [
+      {
+       "affiche": "KIRSIPUU Jaan",
+       "nat": "EST",
+       "nom_famille": "KIRSIPUU",
+       "pays_site": "Est",
+       "prenom": "Jaan",
+       "rang": 1
+      },
+      {
+       "affiche": "BROCHARD Laurent",
+       "nom_famille": "BROCHARD",
+       "prenom": "Laurent",
+       "rang": 2
+      },
+      {
+       "affiche": "VAINSTEINS Romans",
+       "nat": "LAT",
+       "nom_famille": "VAINSTEINS",
+       "pays_site": "Let",
+       "prenom": "Romans",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/haribo2000.html"
+    },
+    {
+     "annee": 2001,
+     "cle": "2001",
+     "date": "2001-02-25",
+     "date_txt": "25 février",
+     "podium": [
+      {
+       "affiche": "DECLERCQ Hans",
+       "nat": "BEL",
+       "nom_famille": "DECLERCQ",
+       "pays_site": "Bel",
+       "prenom": "Hans",
+       "rang": 1
+      },
+      {
+       "affiche": "SEIGNEUR Eddy",
+       "nom_famille": "SEIGNEUR",
+       "prenom": "Eddy",
+       "rang": 2
+      },
+      {
+       "affiche": "VAN HYFTE Paul",
+       "nat": "BEL",
+       "nom_famille": "VAN HYFTE",
+       "pays_site": "Bel",
+       "prenom": "Paul",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/haribo2001.html"
+    },
+    {
+     "annee": 2002,
+     "cle": "2002",
+     "date": "2002-02-24",
+     "date_txt": "24 février",
+     "podium": [
+      {
+       "affiche": "KIRSIPUU Jaan",
+       "nat": "EST",
+       "nom_famille": "KIRSIPUU",
+       "pays_site": "Est",
+       "prenom": "Jaan",
+       "rang": 1
+      },
+      {
+       "affiche": "HINCAPIE George",
+       "nat": "USA",
+       "nom_famille": "HINCAPIE",
+       "pays_site": "Usa",
+       "prenom": "George",
+       "rang": 2
+      },
+      {
+       "affiche": "CASSANI Enrico",
+       "nat": "ITA",
+       "nom_famille": "CASSANI",
+       "pays_site": "Ita",
+       "prenom": "Enrico",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/haribo2002.html"
+    },
+    {
+     "annee": 2003,
+     "cle": "2003",
+     "date": "2003-02-23",
+     "date_txt": "23 février",
+     "podium": [
+      {
+       "affiche": "KIRSIPUU Jaan",
+       "nat": "EST",
+       "nom_famille": "KIRSIPUU",
+       "pays_site": "Est",
+       "prenom": "Jaan",
+       "rang": 1
+      },
+      {
+       "affiche": "MICHAELSEN Lars",
+       "nat": "DEN",
+       "nom_famille": "MICHAELSEN",
+       "pays_site": "Dan",
+       "prenom": "Lars",
+       "rang": 2
+      },
+      {
+       "affiche": "VAN HEESWIJK Max",
+       "nat": "NED",
+       "nom_famille": "VAN HEESWIJK",
+       "pays_site": "Hol",
+       "prenom": "Max",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/haribo2003.html"
+    },
+    {
+     "annee": 2004,
+     "cle": "2004",
+     "date": "2004-02-22",
+     "date_txt": "22 février",
+     "podium": [
+      {
+       "affiche": "HUSHOVD Thor",
+       "nat": "NOR",
+       "nom_famille": "HUSHOVD",
+       "pays_site": "Nor",
+       "prenom": "Thor",
+       "rang": 1
+      },
+      {
+       "affiche": "BALDUCCI Gabriele",
+       "nat": "ITA",
+       "nom_famille": "BALDUCCI",
+       "pays_site": "Ita",
+       "prenom": "Gabriele",
+       "rang": 2
+      },
+      {
+       "affiche": "HINAULT Sébastien",
+       "nom_famille": "HINAULT",
+       "prenom": "Sébastien",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/haribo2004.html"
+    },
+    {
+     "annee": 2005,
+     "cle": "2005",
+     "date": "2005-02-20",
+     "date_txt": "20 février",
+     "podium": [
+      {
+       "affiche": "GARDEYN Gorik",
+       "nat": "BEL",
+       "nom_famille": "GARDEYN",
+       "pays_site": "Bel",
+       "prenom": "Gorik",
+       "rang": 1
+      },
+      {
+       "affiche": "JÉGOU Lilian",
+       "nom_famille": "JÉGOU",
+       "prenom": "Lilian",
+       "rang": 2
+      },
+      {
+       "affiche": "BALLAN Alessandro",
+       "nat": "ITA",
+       "nom_famille": "BALLAN",
+       "pays_site": "Ita",
+       "prenom": "Alessandro",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/haribo2005.html"
+    },
+    {
+     "annee": 2006,
+     "cle": "2006",
+     "date": "2006-02-19",
+     "date_txt": "19 février",
+     "podium": [
+      {
+       "affiche": "COYOT Arnaud",
+       "nom_famille": "COYOT",
+       "prenom": "Arnaud",
+       "rang": 1
+      },
+      {
+       "affiche": "HUSHOVD Thor",
+       "nat": "NOR",
+       "nom_famille": "HUSHOVD",
+       "pays_site": "Nor",
+       "prenom": "Thor",
+       "rang": 2
+      },
+      {
+       "affiche": "FACCI Mauro",
+       "nat": "ITA",
+       "nom_famille": "FACCI",
+       "pays_site": "Ita",
+       "prenom": "Mauro",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/haribo2006.html"
+    }
+   ],
    "gras": true,
    "groupe": "FRA",
    "id": "disparues-haribo",
+   "lu_le": "2026-11-20T03:55:06Z",
    "nom": "Classic Haribo",
    "section": "disparues",
    "suffixe_index": "1994-2006",
+   "titre_page": "Classic Haribo (Fra) - Ex.",
    "url": "disparues/anc_haribo.html"
   },
   "disparues-hasselt_deurne": {
+   "drapeau": "bel",
+   "editions": [
+    {
+     "annee": 1936,
+     "cle": "1936",
+     "date": "1936-05-03",
+     "date_txt": "3 mai",
+     "podium": [
+      {
+       "affiche": "HOREMANS \"Kemper\"",
+       "nom_famille": "HOREMANS",
+       "prenom": "\"Kemper\"",
+       "rang": 1
+      },
+      {
+       "affiche": "VALENTIJN Marinus",
+       "nat": "NED",
+       "nom_famille": "VALENTIJN",
+       "pays_site": "Hol",
+       "prenom": "Marinus",
+       "rang": 2
+      },
+      {
+       "affiche": "VERDYCK Auguste",
+       "nom_famille": "VERDYCK",
+       "prenom": "Auguste",
+       "rang": 3
+      }
+     ],
+     "url": "anc_belgique/hasselt_deurne_1936.html"
+    }
+   ],
    "gras": true,
    "groupe": "BEL",
    "id": "disparues-hasselt_deurne",
+   "lu_le": "2026-11-20T03:55:50Z",
    "nom": "Hasselt-Deurne",
    "section": "disparues",
    "suffixe_index": "1936",
+   "titre_page": "Hasselt-Deurne (Bel) - Ex.",
    "url": "disparues/anc_hasselt_deurne.html"
   },
   "disparues-hautil": {
+   "drapeau": "fra",
+   "editions": [
+    {
+     "annee": 1997,
+     "cle": "1997",
+     "podium": [
+      {
+       "affiche": "GIANETTI Mauro",
+       "nat": "SUI",
+       "nom_famille": "GIANETTI",
+       "pays_site": "Sui",
+       "prenom": "Mauro",
+       "rang": 1
+      },
+      {
+       "affiche": "JAN Xavier",
+       "nom_famille": "JAN",
+       "prenom": "Xavier",
+       "rang": 2
+      },
+      {
+       "affiche": "LEBRETON Lilian",
+       "nom_famille": "LEBRETON",
+       "prenom": "Lilian",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1998,
+     "cle": "1998",
+     "date": "1998-09-27",
+     "date_txt": "27 septembre",
+     "podium": [
+      {
+       "affiche": "MAGNIEN Emmanuel",
+       "nom_famille": "MAGNIEN",
+       "prenom": "Emmanuel",
+       "rang": 1
+      },
+      {
+       "affiche": "VOIGT Jens",
+       "nat": "GER",
+       "nom_famille": "VOIGT",
+       "pays_site": "All",
+       "prenom": "Jens",
+       "rang": 2
+      },
+      {
+       "affiche": "LINO Pascal",
+       "nom_famille": "LINO",
+       "prenom": "Pascal",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/polymultipliee_hautil_1998.html"
+    }
+   ],
    "gras": true,
    "groupe": "FRA",
    "id": "disparues-hautil",
+   "lu_le": "2026-11-20T03:55:57Z",
    "nom": "Polymultipliée de l'Hautil",
    "section": "disparues",
    "suffixe_index": "1997-1998",
+   "titre_page": "Polymultipliée de l'Hautil (Fra) - Ex.",
    "url": "disparues/anc_hautil.html"
   },
   "disparues-havre_libre": {
+   "drapeau": "fra",
+   "editions": [
+    {
+     "annee": 1945,
+     "cle": "1945",
+     "date": "1945-06-17",
+     "date_txt": "17 juin",
+     "podium": [
+      {
+       "affiche": "NOURY Gaston",
+       "nom_famille": "NOURY",
+       "prenom": "Gaston",
+       "rang": 1
+      },
+      {
+       "affiche": "DUHEIM Jacques",
+       "nom_famille": "DUHEIM",
+       "prenom": "Jacques",
+       "rang": 2
+      },
+      {
+       "affiche": "ROUSSEAU Gaston",
+       "nom_famille": "ROUSSEAU",
+       "prenom": "Gaston",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1946,
+     "cle": "1946",
+     "date": "1946-06-02",
+     "date_txt": "2 juin",
+     "podium": [
+      {
+       "affiche": "CARPENTIER Maurice",
+       "nom_famille": "CARPENTIER",
+       "prenom": "Maurice",
+       "rang": 1
+      },
+      {
+       "affiche": "MONROCQ Georges",
+       "nom_famille": "MONROCQ",
+       "prenom": "Georges",
+       "rang": 2
+      },
+      {
+       "affiche": "HEROUARD Jean",
+       "nom_famille": "HEROUARD",
+       "prenom": "Jean",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1947,
+     "cle": "1947",
+     "date": "1947-06-22",
+     "date_txt": "22 juin",
+     "podium": [
+      {
+       "affiche": "SCIARDIS Gino",
+       "nom_famille": "SCIARDIS",
+       "prenom": "Gino",
+       "rang": 1
+      },
+      {
+       "affiche": "HÉROUARD Jean",
+       "nom_famille": "HÉROUARD",
+       "prenom": "Jean",
+       "rang": 2
+      },
+      {
+       "affiche": "REDOLFI Attilio",
+       "nom_famille": "REDOLFI",
+       "prenom": "Attilio",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1948,
+     "cle": "1948",
+     "date": "1948-06-20",
+     "date_txt": "20 juin",
+     "podium": [
+      {
+       "affiche": "GALLIS André",
+       "nom_famille": "GALLIS",
+       "prenom": "André",
+       "rang": 1
+      },
+      {
+       "affiche": "CRETON Roger",
+       "nom_famille": "CRETON",
+       "prenom": "Roger",
+       "rang": 2
+      },
+      {
+       "affiche": "BARIAU Jacques",
+       "nom_famille": "BARIAU",
+       "prenom": "Jacques",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1949,
+     "cle": "1949",
+     "date": "1949-06-19",
+     "date_txt": "19 juin",
+     "podium": [
+      {
+       "affiche": "SCIARDIS Gino",
+       "nom_famille": "SCIARDIS",
+       "prenom": "Gino",
+       "rang": 1
+      },
+      {
+       "affiche": "LAUK Lucien *",
+       "nom_famille": "LAUK",
+       "prenom": "Lucien *",
+       "rang": 2
+      },
+      {
+       "affiche": "FORGET André",
+       "nom_famille": "FORGET",
+       "prenom": "André",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1950,
+     "cle": "1950",
+     "date": "1950-06-26",
+     "date_txt": "26 juin",
+     "podium": [
+      {
+       "affiche": "CRETON Roger",
+       "nom_famille": "CRETON",
+       "prenom": "Roger",
+       "rang": 1
+      },
+      {
+       "affiche": "CHUPIN Roger",
+       "nom_famille": "CHUPIN",
+       "prenom": "Roger",
+       "rang": 2
+      },
+      {
+       "affiche": "LABEYLIE André",
+       "nom_famille": "LABEYLIE",
+       "prenom": "André",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/havre_libre_1950.html"
+    },
+    {
+     "annee": 1951,
+     "cle": "1951",
+     "date": "1951-06-24",
+     "date_txt": "24 juin",
+     "podium": [
+      {
+       "affiche": "ROUILLÉ André",
+       "nom_famille": "ROUILLÉ",
+       "prenom": "André",
+       "rang": 1
+      },
+      {
+       "affiche": "JARRIGE Gabriel",
+       "nom_famille": "JARRIGE",
+       "prenom": "Gabriel",
+       "rang": 2
+      },
+      {
+       "affiche": "DELAHAYE Roland",
+       "nom_famille": "DELAHAYE",
+       "prenom": "Roland",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1952,
+     "cle": "1952",
+     "date": "1952-06-22",
+     "date_txt": "22 juin",
+     "podium": [
+      {
+       "affiche": "HOUELBEC Robert",
+       "nom_famille": "HOUELBEC",
+       "prenom": "Robert",
+       "rang": 1
+      },
+      {
+       "affiche": "CHARTIER Roland",
+       "nat": "BEL",
+       "nom_famille": "CHARTIER",
+       "pays_site": "Bel",
+       "prenom": "Roland",
+       "rang": 2
+      },
+      {
+       "affiche": "CARPENTIER Maurice",
+       "nom_famille": "CARPENTIER",
+       "prenom": "Maurice",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1953,
+     "cle": "1953",
+     "date": "1953-06-14",
+     "date_txt": "14 juin",
+     "podium": [
+      {
+       "affiche": "HOUELBEC Robert",
+       "nom_famille": "HOUELBEC",
+       "prenom": "Robert",
+       "rang": 1
+      },
+      {
+       "affiche": "JARRIGE Gabriel",
+       "nom_famille": "JARRIGE",
+       "prenom": "Gabriel",
+       "rang": 2
+      },
+      {
+       "affiche": "BULTEL Bernard",
+       "nom_famille": "BULTEL",
+       "prenom": "Bernard",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1954,
+     "cle": "1954",
+     "date": "1954-06-13",
+     "date_txt": "13 juin",
+     "podium": [
+      {
+       "affiche": "LE BER Claude",
+       "nom_famille": "LE BER",
+       "prenom": "Claude",
+       "rang": 1
+      },
+      {
+       "affiche": "BOUVET Albert",
+       "nom_famille": "BOUVET",
+       "prenom": "Albert",
+       "rang": 2
+      },
+      {
+       "affiche": "CAPUT Louis",
+       "nom_famille": "CAPUT",
+       "prenom": "Louis",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1955,
+     "cle": "1955",
+     "date": "1955-06-19",
+     "date_txt": "19 juin",
+     "podium": [
+      {
+       "affiche": "BULTEL Bernard",
+       "nom_famille": "BULTEL",
+       "prenom": "Bernard",
+       "rang": 1
+      },
+      {
+       "affiche": "BOURDON Michel",
+       "nom_famille": "BOURDON",
+       "prenom": "Michel",
+       "rang": 2
+      },
+      {
+       "affiche": "JARRIGE Gabriel",
+       "nom_famille": "JARRIGE",
+       "prenom": "Gabriel",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1956,
+     "cle": "1956",
+     "date": "1956-06-17",
+     "date_txt": "17 juin",
+     "podium": [
+      {
+       "affiche": "MARAIS Roland",
+       "nom_famille": "MARAIS",
+       "prenom": "Roland",
+       "rang": 1
+      },
+      {
+       "affiche": "POULINGUE Pierre",
+       "nom_famille": "POULINGUE",
+       "prenom": "Pierre",
+       "rang": 2
+      },
+      {
+       "affiche": "LAVENU Marcel",
+       "nom_famille": "LAVENU",
+       "prenom": "Marcel",
+       "rang": 3
+      }
+     ]
+    }
+   ],
    "gras": true,
    "groupe": "FRA",
    "id": "disparues-havre_libre",
+   "lu_le": "2026-11-20T03:56:03Z",
    "nom": "G.P du \"Havre-Libre\"",
    "section": "disparues",
    "suffixe_index": "1945-1956",
+   "titre_page": "G.P du Havre-Libre (Fra) - Ex.",
    "url": "disparues/anc_havre_libre.html"
   },
   "disparues-heestert_tournai_heestert": {

@@ -54,6 +54,21 @@
   "essais": 2,
   "regle": 2
  },
+ "anc_allemagne/grosser_hannover_1922%20.html": {
+  "dernier_essai": "2026-11-20T03:53:33Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_allemagne/grosser_hannover_1928%20.html": {
+  "dernier_essai": "2026-11-20T03:53:36Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_allemagne/grosser_hannover_1953%20.html": {
+  "dernier_essai": "2026-11-20T03:53:39Z",
+  "essais": 1,
+  "regle": 2
+ },
  "anc_belgique/3_provinces_lauwe_1947.html": {
   "dernier_essai": "2026-11-19T00:07:43Z",
   "essais": 2,
@@ -2699,6 +2714,16 @@
   "essais": 1,
   "regle": 2
  },
+ "anc_belgique/grand_derby_francorchamps_1937%20.html": {
+  "dernier_essai": "2026-11-20T03:53:13Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_belgique/hasselt_deurne_1936.html": {
+  "dernier_essai": "2026-11-20T03:55:53Z",
+  "essais": 1,
+  "regle": 2
+ },
  "anc_belgique/hulste_ingelmunster_1964.html": {
   "dernier_essai": "2026-11-20T00:48:40Z",
   "essais": 2,
@@ -2987,6 +3012,11 @@
  "anc_belgique/ouest_mons_1961.html": {
   "dernier_essai": "2026-11-20T00:41:39Z",
   "essais": 2,
+  "regle": 2
+ },
+ "anc_belgique/printemps_hannut_1968.html": {
+  "dernier_essai": "2026-11-20T03:55:02Z",
+  "essais": 1,
   "regle": 2
  },
  "anc_belgique/td_condroz_1962.html": {
@@ -3906,6 +3936,61 @@
  },
  "anc_espagne/gran_premio_torrelavega_1939.html": {
   "dernier_essai": "2026-11-20T03:05:06Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_espagne/guipuzcoa_1923.html": {
+  "dernier_essai": "2026-11-20T03:54:00Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_espagne/guipuzcoa_1924.html": {
+  "dernier_essai": "2026-11-20T03:54:01Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_espagne/guipuzcoa_1925.html": {
+  "dernier_essai": "2026-11-20T03:54:05Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_espagne/guipuzcoa_1933.html": {
+  "dernier_essai": "2026-11-20T03:54:08Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_espagne/guipuzcoa_1935.html": {
+  "dernier_essai": "2026-11-20T03:54:11Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_espagne/guipuzcoa_1945.html": {
+  "dernier_essai": "2026-11-20T03:54:14Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_espagne/guipuzcoa_1946.html": {
+  "dernier_essai": "2026-11-20T03:54:17Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_espagne/trofeo_guiseris_1934.html": {
+  "dernier_essai": "2026-11-20T03:54:24Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_espagne/trofeo_guiseris_1935.html": {
+  "dernier_essai": "2026-11-20T03:54:27Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_espagne/trofeo_guiseris_1939.html": {
+  "dernier_essai": "2026-11-20T03:54:30Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_espagne/trofeo_guiseris_1940.html": {
+  "dernier_essai": "2026-11-20T03:54:33Z",
   "essais": 1,
   "regle": 2
  },
@@ -9869,6 +9954,101 @@
   "essais": 1,
   "regle": 2
  },
+ "anc_france_cla/grand_circuit_raveu_1921.html": {
+  "dernier_essai": "2026-11-20T03:52:38Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/grand_circuit_sud_est_1911.html": {
+  "dernier_essai": "2026-11-20T03:52:45Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/grand_circuit_sud_est_1912.html": {
+  "dernier_essai": "2026-11-20T03:52:48Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/grand_circuit_velo_nicois_1920.html": {
+  "dernier_essai": "2026-11-20T03:52:54Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/grand_circuit_velo_nicois_1921.html": {
+  "dernier_essai": "2026-11-20T03:52:57Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/haribo1994.html": {
+  "dernier_essai": "2026-11-20T03:55:09Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/haribo1995.html": {
+  "dernier_essai": "2026-11-20T03:55:12Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/haribo1996.html": {
+  "dernier_essai": "2026-11-20T03:55:15Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/haribo1997.html": {
+  "dernier_essai": "2026-11-20T03:55:18Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/haribo1998.html": {
+  "dernier_essai": "2026-11-20T03:55:21Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/haribo1999.html": {
+  "dernier_essai": "2026-11-20T03:55:25Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/haribo2000.html": {
+  "dernier_essai": "2026-11-20T03:55:28Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/haribo2001.html": {
+  "dernier_essai": "2026-11-20T03:55:31Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/haribo2002.html": {
+  "dernier_essai": "2026-11-20T03:55:34Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/haribo2003.html": {
+  "dernier_essai": "2026-11-20T03:55:37Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/haribo2004.html": {
+  "dernier_essai": "2026-11-20T03:55:41Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/haribo2005.html": {
+  "dernier_essai": "2026-11-20T03:55:44Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/haribo2006.html": {
+  "dernier_essai": "2026-11-20T03:55:47Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/havre_libre_1950.html": {
+  "dernier_essai": "2026-11-20T03:56:06Z",
+  "essais": 1,
+  "regle": 2
+ },
  "anc_france_cla/justin_berta_1921.html": {
   "dernier_essai": "2026-11-19T00:49:47Z",
   "essais": 2,
@@ -10186,6 +10366,11 @@
  },
  "anc_france_cla/orchies1977.html": {
   "dernier_essai": "2026-11-20T02:06:37Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/polymultipliee_hautil_1998.html": {
+  "dernier_essai": "2026-11-20T03:56:00Z",
   "essais": 1,
   "regle": 2
  },
@@ -11744,8 +11929,18 @@
   "essais": 1,
   "regle": 2
  },
+ "anc_france_eta/grand_criterium_alcyon_1926%20.html": {
+  "dernier_essai": "2026-11-20T03:53:07Z",
+  "essais": 1,
+  "regle": 2
+ },
  "anc_france_eta/granville_magdeleine_1952.html": {
   "dernier_essai": "2026-11-20T01:53:34Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_eta/grenoble_turin_1947.html": {
+  "dernier_essai": "2026-11-20T03:53:20Z",
   "essais": 1,
   "regle": 2
  },
