@@ -344912,12 +344912,381 @@
    "url": "disparues/anc_nice_toulon_nice.html"
   },
   "disparues-niedersachsen": {
+   "drapeau": "all",
+   "editions": [
+    {
+     "annee": 1996,
+     "cle": "1996",
+     "date_debut": "1996-04-09",
+     "date_fin": "1996-04-19",
+     "date_txt": "du 9 au 19 avril",
+     "podium": [
+      {
+       "affiche": "GOTTSCHLING Stephan",
+       "nom_famille": "GOTTSCHLING",
+       "prenom": "Stephan",
+       "rang": 1
+      },
+      {
+       "affiche": "RICH Michael",
+       "nom_famille": "RICH",
+       "prenom": "Michael",
+       "rang": 2
+      },
+      {
+       "affiche": "TRKAL Frantisek",
+       "nat": "CZE",
+       "nom_famille": "TRKAL",
+       "pays_site": "Tch",
+       "prenom": "Frantisek",
+       "rang": 3
+      }
+     ],
+     "url": "anc_allemagne/niedersachsen1996.html"
+    },
+    {
+     "annee": 1997,
+     "cle": "1997",
+     "date_debut": "1997-04-15",
+     "date_fin": "1997-04-24",
+     "date_txt": "du 15 au 24 avril",
+     "podium": [
+      {
+       "affiche": "VOIGT Jens",
+       "nom_famille": "VOIGT",
+       "prenom": "Jens",
+       "rang": 1
+      },
+      {
+       "affiche": "MULLER Martin",
+       "nom_famille": "MULLER",
+       "prenom": "Martin",
+       "rang": 2
+      },
+      {
+       "affiche": "SCHAFFRATH Jan",
+       "nom_famille": "SCHAFFRATH",
+       "prenom": "Jan",
+       "rang": 3
+      }
+     ],
+     "url": "anc_allemagne/niedersachsen1997.html"
+    },
+    {
+     "annee": 1998,
+     "cle": "1998",
+     "date_debut": "1998-04-14",
+     "date_fin": "1998-04-23",
+     "date_txt": "du 14 au 23 avril",
+     "podium": [
+      {
+       "affiche": "KLÖDEN Andreas",
+       "nom_famille": "KLÖDEN",
+       "prenom": "Andreas",
+       "rang": 1
+      },
+      {
+       "affiche": "McRAE Chann",
+       "nat": "USA",
+       "pays_site": "Usa",
+       "rang": 2
+      },
+      {
+       "affiche": "NIERMANN Grischa",
+       "nom_famille": "NIERMANN",
+       "prenom": "Grischa",
+       "rang": 3
+      }
+     ],
+     "url": "anc_allemagne/niedersachsen1998.html"
+    },
+    {
+     "annee": 1999,
+     "cle": "1999",
+     "date_debut": "1999-04-22",
+     "date_fin": "1999-04-29",
+     "date_txt": "du 22 au 29 avril",
+     "podium": [
+      {
+       "affiche": "SCHMIDT Torsten",
+       "nom_famille": "SCHMIDT",
+       "prenom": "Torsten",
+       "rang": 1
+      },
+      {
+       "affiche": "RITTSEL Martin",
+       "nat": "SWE",
+       "nom_famille": "RITTSEL",
+       "pays_site": "Sue",
+       "prenom": "Martin",
+       "rang": 2
+      },
+      {
+       "affiche": "POLLACK Olaf",
+       "nom_famille": "POLLACK",
+       "prenom": "Olaf",
+       "rang": 3
+      }
+     ],
+     "url": "anc_allemagne/niedersachsen1999.html"
+    },
+    {
+     "annee": 2000,
+     "cle": "2000",
+     "date_debut": "2000-04-11",
+     "date_fin": "2000-04-20",
+     "date_txt": "du 11 au 20 avril",
+     "podium": [
+      {
+       "affiche": "SCHMIDT Torsten",
+       "nom_famille": "SCHMIDT",
+       "prenom": "Torsten",
+       "rang": 1
+      },
+      {
+       "affiche": "RODRIGUEZ Fred",
+       "nat": "USA",
+       "nom_famille": "RODRIGUEZ",
+       "pays_site": "Usa",
+       "prenom": "Fred",
+       "rang": 2
+      },
+      {
+       "affiche": "GRABSCH Bert",
+       "nom_famille": "GRABSCH",
+       "prenom": "Bert",
+       "rang": 3
+      }
+     ],
+     "url": "anc_allemagne/niedersachsen2000.html"
+    },
+    {
+     "annee": 2001,
+     "cle": "2001",
+     "date_debut": "2001-04-25",
+     "date_fin": "2001-04-29",
+     "date_txt": "du 25 au 29 avril",
+     "podium": [
+      {
+       "affiche": "NIERMANN Grischa",
+       "nom_famille": "NIERMANN",
+       "prenom": "Grischa",
+       "rang": 1
+      },
+      {
+       "affiche": "SCHMIDT Torsten",
+       "nom_famille": "SCHMIDT",
+       "prenom": "Torsten",
+       "rang": 2
+      },
+      {
+       "affiche": "BUXHOFER Matthias",
+       "nat": "AUT",
+       "nom_famille": "BUXHOFER",
+       "pays_site": "Aut",
+       "prenom": "Matthias",
+       "rang": 3
+      }
+     ],
+     "url": "anc_allemagne/niedersachsen2001.html"
+    },
+    {
+     "annee": 2002,
+     "cle": "2002",
+     "date_debut": "2002-04-24",
+     "date_fin": "2002-04-28",
+     "date_txt": "du 24 au 28 avril",
+     "podium": [
+      {
+       "affiche": "POLLACK Olaf",
+       "nom_famille": "POLLACK",
+       "prenom": "Olaf",
+       "rang": 1
+      },
+      {
+       "affiche": "BARTKO Robert",
+       "nom_famille": "BARTKO",
+       "prenom": "Robert",
+       "rang": 2
+      },
+      {
+       "affiche": "NIERMANN Grischa",
+       "nom_famille": "NIERMANN",
+       "prenom": "Grischa",
+       "rang": 3
+      }
+     ],
+     "url": "anc_allemagne/niedersachsen2002.html"
+    },
+    {
+     "annee": 2003,
+     "cle": "2003",
+     "date_debut": "2003-04-23",
+     "date_fin": "2003-04-27",
+     "date_txt": "du 23 au 27 avril",
+     "podium": [
+      {
+       "affiche": "JALABERT Nicolas",
+       "nat": "FRA",
+       "nom_famille": "JALABERT",
+       "pays_site": "Fra",
+       "prenom": "Nicolas",
+       "rang": 1
+      },
+      {
+       "affiche": "KONECNY Tomas",
+       "nat": "CZE",
+       "nom_famille": "KONECNY",
+       "pays_site": "Tch",
+       "prenom": "Tomas",
+       "rang": 2
+      },
+      {
+       "affiche": "SCHEUNEMAN Niels",
+       "nat": "NED",
+       "nom_famille": "SCHEUNEMAN",
+       "pays_site": "Hol",
+       "prenom": "Niels",
+       "rang": 3
+      }
+     ],
+     "url": "anc_allemagne/niedersachsen2003.html"
+    },
+    {
+     "annee": 2004,
+     "cle": "2004",
+     "date_debut": "2004-04-21",
+     "date_fin": "2004-04-25",
+     "date_txt": "du 21 au 25 avril",
+     "podium": [
+      {
+       "affiche": "ROESEMS Bert",
+       "nat": "BEL",
+       "nom_famille": "ROESEMS",
+       "pays_site": "Bel",
+       "prenom": "Bert",
+       "rang": 1
+      },
+      {
+       "affiche": "KUPFERNAGEL Stefan",
+       "nom_famille": "KUPFERNAGEL",
+       "prenom": "Stefan",
+       "rang": 2
+      },
+      {
+       "affiche": "SCHRECK Stephan",
+       "nom_famille": "SCHRECK",
+       "prenom": "Stephan",
+       "rang": 3
+      }
+     ],
+     "url": "anc_allemagne/niedersachsen2004.html"
+    },
+    {
+     "annee": 2005,
+     "cle": "2005",
+     "date_debut": "2005-04-20",
+     "date_fin": "2005-04-24",
+     "date_txt": "du 20 au 24 avril",
+     "podium": [
+      {
+       "affiche": "SCHUMACHER Stefan",
+       "nom_famille": "SCHUMACHER",
+       "prenom": "Stefan",
+       "rang": 1
+      },
+      {
+       "affiche": "KOLOBNEV Alexandr",
+       "nat": "RUS",
+       "nom_famille": "KOLOBNEV",
+       "pays_site": "Rus",
+       "prenom": "Alexandr",
+       "rang": 2
+      },
+      {
+       "affiche": "WAUTERS Marc",
+       "nat": "BEL",
+       "nom_famille": "WAUTERS",
+       "pays_site": "Bel",
+       "prenom": "Marc",
+       "rang": 3
+      }
+     ],
+     "url": "anc_allemagne/niedersachsen2005.html"
+    },
+    {
+     "annee": 2006,
+     "cle": "2006",
+     "date_debut": "2006-04-19",
+     "date_fin": "2006-04-23",
+     "date_txt": "du 19 au 23 avril",
+     "podium": [
+      {
+       "affiche": "PETACCHI Alessandro",
+       "nat": "ITA",
+       "nom_famille": "PETACCHI",
+       "pays_site": "Ita",
+       "prenom": "Alessandro",
+       "rang": 1
+      },
+      {
+       "affiche": "HONDO Danilo",
+       "nom_famille": "HONDO",
+       "prenom": "Danilo",
+       "rang": 2
+      },
+      {
+       "affiche": "HAYMAN Mathew",
+       "nat": "AUS",
+       "nom_famille": "HAYMAN",
+       "pays_site": "Aus",
+       "prenom": "Mathew",
+       "rang": 3
+      }
+     ],
+     "url": "anc_allemagne/niedersachsen2006.html"
+    },
+    {
+     "annee": 2007,
+     "cle": "2007",
+     "date_debut": "2007-04-25",
+     "date_fin": "2007-04-29",
+     "date_txt": "du 25 au 29 avril",
+     "podium": [
+      {
+       "affiche": "PETACCHI Alessandro",
+       "nat": "ITA",
+       "nom_famille": "PETACCHI",
+       "pays_site": "Ita",
+       "prenom": "Alessandro",
+       "rang": 1
+      },
+      {
+       "affiche": "BROWN Graeme",
+       "nat": "AUS",
+       "nom_famille": "BROWN",
+       "pays_site": "Aus",
+       "prenom": "Graeme",
+       "rang": 2
+      },
+      {
+       "affiche": "CIOLEK Gerald",
+       "nom_famille": "CIOLEK",
+       "prenom": "Gerald",
+       "rang": 3
+      }
+     ],
+     "url": "anc_allemagne/niedersachsen2007.html"
+    }
+   ],
    "gras": true,
    "groupe": "ALL",
    "id": "disparues-niedersachsen",
+   "lu_le": "2026-11-21T05:30:30Z",
    "nom": "Niedersachsen Rundfahrt",
    "section": "disparues",
    "suffixe_index": "1977-2007",
+   "titre_page": "Niedersachsen Rundfahrt (All) - Ex.",
    "url": "disparues/anc_niedersachsen.html"
   },
   "disparues-niedersachsenpreis": {
