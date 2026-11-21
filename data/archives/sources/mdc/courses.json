@@ -343177,30 +343177,1738 @@
    "url": "disparues/anc_nice_mtagel.html"
   },
   "disparues-nice_puget": {
+   "drapeau": "fra",
+   "editions": [
+    {
+     "annee": 1903,
+     "cle": "1903",
+     "date": "1903-11-08",
+     "date_txt": "8 novembre",
+     "podium": [
+      {
+       "affiche": "GABERT",
+       "nom_famille": "GABERT",
+       "parentheses": [
+        "ES Nice"
+       ],
+       "rang": 1
+      },
+      {
+       "affiche": "MACCARIO",
+       "nom_famille": "MACCARIO",
+       "parentheses": [
+        "ES Nice"
+       ],
+       "rang": 2
+      },
+      {
+       "affiche": "UGHETTO",
+       "nom_famille": "UGHETTO",
+       "parentheses": [
+        "ES Nice"
+       ],
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/nice_puget_1903.html"
+    },
+    {
+     "annee": 1904,
+     "cle": "1904",
+     "date": "1904-11-20",
+     "date_txt": "20 novembre",
+     "podium": [
+      {
+       "affiche": "LAUTIER",
+       "nom_famille": "LAUTIER",
+       "parentheses": [
+        "USP Marseille"
+       ],
+       "rang": 1
+      },
+      {
+       "affiche": "ROLLY J.",
+       "nom_famille": "ROLLY J.",
+       "parentheses": [
+        "ES Nice"
+       ],
+       "rang": 2
+      },
+      {
+       "affiche": "CAYRE Adrien",
+       "nom_famille": "CAYRE",
+       "parentheses": [
+        "PJ Marseille"
+       ],
+       "prenom": "Adrien",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/nice_puget_1904.html"
+    },
+    {
+     "annee": 1905,
+     "cle": "1905",
+     "date": "1905-09-24",
+     "date_txt": "24 septembre",
+     "podium": [
+      {
+       "affiche": "MINUTTI Emile",
+       "nom_famille": "MINUTTI",
+       "parentheses": [
+        "Nice-Sports"
+       ],
+       "prenom": "Emile",
+       "rang": 1
+      },
+      {
+       "affiche": "EIGELDINGER",
+       "nom_famille": "EIGELDINGER",
+       "parentheses": [
+        "CC Marseille"
+       ],
+       "rang": 2
+      },
+      {
+       "affiche": "FARAUT Fernand",
+       "nom_famille": "FARAUT",
+       "parentheses": [
+        "Nice-Sports"
+       ],
+       "prenom": "Fernand",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/nice_puget_1905.html"
+    },
+    {
+     "annee": 1906,
+     "cle": "1906",
+     "date": "1906-10-14",
+     "date_txt": "14 octobre",
+     "podium": [
+      {
+       "affiche": "LAVAGNA Auguste",
+       "nom_famille": "LAVAGNA",
+       "parentheses": [
+        "Nice-Sports"
+       ],
+       "prenom": "Auguste",
+       "rang": 1
+      },
+      {
+       "affiche": "GUIDO François",
+       "nom_famille": "GUIDO",
+       "parentheses": [
+        "Nice-Sports"
+       ],
+       "prenom": "François",
+       "rang": 2
+      },
+      {
+       "affiche": "FARAUT Fernand",
+       "nom_famille": "FARAUT",
+       "parentheses": [
+        "Nice-Sports"
+       ],
+       "prenom": "Fernand",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/nice_puget_1906.html"
+    },
+    {
+     "annee": 1907,
+     "cle": "1907",
+     "date": "1907-09-15",
+     "date_txt": "15 septembre",
+     "podium": [
+      {
+       "affiche": "GARBERO Joseph",
+       "nom_famille": "GARBERO",
+       "parentheses": [
+        "Pédale Antibes"
+       ],
+       "prenom": "Joseph",
+       "rang": 1
+      },
+      {
+       "affiche": "BRUNIER",
+       "nom_famille": "BRUNIER",
+       "parentheses": [
+        "ES Nice"
+       ],
+       "rang": 2
+      },
+      {
+       "affiche": "GALLÉAN Victor",
+       "nom_famille": "GALLÉAN",
+       "parentheses": [
+        "Nice-Sports"
+       ],
+       "prenom": "Victor",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/nice_puget_1907.html"
+    },
+    {
+     "annee": 1908,
+     "cle": "1908",
+     "date": "1908-09-20",
+     "date_txt": "20 septembre",
+     "podium": [
+      {
+       "affiche": "MANINA Jules",
+       "nom_famille": "MANINA",
+       "parentheses": [
+        "Pédale Antibes"
+       ],
+       "prenom": "Jules",
+       "rang": 1
+      },
+      {
+       "affiche": "MAZZUCCO",
+       "nom_famille": "MAZZUCCO",
+       "parentheses": [
+        "Nice-Sports"
+       ],
+       "rang": 2
+      },
+      {
+       "affiche": "RAVEU",
+       "nom_famille": "RAVEU",
+       "parentheses": [
+        "ES Nice"
+       ],
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/nice_puget_1908.html"
+    },
+    {
+     "annee": 1909,
+     "cle": "1909",
+     "date": "1909-08-29",
+     "date_txt": "29 août",
+     "podium": [
+      {
+       "affiche": "GIACOBI",
+       "nom_famille": "GIACOBI",
+       "parentheses": [
+        "Alias RAOUL"
+       ],
+       "rang": 1
+      },
+      {
+       "affiche": "MAURANDI",
+       "nom_famille": "MAURANDI",
+       "parentheses": [
+        "Soleil de Nice"
+       ],
+       "rang": 2
+      },
+      {
+       "affiche": "THIBAUD",
+       "nom_famille": "THIBAUD",
+       "parentheses": [
+        "Gambetta-Club"
+       ],
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/nice_puget_1909.html"
+    },
+    {
+     "annee": 1910,
+     "cle": "1910",
+     "date": "1910-05-08",
+     "date_txt": "8 mai",
+     "podium": [
+      {
+       "affiche": "EUGÈNE",
+       "nom_famille": "EUGÈNE",
+       "parentheses": [
+        "CC Nice"
+       ],
+       "rang": 1
+      },
+      {
+       "affiche": "BELTRAND J.B.",
+       "nom_famille": "BELTRAND J.B.",
+       "parentheses": [
+        "Gambetta-Club"
+       ],
+       "rang": 2
+      },
+      {
+       "affiche": "ARCUDI",
+       "nom_famille": "ARCUDI",
+       "parentheses": [
+        "CC Nice"
+       ],
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/nice_puget_1910.html"
+    },
+    {
+     "annee": 1911,
+     "cle": "1911",
+     "date": "1911-06-04",
+     "date_txt": "4 juin",
+     "podium": [
+      {
+       "affiche": "MONTANARI",
+       "nom_famille": "MONTANARI",
+       "parentheses": [
+        "CC Nice"
+       ],
+       "rang": 1
+      },
+      {
+       "affiche": "CASA Pierre",
+       "nom_famille": "CASA",
+       "parentheses": [
+        "Nice-Sports"
+       ],
+       "prenom": "Pierre",
+       "rang": 2
+      },
+      {
+       "affiche": "BELTRAND J.B.",
+       "nom_famille": "BELTRAND J.B.",
+       "parentheses": [
+        "Gambetta-Club"
+       ],
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/nice_puget_1911.html"
+    },
+    {
+     "annee": 1912,
+     "cle": "1912",
+     "date": "1912-06-23",
+     "date_txt": "23 juin",
+     "podium": [
+      {
+       "affiche": "AMENC Noël",
+       "nom_famille": "AMENC",
+       "parentheses": [
+        "Gambetta-Club"
+       ],
+       "prenom": "Noël",
+       "rang": 1
+      },
+      {
+       "affiche": "MINUTTI Emile",
+       "nom_famille": "MINUTTI",
+       "parentheses": [
+        "Nice-Sports"
+       ],
+       "prenom": "Emile",
+       "rang": 2
+      },
+      {
+       "affiche": "GHIGLION Rodolphe",
+       "nom_famille": "GHIGLION",
+       "parentheses": [
+        "RO Nice"
+       ],
+       "prenom": "Rodolphe",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/nice_puget_1912.html"
+    },
+    {
+     "annee": 1920,
+     "cle": "1920",
+     "date": "1920-05-24",
+     "date_txt": "24 mai",
+     "podium": [
+      {
+       "affiche": "NOVO Jean",
+       "nom_famille": "NOVO",
+       "parentheses": [
+        "Nice-Sports"
+       ],
+       "prenom": "Jean",
+       "rang": 1
+      },
+      {
+       "affiche": "GABBA Luigi",
+       "nom_famille": "GABBA",
+       "parentheses": [
+        "Nice-Sports"
+       ],
+       "prenom": "Luigi",
+       "rang": 2
+      },
+      {
+       "affiche": "DEVALLE Alfred",
+       "nom_famille": "DEVALLE",
+       "parentheses": [
+        "Monaco"
+       ],
+       "prenom": "Alfred",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/nice_puget_1920.html"
+    },
+    {
+     "annee": 1921,
+     "cle": "1921",
+     "date": "1921-05-15",
+     "date_txt": "15 mai",
+     "podium": [
+      {
+       "affiche": "AMENC Noël",
+       "nom_famille": "AMENC",
+       "parentheses": [
+        "AVA Nice"
+       ],
+       "prenom": "Noël",
+       "rang": 1
+      },
+      {
+       "affiche": "DAVICO Pierre",
+       "nom_famille": "DAVICO",
+       "parentheses": [
+        "AVA Nice"
+       ],
+       "prenom": "Pierre",
+       "rang": 2
+      },
+      {
+       "affiche": "SASSI Etienne",
+       "nom_famille": "SASSI",
+       "parentheses": [
+        "Antibes-Olympique"
+       ],
+       "prenom": "Etienne",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/nice_puget_1921.html"
+    },
+    {
+     "annee": 1922,
+     "cle": "1922",
+     "date": "1922-04-23",
+     "date_txt": "23 avril",
+     "podium": [
+      {
+       "affiche": "BINDA Alfredo",
+       "nom_famille": "BINDA",
+       "parentheses": [
+        "Nice-Sports"
+       ],
+       "prenom": "Alfredo",
+       "rang": 1
+      },
+      {
+       "affiche": "GASTALDI Amédée",
+       "nom_famille": "GASTALDI",
+       "parentheses": [
+        "Gamb.-Club"
+       ],
+       "prenom": "Amédée",
+       "rang": 2
+      },
+      {
+       "affiche": "REMDANI Ahmed",
+       "nom_famille": "REMDANI",
+       "parentheses": [
+        "Nice-Sports"
+       ],
+       "prenom": "Ahmed",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/nice_puget_1922.html"
+    },
+    {
+     "annee": 1923,
+     "cle": "1923",
+     "date": "1923-04-22",
+     "date_txt": "22 avril",
+     "podium": [
+      {
+       "affiche": "BINDA Alfredo",
+       "nom_famille": "BINDA",
+       "parentheses": [
+        "RO Nice"
+       ],
+       "prenom": "Alfredo",
+       "rang": 1
+      },
+      {
+       "affiche": "BROCCARDO Paul",
+       "nom_famille": "BROCCARDO",
+       "parentheses": [
+        "AVA Nice"
+       ],
+       "prenom": "Paul",
+       "rang": 2
+      },
+      {
+       "affiche": "FERRARA Henri",
+       "nom_famille": "FERRARA",
+       "parentheses": [
+        "AVA Nice"
+       ],
+       "prenom": "Henri",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/nice_puget_1923.html"
+    },
+    {
+     "annee": 1924,
+     "cle": "1924",
+     "date": "1924-11-01",
+     "date_txt": "1er novembre",
+     "podium": [
+      {
+       "affiche": "BINDA Alfredo",
+       "nom_famille": "BINDA",
+       "parentheses": [
+        "RO Nice"
+       ],
+       "prenom": "Alfredo",
+       "rang": 1
+      },
+      {
+       "affiche": "MIJNO Eugène",
+       "nom_famille": "MIJNO",
+       "parentheses": [
+        "AV Grasse"
+       ],
+       "prenom": "Eugène",
+       "rang": 2
+      },
+      {
+       "affiche": "PICCARDO Sébastien",
+       "nom_famille": "PICCARDO",
+       "parentheses": [
+        "Cannes"
+       ],
+       "prenom": "Sébastien",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/nice_puget_1924.html"
+    },
+    {
+     "annee": 1925,
+     "cle": "1925",
+     "date": "1925-11-29",
+     "date_txt": "29 novembre",
+     "podium": [
+      {
+       "affiche": "RIVELLA Joseph",
+       "nom_famille": "RIVELLA",
+       "parentheses": [
+        "AC Nice"
+       ],
+       "prenom": "Joseph",
+       "rang": 1
+      },
+      {
+       "affiche": "MENTA François",
+       "nom_famille": "MENTA",
+       "parentheses": [
+        "AVA Nice"
+       ],
+       "prenom": "François",
+       "rang": 2
+      },
+      {
+       "affiche": "LANTERI Paulin",
+       "nom_famille": "LANTERI",
+       "parentheses": [
+        "AVA Nice"
+       ],
+       "prenom": "Paulin",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/nice_puget_1925.html"
+    },
+    {
+     "annee": 1926,
+     "cle": "1926",
+     "date": "1926-11-25",
+     "date_txt": "25 novembre",
+     "podium": [
+      {
+       "affiche": "BROCCARDO Paul",
+       "nom_famille": "BROCCARDO",
+       "parentheses": [
+        "AVA Nice"
+       ],
+       "prenom": "Paul",
+       "rang": 1
+      },
+      {
+       "affiche": "LANTERI Paulin",
+       "nom_famille": "LANTERI",
+       "parentheses": [
+        "AVA Nice"
+       ],
+       "prenom": "Paulin",
+       "rang": 2
+      },
+      {
+       "affiche": "CARRARA Vincent",
+       "nom_famille": "CARRARA",
+       "pays_site": "UVF",
+       "prenom": "Vincent",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/nice_puget_1926.html"
+    },
+    {
+     "annee": 1927,
+     "cle": "1927",
+     "date": "1927-06-05",
+     "date_txt": "5 juin",
+     "podium": [
+      {
+       "affiche": "BROCCARDO Paul",
+       "nom_famille": "BROCCARDO",
+       "parentheses": [
+        "AVA Nice"
+       ],
+       "prenom": "Paul",
+       "rang": 1
+      },
+      {
+       "affiche": "CARRARA Vincent",
+       "nom_famille": "CARRARA",
+       "parentheses": [
+        "AVA Nice"
+       ],
+       "prenom": "Vincent",
+       "rang": 2
+      },
+      {
+       "affiche": "LANTERI Paulin",
+       "nom_famille": "LANTERI",
+       "parentheses": [
+        "AVA Nice"
+       ],
+       "prenom": "Paulin",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/nice_puget_1927.html"
+    },
+    {
+     "annee": 1928,
+     "cle": "1928",
+     "date": "1928-05-27",
+     "date_txt": "27 mai",
+     "podium": [
+      {
+       "affiche": "FAYOLLE Fernand",
+       "nom_famille": "FAYOLLE",
+       "parentheses": [
+        "AC Nice"
+       ],
+       "prenom": "Fernand",
+       "rang": 1
+      },
+      {
+       "affiche": "LANTERI Paulin",
+       "nom_famille": "LANTERI",
+       "parentheses": [
+        "AVA Nice"
+       ],
+       "prenom": "Paulin",
+       "rang": 2
+      },
+      {
+       "affiche": "MINARDI Louis",
+       "nom_famille": "MINARDI",
+       "parentheses": [
+        "AVA Nice"
+       ],
+       "prenom": "Louis",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/nice_puget_1928.html"
+    },
+    {
+     "annee": 1929,
+     "cle": "1929",
+     "date": "1929-05-19",
+     "date_txt": "19 mai",
+     "podium": [
+      {
+       "affiche": "PICCARDO Sébastien",
+       "nom_famille": "PICCARDO",
+       "parentheses": [
+        "Cannes"
+       ],
+       "prenom": "Sébastien",
+       "rang": 1
+      },
+      {
+       "affiche": "GAUDINO Arthur",
+       "nom_famille": "GAUDINO",
+       "parentheses": [
+        "Cannes"
+       ],
+       "prenom": "Arthur",
+       "rang": 2
+      },
+      {
+       "affiche": "CECCHINI Egidio",
+       "nom_famille": "CECCHINI",
+       "parentheses": [
+        "CC Nice"
+       ],
+       "prenom": "Egidio",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/nice_puget_1929.html"
+    },
+    {
+     "annee": 1930,
+     "cle": "1930",
+     "date": "1930-10-19",
+     "date_txt": "19 octobre",
+     "podium": [
+      {
+       "affiche": "PICCARDO Sébastien",
+       "nom_famille": "PICCARDO",
+       "parentheses": [
+        "Cannes"
+       ],
+       "prenom": "Sébastien",
+       "rang": 1
+      },
+      {
+       "affiche": "BUTTAFOCCHI Adrien",
+       "nom_famille": "BUTTAFOCCHI",
+       "parentheses": [
+        "Vélo-Niç."
+       ],
+       "prenom": "Adrien",
+       "rang": 2
+      },
+      {
+       "affiche": "PICCARDO Richard",
+       "nom_famille": "PICCARDO",
+       "parentheses": [
+        "Cannes"
+       ],
+       "prenom": "Richard",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/nice_puget_1930.html"
+    },
+    {
+     "annee": 1931,
+     "cle": "1931",
+     "date": "1931-11-22",
+     "date_txt": "22 novembre",
+     "podium": [
+      {
+       "affiche": "VIETTO René",
+       "nom_famille": "VIETTO",
+       "parentheses": [
+        "Cannes"
+       ],
+       "prenom": "René",
+       "rang": 1
+      },
+      {
+       "affiche": "FAYOLLE Fernand",
+       "nom_famille": "FAYOLLE",
+       "parentheses": [
+        "AC Nice"
+       ],
+       "prenom": "Fernand",
+       "rang": 2
+      },
+      {
+       "affiche": "MONCIERO Auguste",
+       "nom_famille": "MONCIERO",
+       "parentheses": [
+        "AVA Nice"
+       ],
+       "prenom": "Auguste",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/nice_puget_1931.html"
+    },
+    {
+     "annee": 1932,
+     "cle": "1932",
+     "date": "1932-05-05",
+     "date_txt": "5 mai",
+     "podium": [
+      {
+       "affiche": "FAYOLLE Fernand",
+       "nom_famille": "FAYOLLE",
+       "parentheses": [
+        "AC Nice"
+       ],
+       "prenom": "Fernand",
+       "rang": 1
+      },
+      {
+       "affiche": "BIANCHI Paul",
+       "nom_famille": "BIANCHI",
+       "parentheses": [
+        "Cannes"
+       ],
+       "prenom": "Paul",
+       "rang": 2
+      },
+      {
+       "affiche": "ROSSI Marius",
+       "nom_famille": "ROSSI",
+       "parentheses": [
+        "Cannes"
+       ],
+       "prenom": "Marius",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/nice_puget_1932.html"
+    },
+    {
+     "annee": 1933,
+     "cle": "1933",
+     "date": "1933-05-28",
+     "date_txt": "28 mai",
+     "podium": [
+      {
+       "affiche": "NERI Joseph",
+       "nom_famille": "NERI",
+       "parentheses": [
+        "CC Nice"
+       ],
+       "prenom": "Joseph",
+       "rang": 1
+      },
+      {
+       "affiche": "TEISSEIRE Louis",
+       "nom_famille": "TEISSEIRE",
+       "parentheses": [
+        "VC Azuréen"
+       ],
+       "prenom": "Louis",
+       "rang": 2
+      },
+      {
+       "affiche": "FILONI Adelmo",
+       "nom_famille": "FILONI",
+       "parentheses": [
+        "AC Vallauris"
+       ],
+       "prenom": "Adelmo",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/nice_puget_1933.html"
+    },
+    {
+     "annee": 1934,
+     "cle": "1934",
+     "date": "1934-08-12",
+     "date_txt": "12 août",
+     "podium": [
+      {
+       "affiche": "GIANELLO Dante",
+       "nom_famille": "GIANELLO",
+       "prenom": "Dante",
+       "rang": 1
+      },
+      {
+       "affiche": "PUPPO Henri",
+       "nom_famille": "PUPPO",
+       "prenom": "Henri",
+       "rang": 2
+      },
+      {
+       "affiche": "MINASSO Andrea",
+       "nat": "ITA",
+       "nom_famille": "MINASSO",
+       "pays_site": "Ita",
+       "prenom": "Andrea",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/nice_puget_1934.html"
+    },
+    {
+     "annee": 1935,
+     "cle": "1935",
+     "date": "1935-05-01",
+     "date_txt": "1er mai",
+     "podium": [
+      {
+       "affiche": "MARTINO Joseph",
+       "nom_famille": "MARTINO",
+       "parentheses": [
+        "Vélo-Niçois"
+       ],
+       "prenom": "Joseph",
+       "rang": 1
+      },
+      {
+       "affiche": "GIANELLO Dante",
+       "nom_famille": "GIANELLO",
+       "parentheses": [
+        "Cannes"
+       ],
+       "prenom": "Dante",
+       "rang": 2
+      },
+      {
+       "affiche": "VERZELLI Lazare",
+       "nom_famille": "VERZELLI",
+       "parentheses": [
+        "VC Azuréen"
+       ],
+       "prenom": "Lazare",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/nice_puget_1935.html"
+    },
+    {
+     "annee": 1936,
+     "cle": "1936",
+     "date": "1936-09-20",
+     "date_txt": "20 septembre",
+     "podium": [
+      {
+       "affiche": "GIORGETTI Alvaro",
+       "nom_famille": "GIORGETTI",
+       "parentheses": [
+        "RO Nice"
+       ],
+       "prenom": "Alvaro",
+       "rang": 1
+      },
+      {
+       "affiche": "ZANTI Dominique",
+       "nom_famille": "ZANTI",
+       "parentheses": [
+        "VC Antibes"
+       ],
+       "prenom": "Dominique",
+       "rang": 2
+      },
+      {
+       "affiche": "MONARI Evangéliste",
+       "nom_famille": "MONARI",
+       "parentheses": [
+        "USI Nice"
+       ],
+       "prenom": "Evangéliste",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/nice_puget_1936.html"
+    },
+    {
+     "annee": 1937,
+     "cle": "1937",
+     "date": "1937-09-05",
+     "date_txt": "5 septembre",
+     "podium": [
+      {
+       "affiche": "GIORGETTI Alvaro",
+       "nom_famille": "GIORGETTI",
+       "parentheses": [
+        "RO Nice"
+       ],
+       "prenom": "Alvaro",
+       "rang": 1
+      },
+      {
+       "affiche": "GIUPPONE Stefano",
+       "nom_famille": "GIUPPONE",
+       "parentheses": [
+        "Toulon"
+       ],
+       "prenom": "Stefano",
+       "rang": 2
+      },
+      {
+       "affiche": "ROLLAND Amédée",
+       "nom_famille": "ROLLAND",
+       "parentheses": [
+        "CC Nice"
+       ],
+       "prenom": "Amédée",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/nice_puget_1937.html"
+    },
+    {
+     "annee": 1938,
+     "cle": "1938",
+     "date": "1938-09-04",
+     "date_txt": "4 septembre",
+     "podium": [
+      {
+       "affiche": "ROLLAND Amédée",
+       "nom_famille": "ROLLAND",
+       "parentheses": [
+        "CC Nice"
+       ],
+       "prenom": "Amédée",
+       "rang": 1
+      },
+      {
+       "affiche": "BIANCHI Paul",
+       "nom_famille": "BIANCHI",
+       "parentheses": [
+        "Cannes"
+       ],
+       "prenom": "Paul",
+       "rang": 2
+      },
+      {
+       "affiche": "ROSSO Serge",
+       "nom_famille": "ROSSO",
+       "parentheses": [
+        "CC Nice"
+       ],
+       "prenom": "Serge",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1941,
+     "cle": "1941",
+     "podium": [
+      {
+       "affiche": "TEISSEIRE Lucien",
+       "nom_famille": "TEISSEIRE",
+       "prenom": "Lucien",
+       "rang": 1
+      },
+      {
+       "affiche": "SCALBI Pierre",
+       "nom_famille": "SCALBI",
+       "prenom": "Pierre",
+       "rang": 2
+      },
+      {
+       "affiche": "PAOLINI Léon",
+       "nom_famille": "PAOLINI",
+       "prenom": "Léon",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1942,
+     "cle": "1942",
+     "date": "1942-09-13",
+     "date_txt": "13 septembre",
+     "podium": [
+      {
+       "affiche": "COSTA Louis",
+       "nom_famille": "COSTA",
+       "prenom": "Louis",
+       "rang": 1
+      },
+      {
+       "affiche": "BARBAROUX Alexandre",
+       "nom_famille": "BARBAROUX",
+       "prenom": "Alexandre",
+       "rang": 2
+      },
+      {
+       "affiche": "MOLINERIS Pierre",
+       "nom_famille": "MOLINERIS",
+       "prenom": "Pierre",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1943,
+     "cle": "1943",
+     "date": "1943-10-10",
+     "date_txt": "10 octobre",
+     "podium": [
+      {
+       "affiche": "PAOLINI Léon",
+       "nom_famille": "PAOLINI",
+       "prenom": "Léon",
+       "rang": 1
+      },
+      {
+       "affiche": "MOLINERIS Pierre",
+       "nom_famille": "MOLINERIS",
+       "prenom": "Pierre",
+       "rang": 2
+      },
+      {
+       "affiche": "PAMBOUKDJIAN Edouard",
+       "nom_famille": "PAMBOUKDJIAN",
+       "prenom": "Edouard",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1946,
+     "cle": "1946",
+     "date": "1946-11-03",
+     "date_txt": "3 novembre",
+     "podium": [
+      {
+       "affiche": "PAOLINI Léon",
+       "nom_famille": "PAOLINI",
+       "prenom": "Léon",
+       "rang": 1
+      },
+      {
+       "affiche": "NICOLAI André",
+       "nom_famille": "NICOLAI",
+       "prenom": "André",
+       "rang": 2
+      },
+      {
+       "affiche": "LAZARIDES Lucien",
+       "nom_famille": "LAZARIDES",
+       "prenom": "Lucien",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1947,
+     "cle": "1947",
+     "date": "1947-11-01",
+     "date_txt": "1er novembre",
+     "podium": [
+      {
+       "affiche": "MOLINERIS Pierre",
+       "nom_famille": "MOLINERIS",
+       "prenom": "Pierre",
+       "rang": 1
+      },
+      {
+       "affiche": "CAMILLA Célestin",
+       "nom_famille": "CAMILLA",
+       "prenom": "Célestin",
+       "rang": 2
+      },
+      {
+       "affiche": "ROLLAND Amédée",
+       "nom_famille": "ROLLAND",
+       "prenom": "Amédée",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/nice_puget_1947.html"
+    },
+    {
+     "annee": 1948,
+     "cle": "1948",
+     "date": "1948-10-10",
+     "date_txt": "10 octobre",
+     "podium": [
+      {
+       "affiche": "PAOLINI Léon",
+       "nom_famille": "PAOLINI",
+       "prenom": "Léon",
+       "rang": 1
+      },
+      {
+       "affiche": "CAMELLINI Guerrino",
+       "nom_famille": "CAMELLINI",
+       "prenom": "Guerrino",
+       "rang": 2
+      },
+      {
+       "affiche": "NICOLAI André",
+       "nom_famille": "NICOLAI",
+       "prenom": "André",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1949,
+     "cle": "1949",
+     "date": "1949-10-02",
+     "date_txt": "2 octobre",
+     "podium": [
+      {
+       "affiche": "MOLINERIS Pierre",
+       "nom_famille": "MOLINERIS",
+       "prenom": "Pierre",
+       "rang": 1
+      },
+      {
+       "affiche": "PICCARDO Félix",
+       "nom_famille": "PICCARDO",
+       "prenom": "Félix",
+       "rang": 2
+      },
+      {
+       "affiche": "LOCATELLI Fr.",
+       "nat": "ITA",
+       "nom_famille": "LOCATELLI",
+       "pays_site": "Ita",
+       "prenom": "Fr.",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/nice_puget_1949.html"
+    },
+    {
+     "annee": 1950,
+     "cle": "1950",
+     "date": "1950-10-15",
+     "date_txt": "15 octobre",
+     "podium": [
+      {
+       "affiche": "GALLIANO Georges",
+       "nom_famille": "GALLIANO",
+       "prenom": "Georges",
+       "rang": 1
+      },
+      {
+       "affiche": "GIAUNA Antoine",
+       "nom_famille": "GIAUNA",
+       "prenom": "Antoine",
+       "rang": 2
+      },
+      {
+       "affiche": "ROTTA René",
+       "nom_famille": "ROTTA",
+       "prenom": "René",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/nice_puget_1950.html"
+    },
+    {
+     "annee": 1951,
+     "cle": "1951",
+     "date": "1951-09-30",
+     "date_txt": "30 septembre",
+     "podium": [
+      {
+       "affiche": "BERTAINA Jean",
+       "nom_famille": "BERTAINA",
+       "prenom": "Jean",
+       "rang": 1
+      },
+      {
+       "affiche": "DOTTO Jean",
+       "nom_famille": "DOTTO",
+       "prenom": "Jean",
+       "rang": 2
+      },
+      {
+       "affiche": "BERTOLINO André",
+       "nom_famille": "BERTOLINO",
+       "prenom": "André",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/nice_puget_1951.html"
+    },
+    {
+     "annee": 1952,
+     "cle": "1952",
+     "date": "1952-10-26",
+     "date_txt": "26 octobre",
+     "podium": [
+      {
+       "affiche": "ANASTASI Francis",
+       "nom_famille": "ANASTASI",
+       "prenom": "Francis",
+       "rang": 1
+      },
+      {
+       "affiche": "BERTAINA Dominique",
+       "nom_famille": "BERTAINA",
+       "prenom": "Dominique",
+       "rang": 2
+      },
+      {
+       "affiche": "DALBERA Gaston",
+       "nom_famille": "DALBERA",
+       "prenom": "Gaston",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/nice_puget_1952.html"
+    }
+   ],
    "gras": true,
    "groupe": "FRA",
    "id": "disparues-nice_puget",
+   "lu_le": "2026-11-21T03:47:02Z",
    "nom": "Nice-Puget Théniers-Nice",
    "section": "disparues",
    "suffixe_index": "1903-1970",
+   "titre_page": "Nice - Puget-Théniers (Fra) - Ex.",
    "url": "disparues/anc_nice_puget.html"
   },
   "disparues-nice_stsauveur": {
+   "drapeau": "fra",
+   "editions": [
+    {
+     "annee": 1910,
+     "cle": "1910",
+     "date": "1910-07-10",
+     "date_txt": "10 juillet",
+     "podium": [
+      {
+       "affiche": "MANINA Jules",
+       "nom_famille": "MANINA",
+       "parentheses": [
+        "CP Cannes"
+       ],
+       "prenom": "Jules",
+       "rang": 1
+      },
+      {
+       "affiche": "FERRARA Henri",
+       "nom_famille": "FERRARA",
+       "parentheses": [
+        "Gambetta-Club"
+       ],
+       "prenom": "Henri",
+       "rang": 2
+      },
+      {
+       "affiche": "BELTRAND",
+       "nom_famille": "BELTRAND",
+       "parentheses": [
+        "Gambetta-Club"
+       ],
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/nice_stsauveur_nice_1910.html"
+    },
+    {
+     "annee": 1911,
+     "cle": "1911",
+     "date": "1911-10-08",
+     "date_txt": "8 octobre",
+     "podium": [
+      {
+       "affiche": "ALPINI Adrien",
+       "nom_famille": "ALPINI",
+       "parentheses": [
+        "ES Nice"
+       ],
+       "prenom": "Adrien",
+       "rang": 1
+      },
+      {
+       "affiche": "AMENC Noël",
+       "nom_famille": "AMENC",
+       "parentheses": [
+        "Gambetta-Club"
+       ],
+       "prenom": "Noël",
+       "rang": 2
+      },
+      {
+       "affiche": "FERRARA Henri",
+       "nom_famille": "FERRARA",
+       "parentheses": [
+        "Gambetta-Club"
+       ],
+       "prenom": "Henri",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/nice_stsauveur_nice_1911.html"
+    },
+    {
+     "annee": 1912,
+     "cle": "1912",
+     "date": "1912-09-29",
+     "date_txt": "29 septembre",
+     "podium": [
+      {
+       "affiche": "AMENC Noël",
+       "nom_famille": "AMENC",
+       "parentheses": [
+        "Gambetta-Club"
+       ],
+       "prenom": "Noël",
+       "rang": 1
+      },
+      {
+       "affiche": "BALBO Vincent",
+       "nom_famille": "BALBO",
+       "parentheses": [
+        "Gambetta-Club"
+       ],
+       "prenom": "Vincent",
+       "rang": 2
+      },
+      {
+       "affiche": "NOVO Jean",
+       "nom_famille": "NOVO",
+       "parentheses": [
+        "Gambetta-Club"
+       ],
+       "prenom": "Jean",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/nice_stsauveur_nice_1912.html"
+    },
+    {
+     "annee": 1913,
+     "cle": "1913",
+     "date": "1913-09-07",
+     "date_txt": "7 septembre",
+     "podium": [
+      {
+       "affiche": "JULLIEN Gabriel",
+       "nom_famille": "JULLIEN",
+       "parentheses": [
+        "AVC Marseille"
+       ],
+       "prenom": "Gabriel",
+       "rang": 1
+      },
+      {
+       "affiche": "ALPINI Adrien",
+       "nom_famille": "ALPINI",
+       "parentheses": [
+        "Gambetta-Club"
+       ],
+       "prenom": "Adrien",
+       "rang": 2
+      },
+      {
+       "affiche": "MATHIEU",
+       "nom_famille": "MATHIEU",
+       "parentheses": [
+        "AVA Marseille"
+       ],
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/nice_stsauveur_nice_1913.html"
+    },
+    {
+     "annee": 1919,
+     "cle": "1919",
+     "date": "1919-09-07",
+     "date_txt": "7 septembre",
+     "podium": [
+      {
+       "affiche": "FERRARA Henri",
+       "nom_famille": "FERRARA",
+       "parentheses": [
+        "AVA Nice"
+       ],
+       "prenom": "Henri",
+       "rang": 1
+      },
+      {
+       "affiche": "AMENC Noël",
+       "nom_famille": "AMENC",
+       "parentheses": [
+        "AVA Nice"
+       ],
+       "prenom": "Noël",
+       "rang": 2
+      },
+      {
+       "affiche": "NOVO Jean",
+       "nom_famille": "NOVO",
+       "parentheses": [
+        "Nice-Sports"
+       ],
+       "prenom": "Jean",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/nice_stsauveur_nice_1919.html"
+    }
+   ],
    "gras": true,
    "groupe": "FRA",
    "id": "disparues-nice_stsauveur",
+   "lu_le": "2026-11-21T03:48:51Z",
    "nom": "Nice-St Sauveur-Nice",
    "section": "disparues",
    "suffixe_index": "1910-1919",
+   "titre_page": "Nice - Saint-Sauveur - Nice (Fra) - Ex.",
    "url": "disparues/anc_nice_stsauveur.html"
   },
   "disparues-nice_toulon_nice": {
+   "drapeau": "fra",
+   "editions": [
+    {
+     "annee": 1922,
+     "cle": "1922",
+     "date": "1922-05-07",
+     "date_txt": "7 mai",
+     "podium": [
+      {
+       "affiche": "NOVO Jean",
+       "nom_famille": "NOVO",
+       "prenom": "Jean",
+       "rang": 1
+      },
+      {
+       "affiche": "BINDA Alfredo",
+       "nat": "ITA",
+       "nom_famille": "BINDA",
+       "pays_site": "Ita",
+       "prenom": "Alfredo",
+       "rang": 2
+      },
+      {
+       "affiche": "SEASSAU Honoré",
+       "nom_famille": "SEASSAU",
+       "prenom": "Honoré",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_eta/nice_toulon_nice_1922.html"
+    },
+    {
+     "annee": 1932,
+     "cle": "1932",
+     "date_debut": "1932-09-03",
+     "date_fin": "1932-09-04",
+     "date_txt": "du 3 au 4 septembre",
+     "podium": [
+      {
+       "affiche": "BERNARDONI Oreste",
+       "nom_famille": "BERNARDONI",
+       "prenom": "Oreste",
+       "rang": 1
+      },
+      {
+       "affiche": "DELISLE Alfred",
+       "nom_famille": "DELISLE",
+       "prenom": "Alfred",
+       "rang": 2
+      },
+      {
+       "affiche": "GUIRAMAND Marius",
+       "nom_famille": "GUIRAMAND",
+       "prenom": "Marius",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_eta/nice_toulon_nice_1932.html"
+    },
+    {
+     "annee": 1933,
+     "cle": "1933",
+     "date_debut": "1933-10-14",
+     "date_fin": "1933-10-15",
+     "date_txt": "du 14 au 15 octobre",
+     "podium": [
+      {
+       "affiche": "MAUCLAIR Joseph",
+       "nom_famille": "MAUCLAIR",
+       "prenom": "Joseph",
+       "rang": 1
+      },
+      {
+       "affiche": "GALATEAU Fabien",
+       "nom_famille": "GALATEAU",
+       "prenom": "Fabien",
+       "rang": 2
+      },
+      {
+       "affiche": "GIUNTELLI Battista",
+       "nat": "ITA",
+       "nom_famille": "GIUNTELLI",
+       "pays_site": "Ita",
+       "prenom": "Battista",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_eta/nice_toulon_nice_1933.html"
+    },
+    {
+     "annee": 1934,
+     "cle": "1934",
+     "date_debut": "1934-10-06",
+     "date_fin": "1934-10-07",
+     "date_txt": "du 6 au 7 octobre",
+     "podium": [
+      {
+       "affiche": "BUTTAFOCCHI Adrien",
+       "nom_famille": "BUTTAFOCCHI",
+       "prenom": "Adrien",
+       "rang": 1
+      },
+      {
+       "affiche": "ROLLAND Amédée",
+       "nom_famille": "ROLLAND",
+       "prenom": "Amédée",
+       "rang": 2
+      },
+      {
+       "affiche": "ARNALDI Antoine",
+       "nat": "ITA",
+       "nom_famille": "ARNALDI",
+       "pays_site": "Ita",
+       "prenom": "Antoine",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_eta/nice_toulon_nice_1934.html"
+    },
+    {
+     "annee": 1935,
+     "cle": "1935",
+     "date_debut": "1935-08-14",
+     "date_fin": "1935-08-15",
+     "date_txt": "du 14 au 15 août",
+     "podium": [
+      {
+       "affiche": "GIANELLO Dante",
+       "nom_famille": "GIANELLO",
+       "prenom": "Dante",
+       "rang": 1
+      },
+      {
+       "affiche": "SALAZARD Vincent",
+       "nom_famille": "SALAZARD",
+       "prenom": "Vincent",
+       "rang": 2
+      },
+      {
+       "affiche": "FOURNIER Amédée",
+       "nom_famille": "FOURNIER",
+       "prenom": "Amédée",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_eta/nice_toulon_nice_1935.html"
+    },
+    {
+     "annee": 1936,
+     "cle": "1936",
+     "date_debut": "1936-08-15",
+     "date_fin": "1936-08-16",
+     "date_txt": "du 15 au 16 août",
+     "podium": [
+      {
+       "affiche": "GALATEAU Fabien",
+       "nom_famille": "GALATEAU",
+       "prenom": "Fabien",
+       "rang": 1
+      },
+      {
+       "affiche": "ARNALDI Antoine",
+       "nat": "ITA",
+       "nom_famille": "ARNALDI",
+       "pays_site": "Ita",
+       "prenom": "Antoine",
+       "rang": 2
+      },
+      {
+       "affiche": "GIORGETTI Alvaro",
+       "nom_famille": "GIORGETTI",
+       "prenom": "Alvaro",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_eta/nice_toulon_nice_1936.html"
+    },
+    {
+     "annee": 1937,
+     "cle": "1937",
+     "date_debut": "1937-08-14",
+     "date_fin": "1937-08-15",
+     "date_txt": "du 14 au 15 août",
+     "podium": [
+      {
+       "affiche": "PUPPO Henri",
+       "nom_famille": "PUPPO",
+       "prenom": "Henri",
+       "rang": 1
+      },
+      {
+       "affiche": "GIUPPONE Stefano",
+       "nat": "ITA",
+       "nom_famille": "GIUPPONE",
+       "pays_site": "Ita",
+       "prenom": "Stefano",
+       "rang": 2
+      },
+      {
+       "affiche": "ROCCHIA Dante",
+       "nat": "ITA",
+       "nom_famille": "ROCCHIA",
+       "pays_site": "Ita",
+       "prenom": "Dante",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_eta/nice_toulon_nice_1937.html"
+    },
+    {
+     "annee": 1938,
+     "cle": "1938",
+     "date_txt": "14 et 15 août",
+     "podium": [
+      {
+       "affiche": "BERNARDONI Oreste",
+       "nom_famille": "BERNARDONI",
+       "prenom": "Oreste",
+       "rang": 1
+      },
+      {
+       "affiche": "AUREILLE Joseph",
+       "nom_famille": "AUREILLE",
+       "prenom": "Joseph",
+       "rang": 2
+      },
+      {
+       "affiche": "PUPPO Henri",
+       "nom_famille": "PUPPO",
+       "prenom": "Henri",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_eta/nice_toulon_nice_1938.html"
+    }
+   ],
    "gras": true,
    "groupe": "FRA",
    "id": "disparues-nice_toulon_nice",
+   "lu_le": "2026-11-21T03:49:10Z",
    "nom": "Nice-Toulon-Nice",
    "section": "disparues",
    "suffixe_index": "1922-1938",
+   "titre_page": "Nice-Toulon-Nice (Fra) - Ex.",
    "url": "disparues/anc_nice_toulon_nice.html"
   },
   "disparues-niedersachsen": {
