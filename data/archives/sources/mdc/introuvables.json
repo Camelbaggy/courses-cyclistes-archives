@@ -3729,6 +3729,31 @@
   "essais": 1,
   "regle": 2
  },
+ "anc_belgique/mines_limbourg_1964.html": {
+  "dernier_essai": "2026-11-21T02:43:57Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_belgique/molenstede_1962.html": {
+  "dernier_essai": "2026-11-21T02:45:33Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_belgique/molenstede_1963.html": {
+  "dernier_essai": "2026-11-21T02:45:36Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_belgique/mons_tournai_mons_1941.html": {
+  "dernier_essai": "2026-11-21T02:46:02Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_belgique/mons_tournai_mons_1942.html": {
+  "dernier_essai": "2026-11-21T02:46:05Z",
+  "essais": 1,
+  "regle": 2
+ },
  "anc_belgique/monts_flandriens_1942.html": {
   "dernier_essai": "2026-11-20T00:38:30Z",
   "essais": 2,
@@ -3742,6 +3767,31 @@
  "anc_belgique/monts_flandriens_1944.html": {
   "dernier_essai": "2026-11-20T00:38:36Z",
   "essais": 2,
+  "regle": 2
+ },
+ "anc_belgique/namur_deurne_1936.html": {
+  "dernier_essai": "2026-11-21T02:51:42Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_belgique/namur_givet_namur_1893.html": {
+  "dernier_essai": "2026-11-21T02:51:48Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_belgique/namur_hastiere_namur_1894.html": {
+  "dernier_essai": "2026-11-21T02:51:54Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_belgique/nederboelare_anzegem_1958.html": {
+  "dernier_essai": "2026-11-21T02:56:32Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_belgique/nederboelare_anzegem_1959.html": {
+  "dernier_essai": "2026-11-21T02:56:36Z",
+  "essais": 1,
   "regle": 2
  },
  "anc_belgique/ouest_mons_1953.html": {
@@ -5149,6 +5199,11 @@
   "essais": 1,
   "regle": 2
  },
+ "anc_espagne/munecas_famosa_1970.html": {
+  "dernier_essai": "2026-11-21T02:50:50Z",
+  "essais": 1,
+  "regle": 2
+ },
  "anc_espagne/subida_igueldo_1912.html": {
   "dernier_essai": "2026-11-21T01:24:30Z",
   "essais": 1,
@@ -5404,6 +5459,11 @@
   "essais": 2,
   "regle": 2
  },
+ "anc_europe/gp_mosqueteiros_2003.html": {
+  "dernier_essai": "2026-11-21T02:48:13Z",
+  "essais": 1,
+  "regle": 2
+ },
  "anc_europe/gp_nations_luxembourg_1932.html": {
   "dernier_essai": "2026-11-21T00:59:13Z",
   "essais": 2,
@@ -5541,6 +5601,11 @@
  },
  "anc_europe/middelburg_goes_middelburg_1895.html": {
   "dernier_essai": "2026-11-21T02:04:08Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_europe/mitsubishi_2004.html": {
+  "dernier_essai": "2026-11-21T02:45:27Z",
   "essais": 1,
   "regle": 2
  },
@@ -7522,6 +7587,16 @@
  "anc_france_cla/circ_maine_loire_1952.html": {
   "dernier_essai": "2026-11-20T00:35:33Z",
   "essais": 2,
+  "regle": 2
+ },
+ "anc_france_cla/circ_monts_roannais_1938.html": {
+  "dernier_essai": "2026-11-21T02:50:28Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/circ_monts_roannais_1939.html": {
+  "dernier_essai": "2026-11-21T02:50:31Z",
+  "essais": 1,
   "regle": 2
  },
  "anc_france_cla/circ_saumur_1920.html": {
@@ -12609,8 +12684,278 @@
   "essais": 1,
   "regle": 2
  },
+ "anc_france_cla/minier_metal_nord_1908.html": {
+  "dernier_essai": "2026-11-21T02:44:08Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/minier_metal_nord_1911.html": {
+  "dernier_essai": "2026-11-21T02:44:10Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/minier_metal_nord_1912.html": {
+  "dernier_essai": "2026-11-21T02:44:13Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/minier_metal_nord_1913.html": {
+  "dernier_essai": "2026-11-21T02:44:16Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/minier_metal_nord_1919.html": {
+  "dernier_essai": "2026-11-21T02:44:20Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/minier_metal_nord_1920.html": {
+  "dernier_essai": "2026-11-21T02:44:23Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/minier_metal_nord_1921.html": {
+  "dernier_essai": "2026-11-21T02:44:26Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/minier_metal_nord_1922.html": {
+  "dernier_essai": "2026-11-21T02:44:29Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/minier_metal_nord_1923.html": {
+  "dernier_essai": "2026-11-21T02:44:32Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/minier_metal_nord_1924.html": {
+  "dernier_essai": "2026-11-21T02:44:36Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/minier_metal_nord_1925.html": {
+  "dernier_essai": "2026-11-21T02:44:39Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/minier_metal_nord_1926.html": {
+  "dernier_essai": "2026-11-21T02:44:42Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/minier_metal_nord_1927.html": {
+  "dernier_essai": "2026-11-21T02:44:45Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/minier_metal_nord_1928.html": {
+  "dernier_essai": "2026-11-21T02:44:48Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/minier_metal_nord_1929.html": {
+  "dernier_essai": "2026-11-21T02:44:52Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/minier_metal_nord_1930.html": {
+  "dernier_essai": "2026-11-21T02:44:55Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/minier_metal_nord_1931.html": {
+  "dernier_essai": "2026-11-21T02:44:58Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/minier_metal_nord_1932.html": {
+  "dernier_essai": "2026-11-21T02:45:01Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/minier_metal_nord_1933.html": {
+  "dernier_essai": "2026-11-21T02:45:04Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/minier_metal_nord_1934.html": {
+  "dernier_essai": "2026-11-21T02:45:08Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/minier_metal_nord_1935.html": {
+  "dernier_essai": "2026-11-21T02:45:11Z",
+  "essais": 1,
+  "regle": 2
+ },
  "anc_france_cla/monaco_mtagel_1957.html": {
   "dernier_essai": "2026-11-21T01:59:26Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/monaco_turbie_1909.html": {
+  "dernier_essai": "2026-11-21T02:45:49Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/monaco_turbie_1910.html": {
+  "dernier_essai": "2026-11-21T02:45:52Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/mont_chauve_1922.html": {
+  "dernier_essai": "2026-11-21T02:46:12Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/mont_chauve_1923.html": {
+  "dernier_essai": "2026-11-21T02:46:15Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/mont_chauve_1941.html": {
+  "dernier_essai": "2026-11-21T02:46:18Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/mont_chauve_1942.html": {
+  "dernier_essai": "2026-11-21T02:46:21Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/mont_chauve_1943.html": {
+  "dernier_essai": "2026-11-21T02:46:24Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/mont_chauve_1946.html": {
+  "dernier_essai": "2026-11-21T02:46:28Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/mont_chauve_1975.html": {
+  "dernier_essai": "2026-11-21T02:46:31Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/mont_coudon_1937.html": {
+  "dernier_essai": "2026-11-21T02:46:37Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/mont_coudon_1938.html": {
+  "dernier_essai": "2026-11-21T02:46:40Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/mont_coudon_1939.html": {
+  "dernier_essai": "2026-11-21T02:46:44Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/mont_faron_ligne_1920.html": {
+  "dernier_essai": "2026-11-21T02:49:17Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/mont_faron_ligne_1922.html": {
+  "dernier_essai": "2026-11-21T02:49:20Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/mont_faron_ligne_1924.html": {
+  "dernier_essai": "2026-11-21T02:49:24Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/mont_faron_ligne_1926.html": {
+  "dernier_essai": "2026-11-21T02:49:27Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/mont_faron_ligne_1927.html": {
+  "dernier_essai": "2026-11-21T02:49:30Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/mont_faron_ligne_1928.html": {
+  "dernier_essai": "2026-11-21T02:49:33Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/mont_faron_ligne_1929.html": {
+  "dernier_essai": "2026-11-21T02:49:36Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/mont_faron_ligne_1930.html": {
+  "dernier_essai": "2026-11-21T02:49:40Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/mont_faron_ligne_1931.html": {
+  "dernier_essai": "2026-11-21T02:49:43Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/mont_faron_ligne_1932.html": {
+  "dernier_essai": "2026-11-21T02:49:46Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/mont_faron_ligne_1933.html": {
+  "dernier_essai": "2026-11-21T02:49:49Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/mont_faron_ligne_1934.html": {
+  "dernier_essai": "2026-11-21T02:49:52Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/mont_faron_ligne_1935.html": {
+  "dernier_essai": "2026-11-21T02:49:56Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/mont_faron_ligne_1936.html": {
+  "dernier_essai": "2026-11-21T02:49:59Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/mont_faron_ligne_1937.html": {
+  "dernier_essai": "2026-11-21T02:50:02Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/mont_faron_ligne_1938.html": {
+  "dernier_essai": "2026-11-21T02:50:05Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/mont_faron_ligne_1939.html": {
+  "dernier_essai": "2026-11-21T02:50:09Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/mont_faron_ligne_1942.html": {
+  "dernier_essai": "2026-11-21T02:50:12Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/mont_faron_ligne_1943.html": {
+  "dernier_essai": "2026-11-21T02:50:15Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/mont_faron_ligne_1952.html": {
+  "dernier_essai": "2026-11-21T02:50:18Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/mont_faron_ligne_1953.html": {
+  "dernier_essai": "2026-11-21T02:50:21Z",
   "essais": 1,
   "regle": 2
  },
@@ -12736,6 +13081,626 @@
  },
  "anc_france_cla/montlucon_lyon_1952.html": {
   "dernier_essai": "2026-11-21T01:46:56Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/mtfaron_chrono_1952.html": {
+  "dernier_essai": "2026-11-21T02:48:52Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/mtfaron_chrono_1953.html": {
+  "dernier_essai": "2026-11-21T02:48:55Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/mtfaron_chrono_1956.html": {
+  "dernier_essai": "2026-11-21T02:48:58Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/mtfaron_chrono_1957.html": {
+  "dernier_essai": "2026-11-21T02:49:01Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/mtfaron_chrono_1965.html": {
+  "dernier_essai": "2026-11-21T02:49:04Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/mtfaron_chrono_1967.html": {
+  "dernier_essai": "2026-11-21T02:49:08Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/mtfaron_chrono_1970.html": {
+  "dernier_essai": "2026-11-21T02:49:11Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nancy_colmar_1928.html": {
+  "dernier_essai": "2026-11-21T02:52:10Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nancy_strasbourg_1936.html": {
+  "dernier_essai": "2026-11-21T02:52:00Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nancy_strasbourg_1937.html": {
+  "dernier_essai": "2026-11-21T02:52:04Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_angers_nantes_1931.html": {
+  "dernier_essai": "2026-11-21T02:52:16Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_angers_nantes_1932.html": {
+  "dernier_essai": "2026-11-21T02:52:20Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_angers_nantes_1933.html": {
+  "dernier_essai": "2026-11-21T02:52:23Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_angers_nantes_1934.html": {
+  "dernier_essai": "2026-11-21T02:52:26Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_angers_nantes_1935.html": {
+  "dernier_essai": "2026-11-21T02:52:29Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_angers_nantes_1936.html": {
+  "dernier_essai": "2026-11-21T02:52:32Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_angers_nantes_1937.html": {
+  "dernier_essai": "2026-11-21T02:52:36Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_angers_nantes_1938.html": {
+  "dernier_essai": "2026-11-21T02:52:39Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_angers_nantes_1939.html": {
+  "dernier_essai": "2026-11-21T02:52:42Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_angers_nantes_1943.html": {
+  "dernier_essai": "2026-11-21T02:52:45Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_angers_nantes_1945.html": {
+  "dernier_essai": "2026-11-21T02:52:48Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_angers_nantes_1946.html": {
+  "dernier_essai": "2026-11-21T02:52:52Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_angers_nantes_1947.html": {
+  "dernier_essai": "2026-11-21T02:52:55Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_angers_nantes_1948.html": {
+  "dernier_essai": "2026-11-21T02:52:58Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_labaule_1953.html": {
+  "dernier_essai": "2026-11-21T02:53:04Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_nazaire_nantes_1910.html": {
+  "dernier_essai": "2026-11-21T02:53:11Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_nazaire_nantes_1911.html": {
+  "dernier_essai": "2026-11-21T02:53:14Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_nazaire_nantes_1912.html": {
+  "dernier_essai": "2026-11-21T02:53:18Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_nazaire_nantes_1913.html": {
+  "dernier_essai": "2026-11-21T02:53:20Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_nazaire_nantes_1914.html": {
+  "dernier_essai": "2026-11-21T02:53:24Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_nazaire_nantes_1926.html": {
+  "dernier_essai": "2026-11-21T02:53:27Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_nazaire_nantes_1928.html": {
+  "dernier_essai": "2026-11-21T02:53:30Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_nazaire_nantes_1929.html": {
+  "dernier_essai": "2026-11-21T02:53:33Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_nazaire_nantes_1930.html": {
+  "dernier_essai": "2026-11-21T02:53:36Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_nazaire_nantes_1931.html": {
+  "dernier_essai": "2026-11-21T02:53:40Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_nazaire_nantes_1932.html": {
+  "dernier_essai": "2026-11-21T02:53:43Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_nazaire_nantes_1933.html": {
+  "dernier_essai": "2026-11-21T02:53:46Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_nazaire_nantes_1934.html": {
+  "dernier_essai": "2026-11-21T02:53:49Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_nazaire_nantes_1935.html": {
+  "dernier_essai": "2026-11-21T02:53:52Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_nazaire_nantes_1937.html": {
+  "dernier_essai": "2026-11-21T02:53:56Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_nazaire_nantes_1938.html": {
+  "dernier_essai": "2026-11-21T02:53:59Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_nazaire_nantes_1939.html": {
+  "dernier_essai": "2026-11-21T02:54:02Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_nazaire_nantes_1941.html": {
+  "dernier_essai": "2026-11-21T02:54:05Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_nazaire_nantes_1942.html": {
+  "dernier_essai": "2026-11-21T02:54:08Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_nazaire_nantes_1946.html": {
+  "dernier_essai": "2026-11-21T02:54:12Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_nazaire_nantes_1947.html": {
+  "dernier_essai": "2026-11-21T02:54:15Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_nazaire_nantes_1948.html": {
+  "dernier_essai": "2026-11-21T02:54:19Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_nazaire_nantes_1949.html": {
+  "dernier_essai": "2026-11-21T02:54:23Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_sables_olonne_1914.html": {
+  "dernier_essai": "2026-11-21T02:54:28Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_sables_olonne_1919.html": {
+  "dernier_essai": "2026-11-21T02:54:31Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_sables_olonne_1921.html": {
+  "dernier_essai": "2026-11-21T02:54:34Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_sables_olonne_1922.html": {
+  "dernier_essai": "2026-11-21T02:54:37Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_sables_olonne_1923.html": {
+  "dernier_essai": "2026-11-21T02:54:40Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_sables_olonne_1924.html": {
+  "dernier_essai": "2026-11-21T02:54:44Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_sables_olonne_1925.html": {
+  "dernier_essai": "2026-11-21T02:54:47Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_sables_olonne_1926.html": {
+  "dernier_essai": "2026-11-21T02:54:50Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_sables_olonne_1927.html": {
+  "dernier_essai": "2026-11-21T02:54:53Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_sables_olonne_1928.html": {
+  "dernier_essai": "2026-11-21T02:54:56Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_sables_olonne_1929.html": {
+  "dernier_essai": "2026-11-21T02:55:00Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_sables_olonne_1930.html": {
+  "dernier_essai": "2026-11-21T02:55:03Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_sables_olonne_1931.html": {
+  "dernier_essai": "2026-11-21T02:55:06Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_sables_olonne_1932.html": {
+  "dernier_essai": "2026-11-21T02:55:09Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_sables_olonne_1933.html": {
+  "dernier_essai": "2026-11-21T02:55:12Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_sables_olonne_1934.html": {
+  "dernier_essai": "2026-11-21T02:55:16Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_sables_olonne_1935.html": {
+  "dernier_essai": "2026-11-21T02:55:19Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_sables_olonne_1936.html": {
+  "dernier_essai": "2026-11-21T02:55:22Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_sables_olonne_1937.html": {
+  "dernier_essai": "2026-11-21T02:55:27Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_sables_olonne_1938.html": {
+  "dernier_essai": "2026-11-21T02:55:28Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_sables_olonne_1939.html": {
+  "dernier_essai": "2026-11-21T02:55:32Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_sables_olonne_1941.html": {
+  "dernier_essai": "2026-11-21T02:55:35Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_sables_olonne_1942.html": {
+  "dernier_essai": "2026-11-21T02:55:38Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_sables_olonne_1943.html": {
+  "dernier_essai": "2026-11-21T02:55:41Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_sables_olonne_1945.html": {
+  "dernier_essai": "2026-11-21T02:55:44Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_sables_olonne_1946.html": {
+  "dernier_essai": "2026-11-21T02:55:48Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_sables_olonne_1947.html": {
+  "dernier_essai": "2026-11-21T02:55:51Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nantes_sables_olonne_1948.html": {
+  "dernier_essai": "2026-11-21T02:55:54Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nazaire_nantes_nazaire_1925.html": {
+  "dernier_essai": "2026-11-21T02:56:00Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nazaire_nantes_nazaire_1927.html": {
+  "dernier_essai": "2026-11-21T02:56:04Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nazaire_nantes_nazaire_1929.html": {
+  "dernier_essai": "2026-11-21T02:56:07Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nazaire_nantes_nazaire_1930.html": {
+  "dernier_essai": "2026-11-21T02:56:10Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nazaire_nantes_nazaire_1931.html": {
+  "dernier_essai": "2026-11-21T02:56:13Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nazaire_nantes_nazaire_1932.html": {
+  "dernier_essai": "2026-11-21T02:56:16Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nazaire_nantes_nazaire_1933.html": {
+  "dernier_essai": "2026-11-21T02:56:20Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nazaire_nantes_nazaire_1934.html": {
+  "dernier_essai": "2026-11-21T02:56:23Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nazaire_nantes_nazaire_1935.html": {
+  "dernier_essai": "2026-11-21T02:56:26Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nevers_vichy_nevers_1924.html": {
+  "dernier_essai": "2026-11-21T02:56:48Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nevers_vichy_nevers_1925.html": {
+  "dernier_essai": "2026-11-21T02:56:52Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nevers_vichy_nevers_1929.html": {
+  "dernier_essai": "2026-11-21T02:56:55Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nevers_vichy_nevers_1930.html": {
+  "dernier_essai": "2026-11-21T02:56:58Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nevers_vichy_nevers_1931.html": {
+  "dernier_essai": "2026-11-21T02:57:01Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nice_annot_nice_1909.html": {
+  "dernier_essai": "2026-11-21T02:57:08Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nice_annot_nice_1910.html": {
+  "dernier_essai": "2026-11-21T02:57:11Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nice_annot_nice_1913.html": {
+  "dernier_essai": "2026-11-21T02:57:14Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nice_annot_nice_1918.html": {
+  "dernier_essai": "2026-11-21T02:57:17Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nice_annot_nice_1919.html": {
+  "dernier_essai": "2026-11-21T02:57:20Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nice_annot_nice_1920.html": {
+  "dernier_essai": "2026-11-21T02:57:24Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nice_annot_nice_1921.html": {
+  "dernier_essai": "2026-11-21T02:57:27Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nice_annot_nice_1922.html": {
+  "dernier_essai": "2026-11-21T02:57:30Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nice_annot_nice_1923.html": {
+  "dernier_essai": "2026-11-21T02:57:33Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nice_annot_nice_1924.html": {
+  "dernier_essai": "2026-11-21T02:57:36Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nice_annot_nice_1925.html": {
+  "dernier_essai": "2026-11-21T02:57:40Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nice_annot_nice_1926.html": {
+  "dernier_essai": "2026-11-21T02:57:43Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nice_annot_nice_1927.html": {
+  "dernier_essai": "2026-11-21T02:57:47Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nice_annot_nice_1928.html": {
+  "dernier_essai": "2026-11-21T02:57:50Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nice_annot_nice_1929.html": {
+  "dernier_essai": "2026-11-21T02:57:52Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nice_annot_nice_1930.html": {
+  "dernier_essai": "2026-11-21T02:57:56Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nice_annot_nice_1931.html": {
+  "dernier_essai": "2026-11-21T02:57:59Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nice_annot_nice_1932.html": {
+  "dernier_essai": "2026-11-21T02:58:02Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nice_annot_nice_1933.html": {
+  "dernier_essai": "2026-11-21T02:58:05Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nice_annot_nice_1934.html": {
+  "dernier_essai": "2026-11-21T02:58:08Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nice_annot_nice_1935.html": {
+  "dernier_essai": "2026-11-21T02:58:12Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nice_annot_nice_1936.html": {
+  "dernier_essai": "2026-11-21T02:58:15Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nice_annot_nice_1937.html": {
+  "dernier_essai": "2026-11-21T02:58:18Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nice_montagel_1920.html": {
+  "dernier_essai": "2026-11-21T02:58:24Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nice_montagel_1921.html": {
+  "dernier_essai": "2026-11-21T02:58:28Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nice_montagel_1922.html": {
+  "dernier_essai": "2026-11-21T02:58:31Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nice_montagel_1923.html": {
+  "dernier_essai": "2026-11-21T02:58:34Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nice_montagel_1931.html": {
+  "dernier_essai": "2026-11-21T02:58:38Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nice_montagel_1932.html": {
+  "dernier_essai": "2026-11-21T02:58:40Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nice_montagel_1933.html": {
+  "dernier_essai": "2026-11-21T02:58:44Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nice_montagel_1934.html": {
+  "dernier_essai": "2026-11-21T02:58:47Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nice_montagel_1935.html": {
+  "dernier_essai": "2026-11-21T02:58:50Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nice_montagel_1936.html": {
+  "dernier_essai": "2026-11-21T02:58:53Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/nice_montagel_1937.html": {
+  "dernier_essai": "2026-11-21T02:58:56Z",
   "essais": 1,
   "regle": 2
  },
@@ -12992,6 +13957,11 @@
  "anc_france_cla/provence1945.html": {
   "dernier_essai": "2026-11-21T01:03:01Z",
   "essais": 2,
+  "regle": 2
+ },
+ "anc_france_cla/saint_michel_paris_1917.html": {
+  "dernier_essai": "2026-11-21T02:48:45Z",
+  "essais": 1,
   "regle": 2
  },
  "anc_france_cla/td_herault_1962.html": {
@@ -14624,6 +15594,31 @@
   "essais": 1,
   "regle": 2
  },
+ "anc_france_eta/monts_livradois_1947.html": {
+  "dernier_essai": "2026-11-21T02:47:57Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_eta/monts_livradois_1948.html": {
+  "dernier_essai": "2026-11-21T02:48:00Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_eta/monts_livradois_1949.html": {
+  "dernier_essai": "2026-11-21T02:48:04Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_eta/mousquetaires_1938.html": {
+  "dernier_essai": "2026-11-21T02:48:36Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_eta/mousquetaires_1939.html": {
+  "dernier_essai": "2026-11-21T02:48:39Z",
+  "essais": 1,
+  "regle": 2
+ },
  "anc_italie/3capitales_1911.html": {
   "dernier_essai": "2026-11-19T00:08:02Z",
   "essais": 2,
@@ -15624,6 +16619,26 @@
   "essais": 1,
   "regle": 2
  },
+ "anc_italie/miasino_mottarone_2002.html": {
+  "dernier_essai": "2026-11-21T02:48:20Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/miasino_mottarone_2003.html": {
+  "dernier_essai": "2026-11-21T02:48:23Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/miasino_mottarone_2004.html": {
+  "dernier_essai": "2026-11-21T02:48:26Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/miasino_mottarone_2006.html": {
+  "dernier_essai": "2026-11-21T02:48:29Z",
+  "essais": 1,
+  "regle": 2
+ },
  "anc_italie/milan_laspezia_1917.html": {
   "dernier_essai": "2026-11-21T02:07:17Z",
   "essais": 1,
@@ -15691,6 +16706,46 @@
  },
  "anc_italie/milan_mantoue_1961.html": {
   "dernier_essai": "2026-11-21T01:51:34Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/milan_verone_1908.html": {
+  "dernier_essai": "2026-11-21T02:43:09Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/milan_vicenze_1950.html": {
+  "dernier_essai": "2026-11-21T02:43:16Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/milano_alessandria_milano_1906.html": {
+  "dernier_essai": "2026-11-21T02:43:22Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/milano_erba_1906.html": {
+  "dernier_essai": "2026-11-21T02:43:28Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/milano_roma1918.html": {
+  "dernier_essai": "2026-11-21T02:43:03Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/milano_varzi_1945.html": {
+  "dernier_essai": "2026-11-21T02:43:48Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/misano_adriatico_2005.html": {
+  "dernier_essai": "2026-11-21T02:45:17Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/misano_adriatico_2006.html": {
+  "dernier_essai": "2026-11-21T02:45:21Z",
   "essais": 1,
   "regle": 2
  },
@@ -15766,6 +16821,236 @@
  },
  "anc_italie/modena1924.html": {
   "dernier_essai": "2026-11-21T02:08:24Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/modena1925.html": {
+  "dernier_essai": "2026-11-21T02:41:11Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/modena1926.html": {
+  "dernier_essai": "2026-11-21T02:41:14Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/modena1927.html": {
+  "dernier_essai": "2026-11-21T02:41:17Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/modena1928.html": {
+  "dernier_essai": "2026-11-21T02:41:20Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/modena1929.html": {
+  "dernier_essai": "2026-11-21T02:41:24Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/modena1930.html": {
+  "dernier_essai": "2026-11-21T02:41:27Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/modena1931.html": {
+  "dernier_essai": "2026-11-21T02:41:30Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/modena1932.html": {
+  "dernier_essai": "2026-11-21T02:41:33Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/modena1933.html": {
+  "dernier_essai": "2026-11-21T02:41:36Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/modena1934.html": {
+  "dernier_essai": "2026-11-21T02:41:40Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/modena1935.html": {
+  "dernier_essai": "2026-11-21T02:41:43Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/modena1936.html": {
+  "dernier_essai": "2026-11-21T02:41:46Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/modena1937.html": {
+  "dernier_essai": "2026-11-21T02:41:50Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/modena1938.html": {
+  "dernier_essai": "2026-11-21T02:41:53Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/modena1939.html": {
+  "dernier_essai": "2026-11-21T02:41:56Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/modena1940.html": {
+  "dernier_essai": "2026-11-21T02:41:59Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/modena1941.html": {
+  "dernier_essai": "2026-11-21T02:42:02Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/modena1942.html": {
+  "dernier_essai": "2026-11-21T02:42:05Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/modena1947.html": {
+  "dernier_essai": "2026-11-21T02:42:08Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/modena1948.html": {
+  "dernier_essai": "2026-11-21T02:42:12Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/modena1949.html": {
+  "dernier_essai": "2026-11-21T02:42:15Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/modena1950.html": {
+  "dernier_essai": "2026-11-21T02:42:18Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/modena1951.html": {
+  "dernier_essai": "2026-11-21T02:42:21Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/modena1953.html": {
+  "dernier_essai": "2026-11-21T02:42:24Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/modena1954.html": {
+  "dernier_essai": "2026-11-21T02:42:28Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/modena1955.html": {
+  "dernier_essai": "2026-11-21T02:42:31Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/montelupo1965.html": {
+  "dernier_essai": "2026-11-21T02:46:50Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/montelupo1966.html": {
+  "dernier_essai": "2026-11-21T02:46:53Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/montelupo1967.html": {
+  "dernier_essai": "2026-11-21T02:46:56Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/montelupo1968.html": {
+  "dernier_essai": "2026-11-21T02:47:00Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/montelupo1969.html": {
+  "dernier_essai": "2026-11-21T02:47:05Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/montelupo1970.html": {
+  "dernier_essai": "2026-11-21T02:47:06Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/montelupo1971.html": {
+  "dernier_essai": "2026-11-21T02:47:09Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/montelupo1972.html": {
+  "dernier_essai": "2026-11-21T02:47:12Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/montelupo1973.html": {
+  "dernier_essai": "2026-11-21T02:47:16Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/montelupo1974.html": {
+  "dernier_essai": "2026-11-21T02:47:19Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/montelupo1975.html": {
+  "dernier_essai": "2026-11-21T02:47:22Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/montelupo1976.html": {
+  "dernier_essai": "2026-11-21T02:47:25Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/montelupo1977.html": {
+  "dernier_essai": "2026-11-21T02:47:28Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/montelupo1978.html": {
+  "dernier_essai": "2026-11-21T02:47:32Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/montelupo1979.html": {
+  "dernier_essai": "2026-11-21T02:47:35Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/montelupo1980.html": {
+  "dernier_essai": "2026-11-21T02:47:38Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/montelupo1981.html": {
+  "dernier_essai": "2026-11-21T02:47:41Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/montelupo1982.html": {
+  "dernier_essai": "2026-11-21T02:47:45Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/montelupo1983.html": {
+  "dernier_essai": "2026-11-21T02:47:48Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/montelupo1984.html": {
+  "dernier_essai": "2026-11-21T02:47:51Z",
   "essais": 1,
   "regle": 2
  },
@@ -16476,6 +17761,66 @@
  },
  "anc_suisse/milan_bellinzona_1922.html": {
   "dernier_essai": "2026-11-21T02:07:30Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_suisse/munich_zurich_1911.html": {
+  "dernier_essai": "2026-11-21T02:50:56Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_suisse/munich_zurich_1912.html": {
+  "dernier_essai": "2026-11-21T02:51:00Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_suisse/munich_zurich_1913.html": {
+  "dernier_essai": "2026-11-21T02:51:03Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_suisse/munich_zurich_1922.html": {
+  "dernier_essai": "2026-11-21T02:51:06Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_suisse/munich_zurich_1923.html": {
+  "dernier_essai": "2026-11-21T02:51:09Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_suisse/munich_zurich_1924.html": {
+  "dernier_essai": "2026-11-21T02:51:12Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_suisse/munich_zurich_1950.html": {
+  "dernier_essai": "2026-11-21T02:51:16Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_suisse/munich_zurich_1962.html": {
+  "dernier_essai": "2026-11-21T02:51:19Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_suisse/munich_zurich_1963.html": {
+  "dernier_essai": "2026-11-21T02:51:22Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_suisse/munich_zurich_1964.html": {
+  "dernier_essai": "2026-11-21T02:51:25Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_suisse/munich_zurich_1965.html": {
+  "dernier_essai": "2026-11-21T02:51:28Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_suisse/neuchatel_geneve_1951.html": {
+  "dernier_essai": "2026-11-21T02:56:42Z",
   "essais": 1,
   "regle": 2
  },
