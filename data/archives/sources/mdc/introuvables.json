@@ -6459,6 +6459,11 @@
   "essais": 1,
   "regle": 2
  },
+ "anc_espagne/ribera_jalon_1953.html": {
+  "dernier_essai": "2026-11-22T03:11:46Z",
+  "essais": 1,
+  "regle": 2
+ },
  "anc_espagne/subida_igueldo_1912.html": {
   "dernier_essai": "2026-11-22T00:48:56Z",
   "essais": 2,
@@ -6906,6 +6911,16 @@
  },
  "anc_europe/prudential_tour_1999.html": {
   "dernier_essai": "2026-11-22T02:12:02Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_europe/ronde_ijsselmonde_1975.html": {
+  "dernier_essai": "2026-11-22T03:14:42Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_europe/ronde_ijsselmonde_1976.html": {
+  "dernier_essai": "2026-11-22T03:14:45Z",
   "essais": 1,
   "regle": 2
  },
@@ -17829,6 +17844,56 @@
   "essais": 1,
   "regle": 2
  },
+ "anc_france_cla/ronde_champions_1946.html": {
+  "dernier_essai": "2026-11-22T03:14:29Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/ronde_champions_1947.html": {
+  "dernier_essai": "2026-11-22T03:14:32Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/ronde_pyrenees_1984.html": {
+  "dernier_essai": "2026-11-22T03:14:55Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/ronde_pyrenees_1985.html": {
+  "dernier_essai": "2026-11-22T03:14:58Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/ronde_pyrenees_1987.html": {
+  "dernier_essai": "2026-11-22T03:15:02Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/ronde_pyrenees_1988.html": {
+  "dernier_essai": "2026-11-22T03:15:04Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/ronde_pyrenees_1989.html": {
+  "dernier_essai": "2026-11-22T03:15:07Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/ronde_pyrenees_1990.html": {
+  "dernier_essai": "2026-11-22T03:15:11Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/ronde_pyrenees_1991.html": {
+  "dernier_essai": "2026-11-22T03:15:14Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/ronde_pyrenees_1992.html": {
+  "dernier_essai": "2026-11-22T03:15:17Z",
+  "essais": 1,
+  "regle": 2
+ },
  "anc_france_cla/route_nivernaise_1972.html": {
   "dernier_essai": "2026-11-22T00:51:52Z",
   "essais": 1,
@@ -21689,6 +21754,196 @@
   "essais": 1,
   "regle": 2
  },
+ "anc_italie/roma_napoli1902.html": {
+  "dernier_essai": "2026-11-22T03:11:55Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/roma_napoli1903.html": {
+  "dernier_essai": "2026-11-22T03:11:59Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/roma_napoli1904.html": {
+  "dernier_essai": "2026-11-22T03:12:02Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/roma_napoli1905.html": {
+  "dernier_essai": "2026-11-22T03:12:05Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/roma_napoli1906.html": {
+  "dernier_essai": "2026-11-22T03:12:08Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/roma_napoli1907.html": {
+  "dernier_essai": "2026-11-22T03:12:11Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/roma_napoli1908.html": {
+  "dernier_essai": "2026-11-22T03:12:15Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/roma_napoli1909.html": {
+  "dernier_essai": "2026-11-22T03:12:18Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/roma_napoli1910.html": {
+  "dernier_essai": "2026-11-22T03:12:21Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/roma_napoli1911.html": {
+  "dernier_essai": "2026-11-22T03:12:24Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/roma_napoli1912.html": {
+  "dernier_essai": "2026-11-22T03:12:27Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/roma_napoli1913.html": {
+  "dernier_essai": "2026-11-22T03:12:31Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/roma_napoli1914.html": {
+  "dernier_essai": "2026-11-22T03:12:34Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/roma_napoli1919.html": {
+  "dernier_essai": "2026-11-22T03:12:37Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/roma_napoli1920.html": {
+  "dernier_essai": "2026-11-22T03:12:40Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/roma_napoli1921.html": {
+  "dernier_essai": "2026-11-22T03:12:43Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/roma_napoli1922.html": {
+  "dernier_essai": "2026-11-22T03:12:47Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/roma_napoli1923.html": {
+  "dernier_essai": "2026-11-22T03:12:50Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/roma_napoli1924.html": {
+  "dernier_essai": "2026-11-22T03:12:53Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/roma_napoli1925.html": {
+  "dernier_essai": "2026-11-22T03:12:56Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/roma_napoli1926.html": {
+  "dernier_essai": "2026-11-22T03:12:59Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/roma_napoli1927.html": {
+  "dernier_essai": "2026-11-22T03:13:03Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/roma_napoli1928.html": {
+  "dernier_essai": "2026-11-22T03:13:06Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/roma_napoli1929.html": {
+  "dernier_essai": "2026-11-22T03:13:09Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/roma_napoli1934.html": {
+  "dernier_essai": "2026-11-22T03:13:12Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/roma_napoli1950.html": {
+  "dernier_essai": "2026-11-22T03:13:15Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/roma_napoli1951.html": {
+  "dernier_essai": "2026-11-22T03:13:19Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/roma_napoli1952.html": {
+  "dernier_essai": "2026-11-22T03:13:22Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/roma_napoli1953.html": {
+  "dernier_essai": "2026-11-22T03:13:25Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/roma_napoli1954.html": {
+  "dernier_essai": "2026-11-22T03:13:28Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/roma_napoli1955.html": {
+  "dernier_essai": "2026-11-22T03:13:31Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/roma_napoli1956.html": {
+  "dernier_essai": "2026-11-22T03:13:35Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/roma_napoli1957.html": {
+  "dernier_essai": "2026-11-22T03:13:38Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/roma_napoli1958.html": {
+  "dernier_essai": "2026-11-22T03:13:41Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/roma_napoli1959.html": {
+  "dernier_essai": "2026-11-22T03:13:44Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/roma_napoli1960.html": {
+  "dernier_essai": "2026-11-22T03:13:47Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/roma_napoli1961.html": {
+  "dernier_essai": "2026-11-22T03:13:51Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/rome_trente_trieste_1919.html": {
+  "dernier_essai": "2026-11-22T03:14:23Z",
+  "essais": 1,
+  "regle": 2
+ },
  "anc_monde/circuit_gharb_1938.html": {
   "dernier_essai": "2026-11-20T00:57:27Z",
   "essais": 2,
@@ -22507,6 +22762,31 @@
  "anc_suisse/neuchatel_geneve_1951.html": {
   "dernier_essai": "2026-11-22T00:38:18Z",
   "essais": 2,
+  "regle": 2
+ },
+ "anc_suisse/romanshorn_geneve_1894.html": {
+  "dernier_essai": "2026-11-22T03:14:00Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_suisse/romanshorn_geneve_1902.html": {
+  "dernier_essai": "2026-11-22T03:14:03Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_suisse/romanshorn_geneve_1904.html": {
+  "dernier_essai": "2026-11-22T03:14:07Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_suisse/romanshorn_geneve_1926.html": {
+  "dernier_essai": "2026-11-22T03:14:13Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_suisse/romanshorn_geneve_1927.html": {
+  "dernier_essai": "2026-11-22T03:14:16Z",
+  "essais": 1,
   "regle": 2
  },
  "anc_suisse/travers_lausanne_1940.html": {

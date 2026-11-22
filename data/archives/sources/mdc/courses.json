@@ -384299,93 +384299,2280 @@
    "url": "disparues/anc_ribera_jalon.html"
   },
   "disparues-roma_ascoli": {
+   "drapeau": "ita",
+   "editions": [
+    {
+     "annee": 1930,
+     "cle": "1930",
+     "date": "1930-04-13",
+     "date_txt": "13 avril",
+     "podium": [
+      {
+       "affiche": "CAIMMI Pio",
+       "nom_famille": "CAIMMI",
+       "prenom": "Pio",
+       "rang": 1
+      },
+      {
+       "affiche": "BERTONI Remo",
+       "nom_famille": "BERTONI",
+       "prenom": "Remo",
+       "rang": 2
+      },
+      {
+       "affiche": "GESTRI Eugenio",
+       "nom_famille": "GESTRI",
+       "prenom": "Eugenio",
+       "rang": 3
+      }
+     ]
+    }
+   ],
    "gras": true,
    "groupe": "ITA",
    "id": "disparues-roma_ascoli",
+   "lu_le": "2026-11-22T03:11:49Z",
    "nom": "Roma-Ascoli",
    "section": "disparues",
    "suffixe_index": "1930",
+   "titre_page": "Roma-Ascoli (Ita) - Ex.",
    "url": "disparues/anc_roma_ascoli.html"
   },
   "disparues-roma_napoli_20sept": {
+   "drapeau": "ita",
+   "editions": [
+    {
+     "annee": 1902,
+     "cle": "1902",
+     "date": "1902-09-20",
+     "date_txt": "20 septembre",
+     "podium": [
+      {
+       "affiche": "GRAMMEL Ferdinando",
+       "nom_famille": "GRAMMEL",
+       "prenom": "Ferdinando",
+       "rang": 1
+      },
+      {
+       "affiche": "JACOROSSI Alfredo",
+       "nom_famille": "JACOROSSI",
+       "prenom": "Alfredo",
+       "rang": 2
+      },
+      {
+       "affiche": "SPADONI Enzo",
+       "nom_famille": "SPADONI",
+       "prenom": "Enzo",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/roma_napoli1902.html"
+    },
+    {
+     "annee": 1903,
+     "cle": "1903",
+     "date": "1903-09-20",
+     "date_txt": "20 septembre",
+     "podium": [
+      {
+       "affiche": "SPADONI Enzo",
+       "nom_famille": "SPADONI",
+       "prenom": "Enzo",
+       "rang": 1
+      },
+      {
+       "affiche": "DE ROSSI Angelo",
+       "nom_famille": "DE ROSSI",
+       "prenom": "Angelo",
+       "rang": 2
+      },
+      {
+       "affiche": "MANCINELLI Oscar",
+       "nom_famille": "MANCINELLI",
+       "prenom": "Oscar",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/roma_napoli1903.html"
+    },
+    {
+     "annee": 1904,
+     "cle": "1904",
+     "date": "1904-09-20",
+     "date_txt": "20 septembre",
+     "podium": [
+      {
+       "affiche": "GALADINI Achille",
+       "nom_famille": "GALADINI",
+       "prenom": "Achille",
+       "rang": 1
+      },
+      {
+       "affiche": "ALBINI Pierino",
+       "nom_famille": "ALBINI",
+       "prenom": "Pierino",
+       "rang": 2
+      },
+      {
+       "affiche": "GRAMMEL Ferdinando",
+       "nom_famille": "GRAMMEL",
+       "prenom": "Ferdinando",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/roma_napoli1904.html"
+    },
+    {
+     "annee": 1905,
+     "cle": "1905",
+     "date": "1905-09-20",
+     "date_txt": "20 septembre",
+     "podium": [
+      {
+       "affiche": "PAVESI Eberardo",
+       "nom_famille": "PAVESI",
+       "prenom": "Eberardo",
+       "rang": 1
+      },
+      {
+       "affiche": "MODESTI Giulio",
+       "nom_famille": "MODESTI",
+       "prenom": "Giulio",
+       "rang": 2
+      },
+      {
+       "affiche": "JACOBINI Alfredo",
+       "nom_famille": "JACOBINI",
+       "prenom": "Alfredo",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/roma_napoli1905.html"
+    },
+    {
+     "annee": 1906,
+     "cle": "1906",
+     "date_txt": "19 et 20 septembre",
+     "podium": [
+      {
+       "affiche": "GALETTI Carlo",
+       "nom_famille": "GALETTI",
+       "prenom": "Carlo",
+       "rang": 1
+      },
+      {
+       "affiche": "BAIOCCO Amedeo",
+       "nom_famille": "BAIOCCO",
+       "prenom": "Amedeo",
+       "rang": 2
+      },
+      {
+       "affiche": "GRAMMEL Ferdinando",
+       "nom_famille": "GRAMMEL",
+       "prenom": "Ferdinando",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/roma_napoli1906.html"
+    },
+    {
+     "annee": 1907,
+     "cle": "1907",
+     "date_txt": "19 et 20 septembre",
+     "podium": [
+      {
+       "affiche": "GERBI Giovanni",
+       "nom_famille": "GERBI",
+       "prenom": "Giovanni",
+       "rang": 1
+      },
+      {
+       "affiche": "JACOBINI Alfredo",
+       "nom_famille": "JACOBINI",
+       "prenom": "Alfredo",
+       "rang": 2
+      },
+      {
+       "affiche": "ZOFFOLI Umberto",
+       "nom_famille": "ZOFFOLI",
+       "prenom": "Umberto",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/roma_napoli1907.html"
+    },
+    {
+     "annee": 1908,
+     "cle": "1908",
+     "date_txt": "19 et 20 septembre",
+     "podium": [
+      {
+       "affiche": "GERBI Giovanni",
+       "nom_famille": "GERBI",
+       "prenom": "Giovanni",
+       "rang": 1
+      },
+      {
+       "affiche": "CHIODI Luigi",
+       "nom_famille": "CHIODI",
+       "prenom": "Luigi",
+       "rang": 2
+      },
+      {
+       "affiche": "GANNA Luigi",
+       "nom_famille": "GANNA",
+       "prenom": "Luigi",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/roma_napoli1908.html"
+    },
+    {
+     "annee": 1909,
+     "cle": "1909",
+     "date_txt": "19 et 20 septembre",
+     "podium": [
+      {
+       "affiche": "GERBI Giovanni",
+       "nom_famille": "GERBI",
+       "prenom": "Giovanni",
+       "rang": 1
+      },
+      {
+       "affiche": "PAVESI Eberardo",
+       "nom_famille": "PAVESI",
+       "prenom": "Eberardo",
+       "rang": 2
+      },
+      {
+       "affiche": "AIMO Pietro",
+       "nom_famille": "AIMO",
+       "prenom": "Pietro",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/roma_napoli1909.html"
+    },
+    {
+     "annee": 1910,
+     "cle": "1910",
+     "date_txt": "19 et 20 septembre",
+     "podium": [
+      {
+       "affiche": "BRUSCHERA Mario",
+       "nom_famille": "BRUSCHERA",
+       "prenom": "Mario",
+       "rang": 1
+      },
+      {
+       "affiche": "GANNA Luigi",
+       "nom_famille": "GANNA",
+       "prenom": "Luigi",
+       "rang": 2
+      },
+      {
+       "affiche": "GALETTI Carlo",
+       "nom_famille": "GALETTI",
+       "prenom": "Carlo",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/roma_napoli1910.html"
+    },
+    {
+     "annee": 1911,
+     "cle": "1911",
+     "date_txt": "19 et 20 septembre",
+     "podium": [
+      {
+       "affiche": "BENI Dario",
+       "nom_famille": "BENI",
+       "prenom": "Dario",
+       "rang": 1
+      },
+      {
+       "affiche": "GALETTI Carlo",
+       "nom_famille": "GALETTI",
+       "prenom": "Carlo",
+       "rang": 2
+      },
+      {
+       "affiche": "AGOSTONI Ugo",
+       "nom_famille": "AGOSTONI",
+       "prenom": "Ugo",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/roma_napoli1911.html"
+    },
+    {
+     "annee": 1912,
+     "cle": "1912",
+     "date": "1912-09-20",
+     "date_txt": "20 septembre",
+     "podium": [
+      {
+       "affiche": "BENI Dario",
+       "nom_famille": "BENI",
+       "prenom": "Dario",
+       "rang": 1
+      },
+      {
+       "affiche": "SANTHIA Giuseppe",
+       "nom_famille": "SANTHIA",
+       "prenom": "Giuseppe",
+       "rang": 2
+      },
+      {
+       "affiche": "BRIZZI Gino",
+       "nom_famille": "BRIZZI",
+       "prenom": "Gino",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/roma_napoli1912.html"
+    },
+    {
+     "annee": 1913,
+     "cle": "1913",
+     "date_txt": "18 et 20 septembre",
+     "notes": [
+      "GALETTI Carlo"
+     ],
+     "podium": [
+      {
+       "affiche": "GIRARDENGO Costante",
+       "nom_famille": "GIRARDENGO",
+       "prenom": "Costante",
+       "rang": 1
+      },
+      {
+       "affiche": "LOMBARDI Giosue",
+       "nom_famille": "LOMBARDI",
+       "prenom": "Giosue",
+       "rang": 2
+      },
+      {
+       "affiche": "GANNA Luigi &",
+       "nom_famille": "GANNA",
+       "prenom": "Luigi &",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/roma_napoli1913.html"
+    },
+    {
+     "annee": 1914,
+     "cle": "1914",
+     "date": "1914-09-20",
+     "date_txt": "20 septembre",
+     "podium": [
+      {
+       "affiche": "BENI Dario",
+       "nom_famille": "BENI",
+       "prenom": "Dario",
+       "rang": 1
+      },
+      {
+       "affiche": "AGOSTONI Ugo",
+       "nom_famille": "AGOSTONI",
+       "prenom": "Ugo",
+       "rang": 2
+      },
+      {
+       "affiche": "PIFFERI Giuseppe",
+       "nom_famille": "PIFFERI",
+       "prenom": "Giuseppe",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/roma_napoli1914.html"
+    },
+    {
+     "annee": 1919,
+     "cle": "1919",
+     "date_txt": "19 et 20 septembre",
+     "podium": [
+      {
+       "affiche": "SIVOCCI Alfredo",
+       "nom_famille": "SIVOCCI",
+       "prenom": "Alfredo",
+       "rang": 1
+      },
+      {
+       "affiche": "AZZINI Giuseppe",
+       "nom_famille": "AZZINI",
+       "prenom": "Giuseppe",
+       "rang": 2
+      },
+      {
+       "affiche": "LOMBARDI Giosue",
+       "nom_famille": "LOMBARDI",
+       "prenom": "Giosue",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/roma_napoli1919.html"
+    },
+    {
+     "annee": 1920,
+     "cle": "1920",
+     "date": "1920-09-20",
+     "date_txt": "20 septembre",
+     "podium": [
+      {
+       "affiche": "MARCHI Angelo",
+       "nom_famille": "MARCHI",
+       "prenom": "Angelo",
+       "rang": 1
+      },
+      {
+       "affiche": "BORDIN Lauro",
+       "nom_famille": "BORDIN",
+       "prenom": "Lauro",
+       "rang": 2
+      },
+      {
+       "affiche": "DI BIASE Nicola \"Nicolino\"",
+       "nom_famille": "DI BIASE",
+       "prenom": "Nicola \"Nicolino\"",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/roma_napoli1920.html"
+    },
+    {
+     "annee": 1921,
+     "cle": "1921",
+     "date": "1921-09-20",
+     "date_txt": "20 septembre",
+     "podium": [
+      {
+       "affiche": "GIRARDENGO Costante",
+       "nom_famille": "GIRARDENGO",
+       "prenom": "Costante",
+       "rang": 1
+      },
+      {
+       "affiche": "BELLONI Gaetano",
+       "nom_famille": "BELLONI",
+       "prenom": "Gaetano",
+       "rang": 2
+      },
+      {
+       "affiche": "GAY Federico",
+       "nom_famille": "GAY",
+       "prenom": "Federico",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/roma_napoli1921.html"
+    },
+    {
+     "annee": 1922,
+     "cle": "1922",
+     "date": "1922-09-20",
+     "date_txt": "20 septembre",
+     "podium": [
+      {
+       "affiche": "GIRARDENGO Costante",
+       "nom_famille": "GIRARDENGO",
+       "prenom": "Costante",
+       "rang": 1
+      },
+      {
+       "affiche": "GAY Federico",
+       "nom_famille": "GAY",
+       "prenom": "Federico",
+       "rang": 2
+      },
+      {
+       "affiche": "PETIVA Emilio",
+       "nom_famille": "PETIVA",
+       "prenom": "Emilio",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/roma_napoli1922.html"
+    },
+    {
+     "annee": 1923,
+     "cle": "1923",
+     "date": "1923-09-20",
+     "date_txt": "20 septembre",
+     "podium": [
+      {
+       "affiche": "GIRARDENGO Costante",
+       "nom_famille": "GIRARDENGO",
+       "prenom": "Costante",
+       "rang": 1
+      },
+      {
+       "affiche": "AZZINI Giuseppe",
+       "nom_famille": "AZZINI",
+       "prenom": "Giuseppe",
+       "rang": 2
+      },
+      {
+       "affiche": "GAY Federico",
+       "nom_famille": "GAY",
+       "prenom": "Federico",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/roma_napoli1923.html"
+    },
+    {
+     "annee": 1924,
+     "cle": "1924",
+     "date": "1924-09-20",
+     "date_txt": "20 septembre",
+     "podium": [
+      {
+       "affiche": "LAZZARETTI Romolo",
+       "nom_famille": "LAZZARETTI",
+       "prenom": "Romolo",
+       "rang": 1
+      },
+      {
+       "affiche": "GORDINI Michele",
+       "nom_famille": "GORDINI",
+       "prenom": "Michele",
+       "rang": 2
+      },
+      {
+       "affiche": "GIRARDENGO Costante",
+       "nom_famille": "GIRARDENGO",
+       "prenom": "Costante",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/roma_napoli1924.html"
+    },
+    {
+     "annee": 1925,
+     "cle": "1925",
+     "date": "1925-09-20",
+     "date_txt": "20 septembre",
+     "podium": [
+      {
+       "affiche": "GIRARDENGO Costante",
+       "nom_famille": "GIRARDENGO",
+       "prenom": "Costante",
+       "rang": 1
+      },
+      {
+       "affiche": "BELLONI Gaetano",
+       "nom_famille": "BELLONI",
+       "prenom": "Gaetano",
+       "rang": 2
+      },
+      {
+       "affiche": "ZANAGA Adriano",
+       "nom_famille": "ZANAGA",
+       "prenom": "Adriano",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/roma_napoli1925.html"
+    },
+    {
+     "annee": 1926,
+     "cle": "1926",
+     "date": "1926-11-28",
+     "date_txt": "28 novembre",
+     "podium": [
+      {
+       "affiche": "BINDA Alfredo",
+       "nom_famille": "BINDA",
+       "prenom": "Alfredo",
+       "rang": 1
+      },
+      {
+       "affiche": "FRASCARELLI Leonida",
+       "nom_famille": "FRASCARELLI",
+       "prenom": "Leonida",
+       "rang": 2
+      },
+      {
+       "affiche": "PANCERA Giuseppe",
+       "nom_famille": "PANCERA",
+       "prenom": "Giuseppe",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/roma_napoli1926.html"
+    },
+    {
+     "annee": 1927,
+     "cle": "1927",
+     "date": "1927-09-20",
+     "date_txt": "20 septembre",
+     "podium": [
+      {
+       "affiche": "PANCERA Giuseppe",
+       "nom_famille": "PANCERA",
+       "prenom": "Giuseppe",
+       "rang": 1
+      },
+      {
+       "affiche": "GORDINI Michele",
+       "nom_famille": "GORDINI",
+       "prenom": "Michele",
+       "rang": 2
+      },
+      {
+       "affiche": "MARTINETTO Secondo",
+       "nom_famille": "MARTINETTO",
+       "prenom": "Secondo",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/roma_napoli1927.html"
+    },
+    {
+     "annee": 1928,
+     "cle": "1928",
+     "date": "1928-09-20",
+     "date_txt": "20 septembre",
+     "podium": [
+      {
+       "affiche": "NEGRINI Antonio",
+       "nom_famille": "NEGRINI",
+       "prenom": "Antonio",
+       "rang": 1
+      },
+      {
+       "affiche": "GIACOBBE Luigi",
+       "nom_famille": "GIACOBBE",
+       "prenom": "Luigi",
+       "rang": 2
+      },
+      {
+       "affiche": "FOSSATI Pietro \"Pierino\"",
+       "nom_famille": "FOSSATI",
+       "prenom": "Pietro \"Pierino\"",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/roma_napoli1928.html"
+    },
+    {
+     "annee": 1929,
+     "cle": "1929",
+     "date": "1929-09-20",
+     "date_txt": "20 septembre",
+     "podium": [
+      {
+       "affiche": "BELLONI Gaetano",
+       "nom_famille": "BELLONI",
+       "prenom": "Gaetano",
+       "rang": 1
+      },
+      {
+       "affiche": "PIEMONTESI Domenico",
+       "nom_famille": "PIEMONTESI",
+       "prenom": "Domenico",
+       "rang": 2
+      },
+      {
+       "affiche": "BESTETTI Pietro \"Pierino\"",
+       "nom_famille": "BESTETTI",
+       "prenom": "Pietro \"Pierino\"",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/roma_napoli1929.html"
+    },
+    {
+     "annee": 1930,
+     "cle": "1930",
+     "podium": [
+      {
+       "affiche": "MARA Michele",
+       "nom_famille": "MARA",
+       "prenom": "Michele",
+       "rang": 1
+      },
+      {
+       "affiche": "DI PACO Raffaele",
+       "nom_famille": "DI PACO",
+       "prenom": "Raffaele",
+       "rang": 2
+      },
+      {
+       "affiche": "PIEMONTESI Domenico",
+       "nom_famille": "PIEMONTESI",
+       "prenom": "Domenico",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1934,
+     "cle": "1934",
+     "date": "1934-09-09",
+     "date_txt": "9 septembre",
+     "podium": [
+      {
+       "affiche": "GUERRA Learco",
+       "nom_famille": "GUERRA",
+       "prenom": "Learco",
+       "rang": 1
+      },
+      {
+       "affiche": "GUARDUCCI Umberto",
+       "nom_famille": "GUARDUCCI",
+       "prenom": "Umberto",
+       "rang": 2
+      },
+      {
+       "affiche": "PIUBELLINI Isidoro",
+       "nom_famille": "PIUBELLINI",
+       "prenom": "Isidoro",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/roma_napoli1934.html"
+    },
+    {
+     "annee": 1950,
+     "cle": "1950",
+     "date_debut": "1950-04-20",
+     "date_fin": "1950-04-22",
+     "date_txt": "du 20 au 22 avril",
+     "podium": [
+      {
+       "affiche": "ROBIC Jean",
+       "nat": "FRA",
+       "nom_famille": "ROBIC",
+       "pays_site": "Fra",
+       "prenom": "Jean",
+       "rang": 1
+      },
+      {
+       "affiche": "COPPI Fausto",
+       "nom_famille": "COPPI",
+       "prenom": "Fausto",
+       "rang": 2
+      },
+      {
+       "affiche": "BOBET Louison",
+       "nat": "FRA",
+       "nom_famille": "BOBET",
+       "pays_site": "Fra",
+       "prenom": "Louison",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/roma_napoli1950.html"
+    },
+    {
+     "annee": 1951,
+     "cle": "1951",
+     "date_debut": "1951-04-13",
+     "date_fin": "1951-04-15",
+     "date_txt": "du 13 au 15 avril",
+     "podium": [
+      {
+       "affiche": "KUBLER Ferdi",
+       "nat": "SUI",
+       "nom_famille": "KUBLER",
+       "pays_site": "Sui",
+       "prenom": "Ferdi",
+       "rang": 1
+      },
+      {
+       "affiche": "DE SANTI Guido",
+       "nom_famille": "DE SANTI",
+       "prenom": "Guido",
+       "rang": 2
+      },
+      {
+       "affiche": "LOGLI Nedo",
+       "nom_famille": "LOGLI",
+       "prenom": "Nedo",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/roma_napoli1951.html"
+    },
+    {
+     "annee": 1952,
+     "cle": "1952",
+     "date_debut": "1952-04-17",
+     "date_fin": "1952-04-20",
+     "date_txt": "du 17 au 20 avril",
+     "podium": [
+      {
+       "affiche": "MAGNI Fiorenzo",
+       "nom_famille": "MAGNI",
+       "prenom": "Fiorenzo",
+       "rang": 1
+      },
+      {
+       "affiche": "OCKERS Stan",
+       "nat": "BEL",
+       "nom_famille": "OCKERS",
+       "pays_site": "Bel",
+       "prenom": "Stan",
+       "rang": 2
+      },
+      {
+       "affiche": "ROBIC Jean",
+       "nat": "FRA",
+       "nom_famille": "ROBIC",
+       "pays_site": "Fra",
+       "prenom": "Jean",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/roma_napoli1952.html"
+    },
+    {
+     "annee": 1953,
+     "cle": "1953",
+     "date_debut": "1953-04-22",
+     "date_fin": "1953-04-26",
+     "date_txt": "du 22 au 26 avril",
+     "podium": [
+      {
+       "affiche": "MAGNI Fiorenzo",
+       "nom_famille": "MAGNI",
+       "prenom": "Fiorenzo",
+       "rang": 1
+      },
+      {
+       "affiche": "OCKERS Stan",
+       "nat": "BEL",
+       "nom_famille": "OCKERS",
+       "pays_site": "Bel",
+       "prenom": "Stan",
+       "rang": 2
+      },
+      {
+       "affiche": "MONTI Bruno",
+       "nom_famille": "MONTI",
+       "prenom": "Bruno",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/roma_napoli1953.html"
+    },
+    {
+     "annee": 1954,
+     "cle": "1954",
+     "date_debut": "1954-04-29",
+     "date_fin": "1954-05-02",
+     "date_txt": "du 29 avril au 2 mai",
+     "podium": [
+      {
+       "affiche": "MONTI Bruno",
+       "nom_famille": "MONTI",
+       "prenom": "Bruno",
+       "rang": 1
+      },
+      {
+       "affiche": "COPPI Fausto",
+       "nom_famille": "COPPI",
+       "prenom": "Fausto",
+       "rang": 2
+      },
+      {
+       "affiche": "VAN STEENBERGEN Rik",
+       "nat": "BEL",
+       "nom_famille": "VAN STEENBERGEN",
+       "pays_site": "Bel",
+       "prenom": "Rik",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/roma_napoli1954.html"
+    },
+    {
+     "annee": 1955,
+     "cle": "1955",
+     "date_debut": "1955-04-27",
+     "date_fin": "1955-05-01",
+     "date_txt": "du 27 avril au 1er mai",
+     "podium": [
+      {
+       "affiche": "MONTI Bruno",
+       "nom_famille": "MONTI",
+       "prenom": "Bruno",
+       "rang": 1
+      },
+      {
+       "affiche": "DEFILIPPIS Nino",
+       "nom_famille": "DEFILIPPIS",
+       "prenom": "Nino",
+       "rang": 2
+      },
+      {
+       "affiche": "COPPI Fausto",
+       "nom_famille": "COPPI",
+       "prenom": "Fausto",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/roma_napoli1955.html"
+    },
+    {
+     "annee": 1956,
+     "cle": "1956",
+     "date_debut": "1956-04-25",
+     "date_fin": "1956-04-29",
+     "date_txt": "du 25 au 29 avril",
+     "podium": [
+      {
+       "affiche": "OCKERS Stan",
+       "nat": "BEL",
+       "nom_famille": "OCKERS",
+       "pays_site": "Bel",
+       "prenom": "Stan",
+       "rang": 1
+      },
+      {
+       "affiche": "MONTI Bruno",
+       "nom_famille": "MONTI",
+       "prenom": "Bruno",
+       "rang": 2
+      },
+      {
+       "affiche": "GAUL Charly",
+       "nat": "LUX",
+       "nom_famille": "GAUL",
+       "pays_site": "Lux",
+       "prenom": "Charly",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/roma_napoli1956.html"
+    },
+    {
+     "annee": 1957,
+     "cle": "1957",
+     "date_debut": "1957-04-24",
+     "date_fin": "1957-05-01",
+     "date_txt": "du 24 avril au 1er mai",
+     "podium": [
+      {
+       "affiche": "WAGTMANS Wout",
+       "nat": "NED",
+       "nom_famille": "WAGTMANS",
+       "pays_site": "Hol",
+       "prenom": "Wout",
+       "rang": 1
+      },
+      {
+       "affiche": "POBLET Miguel",
+       "nat": "ESP",
+       "nom_famille": "POBLET",
+       "pays_site": "Esp",
+       "prenom": "Miguel",
+       "rang": 2
+      },
+      {
+       "affiche": "MOSER Aldo",
+       "nom_famille": "MOSER",
+       "prenom": "Aldo",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/roma_napoli1957.html"
+    },
+    {
+     "annee": 1958,
+     "cle": "1958",
+     "date_debut": "1958-04-30",
+     "date_fin": "1958-05-06",
+     "date_txt": "du 30 avril au 6 mai",
+     "podium": [
+      {
+       "affiche": "HOEVENAERS Joseph",
+       "nat": "BEL",
+       "nom_famille": "HOEVENAERS",
+       "pays_site": "Bel",
+       "prenom": "Joseph",
+       "rang": 1
+      },
+      {
+       "affiche": "POBLET Miguel",
+       "nat": "ESP",
+       "nom_famille": "POBLET",
+       "pays_site": "Esp",
+       "prenom": "Miguel",
+       "rang": 2
+      },
+      {
+       "affiche": "FALLARINI Giuseppe",
+       "nom_famille": "FALLARINI",
+       "prenom": "Giuseppe",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/roma_napoli1958.html"
+    },
+    {
+     "annee": 1959,
+     "cle": "1959",
+     "date_debut": "1959-04-29",
+     "date_fin": "1959-05-07",
+     "date_txt": "du 29 avril au 7 mai",
+     "podium": [
+      {
+       "affiche": "BOBET Louison",
+       "nat": "FRA",
+       "nom_famille": "BOBET",
+       "pays_site": "Fra",
+       "prenom": "Louison",
+       "rang": 1
+      },
+      {
+       "affiche": "NENCINI Gastone",
+       "nom_famille": "NENCINI",
+       "prenom": "Gastone",
+       "rang": 2
+      },
+      {
+       "affiche": "PELLEGRINI Armando",
+       "nom_famille": "PELLEGRINI",
+       "prenom": "Armando",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/roma_napoli1959.html"
+    },
+    {
+     "annee": 1960,
+     "cle": "1960",
+     "date_debut": "1960-04-20",
+     "date_fin": "1960-04-27",
+     "date_txt": "du 20 au 27 avril",
+     "podium": [
+      {
+       "affiche": "BOBET Louison",
+       "nat": "FRA",
+       "nom_famille": "BOBET",
+       "pays_site": "Fra",
+       "prenom": "Louison",
+       "rang": 1
+      },
+      {
+       "affiche": "WAGTMANS Wout",
+       "nat": "NED",
+       "nom_famille": "WAGTMANS",
+       "pays_site": "Hol",
+       "prenom": "Wout",
+       "rang": 2
+      },
+      {
+       "affiche": "BRUGNAMI Carlo",
+       "nom_famille": "BRUGNAMI",
+       "prenom": "Carlo",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/roma_napoli1960.html"
+    },
+    {
+     "annee": 1961,
+     "cle": "1961",
+     "date_debut": "1961-04-25",
+     "date_fin": "1961-05-01",
+     "date_txt": "du 25 avril au 1er mai",
+     "podium": [
+      {
+       "affiche": "GRACZYK Jean",
+       "nat": "FRA",
+       "nom_famille": "GRACZYK",
+       "pays_site": "Fra",
+       "prenom": "Jean",
+       "rang": 1
+      },
+      {
+       "affiche": "BATTISTINI Graziano",
+       "nom_famille": "BATTISTINI",
+       "prenom": "Graziano",
+       "rang": 2
+      },
+      {
+       "affiche": "COUVREUR Hilaire",
+       "nat": "BEL",
+       "nom_famille": "COUVREUR",
+       "pays_site": "Bel",
+       "prenom": "Hilaire",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/roma_napoli1961.html"
+    }
+   ],
    "gras": true,
    "groupe": "ITA",
    "id": "disparues-roma_napoli_20sept",
+   "lu_le": "2026-11-22T03:11:52Z",
    "nom": "Roma-Napoli-Roma",
    "section": "disparues",
    "suffixe_index": "1902-1961",
+   "titre_page": "Roma-Napoli-Roma (Ita) - Ex.",
    "url": "disparues/anc_roma_napoli_20sept.html"
   },
   "disparues-romagna_toscana": {
+   "drapeau": "ita",
+   "editions": [
+    {
+     "annee": 1910,
+     "cle": "1910",
+     "podium": [
+      {
+       "affiche": "MICHELETTO Giovanni",
+       "nom_famille": "MICHELETTO",
+       "prenom": "Giovanni",
+       "rang": 1
+      },
+      {
+       "affiche": "GALETTI Carlo",
+       "nom_famille": "GALETTI",
+       "prenom": "Carlo",
+       "rang": 2
+      },
+      {
+       "affiche": "LIGNON Henri",
+       "nat": "FRA",
+       "nom_famille": "LIGNON",
+       "pays_site": "Fra",
+       "prenom": "Henri",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1911,
+     "cle": "1911",
+     "date": "1911-08-20",
+     "date_txt": "20 août",
+     "podium": [
+      {
+       "affiche": "BIANCO Eligio",
+       "nom_famille": "BIANCO",
+       "prenom": "Eligio",
+       "rang": 1
+      },
+      {
+       "affiche": "AIMO Pietro",
+       "nom_famille": "AIMO",
+       "prenom": "Pietro",
+       "rang": 2
+      },
+      {
+       "affiche": "BENI Dario",
+       "nom_famille": "BENI",
+       "prenom": "Dario",
+       "rang": 3
+      }
+     ]
+    }
+   ],
    "gras": false,
    "groupe": "ITA",
    "id": "disparues-romagna_toscana",
+   "lu_le": "2026-11-22T03:13:54Z",
    "nom": "Giro di Romagna-Toscana",
    "section": "disparues",
    "suffixe_index": "1910-1911",
+   "titre_page": "Giro di Romagna-Toscana (Ita) - Ex.",
    "url": "disparues/anc_romagna_toscana.html"
   },
   "disparues-romanshorn_geneve": {
+   "drapeau": "sui",
+   "editions": [
+    {
+     "annee": 1894,
+     "cle": "1894",
+     "date": "1894-08-18",
+     "date_txt": "18 août",
+     "podium": [
+      {
+       "affiche": "MEYER Emile",
+       "nom_famille": "MEYER",
+       "prenom": "Emile",
+       "rang": 1
+      },
+      {
+       "affiche": "MAIROT Léon",
+       "nom_famille": "MAIROT",
+       "prenom": "Léon",
+       "rang": 2
+      },
+      {
+       "affiche": "BEGUIN Gaston",
+       "nom_famille": "BEGUIN",
+       "prenom": "Gaston",
+       "rang": 3
+      }
+     ],
+     "url": "anc_suisse/romanshorn_geneve_1894.html"
+    },
+    {
+     "annee": 1902,
+     "cle": "1902",
+     "date": "1902-07-20",
+     "date_txt": "20 juillet",
+     "podium": [
+      {
+       "affiche": "LEQUATRE Marcel",
+       "nom_famille": "LEQUATRE",
+       "prenom": "Marcel",
+       "rang": 1
+      },
+      {
+       "affiche": "KÄSER Karl",
+       "nat": "GER",
+       "nom_famille": "KÄSER",
+       "pays_site": "All",
+       "prenom": "Karl",
+       "rang": 2
+      },
+      {
+       "affiche": "CHAMBETTAZ Alfred",
+       "nom_famille": "CHAMBETTAZ",
+       "prenom": "Alfred",
+       "rang": 3
+      }
+     ],
+     "url": "anc_suisse/romanshorn_geneve_1902.html"
+    },
+    {
+     "annee": 1904,
+     "cle": "1904",
+     "date": "1904-08-14",
+     "date_txt": "14 août",
+     "podium": [
+      {
+       "affiche": "LEQUATRE Marcel",
+       "nom_famille": "LEQUATRE",
+       "prenom": "Marcel",
+       "rang": 1
+      },
+      {
+       "affiche": "DUBACH Ernest",
+       "nom_famille": "DUBACH",
+       "prenom": "Ernest",
+       "rang": 2
+      },
+      {
+       "affiche": "RÖTHLISBERGER Ernst",
+       "nom_famille": "RÖTHLISBERGER",
+       "prenom": "Ernst",
+       "rang": 3
+      }
+     ],
+     "url": "anc_suisse/romanshorn_geneve_1904.html"
+    },
+    {
+     "annee": 1908,
+     "cle": "1908",
+     "date": "1908-09-13",
+     "date_txt": "13 septembre",
+     "podium": [
+      {
+       "affiche": "LEQUATRE Marcel",
+       "nom_famille": "LEQUATRE",
+       "prenom": "Marcel",
+       "rang": 1
+      },
+      {
+       "affiche": "ENRICO",
+       "nom_famille": "ENRICO",
+       "rang": 2
+      },
+      {
+       "affiche": "MAFFEO Ricardo",
+       "nat": "ITA",
+       "nom_famille": "MAFFEO",
+       "pays_site": "Ita",
+       "prenom": "Ricardo",
+       "rang": 3
+      }
+     ],
+     "url": "anc_suisse/romanshorn_geneve_1908.html"
+    },
+    {
+     "annee": 1926,
+     "cle": "1926",
+     "date": "1926-09-05",
+     "date_txt": "5 septembre",
+     "podium": [
+      {
+       "affiche": "NOTTER Kastor",
+       "nom_famille": "NOTTER",
+       "prenom": "Kastor",
+       "rang": 1
+      },
+      {
+       "affiche": "REYMOND Henri",
+       "nom_famille": "REYMOND",
+       "prenom": "Henri",
+       "rang": 2
+      },
+      {
+       "affiche": "SUTER Heiri",
+       "nom_famille": "SUTER",
+       "prenom": "Heiri",
+       "rang": 3
+      }
+     ],
+     "url": "anc_suisse/romanshorn_geneve_1926.html"
+    },
+    {
+     "annee": 1927,
+     "cle": "1927",
+     "date": "1927-07-31",
+     "date_txt": "31 juillet",
+     "podium": [
+      {
+       "affiche": "SACCOMANI Alfred",
+       "nom_famille": "SACCOMANI",
+       "prenom": "Alfred",
+       "rang": 1
+      },
+      {
+       "affiche": "SUTER Heiri",
+       "nom_famille": "SUTER",
+       "prenom": "Heiri",
+       "rang": 2
+      },
+      {
+       "affiche": "KASPAR Hans",
+       "nom_famille": "KASPAR",
+       "prenom": "Hans",
+       "rang": 3
+      }
+     ],
+     "url": "anc_suisse/romanshorn_geneve_1927.html"
+    }
+   ],
    "gras": true,
    "groupe": "SUI",
    "id": "disparues-romanshorn_geneve",
+   "lu_le": "2026-11-22T03:13:57Z",
    "nom": "Romanshorn-Genève",
    "section": "disparues",
    "suffixe_index": "1894-1927",
+   "titre_page": "Romanshorn-Genève (Sui) - Ex.",
    "url": "disparues/anc_romanshorn_geneve.html"
   },
   "disparues-rome_trente_trieste": {
+   "drapeau": "ita",
+   "editions": [
+    {
+     "annee": 1919,
+     "cle": "1919",
+     "date_debut": "1919-04-21",
+     "date_fin": "1919-04-25",
+     "date_txt": "du 21 au 25 avril",
+     "podium": [
+      {
+       "affiche": "GIRARDENGO Costante",
+       "nom_famille": "GIRARDENGO",
+       "prenom": "Costante",
+       "rang": 1
+      },
+      {
+       "affiche": "BELLONI Gaetano",
+       "nom_famille": "BELLONI",
+       "prenom": "Gaetano",
+       "rang": 2
+      },
+      {
+       "affiche": "BUYSSE Marcel",
+       "nat": "BEL",
+       "nom_famille": "BUYSSE",
+       "pays_site": "Bel",
+       "prenom": "Marcel",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/rome_trente_trieste_1919.html"
+    }
+   ],
    "gras": true,
    "groupe": "ITA",
    "id": "disparues-rome_trente_trieste",
+   "lu_le": "2026-11-22T03:14:19Z",
    "nom": "Rome-Trente-Trieste",
    "section": "disparues",
    "suffixe_index": "1919",
+   "titre_page": "Roma-Trento-Trieste (Ita) - Ex.",
    "url": "disparues/anc_rome_trente_trieste.html"
   },
   "disparues-ronde_champions": {
+   "drapeau": "fra",
+   "editions": [
+    {
+     "annee": 1946,
+     "cle": "1946",
+     "date": "1946-09-28",
+     "date_txt": "28 septembre",
+     "podium": [
+      {
+       "affiche": "IDÉE Emile",
+       "nom_famille": "IDÉE",
+       "prenom": "Emile",
+       "rang": 1
+      },
+      {
+       "affiche": "COPPI Fausto",
+       "nat": "ITA",
+       "nom_famille": "COPPI",
+       "pays_site": "Ita",
+       "prenom": "Fausto",
+       "rang": 2
+      },
+      {
+       "affiche": "CAFFI Urbain",
+       "nom_famille": "CAFFI",
+       "prenom": "Urbain",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/ronde_champions_1946.html"
+    },
+    {
+     "annee": 1947,
+     "cle": "1947",
+     "date": "1947-10-04",
+     "date_txt": "4 octobre",
+     "podium": [
+      {
+       "affiche": "CARRARA Emile",
+       "nom_famille": "CARRARA",
+       "prenom": "Emile",
+       "rang": 1
+      },
+      {
+       "affiche": "AUBRY Henri",
+       "nom_famille": "AUBRY",
+       "prenom": "Henri",
+       "rang": 2
+      },
+      {
+       "affiche": "LE STRAT Ange",
+       "nom_famille": "LE STRAT",
+       "prenom": "Ange",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/ronde_champions_1947.html"
+    }
+   ],
    "gras": true,
    "groupe": "FRA",
    "id": "disparues-ronde_champions",
+   "lu_le": "2026-11-22T03:14:26Z",
    "nom": "Ronde des Champions",
    "section": "disparues",
    "suffixe_index": "1946-1947",
+   "titre_page": "Ronde des Champions (Fra) - Ex.",
    "url": "disparues/anc_ronde_champions.html"
   },
   "disparues-ronde_france1946": {
+   "editions": [],
    "gras": true,
    "groupe": "FRA",
    "id": "disparues-ronde_france1946",
+   "lu_le": "2026-11-22T03:14:35Z",
    "nom": "Ronde de France",
    "section": "disparues",
    "suffixe_index": "1946",
+   "titre_page": "Ronde de France 1946",
    "url": "disparues/ronde_france1946.html"
   },
   "disparues-ronde_ijsselmonde": {
+   "drapeau": "hol",
+   "editions": [
+    {
+     "annee": 1975,
+     "cle": "1975",
+     "date": "1975-06-07",
+     "date_txt": "7 juin",
+     "podium": [
+      {
+       "affiche": "VAN DEN HOEK Aad",
+       "nom_famille": "VAN DEN HOEK",
+       "prenom": "Aad",
+       "rang": 1
+      },
+      {
+       "affiche": "SMIT Théo",
+       "nom_famille": "SMIT",
+       "prenom": "Théo",
+       "rang": 2
+      },
+      {
+       "affiche": "OTTENBROS Harm",
+       "nom_famille": "OTTENBROS",
+       "prenom": "Harm",
+       "rang": 3
+      }
+     ],
+     "url": "anc_europe/ronde_ijsselmonde_1975.html"
+    },
+    {
+     "annee": 1976,
+     "cle": "1976",
+     "date": "1976-05-22",
+     "date_txt": "22 mai",
+     "podium": [
+      {
+       "affiche": "ALING Jan",
+       "nom_famille": "ALING",
+       "prenom": "Jan",
+       "rang": 1
+      },
+      {
+       "affiche": "PRIEM Cees",
+       "nom_famille": "PRIEM",
+       "prenom": "Cees",
+       "rang": 2
+      },
+      {
+       "affiche": "PRONK Hubert",
+       "nom_famille": "PRONK",
+       "prenom": "Hubert",
+       "rang": 3
+      }
+     ],
+     "url": "anc_europe/ronde_ijsselmonde_1976.html"
+    }
+   ],
    "gras": true,
    "groupe": "HOL",
    "id": "disparues-ronde_ijsselmonde",
+   "lu_le": "2026-11-22T03:14:39Z",
    "nom": "Ronde van IJsselmonde",
    "section": "disparues",
    "suffixe_index": "1975-1976",
+   "titre_page": "Ronde van IJsselmonde (Hol) - Ex.",
    "url": "disparues/anc_ronde_ijsselmonde.html"
   },
   "disparues-ronde_montauroux": {
+   "drapeau": "fra",
+   "editions": [
+    {
+     "annee": 1968,
+     "cle": "1968",
+     "date": "1968-02-04",
+     "date_txt": "4 février",
+     "podium": [
+      {
+       "affiche": "JOURDEN Jean",
+       "nom_famille": "JOURDEN",
+       "prenom": "Jean",
+       "rang": 1
+      },
+      {
+       "affiche": "IZIER Maurice",
+       "nom_famille": "IZIER",
+       "prenom": "Maurice",
+       "rang": 2
+      },
+      {
+       "affiche": "ROBINI Christian",
+       "nom_famille": "ROBINI",
+       "prenom": "Christian",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1969,
+     "cle": "1969",
+     "date": "1969-02-09",
+     "date_txt": "9 février",
+     "podium": [
+      {
+       "affiche": "GRELIN René",
+       "nom_famille": "GRELIN",
+       "prenom": "René",
+       "rang": 1
+      },
+      {
+       "affiche": "BELLONE Gilbert",
+       "nom_famille": "BELLONE",
+       "prenom": "Gilbert",
+       "rang": 2
+      },
+      {
+       "affiche": "CAMPANER Francis",
+       "nom_famille": "CAMPANER",
+       "prenom": "Francis",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1970,
+     "cle": "1970",
+     "date": "1970-02-08",
+     "date_txt": "8 février",
+     "podium": [
+      {
+       "affiche": "GUTTY Paul",
+       "nom_famille": "GUTTY",
+       "prenom": "Paul",
+       "rang": 1
+      },
+      {
+       "affiche": "THEILLIERE Jean-Claude",
+       "nom_famille": "THEILLIERE",
+       "prenom": "Jean-Claude",
+       "rang": 2
+      },
+      {
+       "affiche": "DUMONT Jean",
+       "nom_famille": "DUMONT",
+       "prenom": "Jean",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1971,
+     "cle": "1971",
+     "date": "1971-02-07",
+     "date_txt": "7 février",
+     "podium": [
+      {
+       "affiche": "GUILLAUME Serge",
+       "nom_famille": "GUILLAUME",
+       "prenom": "Serge",
+       "rang": 1
+      },
+      {
+       "affiche": "MONEYRON Gérard",
+       "nom_famille": "MONEYRON",
+       "prenom": "Gérard",
+       "rang": 2
+      },
+      {
+       "affiche": "SANTY Alain",
+       "nom_famille": "SANTY",
+       "prenom": "Alain",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1972,
+     "cle": "1972",
+     "date": "1972-02-06",
+     "date_txt": "6 février",
+     "podium": [
+      {
+       "affiche": "BLAIN Christian",
+       "nom_famille": "BLAIN",
+       "prenom": "Christian",
+       "rang": 1
+      },
+      {
+       "affiche": "MARTINEZ Mariano",
+       "nom_famille": "MARTINEZ",
+       "prenom": "Mariano",
+       "rang": 2
+      },
+      {
+       "affiche": "MILLARD Joël",
+       "nom_famille": "MILLARD",
+       "prenom": "Joël",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1973,
+     "cle": "1973",
+     "date": "1973-02-10",
+     "date_txt": "10 février *",
+     "podium": [
+      {
+       "affiche": "ROUXEL Charly",
+       "nom_famille": "ROUXEL",
+       "prenom": "Charly",
+       "rang": 1
+      },
+      {
+       "affiche": "MARTIN Raymond",
+       "nom_famille": "MARTIN",
+       "prenom": "Raymond",
+       "rang": 2
+      },
+      {
+       "affiche": "BELLONE Gilbert",
+       "nom_famille": "BELLONE",
+       "prenom": "Gilbert",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1974,
+     "cle": "1974",
+     "date": "1974-02-23",
+     "date_txt": "23 février",
+     "podium": [
+      {
+       "affiche": "DOYEN André",
+       "nat": "BEL",
+       "nom_famille": "DOYEN",
+       "pays_site": "Bel",
+       "prenom": "André",
+       "rang": 1
+      },
+      {
+       "affiche": "BAL Cees",
+       "nat": "NED",
+       "nom_famille": "BAL",
+       "pays_site": "Hol",
+       "prenom": "Cees",
+       "rang": 2
+      },
+      {
+       "affiche": "GRELIN René",
+       "nom_famille": "GRELIN",
+       "prenom": "René",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1975,
+     "cle": "1975",
+     "date": "1975-02-24",
+     "date_txt": "24 février",
+     "podium": [
+      {
+       "affiche": "CHASSANG Jean",
+       "nom_famille": "CHASSANG",
+       "prenom": "Jean",
+       "rang": 1
+      },
+      {
+       "affiche": "MARTOS Antonio",
+       "nat": "ESP",
+       "nom_famille": "MARTOS",
+       "pays_site": "Esp",
+       "prenom": "Antonio",
+       "rang": 2
+      },
+      {
+       "affiche": "KNETEMANN Gerrie",
+       "nat": "NED",
+       "nom_famille": "KNETEMANN",
+       "pays_site": "Hol",
+       "prenom": "Gerrie",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1976,
+     "cle": "1976",
+     "date": "1976-02-21",
+     "date_txt": "21 février",
+     "podium": [
+      {
+       "affiche": "BOURREAU Bernard",
+       "nom_famille": "BOURREAU",
+       "prenom": "Bernard",
+       "rang": 1
+      },
+      {
+       "affiche": "GUTIERREZ Antoine",
+       "nom_famille": "GUTIERREZ",
+       "prenom": "Antoine",
+       "rang": 2
+      },
+      {
+       "affiche": "LELEU Guy",
+       "nom_famille": "LELEU",
+       "prenom": "Guy",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1977,
+     "cle": "1977",
+     "date": "1977-02-20",
+     "date_txt": "20 février",
+     "podium": [
+      {
+       "affiche": "PANIZZA Wladimiro",
+       "nat": "ITA",
+       "nom_famille": "PANIZZA",
+       "pays_site": "Ita",
+       "prenom": "Wladimiro",
+       "rang": 1
+      },
+      {
+       "affiche": "JACOBS Jos",
+       "nat": "BEL",
+       "nom_famille": "JACOBS",
+       "pays_site": "Bel",
+       "prenom": "Jos",
+       "rang": 2
+      },
+      {
+       "affiche": "PLANCKAERT Walter",
+       "nat": "BEL",
+       "nom_famille": "PLANCKAERT",
+       "pays_site": "Bel",
+       "prenom": "Walter",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1978,
+     "cle": "1978",
+     "date": "1978-02-19",
+     "date_txt": "19 février",
+     "podium": [
+      {
+       "affiche": "ZOETEMELK Joop",
+       "nat": "NED",
+       "nom_famille": "ZOETEMELK",
+       "pays_site": "Hol",
+       "prenom": "Joop",
+       "rang": 1
+      },
+      {
+       "affiche": "MESLET Alain",
+       "nom_famille": "MESLET",
+       "prenom": "Alain",
+       "rang": 2
+      },
+      {
+       "affiche": "VILLEMIANE Pierre-Raymond",
+       "nom_famille": "VILLEMIANE",
+       "prenom": "Pierre-Raymond",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1979,
+     "cle": "1979",
+     "date": "1979-02-18",
+     "date_txt": "18 février",
+     "podium": [
+      {
+       "affiche": "SIMON Pascal",
+       "nom_famille": "SIMON",
+       "prenom": "Pascal",
+       "rang": 1
+      },
+      {
+       "affiche": "VAN HEERDEN Alan",
+       "nat": "RSA",
+       "nom_famille": "VAN HEERDEN",
+       "pays_site": "Afs",
+       "prenom": "Alan",
+       "rang": 2
+      },
+      {
+       "affiche": "THALER Klaus-Peter",
+       "nat": "FRG",
+       "nom_famille": "THALER",
+       "pays_site": "Rfa",
+       "prenom": "Klaus-Peter",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1980,
+     "cle": "1980",
+     "date": "1980-02-17",
+     "date_txt": "17 février",
+     "podium": [
+      {
+       "affiche": "SEGERSALL Alfred",
+       "nat": "SWE",
+       "nom_famille": "SEGERSALL",
+       "pays_site": "Sue",
+       "prenom": "Alfred",
+       "rang": 1
+      },
+      {
+       "affiche": "JESSON Paul",
+       "nat": "NZL",
+       "nom_famille": "JESSON",
+       "pays_site": "Nzl",
+       "prenom": "Paul",
+       "rang": 2
+      },
+      {
+       "affiche": "MARTIN Raymond",
+       "nom_famille": "MARTIN",
+       "prenom": "Raymond",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1981,
+     "cle": "1981",
+     "date": "1981-02-15",
+     "date_txt": "15 février",
+     "podium": [
+      {
+       "affiche": "CONTINI Silvano",
+       "nat": "ITA",
+       "nom_famille": "CONTINI",
+       "pays_site": "Ita",
+       "prenom": "Silvano",
+       "rang": 1
+      },
+      {
+       "affiche": "SIMON Pascal",
+       "nom_famille": "SIMON",
+       "prenom": "Pascal",
+       "rang": 2
+      },
+      {
+       "affiche": "VILLEMIANE Pierre-Raymond",
+       "nom_famille": "VILLEMIANE",
+       "prenom": "Pierre-Raymond",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1982,
+     "cle": "1982",
+     "date": "1982-02-14",
+     "date_txt": "14 février",
+     "podium": [
+      {
+       "affiche": "GLAUS Gilbert",
+       "nat": "SUI",
+       "nom_famille": "GLAUS",
+       "pays_site": "Sui",
+       "prenom": "Gilbert",
+       "rang": 1
+      },
+      {
+       "affiche": "KEHL Peter",
+       "nat": "SUI",
+       "nom_famille": "KEHL",
+       "pays_site": "Sui",
+       "prenom": "Peter",
+       "rang": 2
+      },
+      {
+       "affiche": "SEIZ Hubert",
+       "nat": "SUI",
+       "nom_famille": "SEIZ",
+       "pays_site": "Sui",
+       "prenom": "Hubert",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1983,
+     "cle": "1983",
+     "date": "1983-02-13",
+     "date_txt": "13 février",
+     "podium": [
+      {
+       "affiche": "BITTINGER René",
+       "nom_famille": "BITTINGER",
+       "prenom": "René",
+       "rang": 1
+      },
+      {
+       "affiche": "RUSSENBERGER Marcel",
+       "nat": "SUI",
+       "nom_famille": "RUSSENBERGER",
+       "pays_site": "Sui",
+       "prenom": "Marcel",
+       "rang": 2
+      },
+      {
+       "affiche": "CHAURIN Jean-François",
+       "nom_famille": "CHAURIN",
+       "prenom": "Jean-François",
+       "rang": 3
+      }
+     ]
+    }
+   ],
    "gras": false,
    "groupe": "FRA",
    "id": "disparues-ronde_montauroux",
+   "lu_le": "2026-11-22T03:14:48Z",
    "nom": "Ronde de Montauroux",
    "section": "disparues",
    "suffixe_index": "1968-1983",
+   "titre_page": "Nom course",
    "url": "disparues/anc_ronde_montauroux.html"
   },
   "disparues-ronde_pyrenees": {
+   "drapeau": "fra",
+   "editions": [
+    {
+     "annee": 1984,
+     "cle": "1984",
+     "date": "1984-02-05",
+     "date_txt": "5 février",
+     "podium": [
+      {
+       "affiche": "JULES Pascal",
+       "nom_famille": "JULES",
+       "prenom": "Pascal",
+       "rang": 1
+      },
+      {
+       "affiche": "SIMON Régis",
+       "nom_famille": "SIMON",
+       "prenom": "Régis",
+       "rang": 2
+      },
+      {
+       "affiche": "LAVENU Vincent",
+       "nom_famille": "LAVENU",
+       "prenom": "Vincent",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/ronde_pyrenees_1984.html"
+    },
+    {
+     "annee": 1985,
+     "cle": "1985",
+     "date": "1985-02-03",
+     "date_txt": "3 février",
+     "podium": [
+      {
+       "affiche": "LAURAIRE Philippe",
+       "nom_famille": "LAURAIRE",
+       "prenom": "Philippe",
+       "rang": 1
+      },
+      {
+       "affiche": "BITTINGER René",
+       "nom_famille": "BITTINGER",
+       "prenom": "René",
+       "rang": 2
+      },
+      {
+       "affiche": "VICHOT Frédéric",
+       "nom_famille": "VICHOT",
+       "prenom": "Frédéric",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/ronde_pyrenees_1985.html"
+    },
+    {
+     "annee": 1987,
+     "cle": "1987",
+     "date": "1987-02-01",
+     "date_txt": "1er février",
+     "podium": [
+      {
+       "affiche": "LAVENU Vincent",
+       "nom_famille": "LAVENU",
+       "prenom": "Vincent",
+       "rang": 1
+      },
+      {
+       "affiche": "CHAUBET Christian",
+       "nom_famille": "CHAUBET",
+       "prenom": "Christian",
+       "rang": 2
+      },
+      {
+       "affiche": "CASADO Philippe",
+       "nom_famille": "CASADO",
+       "prenom": "Philippe",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/ronde_pyrenees_1987.html"
+    },
+    {
+     "annee": 1988,
+     "cle": "1988",
+     "date": "1988-02-07",
+     "date_txt": "7 février",
+     "podium": [
+      {
+       "affiche": "VERMOTE Michel",
+       "nat": "BEL",
+       "nom_famille": "VERMOTE",
+       "pays_site": "Bel",
+       "prenom": "Michel",
+       "rang": 1
+      },
+      {
+       "affiche": "WEGMULLER Thomas",
+       "nat": "SUI",
+       "nom_famille": "WEGMULLER",
+       "pays_site": "Sui",
+       "prenom": "Thomas",
+       "rang": 2
+      },
+      {
+       "affiche": "CASADO Philippe",
+       "nom_famille": "CASADO",
+       "prenom": "Philippe",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/ronde_pyrenees_1988.html"
+    },
+    {
+     "annee": 1989,
+     "cle": "1989",
+     "date": "1989-02-05",
+     "date_txt": "5 février",
+     "podium": [
+      {
+       "affiche": "WUST Marcel",
+       "nat": "GER",
+       "nom_famille": "WUST",
+       "pays_site": "All",
+       "prenom": "Marcel",
+       "rang": 1
+      },
+      {
+       "affiche": "REDANT Hendrik",
+       "nat": "BEL",
+       "nom_famille": "REDANT",
+       "pays_site": "Bel",
+       "prenom": "Hendrik",
+       "rang": 2
+      },
+      {
+       "affiche": "WILLEMS Ludwig",
+       "nat": "BEL",
+       "nom_famille": "WILLEMS",
+       "pays_site": "Bel",
+       "prenom": "Ludwig",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/ronde_pyrenees_1989.html"
+    },
+    {
+     "annee": 1990,
+     "cle": "1990",
+     "date": "1990-02-04",
+     "date_txt": "4 février",
+     "podium": [
+      {
+       "affiche": "WIJNANDS Ad",
+       "nat": "NED",
+       "nom_famille": "WIJNANDS",
+       "pays_site": "Hol",
+       "prenom": "Ad",
+       "rang": 1
+      },
+      {
+       "affiche": "DENEUT Patrick",
+       "nat": "BEL",
+       "nom_famille": "DENEUT",
+       "pays_site": "Bel",
+       "prenom": "Patrick",
+       "rang": 2
+      },
+      {
+       "affiche": "PEDERSEN Per",
+       "nat": "DEN",
+       "nom_famille": "PEDERSEN",
+       "pays_site": "Dan",
+       "prenom": "Per",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/ronde_pyrenees_1990.html"
+    },
+    {
+     "annee": 1991,
+     "cle": "1991",
+     "date": "1991-02-03",
+     "date_txt": "3 février",
+     "podium": [
+      {
+       "affiche": "PEETERS Wilfried",
+       "nat": "BEL",
+       "nom_famille": "PEETERS",
+       "pays_site": "Bel",
+       "prenom": "Wilfried",
+       "rang": 1
+      },
+      {
+       "affiche": "GAYANT Martial",
+       "nom_famille": "GAYANT",
+       "prenom": "Martial",
+       "rang": 2
+      },
+      {
+       "affiche": "FOREST Robert",
+       "nom_famille": "FOREST",
+       "prenom": "Robert",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/ronde_pyrenees_1991.html"
+    },
+    {
+     "annee": 1992,
+     "cle": "1992",
+     "date": "1992-02-03",
+     "date_txt": "3 février",
+     "podium": [
+      {
+       "affiche": "VAN POPPEL Jean-Paul",
+       "nat": "NED",
+       "nom_famille": "VAN POPPEL",
+       "pays_site": "Hol",
+       "prenom": "Jean-Paul",
+       "rang": 1
+      },
+      {
+       "affiche": "HEYNDERICKX Jean-Pierre",
+       "nat": "BEL",
+       "nom_famille": "HEYNDERICKX",
+       "pays_site": "Bel",
+       "prenom": "Jean-Pierre",
+       "rang": 2
+      },
+      {
+       "affiche": "WUST Marcel",
+       "nat": "GER",
+       "nom_famille": "WUST",
+       "pays_site": "All",
+       "prenom": "Marcel",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/ronde_pyrenees_1992.html"
+    }
+   ],
    "gras": true,
    "groupe": "FRA",
    "id": "disparues-ronde_pyrenees",
+   "lu_le": "2026-11-22T03:14:51Z",
    "nom": "Ronde des Pyrénées",
    "section": "disparues",
    "suffixe_index": "1984-1992",
+   "titre_page": "Ronde des Pyrénées (Fra) - Ex.",
    "url": "disparues/anc_ronde_pyrenees.html"
   },
   "disparues-ronde_seignelay": {
