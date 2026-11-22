@@ -386576,12 +386576,562 @@
    "url": "disparues/anc_ronde_pyrenees.html"
   },
   "disparues-ronde_seignelay": {
+   "drapeau": "fra",
+   "editions": [
+    {
+     "annee": 1960,
+     "cle": "1960",
+     "date": "1960-07-25",
+     "date_txt": "25 juillet",
+     "podium": [
+      {
+       "affiche": "PRIVAT René",
+       "nom_famille": "PRIVAT",
+       "prenom": "René",
+       "rang": 1
+      },
+      {
+       "affiche": "DELBERGHE Edouard",
+       "nom_famille": "DELBERGHE",
+       "prenom": "Edouard",
+       "rang": 2
+      },
+      {
+       "affiche": "DARRIGADE André",
+       "nom_famille": "DARRIGADE",
+       "prenom": "André",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/seignelay1960.html"
+    },
+    {
+     "annee": 1961,
+     "cle": "1961",
+     "date": "1961-07-24",
+     "date_txt": "24 juillet",
+     "podium": [
+      {
+       "affiche": "GAINCHE Jean",
+       "nom_famille": "GAINCHE",
+       "prenom": "Jean",
+       "rang": 1
+      },
+      {
+       "affiche": "BEUFFEUIL Pierre",
+       "nom_famille": "BEUFFEUIL",
+       "prenom": "Pierre",
+       "rang": 2
+      },
+      {
+       "affiche": "ANGLADE Henry",
+       "nom_famille": "ANGLADE",
+       "prenom": "Henry",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/seignelay1961.html"
+    },
+    {
+     "annee": 1962,
+     "cle": "1962",
+     "date": "1962-07-23",
+     "date_txt": "23 juillet",
+     "podium": [
+      {
+       "affiche": "CAZALA Robert",
+       "nom_famille": "CAZALA",
+       "prenom": "Robert",
+       "rang": 1
+      },
+      {
+       "affiche": "ROSTOLLAN Louis",
+       "nom_famille": "ROSTOLLAN",
+       "prenom": "Louis",
+       "rang": 2
+      },
+      {
+       "affiche": "MAHÉ François",
+       "nom_famille": "MAHÉ",
+       "prenom": "François",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/seignelay1962.html"
+    },
+    {
+     "annee": 1963,
+     "cle": "1963",
+     "date": "1963-07-22",
+     "date_txt": "22 juillet",
+     "podium": [
+      {
+       "affiche": "ANGLADE Henry",
+       "nom_famille": "ANGLADE",
+       "prenom": "Henry",
+       "rang": 1
+      },
+      {
+       "affiche": "MILESI Jean",
+       "nom_famille": "MILESI",
+       "prenom": "Jean",
+       "rang": 2
+      },
+      {
+       "affiche": "POULIDOR Raymond",
+       "nom_famille": "POULIDOR",
+       "prenom": "Raymond",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/seignelay1963.html"
+    },
+    {
+     "annee": 1964,
+     "cle": "1964",
+     "date": "1964-07-20",
+     "date_txt": "20 juillet",
+     "podium": [
+      {
+       "affiche": "POULIDOR Raymond",
+       "nom_famille": "POULIDOR",
+       "prenom": "Raymond",
+       "rang": 1
+      },
+      {
+       "affiche": "CAZALA Robert",
+       "nom_famille": "CAZALA",
+       "prenom": "Robert",
+       "rang": 2
+      },
+      {
+       "affiche": "ELLIOTT Seamus",
+       "nat": "IRL",
+       "nom_famille": "ELLIOTT",
+       "pays_site": "Irl",
+       "prenom": "Seamus",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/seignelay1964.html"
+    },
+    {
+     "annee": 1965,
+     "cle": "1965",
+     "date": "1965-07-19",
+     "date_txt": "19 juillet",
+     "podium": [
+      {
+       "affiche": "JANSSEN Jan",
+       "nat": "NED",
+       "nom_famille": "JANSSEN",
+       "pays_site": "Hol",
+       "prenom": "Jan",
+       "rang": 1
+      },
+      {
+       "affiche": "ANQUETIL Jacques",
+       "nom_famille": "ANQUETIL",
+       "prenom": "Jacques",
+       "rang": 2
+      },
+      {
+       "affiche": "FERRER Hubert",
+       "nom_famille": "FERRER",
+       "prenom": "Hubert",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/seignelay1965.html"
+    },
+    {
+     "annee": 1966,
+     "cle": "1966",
+     "date": "1966-07-18",
+     "date_txt": "18 juillet",
+     "podium": [
+      {
+       "affiche": "MOTTA Gianni",
+       "nat": "ITA",
+       "nom_famille": "MOTTA",
+       "pays_site": "Ita",
+       "prenom": "Gianni",
+       "rang": 1
+      },
+      {
+       "affiche": "POULIDOR Raymond",
+       "nom_famille": "POULIDOR",
+       "prenom": "Raymond",
+       "rang": 2
+      },
+      {
+       "affiche": "MILESI Jean",
+       "nom_famille": "MILESI",
+       "prenom": "Jean",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/seignelay1966.html"
+    },
+    {
+     "annee": 1967,
+     "cle": "1967",
+     "date": "1967-07-31",
+     "date_txt": "31 juillet",
+     "podium": [
+      {
+       "affiche": "RIOTTE Raymond",
+       "nom_famille": "RIOTTE",
+       "prenom": "Raymond",
+       "rang": 1
+      },
+      {
+       "affiche": "GIMONDI Felice",
+       "nat": "ITA",
+       "nom_famille": "GIMONDI",
+       "pays_site": "Ita",
+       "prenom": "Felice",
+       "rang": 2
+      },
+      {
+       "affiche": "POULIDOR Raymond",
+       "nom_famille": "POULIDOR",
+       "prenom": "Raymond",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/seignelay1967.html"
+    },
+    {
+     "annee": 1968,
+     "cle": "1968",
+     "date": "1968-07-29",
+     "date_txt": "29 juillet",
+     "podium": [
+      {
+       "affiche": "BELLONE Gilbert",
+       "nom_famille": "BELLONE",
+       "prenom": "Gilbert",
+       "rang": 1
+      },
+      {
+       "affiche": "BITOSSI Franco",
+       "nat": "ITA",
+       "nom_famille": "BITOSSI",
+       "pays_site": "Ita",
+       "prenom": "Franco",
+       "rang": 2
+      },
+      {
+       "affiche": "POULIDOR Raymond",
+       "nom_famille": "POULIDOR",
+       "prenom": "Raymond",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/seignelay1968.html"
+    },
+    {
+     "annee": 1969,
+     "cle": "1969",
+     "date": "1969-07-28",
+     "date_txt": "28 juillet",
+     "podium": [
+      {
+       "affiche": "ALTIG Rudi",
+       "nat": "GER",
+       "nom_famille": "ALTIG",
+       "pays_site": "All",
+       "prenom": "Rudi",
+       "rang": 1
+      },
+      {
+       "affiche": "RAYMOND Christian",
+       "nom_famille": "RAYMOND",
+       "prenom": "Christian",
+       "rang": 2
+      },
+      {
+       "affiche": "RIOTTE Raymond",
+       "nom_famille": "RIOTTE",
+       "prenom": "Raymond",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/seignelay1969.html"
+    },
+    {
+     "annee": 1970,
+     "cle": "1970",
+     "date": "1970-07-27",
+     "date_txt": "27 juillet",
+     "podium": [
+      {
+       "affiche": "MERCKX Eddy",
+       "nat": "BEL",
+       "nom_famille": "MERCKX",
+       "pays_site": "Bel",
+       "prenom": "Eddy",
+       "rang": 1
+      },
+      {
+       "affiche": "POULIDOR Raymond",
+       "nom_famille": "POULIDOR",
+       "prenom": "Raymond",
+       "rang": 2
+      },
+      {
+       "affiche": "GODEFROOT Walter",
+       "nat": "BEL",
+       "nom_famille": "GODEFROOT",
+       "pays_site": "Bel",
+       "prenom": "Walter",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/seignelay1970.html"
+    },
+    {
+     "annee": 1971,
+     "cle": "1971",
+     "date": "1971-07-26",
+     "date_txt": "26 juillet",
+     "podium": [
+      {
+       "affiche": "DE VLAEMINCK Roger",
+       "nat": "BEL",
+       "nom_famille": "DE VLAEMINCK",
+       "pays_site": "Bel",
+       "prenom": "Roger",
+       "rang": 1
+      },
+      {
+       "affiche": "ZOETEMELK Joop",
+       "nat": "NED",
+       "nom_famille": "ZOETEMELK",
+       "pays_site": "Hol",
+       "prenom": "Joop",
+       "rang": 2
+      },
+      {
+       "affiche": "OCANA Luis",
+       "nat": "ESP",
+       "nom_famille": "OCANA",
+       "pays_site": "Esp",
+       "prenom": "Luis",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/seignelay1971.html"
+    },
+    {
+     "annee": 1972,
+     "cle": "1972",
+     "date": "1972-07-31",
+     "date_txt": "31 juillet",
+     "podium": [
+      {
+       "affiche": "HÉZARD Yves",
+       "nom_famille": "HÉZARD",
+       "prenom": "Yves",
+       "rang": 1
+      },
+      {
+       "affiche": "RIOTTE Raymond",
+       "nom_famille": "RIOTTE",
+       "prenom": "Raymond",
+       "rang": 2
+      },
+      {
+       "affiche": "MARTINEZ Mariano",
+       "nom_famille": "MARTINEZ",
+       "prenom": "Mariano",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/seignelay1972.html"
+    },
+    {
+     "annee": 1973,
+     "cle": "1973",
+     "date": "1973-07-30",
+     "date_txt": "30 juillet",
+     "podium": [
+      {
+       "affiche": "OVION Régis",
+       "nom_famille": "OVION",
+       "prenom": "Régis",
+       "rang": 1
+      },
+      {
+       "affiche": "HÉZARD Yves",
+       "nom_famille": "HÉZARD",
+       "prenom": "Yves",
+       "rang": 2
+      },
+      {
+       "affiche": "THEVENET Bernard",
+       "nom_famille": "THEVENET",
+       "prenom": "Bernard",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/seignelay1973.html"
+    },
+    {
+     "annee": 1974,
+     "cle": "1974",
+     "date": "1974-07-29",
+     "date_txt": "29 juillet",
+     "podium": [
+      {
+       "affiche": "RIOTTE Raymond",
+       "nom_famille": "RIOTTE",
+       "prenom": "Raymond",
+       "rang": 1
+      },
+      {
+       "affiche": "DIERICKX André",
+       "nat": "BEL",
+       "nom_famille": "DIERICKX",
+       "pays_site": "Bel",
+       "prenom": "André",
+       "rang": 2
+      },
+      {
+       "affiche": "POULIDOR Raymond",
+       "nom_famille": "POULIDOR",
+       "prenom": "Raymond",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/seignelay1974.html"
+    },
+    {
+     "annee": 1975,
+     "cle": "1975",
+     "date": "1975-07-28",
+     "date_txt": "28 juillet",
+     "podium": [
+      {
+       "affiche": "THEVENET Bernard",
+       "nom_famille": "THEVENET",
+       "prenom": "Bernard",
+       "rang": 1
+      },
+      {
+       "affiche": "HÉZARD Yves",
+       "nom_famille": "HÉZARD",
+       "prenom": "Yves",
+       "rang": 2
+      },
+      {
+       "affiche": "GIMONDI Felice",
+       "nat": "ITA",
+       "nom_famille": "GIMONDI",
+       "pays_site": "Ita",
+       "prenom": "Felice",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/seignelay1975.html"
+    },
+    {
+     "annee": 1976,
+     "cle": "1976",
+     "date": "1976-07-26",
+     "date_txt": "26 juillet",
+     "podium": [
+      {
+       "affiche": "ESCLASSAN Jacques",
+       "nom_famille": "ESCLASSAN",
+       "prenom": "Jacques",
+       "rang": 1
+      },
+      {
+       "affiche": "POULIDOR Raymond",
+       "nom_famille": "POULIDOR",
+       "prenom": "Raymond",
+       "rang": 2
+      },
+      {
+       "affiche": "VAN IMPE Lucien",
+       "nat": "BEL",
+       "nom_famille": "VAN IMPE",
+       "pays_site": "Bel",
+       "prenom": "Lucien",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/seignelay1976.html"
+    },
+    {
+     "annee": 1977,
+     "cle": "1977",
+     "date": "1977-07-25",
+     "date_txt": "25 juillet",
+     "podium": [
+      {
+       "affiche": "THEVENET Bernard",
+       "nom_famille": "THEVENET",
+       "prenom": "Bernard",
+       "rang": 1
+      },
+      {
+       "affiche": "ZOETEMELK Joop",
+       "nat": "NED",
+       "nom_famille": "ZOETEMELK",
+       "pays_site": "Hol",
+       "prenom": "Joop",
+       "rang": 2
+      },
+      {
+       "affiche": "OCANA Luis",
+       "nat": "ESP",
+       "nom_famille": "OCANA",
+       "pays_site": "Esp",
+       "prenom": "Luis",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/seignelay1977.html"
+    },
+    {
+     "annee": 1978,
+     "cle": "1978",
+     "date": "1978-07-24",
+     "date_txt": "24 juillet",
+     "podium": [
+      {
+       "affiche": "HÉZARD Yves",
+       "nom_famille": "HÉZARD",
+       "prenom": "Yves",
+       "rang": 1
+      },
+      {
+       "affiche": "SEZNEC Christian",
+       "nom_famille": "SEZNEC",
+       "prenom": "Christian",
+       "rang": 2
+      },
+      {
+       "affiche": "LAURENT Michel",
+       "nom_famille": "LAURENT",
+       "prenom": "Michel",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/seignelay1978.html"
+    }
+   ],
    "gras": true,
    "groupe": "FRA",
    "id": "disparues-ronde_seignelay",
+   "lu_le": "2026-11-22T04:05:19Z",
    "nom": "Ronde de Seignelay",
    "section": "disparues",
    "suffixe_index": "(Fra) - 1960-1978",
+   "titre_page": "Ronde de Seignelay (Fra) - Ex.",
    "url": "disparues/anc_ronde_seignelay.html"
   },
   "disparues-rondpoint_avignon": {
