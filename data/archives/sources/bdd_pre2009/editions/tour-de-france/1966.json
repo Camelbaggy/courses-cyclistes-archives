@@ -1,0 +1,795 @@
+{
+  "race": {
+    "id": 1,
+    "slug": "tour-de-france",
+    "name": "Tour de France",
+    "country": "FRA",
+    "category": "Grand Tour",
+    "pcs_race_slug": "tour-de-france",
+    "fc_race_id": null
+  },
+  "edition": {
+    "id": 53,
+    "year": 1966,
+    "start_date": null,
+    "end_date": null,
+    "source": "letour_dataset",
+    "sources": [
+      "letour_dataset"
+    ]
+  },
+  "stages": [
+    {
+      "stage_number": "GC",
+      "stage_date": null,
+      "departure_city": null,
+      "arrival_city": null,
+      "distance_km": null,
+      "stage_type": "General Classification",
+      "results_count": 3,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 364,
+          "rider_name": "Lucien Aimar",
+          "rider_nationality": "FR",
+          "rider_pcs_slug": "lucien-aimar",
+          "rider_fc_id": null,
+          "team_id": 73058,
+          "team_name": "Ford France - Hutchinson",
+          "team_uci_code": null,
+          "team_pcs_slug": "ford-france-hutchinson-1966",
+          "time_seconds": 423261,
+          "gap_seconds": 0,
+          "points": null,
+          "bonifications": null,
+          "source": "letour_dataset"
+        },
+        {
+          "rank": 2,
+          "status": "FIN",
+          "rider_id": 329,
+          "rider_name": "Jan Janssen",
+          "rider_nationality": "NL",
+          "rider_pcs_slug": "jan-janssen",
+          "rider_fc_id": null,
+          "team_id": 2617,
+          "team_name": "PELFORTH-SAUVAGE-LEJEUNE-WOLBER",
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": 423328,
+          "gap_seconds": 67,
+          "points": null,
+          "bonifications": null,
+          "source": "letour_dataset"
+        },
+        {
+          "rank": 3,
+          "status": "FIN",
+          "rider_id": 323,
+          "rider_name": "Raymond Poulidor",
+          "rider_nationality": "FR",
+          "rider_pcs_slug": "raymond-poulidor",
+          "rider_fc_id": null,
+          "team_id": 73061,
+          "team_name": "Mercier - BP - Hutchinson",
+          "team_uci_code": null,
+          "team_pcs_slug": "mercier-bp-hutchinson-1966",
+          "time_seconds": 423383,
+          "gap_seconds": 122,
+          "points": null,
+          "bonifications": null,
+          "source": "letour_dataset"
+        }
+      ]
+    },
+    {
+      "stage_number": "1",
+      "stage_date": null,
+      "departure_city": "Nancy",
+      "arrival_city": "Charleville-Mézières",
+      "distance_km": null,
+      "stage_type": null,
+      "results_count": 1,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 317,
+          "rider_name": "Rudi Altig",
+          "rider_nationality": "DE",
+          "rider_pcs_slug": "rudi-altig",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": null,
+          "bonifications": null,
+          "source": "letour_dataset"
+        }
+      ]
+    },
+    {
+      "stage_number": "2",
+      "stage_date": null,
+      "departure_city": "Charleville-Mézières",
+      "arrival_city": "Tournai",
+      "distance_km": null,
+      "stage_type": null,
+      "results_count": 1,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 342,
+          "rider_name": "Guido Reybroeck",
+          "rider_nationality": null,
+          "rider_pcs_slug": null,
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": null,
+          "bonifications": null,
+          "source": "letour_dataset"
+        }
+      ]
+    },
+    {
+      "stage_number": "3.1",
+      "stage_date": null,
+      "departure_city": "Tournai",
+      "arrival_city": "Tournai",
+      "distance_km": null,
+      "stage_type": null,
+      "results_count": 0,
+      "results": []
+    },
+    {
+      "stage_number": "3.2",
+      "stage_date": null,
+      "departure_city": "Tournai",
+      "arrival_city": "Dunkerque",
+      "distance_km": null,
+      "stage_type": null,
+      "results_count": 1,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 348,
+          "rider_name": "Gerben Karstens",
+          "rider_nationality": "NL",
+          "rider_pcs_slug": "gerben-karstens",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": null,
+          "bonifications": null,
+          "source": "letour_dataset"
+        }
+      ]
+    },
+    {
+      "stage_number": "4",
+      "stage_date": null,
+      "departure_city": "Dunkerque",
+      "arrival_city": "Dieppe",
+      "distance_km": null,
+      "stage_type": null,
+      "results_count": 1,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 349,
+          "rider_name": "Willy Planckaert",
+          "rider_nationality": "BE",
+          "rider_pcs_slug": "willy-planckaert",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": null,
+          "bonifications": null,
+          "source": "letour_dataset"
+        }
+      ]
+    },
+    {
+      "stage_number": "5",
+      "stage_date": null,
+      "departure_city": "Dieppe",
+      "arrival_city": "Caen",
+      "distance_km": null,
+      "stage_type": null,
+      "results_count": 1,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 350,
+          "rider_name": "Franco Bitossi",
+          "rider_nationality": "IT",
+          "rider_pcs_slug": "franco-bitossi",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": null,
+          "bonifications": null,
+          "source": "letour_dataset"
+        }
+      ]
+    },
+    {
+      "stage_number": "6",
+      "stage_date": null,
+      "departure_city": "Caen",
+      "arrival_city": "Angers",
+      "distance_km": null,
+      "stage_type": null,
+      "results_count": 1,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 332,
+          "rider_name": "Edward Sels",
+          "rider_nationality": null,
+          "rider_pcs_slug": null,
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": null,
+          "bonifications": null,
+          "source": "letour_dataset"
+        }
+      ]
+    },
+    {
+      "stage_number": "7",
+      "stage_date": null,
+      "departure_city": "Angers",
+      "arrival_city": "Royan",
+      "distance_km": null,
+      "stage_type": null,
+      "results_count": 1,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 351,
+          "rider_name": "Albert van Vlierberghe",
+          "rider_nationality": "BE",
+          "rider_pcs_slug": "albert-van-vlierberghe",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": null,
+          "bonifications": null,
+          "source": "letour_dataset"
+        }
+      ]
+    },
+    {
+      "stage_number": "8",
+      "stage_date": null,
+      "departure_city": "Royan",
+      "arrival_city": "Bordeaux",
+      "distance_km": null,
+      "stage_type": null,
+      "results_count": 1,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 349,
+          "rider_name": "Willy Planckaert",
+          "rider_nationality": "BE",
+          "rider_pcs_slug": "willy-planckaert",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": null,
+          "bonifications": null,
+          "source": "letour_dataset"
+        }
+      ]
+    },
+    {
+      "stage_number": "9",
+      "stage_date": null,
+      "departure_city": "Bordeaux",
+      "arrival_city": "Bayonne",
+      "distance_km": null,
+      "stage_type": null,
+      "results_count": 1,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 348,
+          "rider_name": "Gerben Karstens",
+          "rider_nationality": "NL",
+          "rider_pcs_slug": "gerben-karstens",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": null,
+          "bonifications": null,
+          "source": "letour_dataset"
+        }
+      ]
+    },
+    {
+      "stage_number": "10",
+      "stage_date": null,
+      "departure_city": "Bayonne",
+      "arrival_city": "Pau",
+      "distance_km": null,
+      "stage_type": null,
+      "results_count": 1,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 352,
+          "rider_name": "Tommaso de Pra",
+          "rider_nationality": "IT",
+          "rider_pcs_slug": "tommaso-de-pra",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": null,
+          "bonifications": null,
+          "source": "letour_dataset"
+        }
+      ]
+    },
+    {
+      "stage_number": "11",
+      "stage_date": null,
+      "departure_city": "Pau",
+      "arrival_city": "Luchon",
+      "distance_km": null,
+      "stage_type": null,
+      "results_count": 1,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 353,
+          "rider_name": "Marcello Mugnaini",
+          "rider_nationality": "IT",
+          "rider_pcs_slug": "marcello-mugnaini",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": null,
+          "bonifications": null,
+          "source": "letour_dataset"
+        }
+      ]
+    },
+    {
+      "stage_number": "12",
+      "stage_date": null,
+      "departure_city": "Luchon",
+      "arrival_city": "Revel",
+      "distance_km": null,
+      "stage_type": null,
+      "results_count": 1,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 317,
+          "rider_name": "Rudi Altig",
+          "rider_nationality": "DE",
+          "rider_pcs_slug": "rudi-altig",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": null,
+          "bonifications": null,
+          "source": "letour_dataset"
+        }
+      ]
+    },
+    {
+      "stage_number": "13",
+      "stage_date": null,
+      "departure_city": "Revel",
+      "arrival_city": "Sète",
+      "distance_km": null,
+      "stage_type": null,
+      "results_count": 1,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 354,
+          "rider_name": "Georges Vandenberghe",
+          "rider_nationality": "BE",
+          "rider_pcs_slug": "georges-vandenberghe",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": null,
+          "bonifications": null,
+          "source": "letour_dataset"
+        }
+      ]
+    },
+    {
+      "stage_number": "14.1",
+      "stage_date": null,
+      "departure_city": "Montpellier",
+      "arrival_city": "Aubenas",
+      "distance_km": null,
+      "stage_type": null,
+      "results_count": 1,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 336,
+          "rider_name": "Johan de Roo",
+          "rider_nationality": null,
+          "rider_pcs_slug": null,
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": null,
+          "bonifications": null,
+          "source": "letour_dataset"
+        }
+      ]
+    },
+    {
+      "stage_number": "14.2",
+      "stage_date": null,
+      "departure_city": "Aubenas",
+      "arrival_city": "Vals-les-Bains",
+      "distance_km": null,
+      "stage_type": null,
+      "results_count": 1,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 323,
+          "rider_name": "Raymond Poulidor",
+          "rider_nationality": "FR",
+          "rider_pcs_slug": "raymond-poulidor",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": null,
+          "bonifications": null,
+          "source": "letour_dataset"
+        }
+      ]
+    },
+    {
+      "stage_number": "15",
+      "stage_date": null,
+      "departure_city": "Privas",
+      "arrival_city": "Bourg-d'Oisans",
+      "distance_km": null,
+      "stage_type": null,
+      "results_count": 1,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 355,
+          "rider_name": "Luis Otano",
+          "rider_nationality": "ES",
+          "rider_pcs_slug": "luis-otano",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": null,
+          "bonifications": null,
+          "source": "letour_dataset"
+        }
+      ]
+    },
+    {
+      "stage_number": "16",
+      "stage_date": null,
+      "departure_city": "Bourg-d'Oisans",
+      "arrival_city": "Briançon",
+      "distance_km": null,
+      "stage_type": null,
+      "results_count": 1,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 337,
+          "rider_name": "Julio Jimenez",
+          "rider_nationality": "ES",
+          "rider_pcs_slug": "julio-jimenez",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": null,
+          "bonifications": null,
+          "source": "letour_dataset"
+        }
+      ]
+    },
+    {
+      "stage_number": "17",
+      "stage_date": null,
+      "departure_city": "Briançon",
+      "arrival_city": "Turin",
+      "distance_km": null,
+      "stage_type": null,
+      "results_count": 1,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 350,
+          "rider_name": "Franco Bitossi",
+          "rider_nationality": "IT",
+          "rider_pcs_slug": "franco-bitossi",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": null,
+          "bonifications": null,
+          "source": "letour_dataset"
+        }
+      ]
+    },
+    {
+      "stage_number": "18",
+      "stage_date": null,
+      "departure_city": "Ivrea",
+      "arrival_city": "Chamonix",
+      "distance_km": null,
+      "stage_type": null,
+      "results_count": 1,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 356,
+          "rider_name": "Eddy Schutz",
+          "rider_nationality": null,
+          "rider_pcs_slug": null,
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": null,
+          "bonifications": null,
+          "source": "letour_dataset"
+        }
+      ]
+    },
+    {
+      "stage_number": "19",
+      "stage_date": null,
+      "departure_city": "Chamonix",
+      "arrival_city": "Saint-Etienne",
+      "distance_km": null,
+      "stage_type": null,
+      "results_count": 1,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 357,
+          "rider_name": "Ferdinand Bracke",
+          "rider_nationality": "BE",
+          "rider_pcs_slug": "ferdinand-bracke",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": null,
+          "bonifications": null,
+          "source": "letour_dataset"
+        }
+      ]
+    },
+    {
+      "stage_number": "20",
+      "stage_date": null,
+      "departure_city": "Saint-Etienne",
+      "arrival_city": "Montluçon",
+      "distance_km": null,
+      "stage_type": null,
+      "results_count": 1,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 335,
+          "rider_name": "Henk Nijdam",
+          "rider_nationality": "NL",
+          "rider_pcs_slug": "henk-nijdam",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": null,
+          "bonifications": null,
+          "source": "letour_dataset"
+        }
+      ]
+    },
+    {
+      "stage_number": "21",
+      "stage_date": null,
+      "departure_city": "Montluçon",
+      "arrival_city": "Orléans",
+      "distance_km": null,
+      "stage_type": null,
+      "results_count": 1,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 309,
+          "rider_name": "Pierre Beuffeuil",
+          "rider_nationality": "FR",
+          "rider_pcs_slug": "pierre-beuffeuil",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": null,
+          "bonifications": null,
+          "source": "letour_dataset"
+        }
+      ]
+    },
+    {
+      "stage_number": "22.1",
+      "stage_date": null,
+      "departure_city": "Orléans",
+      "arrival_city": "Rambouillet",
+      "distance_km": null,
+      "stage_type": null,
+      "results_count": 1,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 332,
+          "rider_name": "Edward Sels",
+          "rider_nationality": null,
+          "rider_pcs_slug": null,
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": null,
+          "bonifications": null,
+          "source": "letour_dataset"
+        }
+      ]
+    },
+    {
+      "stage_number": "22.2",
+      "stage_date": null,
+      "departure_city": "Rambouillet",
+      "arrival_city": "Paris",
+      "distance_km": null,
+      "stage_type": null,
+      "results_count": 1,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 317,
+          "rider_name": "Rudi Altig",
+          "rider_nationality": "DE",
+          "rider_pcs_slug": "rudi-altig",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": null,
+          "bonifications": null,
+          "source": "letour_dataset"
+        }
+      ]
+    }
+  ],
+  "secondary_classifications": []
+}

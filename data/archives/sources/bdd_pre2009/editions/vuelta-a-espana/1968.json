@@ -1,0 +1,125 @@
+{
+  "race": {
+    "id": 3,
+    "slug": "vuelta-a-espana",
+    "name": "Vuelta a España",
+    "country": "ESP",
+    "category": "Grand Tour",
+    "pcs_race_slug": "vuelta-a-espana",
+    "fc_race_id": null
+  },
+  "edition": {
+    "id": 997,
+    "year": 1968,
+    "start_date": null,
+    "end_date": null,
+    "source": "pcs",
+    "sources": [
+      "pcs"
+    ]
+  },
+  "stages": [
+    {
+      "stage_number": "GC",
+      "stage_date": null,
+      "departure_city": null,
+      "arrival_city": null,
+      "distance_km": null,
+      "stage_type": "RR",
+      "results_count": 5,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 10285,
+          "rider_name": "Manuel Martín",
+          "rider_nationality": "ES",
+          "rider_pcs_slug": "manuel-martin",
+          "rider_fc_id": null,
+          "team_id": 74026,
+          "team_name": "Karpy",
+          "team_uci_code": null,
+          "team_pcs_slug": "karpy-1968",
+          "time_seconds": 21431,
+          "gap_seconds": 0,
+          "points": 80.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 2,
+          "status": "FIN",
+          "rider_id": 1796,
+          "rider_name": "Ventura Diaz",
+          "rider_nationality": "ES",
+          "rider_pcs_slug": "ventura-diaz",
+          "rider_fc_id": null,
+          "team_id": 74027,
+          "team_name": "Ferrys",
+          "team_uci_code": null,
+          "team_pcs_slug": "ferrys-1968",
+          "time_seconds": null,
+          "gap_seconds": 68,
+          "points": 50.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 3,
+          "status": "FIN",
+          "rider_id": 10019,
+          "rider_name": "José Manuel López Rodríguez",
+          "rider_nationality": "ES",
+          "rider_pcs_slug": "jose-manuel-lopez-rodriguez",
+          "rider_fc_id": null,
+          "team_id": 73641,
+          "team_name": "Fagor",
+          "team_uci_code": null,
+          "team_pcs_slug": "fagor-1968",
+          "time_seconds": null,
+          "gap_seconds": 134,
+          "points": 35.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 4,
+          "status": "FIN",
+          "rider_id": 10266,
+          "rider_name": "Sebastián Elorza",
+          "rider_nationality": "ES",
+          "rider_pcs_slug": "sebastian-elorza",
+          "rider_fc_id": null,
+          "team_id": 74028,
+          "team_name": "Kas - Kaskol",
+          "team_uci_code": null,
+          "team_pcs_slug": "kas-kaskol-1968",
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": 25.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 5,
+          "status": "FIN",
+          "rider_id": 14423,
+          "rider_name": "Juan José Sagarduy",
+          "rider_nationality": "ES",
+          "rider_pcs_slug": "juan-jose-sagarduy",
+          "rider_fc_id": null,
+          "team_id": 74026,
+          "team_name": "Karpy",
+          "team_uci_code": null,
+          "team_pcs_slug": "karpy-1968",
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": 18.0,
+          "bonifications": null,
+          "source": "pcs"
+        }
+      ]
+    }
+  ],
+  "secondary_classifications": []
+}

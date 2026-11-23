@@ -1,0 +1,143 @@
+{
+  "race": {
+    "id": 14,
+    "slug": "tirreno-adriatico",
+    "name": "Tirreno Adriatico",
+    "country": null,
+    "category": null,
+    "pcs_race_slug": "tirreno-adriatico",
+    "fc_race_id": null
+  },
+  "edition": {
+    "id": 1290,
+    "year": 1966,
+    "start_date": null,
+    "end_date": null,
+    "source": "pcs",
+    "sources": [
+      "pcs"
+    ]
+  },
+  "stages": [
+    {
+      "stage_number": "GC",
+      "stage_date": null,
+      "departure_city": null,
+      "arrival_city": null,
+      "distance_km": null,
+      "stage_type": "RR",
+      "results_count": 6,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 10222,
+          "rider_name": "Raffaele Marcoli",
+          "rider_nationality": "IT",
+          "rider_pcs_slug": "raffaele-marcoli",
+          "rider_fc_id": null,
+          "team_id": 73650,
+          "team_name": "Sanson",
+          "team_uci_code": null,
+          "team_pcs_slug": "sanson-1966",
+          "time_seconds": 20193,
+          "gap_seconds": 0,
+          "points": 50.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 2,
+          "status": "FIN",
+          "rider_id": 1648,
+          "rider_name": "Bruno Fantinato",
+          "rider_nationality": "IT",
+          "rider_pcs_slug": "bruno-fantinato",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": 30.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 3,
+          "status": "FIN",
+          "rider_id": 1759,
+          "rider_name": "Mario Anni",
+          "rider_nationality": "IT",
+          "rider_pcs_slug": "mario-anni",
+          "rider_fc_id": null,
+          "team_id": 73055,
+          "team_name": "Molteni",
+          "team_uci_code": null,
+          "team_pcs_slug": "molteni-1966",
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": 18.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 4,
+          "status": "FIN",
+          "rider_id": 396,
+          "rider_name": "Italo Zilioli",
+          "rider_nationality": "IT",
+          "rider_pcs_slug": "italo-zilioli",
+          "rider_fc_id": null,
+          "team_id": 73650,
+          "team_name": "Sanson",
+          "team_uci_code": null,
+          "team_pcs_slug": "sanson-1966",
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": 13.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 5,
+          "status": "FIN",
+          "rider_id": 1746,
+          "rider_name": "Dino Zandegu",
+          "rider_nationality": "IT",
+          "rider_pcs_slug": "dino-zandegu",
+          "rider_fc_id": null,
+          "team_id": 73653,
+          "team_name": "Bianchi - Mobylette",
+          "team_uci_code": null,
+          "team_pcs_slug": "bianchi-mobylette-1966",
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": 10.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 6,
+          "status": "FIN",
+          "rider_id": 1678,
+          "rider_name": "Ambrogio Colombo",
+          "rider_nationality": "IT",
+          "rider_pcs_slug": "ambrogio-colombo",
+          "rider_fc_id": null,
+          "team_id": 73055,
+          "team_name": "Molteni",
+          "team_uci_code": null,
+          "team_pcs_slug": "molteni-1966",
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": 7.0,
+          "bonifications": null,
+          "source": "pcs"
+        }
+      ]
+    }
+  ],
+  "secondary_classifications": []
+}

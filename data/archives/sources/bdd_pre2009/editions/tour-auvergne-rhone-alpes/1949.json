@@ -1,0 +1,143 @@
+{
+  "race": {
+    "id": 25,
+    "slug": "tour-auvergne-rhone-alpes",
+    "name": "Tour Auvergne Rhone Alpes",
+    "country": null,
+    "category": null,
+    "pcs_race_slug": "tour-auvergne-rhone-alpes",
+    "fc_race_id": null
+  },
+  "edition": {
+    "id": 1844,
+    "year": 1949,
+    "start_date": null,
+    "end_date": null,
+    "source": "pcs",
+    "sources": [
+      "pcs"
+    ]
+  },
+  "stages": [
+    {
+      "stage_number": "GC",
+      "stage_date": null,
+      "departure_city": null,
+      "arrival_city": null,
+      "distance_km": null,
+      "stage_type": "RR",
+      "results_count": 6,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 233,
+          "rider_name": "Pierre Molineris",
+          "rider_nationality": "FR",
+          "rider_pcs_slug": "pierre-molineris",
+          "rider_fc_id": null,
+          "team_id": 74581,
+          "team_name": "Red",
+          "team_uci_code": null,
+          "team_pcs_slug": "red-1949",
+          "time_seconds": 30638,
+          "gap_seconds": 0,
+          "points": 50.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 2,
+          "status": "FIN",
+          "rider_id": 1315,
+          "rider_name": "Jacques Marinelli",
+          "rider_nationality": "FR",
+          "rider_pcs_slug": "jacques-marinelli",
+          "rider_fc_id": null,
+          "team_id": 74582,
+          "team_name": "Alcyon - Dunlop",
+          "team_uci_code": null,
+          "team_pcs_slug": "alcyon-dunlop-1949",
+          "time_seconds": null,
+          "gap_seconds": 91,
+          "points": 30.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 3,
+          "status": "FIN",
+          "rider_id": 181,
+          "rider_name": "Lucien Teisseire",
+          "rider_nationality": "FR",
+          "rider_pcs_slug": "luc-teisseire",
+          "rider_fc_id": null,
+          "team_id": 74583,
+          "team_name": "Métropole - Dunlop",
+          "team_uci_code": null,
+          "team_pcs_slug": "metropole-dunlop-1949",
+          "time_seconds": null,
+          "gap_seconds": 114,
+          "points": 18.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 4,
+          "status": "FIN",
+          "rider_id": 188,
+          "rider_name": "Raymond Impanis",
+          "rider_nationality": "BE",
+          "rider_pcs_slug": "raymond-impanis",
+          "rider_fc_id": null,
+          "team_id": 74582,
+          "team_name": "Alcyon - Dunlop",
+          "team_uci_code": null,
+          "team_pcs_slug": "alcyon-dunlop-1949",
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": 13.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 5,
+          "status": "FIN",
+          "rider_id": 231,
+          "rider_name": "Armand Baeyens",
+          "rider_nationality": "BE",
+          "rider_pcs_slug": "armand-baeyens",
+          "rider_fc_id": null,
+          "team_id": 74584,
+          "team_name": "Garin - Wolber",
+          "team_uci_code": null,
+          "team_pcs_slug": "garin-wolber-1949",
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": 10.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 6,
+          "status": "FIN",
+          "rider_id": 16528,
+          "rider_name": "Basile Decortes",
+          "rider_nationality": "FR",
+          "rider_pcs_slug": "basile-decortes",
+          "rider_fc_id": null,
+          "team_id": 74585,
+          "team_name": "Stella - Dunlop",
+          "team_uci_code": null,
+          "team_pcs_slug": "stella-dunlop-1949",
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": 7.0,
+          "bonifications": null,
+          "source": "pcs"
+        }
+      ]
+    }
+  ],
+  "secondary_classifications": []
+}

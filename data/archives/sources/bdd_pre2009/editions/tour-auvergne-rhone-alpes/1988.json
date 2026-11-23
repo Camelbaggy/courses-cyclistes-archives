@@ -1,0 +1,143 @@
+{
+  "race": {
+    "id": 25,
+    "slug": "tour-auvergne-rhone-alpes",
+    "name": "Tour Auvergne Rhone Alpes",
+    "country": null,
+    "category": null,
+    "pcs_race_slug": "tour-auvergne-rhone-alpes",
+    "fc_race_id": null
+  },
+  "edition": {
+    "id": 1807,
+    "year": 1988,
+    "start_date": null,
+    "end_date": null,
+    "source": "pcs",
+    "sources": [
+      "pcs"
+    ]
+  },
+  "stages": [
+    {
+      "stage_number": "GC",
+      "stage_date": null,
+      "departure_city": null,
+      "arrival_city": null,
+      "distance_km": null,
+      "stage_type": "ITT",
+      "results_count": 6,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 13887,
+          "rider_name": "Luis Alberto Herrera",
+          "rider_nationality": "CO",
+          "rider_pcs_slug": "luis-alberto-herrera",
+          "rider_fc_id": null,
+          "team_id": 74553,
+          "team_name": "Café de Colombia",
+          "team_uci_code": null,
+          "team_pcs_slug": "cafe-de-colombia-1988",
+          "time_seconds": 3382,
+          "gap_seconds": 0,
+          "points": 50.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 2,
+          "status": "FIN",
+          "rider_id": 533,
+          "rider_name": "Régis Simon",
+          "rider_nationality": "FR",
+          "rider_pcs_slug": "regis-simon",
+          "rider_fc_id": null,
+          "team_id": 72531,
+          "team_name": "RMO - Liberia - Mavic",
+          "team_uci_code": null,
+          "team_pcs_slug": "rmo-1988",
+          "time_seconds": null,
+          "gap_seconds": 104,
+          "points": 30.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 3,
+          "status": "FIN",
+          "rider_id": 2202,
+          "rider_name": "Jean-Claude Leclercq",
+          "rider_nationality": "FR",
+          "rider_pcs_slug": "jean-claude-leclercq",
+          "rider_fc_id": null,
+          "team_id": 72510,
+          "team_name": "Weinmann - La Suisse",
+          "team_uci_code": null,
+          "team_pcs_slug": "weinmann-1988",
+          "time_seconds": null,
+          "gap_seconds": 134,
+          "points": 18.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 4,
+          "status": "FIN",
+          "rider_id": 9445,
+          "rider_name": "Niki Rüttimann",
+          "rider_nationality": "CH",
+          "rider_pcs_slug": "niki-ruttimann",
+          "rider_fc_id": null,
+          "team_id": 72510,
+          "team_name": "Weinmann - La Suisse",
+          "team_uci_code": null,
+          "team_pcs_slug": "weinmann-1988",
+          "time_seconds": null,
+          "gap_seconds": 145,
+          "points": 13.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 5,
+          "status": "FIN",
+          "rider_id": 2259,
+          "rider_name": "Mariano Sanchez",
+          "rider_nationality": "ES",
+          "rider_pcs_slug": "mariano-sanchez-martinez",
+          "rider_fc_id": null,
+          "team_id": 73958,
+          "team_name": "Teka",
+          "team_uci_code": null,
+          "team_pcs_slug": "teka-1988",
+          "time_seconds": null,
+          "gap_seconds": 169,
+          "points": 10.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 6,
+          "status": "FIN",
+          "rider_id": 2110,
+          "rider_name": "Eric Caritoux",
+          "rider_nationality": "FR",
+          "rider_pcs_slug": "eric-caritoux",
+          "rider_fc_id": null,
+          "team_id": 72499,
+          "team_name": "KAS - Canal 10 - Mavic",
+          "team_uci_code": null,
+          "team_pcs_slug": "kas-canal-10-1988",
+          "time_seconds": null,
+          "gap_seconds": 191,
+          "points": 7.0,
+          "bonifications": null,
+          "source": "pcs"
+        }
+      ]
+    }
+  ],
+  "secondary_classifications": []
+}

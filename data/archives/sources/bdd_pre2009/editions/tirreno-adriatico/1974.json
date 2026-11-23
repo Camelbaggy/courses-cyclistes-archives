@@ -1,0 +1,143 @@
+{
+  "race": {
+    "id": 14,
+    "slug": "tirreno-adriatico",
+    "name": "Tirreno Adriatico",
+    "country": null,
+    "category": null,
+    "pcs_race_slug": "tirreno-adriatico",
+    "fc_race_id": null
+  },
+  "edition": {
+    "id": 1244,
+    "year": 1974,
+    "start_date": null,
+    "end_date": null,
+    "source": "pcs",
+    "sources": [
+      "pcs"
+    ]
+  },
+  "stages": [
+    {
+      "stage_number": "GC",
+      "stage_date": null,
+      "departure_city": null,
+      "arrival_city": null,
+      "distance_km": null,
+      "stage_type": "ITT",
+      "results_count": 6,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 397,
+          "rider_name": "Roger de Vlaeminck",
+          "rider_nationality": "BE",
+          "rider_pcs_slug": "roger-de-vlaeminck",
+          "rider_fc_id": null,
+          "team_id": 72920,
+          "team_name": "Brooklyn",
+          "team_uci_code": null,
+          "team_pcs_slug": "brooklyn-1974",
+          "time_seconds": 0,
+          "gap_seconds": 0,
+          "points": 50.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 2,
+          "status": "FIN",
+          "rider_id": 1945,
+          "rider_name": "Knut Knudsen",
+          "rider_nationality": "NO",
+          "rider_pcs_slug": "knut-knudsen",
+          "rider_fc_id": null,
+          "team_id": 72921,
+          "team_name": "Jolly Ceramica",
+          "team_uci_code": null,
+          "team_pcs_slug": "jolly-ceramica-1974",
+          "time_seconds": null,
+          "gap_seconds": 53,
+          "points": 30.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 3,
+          "status": "FIN",
+          "rider_id": 1909,
+          "rider_name": "Simone Fraccaro",
+          "rider_nationality": "IT",
+          "rider_pcs_slug": "simone-fraccaro",
+          "rider_fc_id": null,
+          "team_id": 73609,
+          "team_name": "Filcas",
+          "team_uci_code": null,
+          "team_pcs_slug": "filcas-1974",
+          "time_seconds": null,
+          "gap_seconds": 67,
+          "points": 18.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 4,
+          "status": "FIN",
+          "rider_id": 9734,
+          "rider_name": "Josef Fuchs",
+          "rider_nationality": "CH",
+          "rider_pcs_slug": "josef-fuchs",
+          "rider_fc_id": null,
+          "team_id": 73606,
+          "team_name": "Filotex",
+          "team_uci_code": null,
+          "team_pcs_slug": "filotex-1974",
+          "time_seconds": null,
+          "gap_seconds": 68,
+          "points": 13.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 5,
+          "status": "FIN",
+          "rider_id": 357,
+          "rider_name": "Ferdinand Bracke",
+          "rider_nationality": "BE",
+          "rider_pcs_slug": "ferdinand-bracke",
+          "rider_fc_id": null,
+          "team_id": 72916,
+          "team_name": "Watney - Maes Pils",
+          "team_uci_code": null,
+          "team_pcs_slug": "watney-maes-pils-1974",
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": 10.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 6,
+          "status": "FIN",
+          "rider_id": 442,
+          "rider_name": "Freddy Maertens",
+          "rider_nationality": "BE",
+          "rider_pcs_slug": "freddy-maertens",
+          "rider_fc_id": null,
+          "team_id": 72918,
+          "team_name": "Carpenter - Confortluxe - Flandria",
+          "team_uci_code": null,
+          "team_pcs_slug": "carpenter-confortluxe-flandria-1974",
+          "time_seconds": null,
+          "gap_seconds": 78,
+          "points": 7.0,
+          "bonifications": null,
+          "source": "pcs"
+        }
+      ]
+    }
+  ],
+  "secondary_classifications": []
+}

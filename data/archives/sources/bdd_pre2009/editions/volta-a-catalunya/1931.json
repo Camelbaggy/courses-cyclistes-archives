@@ -1,0 +1,125 @@
+{
+  "race": {
+    "id": 18,
+    "slug": "volta-a-catalunya",
+    "name": "Volta A Catalunya",
+    "country": null,
+    "category": null,
+    "pcs_race_slug": "volta-a-catalunya",
+    "fc_race_id": null
+  },
+  "edition": {
+    "id": 1398,
+    "year": 1931,
+    "start_date": null,
+    "end_date": null,
+    "source": "pcs",
+    "sources": [
+      "pcs"
+    ]
+  },
+  "stages": [
+    {
+      "stage_number": "GC",
+      "stage_date": null,
+      "departure_city": null,
+      "arrival_city": null,
+      "distance_km": null,
+      "stage_type": "RR",
+      "results_count": 5,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 15511,
+          "rider_name": "Vicente Cebrian",
+          "rider_nationality": "ES",
+          "rider_pcs_slug": "vicente-cebrian-ferrer",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": 19812,
+          "gap_seconds": 0,
+          "points": 50.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 2,
+          "status": "FIN",
+          "rider_id": 152,
+          "rider_name": "Mariano Canardo",
+          "rider_nationality": "ES",
+          "rider_pcs_slug": "mariano-canardo",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": 1,
+          "points": 30.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 3,
+          "status": "FIN",
+          "rider_id": 3098,
+          "rider_name": "Aristide Cavallini",
+          "rider_nationality": "IT",
+          "rider_pcs_slug": "aristide-cavallini",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": 5,
+          "points": 18.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 4,
+          "status": "FIN",
+          "rider_id": 12086,
+          "rider_name": "Hermann Müller",
+          "rider_nationality": "DE",
+          "rider_pcs_slug": "hermann-muller2",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": 7,
+          "points": 13.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 5,
+          "status": "FIN",
+          "rider_id": 15512,
+          "rider_name": "Isaac Caño",
+          "rider_nationality": "ES",
+          "rider_pcs_slug": "isaac-cano",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": 10,
+          "points": 10.0,
+          "bonifications": null,
+          "source": "pcs"
+        }
+      ]
+    }
+  ],
+  "secondary_classifications": []
+}

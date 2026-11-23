@@ -1,0 +1,89 @@
+{
+  "race": {
+    "id": 25,
+    "slug": "tour-auvergne-rhone-alpes",
+    "name": "Tour Auvergne Rhone Alpes",
+    "country": null,
+    "category": null,
+    "pcs_race_slug": "tour-auvergne-rhone-alpes",
+    "fc_race_id": null
+  },
+  "edition": {
+    "id": 1827,
+    "year": 1966,
+    "start_date": null,
+    "end_date": null,
+    "source": "pcs",
+    "sources": [
+      "pcs"
+    ]
+  },
+  "stages": [
+    {
+      "stage_number": "GC",
+      "stage_date": null,
+      "departure_city": null,
+      "arrival_city": null,
+      "distance_km": null,
+      "stage_type": "RR",
+      "results_count": 3,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 1663,
+          "rider_name": "José-Antonio Momene",
+          "rider_nationality": "ES",
+          "rider_pcs_slug": "jose-antonio-momene",
+          "rider_fc_id": null,
+          "team_id": 74033,
+          "team_name": "Kas - Kaskol",
+          "team_uci_code": null,
+          "team_pcs_slug": "kas-kaskol-1966",
+          "time_seconds": 1119,
+          "gap_seconds": 0,
+          "points": 50.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 2,
+          "status": "FIN",
+          "rider_id": 1728,
+          "rider_name": "Arie den Hartog",
+          "rider_nationality": "NL",
+          "rider_pcs_slug": "arie-den-hartog",
+          "rider_fc_id": null,
+          "team_id": 73058,
+          "team_name": "Ford France - Hutchinson",
+          "team_uci_code": null,
+          "team_pcs_slug": "ford-france-hutchinson-1966",
+          "time_seconds": null,
+          "gap_seconds": 1771,
+          "points": 30.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 3,
+          "status": "FIN",
+          "rider_id": 386,
+          "rider_name": "Maurice Izier",
+          "rider_nationality": "FR",
+          "rider_pcs_slug": "maurice-izier",
+          "rider_fc_id": null,
+          "team_id": 73063,
+          "team_name": "Pelforth - Sauvage - Lejeune",
+          "team_uci_code": null,
+          "team_pcs_slug": "pelforth-sauvage-lejeune-1966",
+          "time_seconds": null,
+          "gap_seconds": 1082,
+          "points": 18.0,
+          "bonifications": null,
+          "source": "pcs"
+        }
+      ]
+    }
+  ],
+  "secondary_classifications": []
+}

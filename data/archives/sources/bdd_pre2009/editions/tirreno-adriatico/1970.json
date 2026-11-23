@@ -1,0 +1,125 @@
+{
+  "race": {
+    "id": 14,
+    "slug": "tirreno-adriatico",
+    "name": "Tirreno Adriatico",
+    "country": null,
+    "category": null,
+    "pcs_race_slug": "tirreno-adriatico",
+    "fc_race_id": null
+  },
+  "edition": {
+    "id": 1268,
+    "year": 1970,
+    "start_date": null,
+    "end_date": null,
+    "source": "pcs",
+    "sources": [
+      "pcs"
+    ]
+  },
+  "stages": [
+    {
+      "stage_number": "GC",
+      "stage_date": null,
+      "departure_city": null,
+      "arrival_city": null,
+      "distance_km": null,
+      "stage_type": "ITT",
+      "results_count": 5,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 339,
+          "rider_name": "Felice Gimondi",
+          "rider_nationality": "IT",
+          "rider_pcs_slug": "felice-gimondi",
+          "rider_fc_id": null,
+          "team_id": 72981,
+          "team_name": "Salvarani",
+          "team_uci_code": null,
+          "team_pcs_slug": "salvarani-1970",
+          "time_seconds": 1441,
+          "gap_seconds": 0,
+          "points": 50.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 2,
+          "status": "FIN",
+          "rider_id": 9842,
+          "rider_name": "Antoon Houbrechts",
+          "rider_nationality": "BE",
+          "rider_pcs_slug": "anthony-houbrechts",
+          "rider_fc_id": null,
+          "team_id": 72981,
+          "team_name": "Salvarani",
+          "team_uci_code": null,
+          "team_pcs_slug": "salvarani-1970",
+          "time_seconds": null,
+          "gap_seconds": 7,
+          "points": 30.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 3,
+          "status": "FIN",
+          "rider_id": 396,
+          "rider_name": "Italo Zilioli",
+          "rider_nationality": "IT",
+          "rider_pcs_slug": "italo-zilioli",
+          "rider_fc_id": null,
+          "team_id": 72980,
+          "team_name": "Faema - Faemino",
+          "team_uci_code": null,
+          "team_pcs_slug": "faema-faemino-1970",
+          "time_seconds": null,
+          "gap_seconds": 35,
+          "points": 18.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 4,
+          "status": "FIN",
+          "rider_id": 10077,
+          "rider_name": "Willy Vekemans",
+          "rider_nationality": "BE",
+          "rider_pcs_slug": "willy-vekemans",
+          "rider_fc_id": null,
+          "team_id": 73630,
+          "team_name": "Hertekamp - Magniflex",
+          "team_uci_code": null,
+          "team_pcs_slug": "hertekamp-magniflex-1970",
+          "time_seconds": null,
+          "gap_seconds": 39,
+          "points": 13.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 5,
+          "status": "FIN",
+          "rider_id": 1635,
+          "rider_name": "Vittorio Adorni",
+          "rider_nationality": "IT",
+          "rider_pcs_slug": "vittorio-adorni",
+          "rider_fc_id": null,
+          "team_id": 72988,
+          "team_name": "Scic",
+          "team_uci_code": null,
+          "team_pcs_slug": "scic-1970",
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": 10.0,
+          "bonifications": null,
+          "source": "pcs"
+        }
+      ]
+    }
+  ],
+  "secondary_classifications": []
+}

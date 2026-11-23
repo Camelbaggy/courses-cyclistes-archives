@@ -1,0 +1,125 @@
+{
+  "race": {
+    "id": 14,
+    "slug": "tirreno-adriatico",
+    "name": "Tirreno Adriatico",
+    "country": null,
+    "category": null,
+    "pcs_race_slug": "tirreno-adriatico",
+    "fc_race_id": null
+  },
+  "edition": {
+    "id": 1202,
+    "year": 1981,
+    "start_date": null,
+    "end_date": null,
+    "source": "pcs",
+    "sources": [
+      "pcs"
+    ]
+  },
+  "stages": [
+    {
+      "stage_number": "GC",
+      "stage_date": null,
+      "departure_city": null,
+      "arrival_city": null,
+      "distance_km": null,
+      "stage_type": "ITT",
+      "results_count": 5,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 9808,
+          "rider_name": "Roy Schuiten",
+          "rider_nationality": "NL",
+          "rider_pcs_slug": "roy-schuiten",
+          "rider_fc_id": null,
+          "team_id": 72738,
+          "team_name": "Kotter - G.b.c.",
+          "team_uci_code": null,
+          "team_pcs_slug": "kotter-g.b.c.-1981",
+          "time_seconds": null,
+          "gap_seconds": 0,
+          "points": 50.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 2,
+          "status": "FIN",
+          "rider_id": 9626,
+          "rider_name": "Raniero Gradi",
+          "rider_nationality": "IT",
+          "rider_pcs_slug": "raniero-gradi",
+          "rider_fc_id": null,
+          "team_id": 72752,
+          "team_name": "Sammontana",
+          "team_uci_code": null,
+          "team_pcs_slug": "sammontana-1981",
+          "time_seconds": null,
+          "gap_seconds": 35,
+          "points": 30.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 3,
+          "status": "FIN",
+          "rider_id": 434,
+          "rider_name": "Francesco Moser",
+          "rider_nationality": "IT",
+          "rider_pcs_slug": "francesco-moser",
+          "rider_fc_id": null,
+          "team_id": 72737,
+          "team_name": "Famcucine - Campagnolo",
+          "team_uci_code": null,
+          "team_pcs_slug": "famcucine-campagnolo-1981",
+          "time_seconds": null,
+          "gap_seconds": 0,
+          "points": 18.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 4,
+          "status": "FIN",
+          "rider_id": 492,
+          "rider_name": "Stefan Mutter",
+          "rider_nationality": "CH",
+          "rider_pcs_slug": "stefan-mutter",
+          "rider_fc_id": null,
+          "team_id": 72753,
+          "team_name": "Cilo - Aufina",
+          "team_uci_code": null,
+          "team_pcs_slug": "cilo-aufina-1981",
+          "time_seconds": null,
+          "gap_seconds": 72,
+          "points": 13.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 5,
+          "status": "FIN",
+          "rider_id": 1924,
+          "rider_name": "Maurice le Guilloux",
+          "rider_nationality": "FR",
+          "rider_pcs_slug": "maurice-le-guilloux",
+          "rider_fc_id": null,
+          "team_id": 72747,
+          "team_name": "Renault - Elf - Gitane",
+          "team_uci_code": null,
+          "team_pcs_slug": "renault-elf-1981",
+          "time_seconds": null,
+          "gap_seconds": 126,
+          "points": 10.0,
+          "bonifications": null,
+          "source": "pcs"
+        }
+      ]
+    }
+  ],
+  "secondary_classifications": []
+}

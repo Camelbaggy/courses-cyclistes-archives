@@ -1,0 +1,143 @@
+{
+  "race": {
+    "id": 15,
+    "slug": "tour-de-suisse",
+    "name": "Tour De Suisse",
+    "country": null,
+    "category": null,
+    "pcs_race_slug": "tour-de-suisse",
+    "fc_race_id": null
+  },
+  "edition": {
+    "id": 1363,
+    "year": 1947,
+    "start_date": null,
+    "end_date": null,
+    "source": "pcs",
+    "sources": [
+      "pcs"
+    ]
+  },
+  "stages": [
+    {
+      "stage_number": "GC",
+      "stage_date": null,
+      "departure_city": null,
+      "arrival_city": null,
+      "distance_km": null,
+      "stage_type": "RR",
+      "results_count": 6,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 211,
+          "rider_name": "Désiré Keteleer",
+          "rider_nationality": "BE",
+          "rider_pcs_slug": "desire-keteleer",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": 4101,
+          "gap_seconds": 0,
+          "points": 50.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 2,
+          "status": "FIN",
+          "rider_id": 11278,
+          "rider_name": "Frans Pauwels",
+          "rider_nationality": "NL",
+          "rider_pcs_slug": "frans-pauwels",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": 4927,
+          "points": 30.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 3,
+          "status": "FIN",
+          "rider_id": 1222,
+          "rider_name": "Jean-Marie Goasmat",
+          "rider_nationality": "FR",
+          "rider_pcs_slug": "jean-marie-goasmat",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": 4826,
+          "points": 18.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 4,
+          "status": "FIN",
+          "rider_id": 1298,
+          "rider_name": "Léo Weilenmann",
+          "rider_nationality": "CH",
+          "rider_pcs_slug": "leo-weilenmann",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": 6362,
+          "points": 13.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 5,
+          "status": "FIN",
+          "rider_id": 15377,
+          "rider_name": "Marcel Wang",
+          "rider_nationality": "LU",
+          "rider_pcs_slug": "marcel-wang",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": 8606,
+          "points": 10.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 6,
+          "status": "FIN",
+          "rider_id": 174,
+          "rider_name": "Karl Litschi",
+          "rider_nationality": "CH",
+          "rider_pcs_slug": "karl-litschi",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": 8036,
+          "points": 7.0,
+          "bonifications": null,
+          "source": "pcs"
+        }
+      ]
+    }
+  ],
+  "secondary_classifications": []
+}

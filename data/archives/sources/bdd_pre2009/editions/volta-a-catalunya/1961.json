@@ -1,0 +1,125 @@
+{
+  "race": {
+    "id": 18,
+    "slug": "volta-a-catalunya",
+    "name": "Volta A Catalunya",
+    "country": null,
+    "category": null,
+    "pcs_race_slug": "volta-a-catalunya",
+    "fc_race_id": null
+  },
+  "edition": {
+    "id": 1313,
+    "year": 1961,
+    "start_date": null,
+    "end_date": null,
+    "source": "pcs",
+    "sources": [
+      "pcs"
+    ]
+  },
+  "stages": [
+    {
+      "stage_number": "GC",
+      "stage_date": null,
+      "departure_city": null,
+      "arrival_city": null,
+      "distance_km": null,
+      "stage_type": "RR",
+      "results_count": 5,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 1796,
+          "rider_name": "Ventura Diaz",
+          "rider_nationality": "ES",
+          "rider_pcs_slug": "ventura-diaz",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": 16278,
+          "gap_seconds": 0,
+          "points": 50.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 2,
+          "status": "FIN",
+          "rider_id": 15207,
+          "rider_name": "José García Como",
+          "rider_nationality": "ES",
+          "rider_pcs_slug": "jose-garcia-coma",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": 30.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 3,
+          "status": "FIN",
+          "rider_id": 1516,
+          "rider_name": "Antonio Suarez",
+          "rider_nationality": "ES",
+          "rider_pcs_slug": "antonio-suarez",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": 18.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 4,
+          "status": "FIN",
+          "rider_id": 1627,
+          "rider_name": "Valentin Uriona",
+          "rider_nationality": "ES",
+          "rider_pcs_slug": "valentin-uriona",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": 13.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 5,
+          "status": "FIN",
+          "rider_id": 10157,
+          "rider_name": "Jaime Alomar",
+          "rider_nationality": "ES",
+          "rider_pcs_slug": "jaime-alomar",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": 10.0,
+          "bonifications": null,
+          "source": "pcs"
+        }
+      ]
+    }
+  ],
+  "secondary_classifications": []
+}

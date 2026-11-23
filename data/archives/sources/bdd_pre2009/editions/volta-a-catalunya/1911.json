@@ -1,0 +1,125 @@
+{
+  "race": {
+    "id": 18,
+    "slug": "volta-a-catalunya",
+    "name": "Volta A Catalunya",
+    "country": null,
+    "category": null,
+    "pcs_race_slug": "volta-a-catalunya",
+    "fc_race_id": null
+  },
+  "edition": {
+    "id": 1417,
+    "year": 1911,
+    "start_date": null,
+    "end_date": null,
+    "source": "pcs",
+    "sources": [
+      "pcs"
+    ]
+  },
+  "stages": [
+    {
+      "stage_number": "GC",
+      "stage_date": null,
+      "departure_city": null,
+      "arrival_city": null,
+      "distance_km": null,
+      "stage_type": "RR",
+      "results_count": 5,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 15599,
+          "rider_name": "Sebastián Masdeu",
+          "rider_nationality": "ES",
+          "rider_pcs_slug": "sebastian-masdeu",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": 24385,
+          "gap_seconds": 0,
+          "points": 50.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 2,
+          "status": "FIN",
+          "rider_id": 15591,
+          "rider_name": "Vicente Blanco",
+          "rider_nationality": "ES",
+          "rider_pcs_slug": "vicente-blanco",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": 1,
+          "points": 30.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 3,
+          "status": "FIN",
+          "rider_id": 15585,
+          "rider_name": "José Magdalena",
+          "rider_nationality": "ES",
+          "rider_pcs_slug": "jose-magdalena",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": 3,
+          "points": 18.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 4,
+          "status": "FIN",
+          "rider_id": 15600,
+          "rider_name": "Manuel Planell",
+          "rider_nationality": "ES",
+          "rider_pcs_slug": "manuel-planell",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": 625,
+          "points": 13.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 5,
+          "status": "FIN",
+          "rider_id": 15601,
+          "rider_name": "José Bonet",
+          "rider_nationality": "ES",
+          "rider_pcs_slug": "jose-bonet",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": 1153,
+          "points": 10.0,
+          "bonifications": null,
+          "source": "pcs"
+        }
+      ]
+    }
+  ],
+  "secondary_classifications": []
+}

@@ -1,0 +1,89 @@
+{
+  "race": {
+    "id": 25,
+    "slug": "tour-auvergne-rhone-alpes",
+    "name": "Tour Auvergne Rhone Alpes",
+    "country": null,
+    "category": null,
+    "pcs_race_slug": "tour-auvergne-rhone-alpes",
+    "fc_race_id": null
+  },
+  "edition": {
+    "id": 1831,
+    "year": 1962,
+    "start_date": null,
+    "end_date": null,
+    "source": "pcs",
+    "sources": [
+      "pcs"
+    ]
+  },
+  "stages": [
+    {
+      "stage_number": "GC",
+      "stage_date": null,
+      "departure_city": null,
+      "arrival_city": null,
+      "distance_km": null,
+      "stage_type": "RR",
+      "results_count": 3,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 10336,
+          "rider_name": "Frans De Mulder",
+          "rider_nationality": "BE",
+          "rider_pcs_slug": "frans-de-mulder",
+          "rider_fc_id": null,
+          "team_id": 74055,
+          "team_name": "Wiel's - Groene Leeuw",
+          "team_uci_code": null,
+          "team_pcs_slug": "wiels-groene-leeuw-1962",
+          "time_seconds": 2114,
+          "gap_seconds": 0,
+          "points": 50.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 2,
+          "status": "FIN",
+          "rider_id": 921,
+          "rider_name": "Pierre Everaert",
+          "rider_nationality": "FR",
+          "rider_pcs_slug": "pierre-everaert",
+          "rider_fc_id": null,
+          "team_id": 73104,
+          "team_name": "Saint-Raphaël - Helyett - Hutchinso..",
+          "team_uci_code": null,
+          "team_pcs_slug": "saint-raphael-helyett-hutchinson-1962",
+          "time_seconds": null,
+          "gap_seconds": 6264,
+          "points": 30.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 3,
+          "status": "FIN",
+          "rider_id": 255,
+          "rider_name": "Jean Forestier",
+          "rider_nationality": "FR",
+          "rider_pcs_slug": "jean-forestier",
+          "rider_fc_id": null,
+          "team_id": 74275,
+          "team_name": "Gitane - Leroux - Dunlop - R. Gemin..",
+          "team_uci_code": null,
+          "team_pcs_slug": "gitane-1962",
+          "time_seconds": null,
+          "gap_seconds": 2629,
+          "points": 18.0,
+          "bonifications": null,
+          "source": "pcs"
+        }
+      ]
+    }
+  ],
+  "secondary_classifications": []
+}

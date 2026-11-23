@@ -1,0 +1,143 @@
+{
+  "race": {
+    "id": 15,
+    "slug": "tour-de-suisse",
+    "name": "Tour De Suisse",
+    "country": null,
+    "category": null,
+    "pcs_race_slug": "tour-de-suisse",
+    "fc_race_id": null
+  },
+  "edition": {
+    "id": 1374,
+    "year": 1941,
+    "start_date": null,
+    "end_date": null,
+    "source": "pcs",
+    "sources": [
+      "pcs"
+    ]
+  },
+  "stages": [
+    {
+      "stage_number": "GC",
+      "stage_date": null,
+      "departure_city": null,
+      "arrival_city": null,
+      "distance_km": null,
+      "stage_type": "RR",
+      "results_count": 6,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 1234,
+          "rider_name": "Robert Zimmermann",
+          "rider_nationality": "CH",
+          "rider_pcs_slug": "robert-zimmermann",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": 1844,
+          "gap_seconds": 0,
+          "points": 50.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 2,
+          "status": "FIN",
+          "rider_id": 1263,
+          "rider_name": "Josef Wagner",
+          "rider_nationality": "CH",
+          "rider_pcs_slug": "josef-wagner",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": 0,
+          "points": 30.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 3,
+          "status": "FIN",
+          "rider_id": 3204,
+          "rider_name": "Werner Buchwalder",
+          "rider_nationality": "CH",
+          "rider_pcs_slug": "werner-buchwalder",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": 0,
+          "points": 18.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 4,
+          "status": "FIN",
+          "rider_id": 3326,
+          "rider_name": "Ferdinand Kübler",
+          "rider_nationality": "CH",
+          "rider_pcs_slug": "ferdinand-kubler",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": 702,
+          "points": 13.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 5,
+          "status": "FIN",
+          "rider_id": 234,
+          "rider_name": "Walter Diggelmann",
+          "rider_nationality": "CH",
+          "rider_pcs_slug": "walter-diggelmann",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": 1805,
+          "points": 10.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 6,
+          "status": "FIN",
+          "rider_id": 15411,
+          "rider_name": "Hans Martin",
+          "rider_nationality": "CH",
+          "rider_pcs_slug": "hans-martin",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": 2332,
+          "points": 7.0,
+          "bonifications": null,
+          "source": "pcs"
+        }
+      ]
+    }
+  ],
+  "secondary_classifications": []
+}

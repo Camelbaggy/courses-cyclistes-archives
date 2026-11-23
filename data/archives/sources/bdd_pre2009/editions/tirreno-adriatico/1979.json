@@ -1,0 +1,125 @@
+{
+  "race": {
+    "id": 14,
+    "slug": "tirreno-adriatico",
+    "name": "Tirreno Adriatico",
+    "country": null,
+    "category": null,
+    "pcs_race_slug": "tirreno-adriatico",
+    "fc_race_id": null
+  },
+  "edition": {
+    "id": 1214,
+    "year": 1979,
+    "start_date": null,
+    "end_date": null,
+    "source": "pcs",
+    "sources": [
+      "pcs"
+    ]
+  },
+  "stages": [
+    {
+      "stage_number": "GC",
+      "stage_date": null,
+      "departure_city": null,
+      "arrival_city": null,
+      "distance_km": null,
+      "stage_type": "ITT",
+      "results_count": 5,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 1945,
+          "rider_name": "Knut Knudsen",
+          "rider_nationality": "NO",
+          "rider_pcs_slug": "knut-knudsen",
+          "rider_fc_id": null,
+          "team_id": 72796,
+          "team_name": "Bianchi - Faema",
+          "team_uci_code": null,
+          "team_pcs_slug": "bianchi-1979",
+          "time_seconds": 0,
+          "gap_seconds": 0,
+          "points": 50.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 2,
+          "status": "FIN",
+          "rider_id": 9808,
+          "rider_name": "Roy Schuiten",
+          "rider_nationality": "NL",
+          "rider_pcs_slug": "roy-schuiten",
+          "rider_fc_id": null,
+          "team_id": 72795,
+          "team_name": "Scic",
+          "team_uci_code": null,
+          "team_pcs_slug": "scic-1979",
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": 30.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 3,
+          "status": "FIN",
+          "rider_id": 519,
+          "rider_name": "Fons de Wolf",
+          "rider_nationality": "BE",
+          "rider_pcs_slug": "fons-de-wolf",
+          "rider_fc_id": null,
+          "team_id": 73991,
+          "team_name": "Lano - Boule d'Or",
+          "team_uci_code": null,
+          "team_pcs_slug": "lano-boule-d-or-1979",
+          "time_seconds": null,
+          "gap_seconds": 108,
+          "points": 18.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 4,
+          "status": "FIN",
+          "rider_id": 541,
+          "rider_name": "Giuseppe Saronni",
+          "rider_nationality": "IT",
+          "rider_pcs_slug": "giuseppe-saronni",
+          "rider_fc_id": null,
+          "team_id": 72795,
+          "team_name": "Scic",
+          "team_uci_code": null,
+          "team_pcs_slug": "scic-1979",
+          "time_seconds": null,
+          "gap_seconds": 1,
+          "points": 13.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 5,
+          "status": "FIN",
+          "rider_id": 2091,
+          "rider_name": "Jan van Houwelingen",
+          "rider_nationality": "NL",
+          "rider_pcs_slug": "jan-van-houwelingen",
+          "rider_fc_id": null,
+          "team_id": 73991,
+          "team_name": "Lano - Boule d'Or",
+          "team_uci_code": null,
+          "team_pcs_slug": "lano-boule-d-or-1979",
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": 10.0,
+          "bonifications": null,
+          "source": "pcs"
+        }
+      ]
+    }
+  ],
+  "secondary_classifications": []
+}

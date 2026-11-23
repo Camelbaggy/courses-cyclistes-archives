@@ -1,0 +1,143 @@
+{
+  "race": {
+    "id": 16,
+    "slug": "tour-de-romandie",
+    "name": "Tour De Romandie",
+    "country": null,
+    "category": null,
+    "pcs_race_slug": "tour-de-romandie",
+    "fc_race_id": null
+  },
+  "edition": {
+    "id": 1361,
+    "year": 1948,
+    "start_date": null,
+    "end_date": null,
+    "source": "pcs",
+    "sources": [
+      "pcs"
+    ]
+  },
+  "stages": [
+    {
+      "stage_number": "GC",
+      "stage_date": null,
+      "departure_city": null,
+      "arrival_city": null,
+      "distance_km": null,
+      "stage_type": "RR",
+      "results_count": 6,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 228,
+          "rider_name": "Hugo Koblet",
+          "rider_nationality": "CH",
+          "rider_pcs_slug": "hugo-koblet",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": 7656,
+          "gap_seconds": 0,
+          "points": 50.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 2,
+          "status": "FIN",
+          "rider_id": 15332,
+          "rider_name": "Hans Schütz",
+          "rider_nationality": "CH",
+          "rider_pcs_slug": "hans-schutz1",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": 136,
+          "points": 30.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 3,
+          "status": "FIN",
+          "rider_id": 187,
+          "rider_name": "Pietro Tarchini",
+          "rider_nationality": "CH",
+          "rider_pcs_slug": "pietro-tarchini",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": 18.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 4,
+          "status": "FIN",
+          "rider_id": 15351,
+          "rider_name": "Robert Lang",
+          "rider_nationality": "CH",
+          "rider_pcs_slug": "robert-lang",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": 13.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 5,
+          "status": "FIN",
+          "rider_id": 14536,
+          "rider_name": "Delio Rodríguez",
+          "rider_nationality": "ES",
+          "rider_pcs_slug": "delio-rodriguez",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": 10.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 6,
+          "status": "FIN",
+          "rider_id": 1298,
+          "rider_name": "Léo Weilenmann",
+          "rider_nationality": "CH",
+          "rider_pcs_slug": "leo-weilenmann",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": 7.0,
+          "bonifications": null,
+          "source": "pcs"
+        }
+      ]
+    }
+  ],
+  "secondary_classifications": []
+}

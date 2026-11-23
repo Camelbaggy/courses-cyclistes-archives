@@ -1,0 +1,107 @@
+{
+  "race": {
+    "id": 18,
+    "slug": "volta-a-catalunya",
+    "name": "Volta A Catalunya",
+    "country": null,
+    "category": null,
+    "pcs_race_slug": "volta-a-catalunya",
+    "fc_race_id": null
+  },
+  "edition": {
+    "id": 1373,
+    "year": 1942,
+    "start_date": null,
+    "end_date": null,
+    "source": "pcs",
+    "sources": [
+      "pcs"
+    ]
+  },
+  "stages": [
+    {
+      "stage_number": "GC",
+      "stage_date": null,
+      "departure_city": null,
+      "arrival_city": null,
+      "distance_km": null,
+      "stage_type": "RR",
+      "results_count": 4,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 14526,
+          "rider_name": "Agustín Miró",
+          "rider_nationality": "ES",
+          "rider_pcs_slug": "agust-miro",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": 13153,
+          "gap_seconds": 0,
+          "points": 50.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 2,
+          "status": "FIN",
+          "rider_id": 14572,
+          "rider_name": "Fermín Trueba",
+          "rider_nationality": "ES",
+          "rider_pcs_slug": "fermin-trueba",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": 105,
+          "points": 30.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 3,
+          "status": "FIN",
+          "rider_id": 15401,
+          "rider_name": "Fernando Murcia",
+          "rider_nationality": "ES",
+          "rider_pcs_slug": "fernando-murcia-legaz",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": 114,
+          "points": 18.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 4,
+          "status": "FIN",
+          "rider_id": 15414,
+          "rider_name": "José Martino",
+          "rider_nationality": "PT",
+          "rider_pcs_slug": "jose-martino",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": 13.0,
+          "bonifications": null,
+          "source": "pcs"
+        }
+      ]
+    }
+  ],
+  "secondary_classifications": []
+}

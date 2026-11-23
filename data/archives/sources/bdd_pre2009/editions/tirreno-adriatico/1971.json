@@ -1,0 +1,125 @@
+{
+  "race": {
+    "id": 14,
+    "slug": "tirreno-adriatico",
+    "name": "Tirreno Adriatico",
+    "country": null,
+    "category": null,
+    "pcs_race_slug": "tirreno-adriatico",
+    "fc_race_id": null
+  },
+  "edition": {
+    "id": 1262,
+    "year": 1971,
+    "start_date": null,
+    "end_date": null,
+    "source": "pcs",
+    "sources": [
+      "pcs"
+    ]
+  },
+  "stages": [
+    {
+      "stage_number": "GC",
+      "stage_date": null,
+      "departure_city": null,
+      "arrival_city": null,
+      "distance_km": null,
+      "stage_type": "RR",
+      "results_count": 5,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 1690,
+          "rider_name": "Giancarlo Polidori",
+          "rider_nationality": "IT",
+          "rider_pcs_slug": "giancarlo-polidori",
+          "rider_fc_id": null,
+          "team_id": 72970,
+          "team_name": "Scic",
+          "team_uci_code": null,
+          "team_pcs_slug": "scic-1971",
+          "time_seconds": 216,
+          "gap_seconds": 0,
+          "points": 50.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 2,
+          "status": "FIN",
+          "rider_id": 10048,
+          "rider_name": "Rini Wagtmans",
+          "rider_nationality": "NL",
+          "rider_pcs_slug": "rini-wagtmans",
+          "rider_fc_id": null,
+          "team_id": 72959,
+          "team_name": "Molteni",
+          "team_uci_code": null,
+          "team_pcs_slug": "molteni-1971",
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": 30.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 3,
+          "status": "FIN",
+          "rider_id": 448,
+          "rider_name": "Wladimiro Panizza",
+          "rider_nationality": "IT",
+          "rider_pcs_slug": "wladimiro-panizza",
+          "rider_fc_id": null,
+          "team_id": 73627,
+          "team_name": "Cosatto",
+          "team_uci_code": null,
+          "team_pcs_slug": "cosatto-1971",
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": 18.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 4,
+          "status": "FIN",
+          "rider_id": 429,
+          "rider_name": "Patrick Sercu",
+          "rider_nationality": "BE",
+          "rider_pcs_slug": "patrick-sercu",
+          "rider_fc_id": null,
+          "team_id": 72973,
+          "team_name": "Dreher",
+          "team_uci_code": null,
+          "team_pcs_slug": "dreher-1971",
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": 13.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 5,
+          "status": "FIN",
+          "rider_id": 10086,
+          "rider_name": "Giuseppe Beghetto",
+          "rider_nationality": "IT",
+          "rider_pcs_slug": "giuseppe-beghetto",
+          "rider_fc_id": null,
+          "team_id": 74247,
+          "team_name": "Zonca",
+          "team_uci_code": null,
+          "team_pcs_slug": "zonca-1971",
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": 10.0,
+          "bonifications": null,
+          "source": "pcs"
+        }
+      ]
+    }
+  ],
+  "secondary_classifications": []
+}

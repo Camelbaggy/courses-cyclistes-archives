@@ -1,0 +1,125 @@
+{
+  "race": {
+    "id": 14,
+    "slug": "tirreno-adriatico",
+    "name": "Tirreno Adriatico",
+    "country": null,
+    "category": null,
+    "pcs_race_slug": "tirreno-adriatico",
+    "fc_race_id": null
+  },
+  "edition": {
+    "id": 1220,
+    "year": 1978,
+    "start_date": null,
+    "end_date": null,
+    "source": "pcs",
+    "sources": [
+      "pcs"
+    ]
+  },
+  "stages": [
+    {
+      "stage_number": "GC",
+      "stage_date": null,
+      "departure_city": null,
+      "arrival_city": null,
+      "distance_km": null,
+      "stage_type": "ITT",
+      "results_count": 5,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 1945,
+          "rider_name": "Knut Knudsen",
+          "rider_nationality": "NO",
+          "rider_pcs_slug": "knut-knudsen",
+          "rider_fc_id": null,
+          "team_id": 72822,
+          "team_name": "Bianchi - Faema",
+          "team_uci_code": null,
+          "team_pcs_slug": "bianchi-faema-1978",
+          "time_seconds": 12,
+          "gap_seconds": 0,
+          "points": 50.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 2,
+          "status": "FIN",
+          "rider_id": 434,
+          "rider_name": "Francesco Moser",
+          "rider_nationality": "IT",
+          "rider_pcs_slug": "francesco-moser",
+          "rider_fc_id": null,
+          "team_id": 72818,
+          "team_name": "Sanson",
+          "team_uci_code": null,
+          "team_pcs_slug": "sanson-1978",
+          "time_seconds": null,
+          "gap_seconds": 45,
+          "points": 30.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 3,
+          "status": "FIN",
+          "rider_id": 9808,
+          "rider_name": "Roy Schuiten",
+          "rider_nationality": "NL",
+          "rider_pcs_slug": "roy-schuiten",
+          "rider_fc_id": null,
+          "team_id": 72819,
+          "team_name": "Scic",
+          "team_uci_code": null,
+          "team_pcs_slug": "scic-1978",
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": 18.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 4,
+          "status": "FIN",
+          "rider_id": 541,
+          "rider_name": "Giuseppe Saronni",
+          "rider_nationality": "IT",
+          "rider_pcs_slug": "giuseppe-saronni",
+          "rider_fc_id": null,
+          "team_id": 72819,
+          "team_name": "Scic",
+          "team_uci_code": null,
+          "team_pcs_slug": "scic-1978",
+          "time_seconds": null,
+          "gap_seconds": 0,
+          "points": 13.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 5,
+          "status": "FIN",
+          "rider_id": 433,
+          "rider_name": "Michel Pollentier",
+          "rider_nationality": "BE",
+          "rider_pcs_slug": "michel-pollentier",
+          "rider_fc_id": null,
+          "team_id": 72835,
+          "team_name": "Velda - Lano - Flandria",
+          "team_uci_code": null,
+          "team_pcs_slug": "flandria-velda-lano-1978",
+          "time_seconds": null,
+          "gap_seconds": 86,
+          "points": 10.0,
+          "bonifications": null,
+          "source": "pcs"
+        }
+      ]
+    }
+  ],
+  "secondary_classifications": []
+}

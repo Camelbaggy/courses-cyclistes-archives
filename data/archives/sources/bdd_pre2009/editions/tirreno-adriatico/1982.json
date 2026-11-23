@@ -1,0 +1,125 @@
+{
+  "race": {
+    "id": 14,
+    "slug": "tirreno-adriatico",
+    "name": "Tirreno Adriatico",
+    "country": null,
+    "category": null,
+    "pcs_race_slug": "tirreno-adriatico",
+    "fc_race_id": null
+  },
+  "edition": {
+    "id": 1196,
+    "year": 1982,
+    "start_date": null,
+    "end_date": null,
+    "source": "pcs",
+    "sources": [
+      "pcs"
+    ]
+  },
+  "stages": [
+    {
+      "stage_number": "GC",
+      "stage_date": null,
+      "departure_city": null,
+      "arrival_city": null,
+      "distance_km": null,
+      "stage_type": "RR",
+      "results_count": 5,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 9647,
+          "rider_name": "Gregor Braun",
+          "rider_nationality": "DE",
+          "rider_pcs_slug": "gregor-braun",
+          "rider_fc_id": null,
+          "team_id": 72721,
+          "team_name": "Capri Sonne - Campagnolo - Merckx",
+          "team_uci_code": null,
+          "team_pcs_slug": "capri-sonne-eddy-merckx-campagnolo-1982",
+          "time_seconds": 62,
+          "gap_seconds": 0,
+          "points": 50.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 2,
+          "status": "FIN",
+          "rider_id": 9632,
+          "rider_name": "Alf Segersall",
+          "rider_nationality": "SE",
+          "rider_pcs_slug": "alf-segersall",
+          "rider_fc_id": null,
+          "team_id": 72706,
+          "team_name": "Bianchi",
+          "team_uci_code": null,
+          "team_pcs_slug": "bianchi-1982",
+          "time_seconds": null,
+          "gap_seconds": 236,
+          "points": 30.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 3,
+          "status": "FIN",
+          "rider_id": 541,
+          "rider_name": "Giuseppe Saronni",
+          "rider_nationality": "IT",
+          "rider_pcs_slug": "giuseppe-saronni",
+          "rider_fc_id": null,
+          "team_id": 72707,
+          "team_name": "Del Tongo - Colnago",
+          "team_uci_code": null,
+          "team_pcs_slug": "del-tongo-colnago-1982",
+          "time_seconds": null,
+          "gap_seconds": 0,
+          "points": 18.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 4,
+          "status": "FIN",
+          "rider_id": 4571,
+          "rider_name": "Giovanni Mantovani",
+          "rider_nationality": "IT",
+          "rider_pcs_slug": "giovanni-mantovani",
+          "rider_fc_id": null,
+          "team_id": 72705,
+          "team_name": "Famcucine - Campagnolo",
+          "team_uci_code": null,
+          "team_pcs_slug": "famcucine-campagnolo-1982",
+          "time_seconds": null,
+          "gap_seconds": 270,
+          "points": 13.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 5,
+          "status": "FIN",
+          "rider_id": 535,
+          "rider_name": "Greg Lemond",
+          "rider_nationality": "US",
+          "rider_pcs_slug": "greg-lemond",
+          "rider_fc_id": null,
+          "team_id": 72716,
+          "team_name": "Renault - Elf - Gitane",
+          "team_uci_code": null,
+          "team_pcs_slug": "renault-elf-1982",
+          "time_seconds": null,
+          "gap_seconds": 27,
+          "points": 10.0,
+          "bonifications": null,
+          "source": "pcs"
+        }
+      ]
+    }
+  ],
+  "secondary_classifications": []
+}

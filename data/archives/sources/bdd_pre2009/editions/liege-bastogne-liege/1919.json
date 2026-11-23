@@ -1,0 +1,143 @@
+{
+  "race": {
+    "id": 10,
+    "slug": "liege-bastogne-liege",
+    "name": "Liège - Bastogne - Liège",
+    "country": "BE",
+    "category": "1.HC",
+    "pcs_race_slug": "liege-bastogne-liege",
+    "fc_race_id": null
+  },
+  "edition": {
+    "id": 819,
+    "year": 1919,
+    "start_date": null,
+    "end_date": null,
+    "source": "pcs",
+    "sources": [
+      "pcs"
+    ]
+  },
+  "stages": [
+    {
+      "stage_number": "GC",
+      "stage_date": null,
+      "departure_city": null,
+      "arrival_city": null,
+      "distance_km": null,
+      "stage_type": "RR",
+      "results_count": 6,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 1049,
+          "rider_name": "Léon Devos",
+          "rider_nationality": "BE",
+          "rider_pcs_slug": "leon-devos",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": 33630,
+          "gap_seconds": 0,
+          "points": 275.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 2,
+          "status": "FIN",
+          "rider_id": 12822,
+          "rider_name": "Henri Hanlet",
+          "rider_nationality": "BE",
+          "rider_pcs_slug": "henri-hanlet",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": 150,
+          "points": 200.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 3,
+          "status": "FIN",
+          "rider_id": 12844,
+          "rider_name": "Arthur Claerhout",
+          "rider_nationality": "BE",
+          "rider_pcs_slug": "arthur-claerhout",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": 390,
+          "points": 150.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 4,
+          "status": "FIN",
+          "rider_id": 12487,
+          "rider_name": "Alfons Van Hecke",
+          "rider_nationality": "BE",
+          "rider_pcs_slug": "alfons-van-hecke",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": 760,
+          "points": 120.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 5,
+          "status": "FIN",
+          "rider_id": 970,
+          "rider_name": "Camille Leroy",
+          "rider_nationality": "FR",
+          "rider_pcs_slug": "camille-leroy",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": 100.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 6,
+          "status": "FIN",
+          "rider_id": 32,
+          "rider_name": "Louis Heusghem",
+          "rider_nationality": "BE",
+          "rider_pcs_slug": "louis-heusghem",
+          "rider_fc_id": null,
+          "team_id": 73490,
+          "team_name": "La Sportive",
+          "team_uci_code": null,
+          "team_pcs_slug": "la-sportive-1919",
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": 90.0,
+          "bonifications": null,
+          "source": "pcs"
+        }
+      ]
+    }
+  ],
+  "secondary_classifications": []
+}

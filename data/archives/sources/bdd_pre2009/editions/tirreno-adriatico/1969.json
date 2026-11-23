@@ -1,0 +1,125 @@
+{
+  "race": {
+    "id": 14,
+    "slug": "tirreno-adriatico",
+    "name": "Tirreno Adriatico",
+    "country": null,
+    "category": null,
+    "pcs_race_slug": "tirreno-adriatico",
+    "fc_race_id": null
+  },
+  "edition": {
+    "id": 1274,
+    "year": 1969,
+    "start_date": null,
+    "end_date": null,
+    "source": "pcs",
+    "sources": [
+      "pcs"
+    ]
+  },
+  "stages": [
+    {
+      "stage_number": "GC",
+      "stage_date": null,
+      "departure_city": null,
+      "arrival_city": null,
+      "distance_km": null,
+      "stage_type": "ITT",
+      "results_count": 5,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 1635,
+          "rider_name": "Vittorio Adorni",
+          "rider_nationality": "IT",
+          "rider_pcs_slug": "vittorio-adorni",
+          "rider_fc_id": null,
+          "team_id": 73634,
+          "team_name": "Scic",
+          "team_uci_code": null,
+          "team_pcs_slug": "scic-1969",
+          "time_seconds": 1425,
+          "gap_seconds": 0,
+          "points": 50.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 2,
+          "status": "FIN",
+          "rider_id": 350,
+          "rider_name": "Franco Bitossi",
+          "rider_nationality": "IT",
+          "rider_pcs_slug": "franco-bitossi",
+          "rider_fc_id": null,
+          "team_id": 73002,
+          "team_name": "Filotex",
+          "team_uci_code": null,
+          "team_pcs_slug": "filotex-1969",
+          "time_seconds": null,
+          "gap_seconds": 23,
+          "points": 30.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 3,
+          "status": "FIN",
+          "rider_id": 1816,
+          "rider_name": "Celestino Vercelli",
+          "rider_nationality": "IT",
+          "rider_pcs_slug": "celestino-vercelli",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": 47,
+          "points": 18.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 4,
+          "status": "FIN",
+          "rider_id": 10079,
+          "rider_name": "Ernesto Donghi",
+          "rider_nationality": "IT",
+          "rider_pcs_slug": "ernesto-donghi",
+          "rider_fc_id": null,
+          "team_id": 73637,
+          "team_name": "Sagit",
+          "team_uci_code": null,
+          "team_pcs_slug": "sagit-1969",
+          "time_seconds": null,
+          "gap_seconds": 54,
+          "points": 13.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 5,
+          "status": "FIN",
+          "rider_id": 10082,
+          "rider_name": "Emilio Casalini",
+          "rider_nationality": "IT",
+          "rider_pcs_slug": "emilio-casalini",
+          "rider_fc_id": null,
+          "team_id": 73634,
+          "team_name": "Scic",
+          "team_uci_code": null,
+          "team_pcs_slug": "scic-1969",
+          "time_seconds": null,
+          "gap_seconds": 57,
+          "points": 10.0,
+          "bonifications": null,
+          "source": "pcs"
+        }
+      ]
+    }
+  ],
+  "secondary_classifications": []
+}

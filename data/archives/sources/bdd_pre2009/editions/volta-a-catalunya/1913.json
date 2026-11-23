@@ -1,0 +1,143 @@
+{
+  "race": {
+    "id": 18,
+    "slug": "volta-a-catalunya",
+    "name": "Volta A Catalunya",
+    "country": null,
+    "category": null,
+    "pcs_race_slug": "volta-a-catalunya",
+    "fc_race_id": null
+  },
+  "edition": {
+    "id": 1415,
+    "year": 1913,
+    "start_date": null,
+    "end_date": null,
+    "source": "pcs",
+    "sources": [
+      "pcs"
+    ]
+  },
+  "stages": [
+    {
+      "stage_number": "GC",
+      "stage_date": null,
+      "departure_city": null,
+      "arrival_city": null,
+      "distance_km": null,
+      "stage_type": "RR",
+      "results_count": 6,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 15581,
+          "rider_name": "Antonio Crespo",
+          "rider_nationality": "ES",
+          "rider_pcs_slug": "antonio-crespo",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": 18745,
+          "gap_seconds": 0,
+          "points": 50.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 2,
+          "status": "FIN",
+          "rider_id": 15582,
+          "rider_name": "Juan Martí",
+          "rider_nationality": "ES",
+          "rider_pcs_slug": "juan-marti",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": 304,
+          "points": 30.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 3,
+          "status": "FIN",
+          "rider_id": 15583,
+          "rider_name": "Joaquin Anson",
+          "rider_nationality": "ES",
+          "rider_pcs_slug": "joaquin-anson",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": 426,
+          "points": 18.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 4,
+          "status": "FIN",
+          "rider_id": 15584,
+          "rider_name": "Pascual Service",
+          "rider_nationality": "ES",
+          "rider_pcs_slug": "pascual-service",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": 606,
+          "points": 13.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 5,
+          "status": "FIN",
+          "rider_id": 15554,
+          "rider_name": "Guillermo Antón",
+          "rider_nationality": "ES",
+          "rider_pcs_slug": "guillermo-anton",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": 1262,
+          "points": 10.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": null,
+          "status": "DNF",
+          "rider_id": 14209,
+          "rider_name": "Ramón Garcia",
+          "rider_nationality": "ES",
+          "rider_pcs_slug": "ramon-garcia-espana",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": null,
+          "points": null,
+          "bonifications": null,
+          "source": "pcs"
+        }
+      ]
+    }
+  ],
+  "secondary_classifications": []
+}

@@ -1,0 +1,143 @@
+{
+  "race": {
+    "id": 25,
+    "slug": "tour-auvergne-rhone-alpes",
+    "name": "Tour Auvergne Rhone Alpes",
+    "country": null,
+    "category": null,
+    "pcs_race_slug": "tour-auvergne-rhone-alpes",
+    "fc_race_id": null
+  },
+  "edition": {
+    "id": 1837,
+    "year": 1956,
+    "start_date": null,
+    "end_date": null,
+    "source": "pcs",
+    "sources": [
+      "pcs"
+    ]
+  },
+  "stages": [
+    {
+      "stage_number": "GC",
+      "stage_date": null,
+      "departure_city": null,
+      "arrival_city": null,
+      "distance_km": null,
+      "stage_type": "RR",
+      "results_count": 6,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 215,
+          "rider_name": "Stan Ockers",
+          "rider_nationality": "BE",
+          "rider_pcs_slug": "stan-ockers",
+          "rider_fc_id": null,
+          "team_id": 73762,
+          "team_name": "Girardengo - ICEP",
+          "team_uci_code": null,
+          "team_pcs_slug": "girardengo-icep-1956",
+          "time_seconds": 722,
+          "gap_seconds": 0,
+          "points": 50.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 2,
+          "status": "FIN",
+          "rider_id": 10503,
+          "rider_name": "Henri Denys",
+          "rider_nationality": "BE",
+          "rider_pcs_slug": "henri-denys",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": 2253,
+          "points": 30.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 3,
+          "status": "FIN",
+          "rider_id": 239,
+          "rider_name": "Antonin Rolland",
+          "rider_nationality": "FR",
+          "rider_pcs_slug": "antonin-rolland",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": 251,
+          "points": 18.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 4,
+          "status": "FIN",
+          "rider_id": 1535,
+          "rider_name": "Louis Bisilliat",
+          "rider_nationality": "FR",
+          "rider_pcs_slug": "louis-bisilliat",
+          "rider_fc_id": null,
+          "team_id": 74569,
+          "team_name": "Liberia - Hutchinson",
+          "team_uci_code": null,
+          "team_pcs_slug": "liberia-hutchinson-1956",
+          "time_seconds": null,
+          "gap_seconds": 2295,
+          "points": 13.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 5,
+          "status": "FIN",
+          "rider_id": 10394,
+          "rider_name": "Raymond Elena",
+          "rider_nationality": "FR",
+          "rider_pcs_slug": "raymond-elena",
+          "rider_fc_id": null,
+          "team_id": 74570,
+          "team_name": "Terrot - Hutchinson",
+          "team_uci_code": null,
+          "team_pcs_slug": "terrot-hutchinson-1956",
+          "time_seconds": null,
+          "gap_seconds": 1541,
+          "points": 10.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 6,
+          "status": "FIN",
+          "rider_id": 203,
+          "rider_name": "Adolphe Deledda",
+          "rider_nationality": "FR",
+          "rider_pcs_slug": "adolphe-deledda",
+          "rider_fc_id": null,
+          "team_id": 74319,
+          "team_name": "Follis - Dunlop",
+          "team_uci_code": null,
+          "team_pcs_slug": "follis-dunlop-1956",
+          "time_seconds": null,
+          "gap_seconds": 4240,
+          "points": 7.0,
+          "bonifications": null,
+          "source": "pcs"
+        }
+      ]
+    }
+  ],
+  "secondary_classifications": []
+}

@@ -1,0 +1,89 @@
+{
+  "race": {
+    "id": 25,
+    "slug": "tour-auvergne-rhone-alpes",
+    "name": "Tour Auvergne Rhone Alpes",
+    "country": null,
+    "category": null,
+    "pcs_race_slug": "tour-auvergne-rhone-alpes",
+    "fc_race_id": null
+  },
+  "edition": {
+    "id": 1832,
+    "year": 1961,
+    "start_date": null,
+    "end_date": null,
+    "source": "pcs",
+    "sources": [
+      "pcs"
+    ]
+  },
+  "stages": [
+    {
+      "stage_number": "GC",
+      "stage_date": null,
+      "departure_city": null,
+      "arrival_city": null,
+      "distance_km": null,
+      "stage_type": "RR",
+      "results_count": 3,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 10190,
+          "rider_name": "Henri De Wolf",
+          "rider_nationality": "BE",
+          "rider_pcs_slug": "henri-de-wolf",
+          "rider_fc_id": null,
+          "team_id": 74279,
+          "team_name": "Alcyon - Leroux",
+          "team_uci_code": null,
+          "team_pcs_slug": "alcyon-leroux-1961",
+          "time_seconds": 6185,
+          "gap_seconds": 0,
+          "points": 50.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 2,
+          "status": "FIN",
+          "rider_id": 311,
+          "rider_name": "Anatole Novak",
+          "rider_nationality": "FR",
+          "rider_pcs_slug": "anatole-novak",
+          "rider_fc_id": null,
+          "team_id": 74279,
+          "team_name": "Alcyon - Leroux",
+          "team_uci_code": null,
+          "team_pcs_slug": "alcyon-leroux-1961",
+          "time_seconds": null,
+          "gap_seconds": 4226,
+          "points": 30.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 3,
+          "status": "FIN",
+          "rider_id": 278,
+          "rider_name": "René Privat",
+          "rider_nationality": "FR",
+          "rider_pcs_slug": "rene-privat",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": 677,
+          "points": 18.0,
+          "bonifications": null,
+          "source": "pcs"
+        }
+      ]
+    }
+  ],
+  "secondary_classifications": []
+}

@@ -1,0 +1,143 @@
+{
+  "race": {
+    "id": 15,
+    "slug": "tour-de-suisse",
+    "name": "Tour De Suisse",
+    "country": null,
+    "category": null,
+    "pcs_race_slug": "tour-de-suisse",
+    "fc_race_id": null
+  },
+  "edition": {
+    "id": 1339,
+    "year": 1954,
+    "start_date": null,
+    "end_date": null,
+    "source": "pcs",
+    "sources": [
+      "pcs"
+    ]
+  },
+  "stages": [
+    {
+      "stage_number": "GC",
+      "stage_date": null,
+      "departure_city": null,
+      "arrival_city": null,
+      "distance_km": null,
+      "stage_type": "RR",
+      "results_count": 6,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 10793,
+          "rider_name": "Eugen Kamber",
+          "rider_nationality": "CH",
+          "rider_pcs_slug": "eugen-kamber",
+          "rider_fc_id": null,
+          "team_id": 74341,
+          "team_name": "Condor",
+          "team_uci_code": null,
+          "team_pcs_slug": "condor-1954",
+          "time_seconds": 0,
+          "gap_seconds": 0,
+          "points": 50.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 2,
+          "status": "FIN",
+          "rider_id": 10704,
+          "rider_name": "Ward Peeters",
+          "rider_nationality": "BE",
+          "rider_pcs_slug": "ward-peeters-2",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": 0,
+          "points": 30.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 3,
+          "status": "FIN",
+          "rider_id": 204,
+          "rider_name": "Fausto Coppi",
+          "rider_nationality": "IT",
+          "rider_pcs_slug": "fausto-coppi",
+          "rider_fc_id": null,
+          "team_id": 73768,
+          "team_name": "Bianchi - Pirelli",
+          "team_uci_code": null,
+          "team_pcs_slug": "bianchi-pirelli-1954",
+          "time_seconds": null,
+          "gap_seconds": 0,
+          "points": 18.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 4,
+          "status": "FIN",
+          "rider_id": 1436,
+          "rider_name": "Bruno Monti",
+          "rider_nationality": "IT",
+          "rider_pcs_slug": "bruno-monti",
+          "rider_fc_id": null,
+          "team_id": 73767,
+          "team_name": "Arbos - Bubba",
+          "team_uci_code": null,
+          "team_pcs_slug": "arbos-1954",
+          "time_seconds": null,
+          "gap_seconds": 0,
+          "points": 13.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 5,
+          "status": "FIN",
+          "rider_id": 1522,
+          "rider_name": "Michele Gismondi",
+          "rider_nationality": "IT",
+          "rider_pcs_slug": "michele-gismondi",
+          "rider_fc_id": null,
+          "team_id": 73768,
+          "team_name": "Bianchi - Pirelli",
+          "team_uci_code": null,
+          "team_pcs_slug": "bianchi-pirelli-1954",
+          "time_seconds": null,
+          "gap_seconds": 0,
+          "points": 10.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 6,
+          "status": "FIN",
+          "rider_id": 10728,
+          "rider_name": "Odino Baldarelli",
+          "rider_nationality": "IT",
+          "rider_pcs_slug": "odino-baldarelli",
+          "rider_fc_id": null,
+          "team_id": 73767,
+          "team_name": "Arbos - Bubba",
+          "team_uci_code": null,
+          "team_pcs_slug": "arbos-1954",
+          "time_seconds": null,
+          "gap_seconds": 0,
+          "points": 7.0,
+          "bonifications": null,
+          "source": "pcs"
+        }
+      ]
+    }
+  ],
+  "secondary_classifications": []
+}

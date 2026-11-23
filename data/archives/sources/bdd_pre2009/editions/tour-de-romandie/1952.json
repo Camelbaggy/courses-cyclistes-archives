@@ -1,0 +1,89 @@
+{
+  "race": {
+    "id": 16,
+    "slug": "tour-de-romandie",
+    "name": "Tour De Romandie",
+    "country": null,
+    "category": null,
+    "pcs_race_slug": "tour-de-romandie",
+    "fc_race_id": null
+  },
+  "edition": {
+    "id": 1348,
+    "year": 1952,
+    "start_date": null,
+    "end_date": null,
+    "source": "pcs",
+    "sources": [
+      "pcs"
+    ]
+  },
+  "stages": [
+    {
+      "stage_number": "GC",
+      "stage_date": null,
+      "departure_city": null,
+      "arrival_city": null,
+      "distance_km": null,
+      "stage_type": "RR",
+      "results_count": 3,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 228,
+          "rider_name": "Hugo Koblet",
+          "rider_nationality": "CH",
+          "rider_pcs_slug": "hugo-koblet",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": 109,
+          "gap_seconds": 0,
+          "points": 50.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 2,
+          "status": "FIN",
+          "rider_id": 188,
+          "rider_name": "Raymond Impanis",
+          "rider_nationality": "BE",
+          "rider_pcs_slug": "raymond-impanis",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": 109,
+          "points": 30.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 3,
+          "status": "FIN",
+          "rider_id": 250,
+          "rider_name": "Wout Wagtmans",
+          "rider_nationality": "NL",
+          "rider_pcs_slug": "wout-wagtmans",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": 0,
+          "points": 18.0,
+          "bonifications": null,
+          "source": "pcs"
+        }
+      ]
+    }
+  ],
+  "secondary_classifications": []
+}

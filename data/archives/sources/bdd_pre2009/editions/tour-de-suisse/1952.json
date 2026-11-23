@@ -1,0 +1,143 @@
+{
+  "race": {
+    "id": 15,
+    "slug": "tour-de-suisse",
+    "name": "Tour De Suisse",
+    "country": null,
+    "category": null,
+    "pcs_race_slug": "tour-de-suisse",
+    "fc_race_id": null
+  },
+  "edition": {
+    "id": 1347,
+    "year": 1952,
+    "start_date": null,
+    "end_date": null,
+    "source": "pcs",
+    "sources": [
+      "pcs"
+    ]
+  },
+  "stages": [
+    {
+      "stage_number": "GC",
+      "stage_date": null,
+      "departure_city": null,
+      "arrival_city": null,
+      "distance_km": null,
+      "stage_type": "RR",
+      "results_count": 6,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 1337,
+          "rider_name": "Emilio Croci-Torti",
+          "rider_nationality": "CH",
+          "rider_pcs_slug": "emilio-croci-torti",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": 0,
+          "gap_seconds": 0,
+          "points": 50.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 2,
+          "status": "FIN",
+          "rider_id": 10680,
+          "rider_name": "Serge Meneghetti",
+          "rider_nationality": "FR",
+          "rider_pcs_slug": "serge-meneghetti",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": 0,
+          "points": 30.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 3,
+          "status": "FIN",
+          "rider_id": 3326,
+          "rider_name": "Ferdinand Kübler",
+          "rider_nationality": "CH",
+          "rider_pcs_slug": "ferdinand-kubler",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": 0,
+          "points": 18.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 4,
+          "status": "FIN",
+          "rider_id": 234,
+          "rider_name": "Walter Diggelmann",
+          "rider_nationality": "CH",
+          "rider_pcs_slug": "walter-diggelmann",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": 0,
+          "points": 13.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 5,
+          "status": "FIN",
+          "rider_id": 3325,
+          "rider_name": "Nello Sforacchi",
+          "rider_nationality": "IT",
+          "rider_pcs_slug": "nello-sforacchi",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": 0,
+          "points": 10.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 6,
+          "status": "FIN",
+          "rider_id": 3307,
+          "rider_name": "Fritz Schär",
+          "rider_nationality": "CH",
+          "rider_pcs_slug": "fritz-schar",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": 0,
+          "points": 7.0,
+          "bonifications": null,
+          "source": "pcs"
+        }
+      ]
+    }
+  ],
+  "secondary_classifications": []
+}

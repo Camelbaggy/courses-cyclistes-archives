@@ -1,0 +1,89 @@
+{
+  "race": {
+    "id": 16,
+    "slug": "tour-de-romandie",
+    "name": "Tour De Romandie",
+    "country": null,
+    "category": null,
+    "pcs_race_slug": "tour-de-romandie",
+    "fc_race_id": null
+  },
+  "edition": {
+    "id": 1296,
+    "year": 1965,
+    "start_date": null,
+    "end_date": null,
+    "source": "pcs",
+    "sources": [
+      "pcs"
+    ]
+  },
+  "stages": [
+    {
+      "stage_number": "GC",
+      "stage_date": null,
+      "departure_city": null,
+      "arrival_city": null,
+      "distance_km": null,
+      "stage_type": "ITT",
+      "results_count": 3,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 391,
+          "rider_name": "Michele Dancelli",
+          "rider_nationality": "IT",
+          "rider_pcs_slug": "michele-dancelli",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": 170,
+          "gap_seconds": 0,
+          "points": 50.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 2,
+          "status": "FIN",
+          "rider_id": 350,
+          "rider_name": "Franco Bitossi",
+          "rider_nationality": "IT",
+          "rider_pcs_slug": "franco-bitossi",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": 196,
+          "points": 30.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 3,
+          "status": "FIN",
+          "rider_id": 392,
+          "rider_name": "Raymond Delisle",
+          "rider_nationality": "FR",
+          "rider_pcs_slug": "raymond-delisle",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": 88,
+          "points": 18.0,
+          "bonifications": null,
+          "source": "pcs"
+        }
+      ]
+    }
+  ],
+  "secondary_classifications": []
+}

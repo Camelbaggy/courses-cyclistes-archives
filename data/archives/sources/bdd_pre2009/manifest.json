@@ -1,0 +1,37 @@
+{
+  "generated_at": "2026-11-23T02:50:55.531844+00:00",
+  "max_year": 2008,
+  "counts": {
+    "races": 22,
+    "editions": 1568,
+    "stages": 5449,
+    "results": 198862,
+    "secondary_classifications": 500,
+    "riders": 16748,
+    "teams": 3477,
+    "team_rosters": 34363,
+    "files_written": 1572
+  },
+  "sources": {
+    "letour_dataset": {
+      "results": 9526,
+      "secondary_classifications": 0,
+      "team_rosters": 5554
+    },
+    "pcs": {
+      "results": 108098,
+      "secondary_classifications": 0,
+      "team_rosters": 27282
+    },
+    "preflib_00043": {
+      "results": 53194,
+      "secondary_classifications": 0,
+      "team_rosters": 0
+    },
+    "vuelta_open": {
+      "results": 28044,
+      "secondary_classifications": 500,
+      "team_rosters": 1527
+    }
+  }
+}

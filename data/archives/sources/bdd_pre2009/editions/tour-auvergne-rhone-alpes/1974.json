@@ -1,0 +1,89 @@
+{
+  "race": {
+    "id": 25,
+    "slug": "tour-auvergne-rhone-alpes",
+    "name": "Tour Auvergne Rhone Alpes",
+    "country": null,
+    "category": null,
+    "pcs_race_slug": "tour-auvergne-rhone-alpes",
+    "fc_race_id": null
+  },
+  "edition": {
+    "id": 1821,
+    "year": 1974,
+    "start_date": null,
+    "end_date": null,
+    "source": "pcs",
+    "sources": [
+      "pcs"
+    ]
+  },
+  "stages": [
+    {
+      "stage_number": "GC",
+      "stage_date": null,
+      "departure_city": null,
+      "arrival_city": null,
+      "distance_km": null,
+      "stage_type": "RR",
+      "results_count": 3,
+      "results": [
+        {
+          "rank": 1,
+          "status": "FIN",
+          "rider_id": 1803,
+          "rider_name": "Jésus Manzaneque",
+          "rider_nationality": "ES",
+          "rider_pcs_slug": "jesus-manzaneque",
+          "rider_fc_id": null,
+          "team_id": 74011,
+          "team_name": "La Casera - Peña Bahamontes",
+          "team_uci_code": null,
+          "team_pcs_slug": "la-casera-pena-bahamontes-1974",
+          "time_seconds": 3135,
+          "gap_seconds": 0,
+          "points": 50.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 2,
+          "status": "FIN",
+          "rider_id": 1893,
+          "rider_name": "Bernard Croyet",
+          "rider_nationality": "FR",
+          "rider_pcs_slug": "bernard-croyet",
+          "rider_fc_id": null,
+          "team_id": null,
+          "team_name": null,
+          "team_uci_code": null,
+          "team_pcs_slug": null,
+          "time_seconds": null,
+          "gap_seconds": 5082,
+          "points": 30.0,
+          "bonifications": null,
+          "source": "pcs"
+        },
+        {
+          "rank": 3,
+          "status": "FIN",
+          "rider_id": 1899,
+          "rider_name": "Frans van Looy",
+          "rider_nationality": "BE",
+          "rider_pcs_slug": "frans-van-looy",
+          "rider_fc_id": null,
+          "team_id": 72918,
+          "team_name": "Carpenter - Confortluxe - Flandria",
+          "team_uci_code": null,
+          "team_pcs_slug": "carpenter-confortluxe-flandria-1974",
+          "time_seconds": null,
+          "gap_seconds": 4511,
+          "points": 18.0,
+          "bonifications": null,
+          "source": "pcs"
+        }
+      ]
+    }
+  ],
+  "secondary_classifications": []
+}
