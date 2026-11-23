@@ -5639,6 +5639,11 @@
   "essais": 1,
   "regle": 2
  },
+ "anc_belgique/turin_bruxelles1930.html": {
+  "dernier_essai": "2026-11-23T03:41:38Z",
+  "essais": 1,
+  "regle": 2
+ },
  "anc_belgique/wattrelos_meulebeke_1975.html": {
   "dernier_essai": "2026-11-19T00:23:06Z",
   "essais": 2,
@@ -20644,6 +20649,36 @@
   "essais": 1,
   "regle": 2
  },
+ "anc_france_cla/trophee_ockers_1958.html": {
+  "dernier_essai": "2026-11-23T03:41:12Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/trophee_ockers_1960.html": {
+  "dernier_essai": "2026-11-23T03:41:15Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/trophee_ockers_1962.html": {
+  "dernier_essai": "2026-11-23T03:41:19Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/trouville_paris_1917.html": {
+  "dernier_essai": "2026-11-23T03:41:25Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/trouville_paris_1918.html": {
+  "dernier_essai": "2026-11-23T03:41:28Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_cla/trouville_paris_1936.html": {
+  "dernier_essai": "2026-11-23T03:41:31Z",
+  "essais": 1,
+  "regle": 2
+ },
  "anc_france_cla/valence1950.html": {
   "dernier_essai": "2026-11-20T01:06:15Z",
   "essais": 2,
@@ -23394,6 +23429,21 @@
   "essais": 1,
   "regle": 2
  },
+ "anc_france_eta/trophee_lorraine_bourgogne_1931.html": {
+  "dernier_essai": "2026-11-23T03:40:59Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_eta/trophee_lorraine_bourgogne_1932.html": {
+  "dernier_essai": "2026-11-23T03:41:03Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_france_eta/trophee_lorraine_bourgogne_1933.html": {
+  "dernier_essai": "2026-11-23T03:41:06Z",
+  "essais": 1,
+  "regle": 2
+ },
  "anc_france_eta/var1957.html": {
   "dernier_essai": "2026-11-23T01:56:16Z",
   "essais": 1,
@@ -26129,6 +26179,61 @@
   "essais": 1,
   "regle": 2
  },
+ "anc_italie/umbria_1910.html": {
+  "dernier_essai": "2026-11-23T03:41:47Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/umbria_1911.html": {
+  "dernier_essai": "2026-11-23T03:41:51Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/umbria_1912.html": {
+  "dernier_essai": "2026-11-23T03:41:54Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/umbria_1919.html": {
+  "dernier_essai": "2026-11-23T03:41:57Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/umbria_1923.html": {
+  "dernier_essai": "2026-11-23T03:42:00Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/umbria_1924.html": {
+  "dernier_essai": "2026-11-23T03:42:03Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/umbria_1926.html": {
+  "dernier_essai": "2026-11-23T03:42:07Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/umbria_1930.html": {
+  "dernier_essai": "2026-11-23T03:42:10Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/umbria_1931.html": {
+  "dernier_essai": "2026-11-23T03:42:13Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/umbria_1932.html": {
+  "dernier_essai": "2026-11-23T03:42:16Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_italie/umbria_1933.html": {
+  "dernier_essai": "2026-11-23T03:42:19Z",
+  "essais": 1,
+  "regle": 2
+ },
  "anc_monde/circuit_gharb_1938.html": {
   "dernier_essai": "2026-11-20T00:57:27Z",
   "essais": 2,
@@ -26487,6 +26592,36 @@
  "anc_monde/td_nouvelle_france_71.html": {
   "dernier_essai": "2026-11-23T00:21:27Z",
   "essais": 2,
+  "regle": 2
+ },
+ "anc_monde/trophee_journal_alger_1947.html": {
+  "dernier_essai": "2026-11-23T03:40:37Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_monde/trophee_journal_alger_1948.html": {
+  "dernier_essai": "2026-11-23T03:40:40Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_monde/trophee_journal_alger_1949.html": {
+  "dernier_essai": "2026-11-23T03:40:43Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_monde/trophee_journal_alger_1951.html": {
+  "dernier_essai": "2026-11-23T03:40:47Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_monde/trophee_journal_alger_1952.html": {
+  "dernier_essai": "2026-11-23T03:40:50Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_monde/trophee_journal_alger_1953.html": {
+  "dernier_essai": "2026-11-23T03:40:53Z",
+  "essais": 1,
   "regle": 2
  },
  "anc_suisse/4cantons_1946.html": {

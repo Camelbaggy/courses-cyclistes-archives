@@ -438895,66 +438895,1786 @@
    "url": "disparues/anc_trophee_int_sudouest.html"
   },
   "disparues-trophee_journal_alger": {
+   "drapeau": "alg",
+   "editions": [
+    {
+     "annee": 1947,
+     "cle": "1947",
+     "date": "1947-05-04",
+     "date_txt": "4 mai",
+     "podium": [
+      {
+       "affiche": "RITSERVELDT Albert",
+       "nat": "BEL",
+       "nom_famille": "RITSERVELDT",
+       "pays_site": "Bel",
+       "prenom": "Albert",
+       "rang": 1
+      },
+      {
+       "affiche": "CAMELLINI Fermo",
+       "nat": "ITA",
+       "nom_famille": "CAMELLINI",
+       "pays_site": "Ita",
+       "prenom": "Fermo",
+       "rang": 2
+      },
+      {
+       "affiche": "TASSIN Eloi",
+       "nat": "FRA",
+       "nom_famille": "TASSIN",
+       "pays_site": "Fra",
+       "prenom": "Eloi",
+       "rang": 3
+      }
+     ],
+     "url": "anc_monde/trophee_journal_alger_1947.html"
+    },
+    {
+     "annee": 1948,
+     "cle": "1948",
+     "date": "1948-05-08",
+     "date_txt": "8 mai",
+     "podium": [
+      {
+       "affiche": "IDÉE Emile",
+       "nat": "FRA",
+       "nom_famille": "IDÉE",
+       "pays_site": "Fra",
+       "prenom": "Emile",
+       "rang": 1
+      },
+      {
+       "affiche": "CAMELLINI Fermo",
+       "nat": "ITA",
+       "nom_famille": "CAMELLINI",
+       "pays_site": "Ita",
+       "prenom": "Fermo",
+       "rang": 2
+      },
+      {
+       "affiche": "FACHLEITNER Edouard",
+       "nat": "FRA",
+       "nom_famille": "FACHLEITNER",
+       "pays_site": "Fra",
+       "prenom": "Edouard",
+       "rang": 3
+      }
+     ],
+     "url": "anc_monde/trophee_journal_alger_1948.html"
+    },
+    {
+     "annee": 1949,
+     "cle": "1949",
+     "date": "1949-10-29",
+     "date_txt": "29 octobre",
+     "podium": [
+      {
+       "affiche": "ABBES Abdelkader",
+       "nom_famille": "ABBES",
+       "prenom": "Abdelkader",
+       "rang": 1
+      },
+      {
+       "affiche": "GUERCY Gérard",
+       "nat": "FRA",
+       "nom_famille": "GUERCY",
+       "pays_site": "Fra",
+       "prenom": "Gérard",
+       "rang": 2
+      },
+      {
+       "affiche": "BRULÉ André",
+       "nat": "FRA",
+       "nom_famille": "BRULÉ",
+       "pays_site": "Fra",
+       "prenom": "André",
+       "rang": 3
+      }
+     ],
+     "url": "anc_monde/trophee_journal_alger_1949.html"
+    },
+    {
+     "annee": 1951,
+     "cle": "1951",
+     "date": "1951-05-27",
+     "date_txt": "27 mai",
+     "podium": [
+      {
+       "affiche": "ZELASCO Marcel",
+       "nom_famille": "ZELASCO",
+       "prenom": "Marcel",
+       "rang": 1
+      },
+      {
+       "affiche": "KEBAILI Ahmed",
+       "nom_famille": "KEBAILI",
+       "prenom": "Ahmed",
+       "rang": 2
+      },
+      {
+       "affiche": "REDOLFI Attilio",
+       "nat": "FRA",
+       "nom_famille": "REDOLFI",
+       "pays_site": "Fra",
+       "prenom": "Attilio",
+       "rang": 3
+      }
+     ],
+     "url": "anc_monde/trophee_journal_alger_1951.html"
+    },
+    {
+     "annee": 1952,
+     "cle": "1952",
+     "date": "1952-05-25",
+     "date_txt": "25 mai",
+     "podium": [
+      {
+       "affiche": "KEBAÏLI Ahmed",
+       "nom_famille": "KEBAÏLI",
+       "prenom": "Ahmed",
+       "rang": 1
+      },
+      {
+       "affiche": "VITETTA Vincent",
+       "nat": "FRA",
+       "nom_famille": "VITETTA",
+       "pays_site": "Fra",
+       "prenom": "Vincent",
+       "rang": 2
+      },
+      {
+       "affiche": "ZELASCO Marcel",
+       "nom_famille": "ZELASCO",
+       "prenom": "Marcel",
+       "rang": 3
+      }
+     ],
+     "url": "anc_monde/trophee_journal_alger_1952.html"
+    },
+    {
+     "annee": 1953,
+     "cle": "1953",
+     "date": "1953-05-16",
+     "date_txt": "16 mai",
+     "podium": [
+      {
+       "affiche": "ANASTASI Francis",
+       "nat": "FRA",
+       "nom_famille": "ANASTASI",
+       "pays_site": "Fra",
+       "prenom": "Francis",
+       "rang": 1
+      },
+      {
+       "affiche": "DELEDDA Adolphe",
+       "nat": "FRA",
+       "nom_famille": "DELEDDA",
+       "pays_site": "Fra",
+       "prenom": "Adolphe",
+       "rang": 2
+      },
+      {
+       "affiche": "DOTTO Jean",
+       "nat": "FRA",
+       "nom_famille": "DOTTO",
+       "pays_site": "Fra",
+       "prenom": "Jean",
+       "rang": 3
+      }
+     ],
+     "url": "anc_monde/trophee_journal_alger_1953.html"
+    }
+   ],
    "gras": true,
    "groupe": "DIV",
    "id": "disparues-trophee_journal_alger",
+   "lu_le": "2026-11-23T03:40:34Z",
    "nom": "Trophée du \"Journal d'Alger\"",
    "section": "disparues",
    "suffixe_index": "(Alg) - 1947-1953",
+   "titre_page": "Trophée du Journal d'Alger (Alg) - Ex.",
    "url": "disparues/anc_trophee_journal_alger.html"
   },
   "disparues-trophee_lorraine_bourgogne": {
+   "drapeau": "fra",
+   "editions": [
+    {
+     "annee": 1931,
+     "cle": "1931",
+     "date_debut": "1931-05-23",
+     "date_fin": "1931-05-25",
+     "date_txt": "du 23 au 25 mai",
+     "podium": [
+      {
+       "affiche": "GERARDIN Gaston",
+       "nom_famille": "GERARDIN",
+       "prenom": "Gaston",
+       "rang": 1
+      },
+      {
+       "affiche": "FERRARI Jean",
+       "nat": "LUX",
+       "nom_famille": "FERRARI",
+       "pays_site": "Lux",
+       "prenom": "Jean",
+       "rang": 2
+      },
+      {
+       "affiche": "JOLIVET Hubert",
+       "nom_famille": "JOLIVET",
+       "prenom": "Hubert",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_eta/trophee_lorraine_bourgogne_1931.html"
+    },
+    {
+     "annee": 1932,
+     "cle": "1932",
+     "date_debut": "1932-05-15",
+     "date_fin": "1932-05-16",
+     "date_txt": "du 15 au 16 mai",
+     "podium": [
+      {
+       "affiche": "FRANTZ Nicolas",
+       "nat": "LUX",
+       "nom_famille": "FRANTZ",
+       "pays_site": "Lux",
+       "prenom": "Nicolas",
+       "rang": 1
+      },
+      {
+       "affiche": "BULA Alfred",
+       "nat": "SUI",
+       "nom_famille": "BULA",
+       "pays_site": "Sui",
+       "prenom": "Alfred",
+       "rang": 2
+      },
+      {
+       "affiche": "NEUHARD Ernest",
+       "nom_famille": "NEUHARD",
+       "prenom": "Ernest",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_eta/trophee_lorraine_bourgogne_1932.html"
+    },
+    {
+     "annee": 1933,
+     "cle": "1933",
+     "date_debut": "1933-06-04",
+     "date_fin": "1933-06-05",
+     "date_txt": "du 4 au 5 juin",
+     "podium": [
+      {
+       "affiche": "PAUREAU Julien",
+       "nom_famille": "PAUREAU",
+       "prenom": "Julien",
+       "rang": 1
+      },
+      {
+       "affiche": "CONTEAU Pierre",
+       "nom_famille": "CONTEAU",
+       "prenom": "Pierre",
+       "rang": 2
+      },
+      {
+       "affiche": "BROVILLÉ Marcel",
+       "nom_famille": "BROVILLÉ",
+       "prenom": "Marcel",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_eta/trophee_lorraine_bourgogne_1933.html"
+    }
+   ],
    "gras": true,
    "groupe": "FRA",
    "id": "disparues-trophee_lorraine_bourgogne",
+   "lu_le": "2026-11-23T03:40:56Z",
    "nom": "Trophée Lorraine-Bourgogne",
    "section": "disparues",
    "suffixe_index": "1931-1933",
+   "titre_page": "Trophée de Lorraine-Bourgogne (Fra) - Ex.",
    "url": "disparues/anc_trophee_lorraine_bourgogne.html"
   },
   "disparues-trophee_ockers": {
+   "drapeau": "fra",
+   "editions": [
+    {
+     "annee": 1957,
+     "cle": "1957",
+     "date": "1957-05-12",
+     "date_txt": "12 mai",
+     "podium": [
+      {
+       "affiche": "IMPANIS Raymond",
+       "nat": "BEL",
+       "nom_famille": "IMPANIS",
+       "pays_site": "Bel",
+       "prenom": "Raymond",
+       "rang": 1
+      },
+      {
+       "affiche": "BOBET Louison",
+       "nom_famille": "BOBET",
+       "prenom": "Louison",
+       "rang": 2
+      },
+      {
+       "affiche": "BOBET Jean",
+       "nom_famille": "BOBET",
+       "prenom": "Jean",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1958,
+     "cle": "1958",
+     "date": "1958-05-04",
+     "date_txt": "4 mai",
+     "podium": [
+      {
+       "affiche": "VLAEYEN André",
+       "nat": "BEL",
+       "nom_famille": "VLAEYEN",
+       "pays_site": "Bel",
+       "prenom": "André",
+       "rang": 1
+      },
+      {
+       "affiche": "JANSSENS Marcel",
+       "nat": "BEL",
+       "nom_famille": "JANSSENS",
+       "pays_site": "Bel",
+       "prenom": "Marcel",
+       "rang": 2
+      },
+      {
+       "affiche": "BUSTO Emmanuel",
+       "nom_famille": "BUSTO",
+       "prenom": "Emmanuel",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/trophee_ockers_1958.html"
+    },
+    {
+     "annee": 1959,
+     "cle": "1959",
+     "date": "1959-05-03",
+     "date_txt": "3 mai",
+     "podium": [
+      {
+       "affiche": "PRIVAT René",
+       "nom_famille": "PRIVAT",
+       "prenom": "René",
+       "rang": 1
+      },
+      {
+       "affiche": "ANASTASI Francis",
+       "nom_famille": "ANASTASI",
+       "prenom": "Francis",
+       "rang": 2
+      },
+      {
+       "affiche": "MAHE François",
+       "nom_famille": "MAHE",
+       "prenom": "François",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1960,
+     "cle": "1960",
+     "date": "1960-05-01",
+     "date_txt": "1er mai",
+     "podium": [
+      {
+       "affiche": "ELLIOTT Seamus",
+       "nat": "IRL",
+       "nom_famille": "ELLIOTT",
+       "pays_site": "Irl",
+       "prenom": "Seamus",
+       "rang": 1
+      },
+      {
+       "affiche": "HOEVENAERS Joseph",
+       "nat": "BEL",
+       "nom_famille": "HOEVENAERS",
+       "pays_site": "Bel",
+       "prenom": "Joseph",
+       "rang": 2
+      },
+      {
+       "affiche": "PRIVAT René",
+       "nom_famille": "PRIVAT",
+       "prenom": "René",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/trophee_ockers_1960.html"
+    },
+    {
+     "annee": 1962,
+     "cle": "1962",
+     "date": "1962-05-01",
+     "date_txt": "1er mai",
+     "podium": [
+      {
+       "affiche": "VELLY Joseph",
+       "nom_famille": "VELLY",
+       "prenom": "Joseph",
+       "rang": 1
+      },
+      {
+       "affiche": "WOLFSHOHL Rolf",
+       "nat": "FRG",
+       "nom_famille": "WOLFSHOHL",
+       "pays_site": "Rfa",
+       "prenom": "Rolf",
+       "rang": 2
+      },
+      {
+       "affiche": "ELENA Raymond",
+       "nom_famille": "ELENA",
+       "prenom": "Raymond",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/trophee_ockers_1962.html"
+    },
+    {
+     "annee": 1963,
+     "cle": "1963",
+     "date": "1963-05-01",
+     "date_txt": "1er mai",
+     "podium": [
+      {
+       "affiche": "BOCKLANT Willy",
+       "nat": "BEL",
+       "nom_famille": "BOCKLANT",
+       "pays_site": "Bel",
+       "prenom": "Willy",
+       "rang": 1
+      },
+      {
+       "affiche": "CERAMI Pino",
+       "nat": "BEL",
+       "nom_famille": "CERAMI",
+       "pays_site": "Bel",
+       "prenom": "Pino",
+       "rang": 2
+      },
+      {
+       "affiche": "GAINCHE Jean",
+       "nom_famille": "GAINCHE",
+       "prenom": "Jean",
+       "rang": 3
+      }
+     ]
+    }
+   ],
    "gras": true,
    "groupe": "FRA",
    "id": "disparues-trophee_ockers",
+   "lu_le": "2026-11-23T03:41:09Z",
    "nom": "Trophée Stan Ockers / Trophée Peugeot",
    "section": "disparues",
    "suffixe_index": "1957-1963",
+   "titre_page": "Trophée Stan Ockers (Fra) - Ex.",
    "url": "disparues/anc_trophee_ockers.html"
   },
   "disparues-trouville_paris": {
+   "drapeau": "fra",
+   "editions": [
+    {
+     "annee": 1917,
+     "cle": "1917",
+     "date": "1917-08-19",
+     "date_txt": "19 août",
+     "podium": [
+      {
+       "affiche": "PELISSIER Henri",
+       "nom_famille": "PELISSIER",
+       "prenom": "Henri",
+       "rang": 1
+      },
+      {
+       "affiche": "GODIVIER Marcel",
+       "nom_famille": "GODIVIER",
+       "prenom": "Marcel",
+       "rang": 2
+      },
+      {
+       "affiche": "DERUYTER Charles",
+       "nat": "BEL",
+       "nom_famille": "DERUYTER",
+       "pays_site": "Bel",
+       "prenom": "Charles",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/trouville_paris_1917.html"
+    },
+    {
+     "annee": 1918,
+     "cle": "1918",
+     "date": "1918-08-15",
+     "date_txt": "15 août",
+     "podium": [
+      {
+       "affiche": "MICHIELS Alexis",
+       "nat": "BEL",
+       "nom_famille": "MICHIELS",
+       "pays_site": "Bel",
+       "prenom": "Alexis",
+       "rang": 1
+      },
+      {
+       "affiche": "BARTHELEMY Honoré",
+       "nom_famille": "BARTHELEMY",
+       "prenom": "Honoré",
+       "rang": 2
+      },
+      {
+       "affiche": "EGG Oscar",
+       "nat": "SUI",
+       "nom_famille": "EGG",
+       "pays_site": "Sui",
+       "prenom": "Oscar",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/trouville_paris_1918.html"
+    },
+    {
+     "annee": 1936,
+     "cle": "1936",
+     "date": "1936-06-07",
+     "date_txt": "7 juin",
+     "podium": [
+      {
+       "affiche": "MARCAILLOU Sylvain",
+       "nom_famille": "MARCAILLOU",
+       "prenom": "Sylvain",
+       "rang": 1
+      },
+      {
+       "affiche": "RENONCE Robert",
+       "nom_famille": "RENONCE",
+       "prenom": "Robert",
+       "rang": 2
+      },
+      {
+       "affiche": "LEBOULANGER Alphonse",
+       "nom_famille": "LEBOULANGER",
+       "prenom": "Alphonse",
+       "rang": 3
+      }
+     ],
+     "url": "anc_france_cla/trouville_paris_1936.html"
+    }
+   ],
    "gras": true,
    "groupe": "FRA",
    "id": "disparues-trouville_paris",
+   "lu_le": "2026-11-23T03:41:22Z",
    "nom": "Trouville-Paris",
    "section": "disparues",
    "suffixe_index": "1917-1936",
+   "titre_page": "Trouville-Paris (Fra) - Ex.",
    "url": "disparues/anc_trouville_paris.html"
   },
   "disparues-turin_bruxelles": {
+   "drapeau": "bel",
+   "editions": [
+    {
+     "annee": 1930,
+     "cle": "1930",
+     "date_debut": "1930-07-18",
+     "date_fin": "1930-07-22",
+     "date_txt": "du 18 au 22 juillet",
+     "podium": [
+      {
+       "affiche": "GRANDI Allegro",
+       "nat": "ITA",
+       "nom_famille": "GRANDI",
+       "pays_site": "Ita",
+       "prenom": "Allegro",
+       "rang": 1
+      },
+      {
+       "affiche": "FRANTZ Nicolas",
+       "nat": "LUX",
+       "nom_famille": "FRANTZ",
+       "pays_site": "Lux",
+       "prenom": "Nicolas",
+       "rang": 2
+      },
+      {
+       "affiche": "BULLA Max",
+       "nat": "AUT",
+       "nom_famille": "BULLA",
+       "pays_site": "Aut",
+       "prenom": "Max",
+       "rang": 3
+      }
+     ],
+     "url": "anc_belgique/turin_bruxelles1930.html"
+    }
+   ],
    "gras": true,
    "groupe": "BEL",
    "id": "disparues-turin_bruxelles",
+   "lu_le": "2026-11-23T03:41:35Z",
    "nom": "Torino-Bruxelles / G.P du centenaire",
    "section": "disparues",
    "suffixe_index": "1930",
+   "titre_page": "G.P du Centenaire - Turin-Bruxelles (Bel) - Ex.",
    "url": "disparues/anc_turin_bruxelles.html"
   },
   "disparues-turin_genes": {
+   "drapeau": "italie",
+   "editions": [
+    {
+     "annee": 1920,
+     "cle": "1920",
+     "podium": [
+      {
+       "affiche": "GIRARDENGO Costante",
+       "nom_famille": "GIRARDENGO",
+       "prenom": "Costante",
+       "rang": 1
+      },
+      {
+       "affiche": "PETIVA Emilio",
+       "nom_famille": "PETIVA",
+       "prenom": "Emilio",
+       "rang": 2
+      },
+      {
+       "affiche": "BORDIN Lauro",
+       "nom_famille": "BORDIN",
+       "prenom": "Lauro",
+       "rang": 3
+      }
+     ]
+    }
+   ],
    "gras": false,
    "groupe": "ITA",
    "id": "disparues-turin_genes",
+   "lu_le": "2026-11-23T03:41:41Z",
    "nom": "Torino-Genova",
    "section": "disparues",
    "suffixe_index": "1920",
+   "titre_page": "Torino-Genova (Ita) - Ex.",
    "url": "disparues/anc_turin_genes.html"
   },
   "disparues-umbria": {
+   "drapeau": "ita",
+   "editions": [
+    {
+     "annee": 1910,
+     "cle": "1910",
+     "date": "1910-07-24",
+     "date_txt": "24 juillet",
+     "podium": [
+      {
+       "affiche": "TIBILETTI Alfredo",
+       "nom_famille": "TIBILETTI",
+       "prenom": "Alfredo",
+       "rang": 1
+      },
+      {
+       "affiche": "CAGNA Luigi",
+       "nom_famille": "CAGNA",
+       "prenom": "Luigi",
+       "rang": 2
+      },
+      {
+       "affiche": "MANTOVANI Attilio",
+       "nom_famille": "MANTOVANI",
+       "prenom": "Attilio",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/umbria_1910.html"
+    },
+    {
+     "annee": 1911,
+     "cle": "1911",
+     "date": "1911-08-13",
+     "date_txt": "13 août",
+     "podium": [
+      {
+       "affiche": "AZZINI Giuseppe",
+       "nom_famille": "AZZINI",
+       "prenom": "Giuseppe",
+       "rang": 1
+      },
+      {
+       "affiche": "BERTARELLI Camillo",
+       "nom_famille": "BERTARELLI",
+       "prenom": "Camillo",
+       "rang": 2
+      },
+      {
+       "affiche": "MANCINELLI Labindo",
+       "nom_famille": "MANCINELLI",
+       "prenom": "Labindo",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/umbria_1911.html"
+    },
+    {
+     "annee": 1912,
+     "cle": "1912",
+     "date": "1912-09-08",
+     "date_txt": "8 septembre",
+     "podium": [
+      {
+       "affiche": "BONFANTI Giuseppe *",
+       "nom_famille": "BONFANTI",
+       "prenom": "Giuseppe *",
+       "rang": 1
+      },
+      {
+       "affiche": "LUCOTTI Luigi",
+       "nom_famille": "LUCOTTI",
+       "prenom": "Luigi",
+       "rang": 2
+      },
+      {
+       "affiche": "BASSI Giovanni",
+       "nom_famille": "BASSI",
+       "prenom": "Giovanni",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/umbria_1912.html"
+    },
+    {
+     "annee": 1919,
+     "cle": "1919",
+     "date_debut": "1919-06-28",
+     "date_fin": "1919-06-29",
+     "date_txt": "du 28 au 29 juin",
+     "podium": [
+      {
+       "affiche": "FERRARIO Arturo",
+       "nom_famille": "FERRARIO",
+       "prenom": "Arturo",
+       "rang": 1
+      },
+      {
+       "affiche": "CERUTTI Lorenzo",
+       "nom_famille": "CERUTTI",
+       "prenom": "Lorenzo",
+       "rang": 2
+      },
+      {
+       "affiche": "GERMONIO Marzio",
+       "nom_famille": "GERMONIO",
+       "prenom": "Marzio",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/umbria_1919.html"
+    },
+    {
+     "annee": 1923,
+     "cle": "1923",
+     "date": "1923-07-08",
+     "date_txt": "8 juillet",
+     "podium": [
+      {
+       "affiche": "TRENTAROSSI Giovanni",
+       "nom_famille": "TRENTAROSSI",
+       "prenom": "Giovanni",
+       "rang": 1
+      },
+      {
+       "affiche": "MESSERI Guido",
+       "nom_famille": "MESSERI",
+       "prenom": "Guido",
+       "rang": 2
+      },
+      {
+       "affiche": "CIOTTI Alfredo",
+       "nom_famille": "CIOTTI",
+       "prenom": "Alfredo",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/umbria_1923.html"
+    },
+    {
+     "annee": 1924,
+     "cle": "1924",
+     "date": "1924-08-10",
+     "date_txt": "10 août",
+     "podium": [
+      {
+       "affiche": "BESTETTI Pietro",
+       "nom_famille": "BESTETTI",
+       "prenom": "Pietro",
+       "rang": 1
+      },
+      {
+       "affiche": "GORDINI Michele",
+       "nom_famille": "GORDINI",
+       "prenom": "Michele",
+       "rang": 2
+      },
+      {
+       "affiche": "SANGIORGI Domenico",
+       "nom_famille": "SANGIORGI",
+       "prenom": "Domenico",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/umbria_1924.html"
+    },
+    {
+     "annee": 1926,
+     "cle": "1926",
+     "date": "1926-07-18",
+     "date_txt": "18 juillet",
+     "podium": [
+      {
+       "affiche": "PETIVA Emilio",
+       "nom_famille": "PETIVA",
+       "prenom": "Emilio",
+       "rang": 1
+      },
+      {
+       "affiche": "BARDUCCI Alfredo",
+       "nom_famille": "BARDUCCI",
+       "prenom": "Alfredo",
+       "rang": 2
+      },
+      {
+       "affiche": "TERRENI Azeglio",
+       "nom_famille": "TERRENI",
+       "prenom": "Azeglio",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/umbria_1926.html"
+    },
+    {
+     "annee": 1930,
+     "cle": "1930",
+     "date": "1930-10-19",
+     "date_txt": "19 octobre",
+     "podium": [
+      {
+       "affiche": "MORELLI Ambrogio",
+       "nom_famille": "MORELLI",
+       "prenom": "Ambrogio",
+       "rang": 1
+      },
+      {
+       "affiche": "BERTONI Remo",
+       "nom_famille": "BERTONI",
+       "prenom": "Remo",
+       "rang": 2
+      },
+      {
+       "affiche": "LIGUORI Antonio",
+       "nom_famille": "LIGUORI",
+       "prenom": "Antonio",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/umbria_1930.html"
+    },
+    {
+     "annee": 1931,
+     "cle": "1931",
+     "date": "1931-11-08",
+     "date_txt": "8 novembre",
+     "podium": [
+      {
+       "affiche": "MEINI Ettore",
+       "nom_famille": "MEINI",
+       "prenom": "Ettore",
+       "rang": 1
+      },
+      {
+       "affiche": "PAVESI Attilio",
+       "nom_famille": "PAVESI",
+       "prenom": "Attilio",
+       "rang": 2
+      },
+      {
+       "affiche": "ARCANGELI Ascanio",
+       "nom_famille": "ARCANGELI",
+       "prenom": "Ascanio",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/umbria_1931.html"
+    },
+    {
+     "annee": 1932,
+     "cle": "1932",
+     "date": "1932-10-30",
+     "date_txt": "30 octobre",
+     "podium": [
+      {
+       "affiche": "MANCINELLI Giovanni",
+       "nom_famille": "MANCINELLI",
+       "prenom": "Giovanni",
+       "rang": 1
+      },
+      {
+       "affiche": "ARCANGELI Ascanio",
+       "nom_famille": "ARCANGELI",
+       "prenom": "Ascanio",
+       "rang": 2
+      },
+      {
+       "affiche": "TADDEI Ernesto",
+       "nom_famille": "TADDEI",
+       "prenom": "Ernesto",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/umbria_1932.html"
+    },
+    {
+     "annee": 1933,
+     "cle": "1933",
+     "date": "1933-10-15",
+     "date_txt": "15 octobre",
+     "podium": [
+      {
+       "affiche": "BINI Aldo",
+       "nom_famille": "BINI",
+       "prenom": "Aldo",
+       "rang": 1
+      },
+      {
+       "affiche": "MEALLI Aladino",
+       "nom_famille": "MEALLI",
+       "prenom": "Aladino",
+       "rang": 2
+      },
+      {
+       "affiche": "MANCINELLI Giovanni",
+       "nom_famille": "MANCINELLI",
+       "prenom": "Giovanni",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/umbria_1933.html"
+    },
+    {
+     "annee": 1938,
+     "cle": "1938",
+     "date": "1938-08-15",
+     "date_txt": "15 août",
+     "podium": [
+      {
+       "affiche": "MAGNI Secondo",
+       "nom_famille": "MAGNI",
+       "prenom": "Secondo",
+       "rang": 1
+      },
+      {
+       "affiche": "ARCANGELI Ascanio",
+       "nom_famille": "ARCANGELI",
+       "prenom": "Ascanio",
+       "rang": 2
+      },
+      {
+       "affiche": "CORSINOVI Osvaldo",
+       "nom_famille": "CORSINOVI",
+       "prenom": "Osvaldo",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/umbria_1938.html"
+    },
+    {
+     "annee": 1939,
+     "cle": "1939",
+     "date": "1939-07-23",
+     "date_txt": "23 juillet",
+     "podium": [
+      {
+       "affiche": "COTTUR Giordano",
+       "nom_famille": "COTTUR",
+       "prenom": "Giordano",
+       "rang": 1
+      },
+      {
+       "affiche": "BERGAMASCHI Vasco",
+       "nom_famille": "BERGAMASCHI",
+       "prenom": "Vasco",
+       "rang": 2
+      },
+      {
+       "affiche": "DE STEFANIS Giovanni",
+       "nom_famille": "DE STEFANIS",
+       "prenom": "Giovanni",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/umbria_1939.html"
+    },
+    {
+     "annee": 1940,
+     "cle": "1940",
+     "date": "1940-09-22",
+     "date_txt": "22 septembre",
+     "podium": [
+      {
+       "affiche": "RONCONI Aldo",
+       "nom_famille": "RONCONI",
+       "prenom": "Aldo",
+       "rang": 1
+      },
+      {
+       "affiche": "SERVADEI Glauco",
+       "nom_famille": "SERVADEI",
+       "prenom": "Glauco",
+       "rang": 2
+      },
+      {
+       "affiche": "DE BENEDETTI Mario",
+       "nom_famille": "DE BENEDETTI",
+       "prenom": "Mario",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/umbria_1940.html"
+    },
+    {
+     "annee": 1949,
+     "cle": "1949",
+     "podium": [
+      {
+       "affiche": "ROLLAND Amédée",
+       "nat": "FRA",
+       "nom_famille": "ROLLAND",
+       "pays_site": "Fra",
+       "prenom": "Amédée",
+       "rang": 1
+      },
+      {
+       "affiche": "MORETTI Nazzareno",
+       "nom_famille": "MORETTI",
+       "prenom": "Nazzareno",
+       "rang": 2
+      },
+      {
+       "affiche": "MARINI Fausto",
+       "nom_famille": "MARINI",
+       "prenom": "Fausto",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1950,
+     "cle": "1950",
+     "date": "1950-10-01",
+     "date_txt": "1er octobre",
+     "podium": [
+      {
+       "affiche": "SOLDANI Renzo",
+       "nom_famille": "SOLDANI",
+       "prenom": "Renzo",
+       "rang": 1
+      },
+      {
+       "affiche": "FROSINI Luciano",
+       "nom_famille": "FROSINI",
+       "prenom": "Luciano",
+       "rang": 2
+      },
+      {
+       "affiche": "DREI Umberto",
+       "nom_famille": "DREI",
+       "prenom": "Umberto",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/umbria_1950.html"
+    },
+    {
+     "annee": 1952,
+     "cle": "1952",
+     "podium": [
+      {
+       "affiche": "ROSARIO Mario",
+       "nom_famille": "ROSARIO",
+       "prenom": "Mario",
+       "rang": 1
+      },
+      {
+       "affiche": "DESIDERI Fern.",
+       "nom_famille": "DESIDERI",
+       "prenom": "Fern.",
+       "rang": 2
+      },
+      {
+       "affiche": "CONTI Noé",
+       "nom_famille": "CONTI",
+       "prenom": "Noé",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1953,
+     "cle": "1953",
+     "date_debut": "1953-09-04",
+     "date_fin": "1953-09-06",
+     "date_txt": "du 4 au 6 septembre",
+     "podium": [
+      {
+       "affiche": "NASCIMBENE Pietro",
+       "nom_famille": "NASCIMBENE",
+       "prenom": "Pietro",
+       "rang": 1
+      },
+      {
+       "affiche": "TOGNACCINI Bruno",
+       "nom_famille": "TOGNACCINI",
+       "prenom": "Bruno",
+       "rang": 2
+      },
+      {
+       "affiche": "SOBRERO Gianfranco",
+       "nom_famille": "SOBRERO",
+       "prenom": "Gianfranco",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/umbria_1953.html"
+    },
+    {
+     "annee": 1954,
+     "cle": "1954",
+     "date_debut": "1954-09-03",
+     "date_fin": "1954-09-05",
+     "date_txt": "du 3 au 5 septembre",
+     "podium": [
+      {
+       "affiche": "MARCOCCIA Giuseppe",
+       "nom_famille": "MARCOCCIA",
+       "prenom": "Giuseppe",
+       "rang": 1
+      },
+      {
+       "affiche": "REZZI Virgilio",
+       "nom_famille": "REZZI",
+       "prenom": "Virgilio",
+       "rang": 2
+      },
+      {
+       "affiche": "MAZZACURATI Italo",
+       "nom_famille": "MAZZACURATI",
+       "prenom": "Italo",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/umbria_1954.html"
+    },
+    {
+     "annee": 1955,
+     "cle": "1955",
+     "date_debut": "1955-09-02",
+     "date_fin": "1955-09-04",
+     "date_txt": "du 2 au 4 septembre",
+     "podium": [
+      {
+       "affiche": "TRAPE Ardelio",
+       "nom_famille": "TRAPE",
+       "prenom": "Ardelio",
+       "rang": 1
+      },
+      {
+       "affiche": "AZZINI Carlo",
+       "nom_famille": "AZZINI",
+       "prenom": "Carlo",
+       "rang": 2
+      },
+      {
+       "affiche": "MORINI Giuseppe",
+       "nom_famille": "MORINI",
+       "prenom": "Giuseppe",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/umbria_1955.html"
+    },
+    {
+     "annee": 1970,
+     "cle": "1970",
+     "date": "1970-07-22",
+     "date_txt": "22 juillet",
+     "podium": [
+      {
+       "affiche": "MOTTA Gianni",
+       "nom_famille": "MOTTA",
+       "prenom": "Gianni",
+       "rang": 1
+      },
+      {
+       "affiche": "LAGHI Renato",
+       "nom_famille": "LAGHI",
+       "prenom": "Renato",
+       "rang": 2
+      },
+      {
+       "affiche": "GIULIANI Donato",
+       "nom_famille": "GIULIANI",
+       "prenom": "Donato",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/umbria_1970.html"
+    },
+    {
+     "annee": 1971,
+     "cle": "1971",
+     "podium": [
+      {
+       "affiche": "HOUBRECHTS Antoon",
+       "nat": "BEL",
+       "nom_famille": "HOUBRECHTS",
+       "pays_site": "Bel",
+       "prenom": "Antoon",
+       "rang": 1
+      },
+      {
+       "affiche": "SGARBOZZA Luigi",
+       "nom_famille": "SGARBOZZA",
+       "prenom": "Luigi",
+       "rang": 2
+      },
+      {
+       "affiche": "POGGIALI Roberto",
+       "nom_famille": "POGGIALI",
+       "prenom": "Roberto",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1972,
+     "cle": "1972",
+     "podium": [
+      {
+       "affiche": "PAOLINI Enrico",
+       "nom_famille": "PAOLINI",
+       "prenom": "Enrico",
+       "rang": 1
+      },
+      {
+       "affiche": "POGGIALI Roberto",
+       "nom_famille": "POGGIALI",
+       "prenom": "Roberto",
+       "rang": 2
+      },
+      {
+       "affiche": "CAVERZAZI Arnaldo",
+       "nom_famille": "CAVERZAZI",
+       "prenom": "Arnaldo",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1973,
+     "cle": "1973",
+     "date": "1973-08-12",
+     "date_txt": "12 août",
+     "podium": [
+      {
+       "affiche": "POLIDORI Giancarlo",
+       "nom_famille": "POLIDORI",
+       "prenom": "Giancarlo",
+       "rang": 1
+      },
+      {
+       "affiche": "FABBRI Fabrizio",
+       "nom_famille": "FABBRI",
+       "prenom": "Fabrizio",
+       "rang": 2
+      },
+      {
+       "affiche": "SALUTINI Antonio",
+       "nom_famille": "SALUTINI",
+       "prenom": "Antonio",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/umbria_1973.html"
+    },
+    {
+     "annee": 1974,
+     "cle": "1974",
+     "podium": [
+      {
+       "affiche": "MOSER Francesco",
+       "nom_famille": "MOSER",
+       "prenom": "Francesco",
+       "rang": 1
+      },
+      {
+       "affiche": "BITOSSI Franco",
+       "nom_famille": "BITOSSI",
+       "prenom": "Franco",
+       "rang": 2
+      },
+      {
+       "affiche": "GIMONDI Felice",
+       "nom_famille": "GIMONDI",
+       "prenom": "Felice",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1975,
+     "cle": "1975",
+     "podium": [
+      {
+       "affiche": "MOSER Francesco",
+       "nom_famille": "MOSER",
+       "prenom": "Francesco",
+       "rang": 1
+      },
+      {
+       "affiche": "FABBRI Fabrizio",
+       "nom_famille": "FABBRI",
+       "prenom": "Fabrizio",
+       "rang": 2
+      },
+      {
+       "affiche": "BATTAGLIN Giovanni",
+       "nom_famille": "BATTAGLIN",
+       "prenom": "Giovanni",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1976,
+     "cle": "1976",
+     "podium": [
+      {
+       "affiche": "POGGIALI Roberto",
+       "nom_famille": "POGGIALI",
+       "prenom": "Roberto",
+       "rang": 1
+      },
+      {
+       "affiche": "HOUBRECHTS Antoon",
+       "nat": "BEL",
+       "nom_famille": "HOUBRECHTS",
+       "pays_site": "Bel",
+       "prenom": "Antoon",
+       "rang": 2
+      },
+      {
+       "affiche": "PAOLINI Enrico",
+       "nom_famille": "PAOLINI",
+       "prenom": "Enrico",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1977,
+     "cle": "1977",
+     "podium": [
+      {
+       "affiche": "MOSER Francesco",
+       "nom_famille": "MOSER",
+       "prenom": "Francesco",
+       "rang": 1
+      },
+      {
+       "affiche": "BITOSSI Franco",
+       "nom_famille": "BITOSSI",
+       "prenom": "Franco",
+       "rang": 2
+      },
+      {
+       "affiche": "SANTAMBROGIO Giacinto",
+       "nom_famille": "SANTAMBROGIO",
+       "prenom": "Giacinto",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1978,
+     "cle": "1978",
+     "podium": [
+      {
+       "affiche": "BARONCHELLI Giambattista",
+       "nom_famille": "BARONCHELLI",
+       "prenom": "Giambattista",
+       "rang": 1
+      },
+      {
+       "affiche": "BATTAGLIN Giovanni",
+       "nom_famille": "BATTAGLIN",
+       "prenom": "Giovanni",
+       "rang": 2
+      },
+      {
+       "affiche": "BECCIA Mario",
+       "nom_famille": "BECCIA",
+       "prenom": "Mario",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1979,
+     "cle": "1979",
+     "podium": [
+      {
+       "affiche": "BARONE Carmelo",
+       "nom_famille": "BARONE",
+       "prenom": "Carmelo",
+       "rang": 1
+      },
+      {
+       "affiche": "GAVAZZI Pierino",
+       "nom_famille": "GAVAZZI",
+       "prenom": "Pierino",
+       "rang": 2
+      },
+      {
+       "affiche": "CONTINI Silvano",
+       "nom_famille": "CONTINI",
+       "prenom": "Silvano",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1980,
+     "cle": "1980",
+     "podium": [
+      {
+       "affiche": "CERUTI Roberto",
+       "nom_famille": "CERUTI",
+       "prenom": "Roberto",
+       "rang": 1
+      },
+      {
+       "affiche": "BARONE Carmelo",
+       "nom_famille": "BARONE",
+       "prenom": "Carmelo",
+       "rang": 2
+      },
+      {
+       "affiche": "MASCIARELLI Palmiro",
+       "nom_famille": "MASCIARELLI",
+       "prenom": "Palmiro",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1981,
+     "cle": "1981",
+     "podium": [
+      {
+       "affiche": "MOSER Francesco",
+       "nom_famille": "MOSER",
+       "prenom": "Francesco",
+       "rang": 1
+      },
+      {
+       "affiche": "GREZET Jean-Marie",
+       "nat": "SUI",
+       "nom_famille": "GREZET",
+       "pays_site": "Sui",
+       "prenom": "Jean-Marie",
+       "rang": 2
+      },
+      {
+       "affiche": "GAVAZZI Pierino",
+       "nom_famille": "GAVAZZI",
+       "prenom": "Pierino",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1982,
+     "cle": "1982",
+     "podium": [
+      {
+       "affiche": "BARONCHELLI Giambattista",
+       "nom_famille": "BARONCHELLI",
+       "prenom": "Giambattista",
+       "rang": 1
+      },
+      {
+       "affiche": "BOMBINI Emanuele",
+       "nom_famille": "BOMBINI",
+       "prenom": "Emanuele",
+       "rang": 2
+      },
+      {
+       "affiche": "MANTOVANI Giovanni",
+       "nom_famille": "MANTOVANI",
+       "prenom": "Giovanni",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1983,
+     "cle": "1983",
+     "podium": [
+      {
+       "affiche": "MOSER Francesco",
+       "nom_famille": "MOSER",
+       "prenom": "Francesco",
+       "rang": 1
+      },
+      {
+       "affiche": "LEJARRETA Marino",
+       "nom_famille": "LEJARRETA",
+       "prenom": "Marino",
+       "rang": 2
+      },
+      {
+       "affiche": "BARONCHELLI Giambattista",
+       "nom_famille": "BARONCHELLI",
+       "prenom": "Giambattista",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1984,
+     "cle": "1984",
+     "podium": [
+      {
+       "affiche": "BECCIA Mario",
+       "nom_famille": "BECCIA",
+       "prenom": "Mario",
+       "rang": 1
+      },
+      {
+       "affiche": "BARONCHELLI Giambattista",
+       "nom_famille": "BARONCHELLI",
+       "prenom": "Giambattista",
+       "rang": 2
+      },
+      {
+       "affiche": "CONTINI Silvano",
+       "nom_famille": "CONTINI",
+       "prenom": "Silvano",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1985,
+     "cle": "1985",
+     "podium": [
+      {
+       "affiche": "CORTI Claudio",
+       "nom_famille": "CORTI",
+       "prenom": "Claudio",
+       "rang": 1
+      },
+      {
+       "affiche": "AMADORI Marino",
+       "nom_famille": "AMADORI",
+       "prenom": "Marino",
+       "rang": 2
+      },
+      {
+       "affiche": "PASSUELO Giuseppe",
+       "nom_famille": "PASSUELO",
+       "prenom": "Giuseppe",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1986,
+     "cle": "1986",
+     "podium": [
+      {
+       "affiche": "COLAGE Stefano",
+       "nom_famille": "COLAGE",
+       "prenom": "Stefano",
+       "rang": 1
+      },
+      {
+       "affiche": "PAGNIN Roberto",
+       "nom_famille": "PAGNIN",
+       "prenom": "Roberto",
+       "rang": 2
+      },
+      {
+       "affiche": "MASCIARELLI Palmiro",
+       "nom_famille": "MASCIARELLI",
+       "prenom": "Palmiro",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1987,
+     "cle": "1987",
+     "podium": [
+      {
+       "affiche": "CONTINI Silvano",
+       "nom_famille": "CONTINI",
+       "prenom": "Silvano",
+       "rang": 1
+      },
+      {
+       "affiche": "CESARINI Francesco",
+       "nom_famille": "CESARINI",
+       "prenom": "Francesco",
+       "rang": 2
+      },
+      {
+       "affiche": "PICCOLO Renato",
+       "nom_famille": "PICCOLO",
+       "prenom": "Renato",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1988,
+     "cle": "1988",
+     "podium": [
+      {
+       "affiche": "FURLAN Luigi",
+       "nom_famille": "FURLAN",
+       "prenom": "Luigi",
+       "rang": 1
+      },
+      {
+       "affiche": "BOTTEON Luigi",
+       "nom_famille": "BOTTEON",
+       "prenom": "Luigi",
+       "rang": 2
+      },
+      {
+       "affiche": "GIOIA Danilo",
+       "nom_famille": "GIOIA",
+       "prenom": "Danilo",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1989,
+     "cle": "1989",
+     "podium": [
+      {
+       "affiche": "COLAGE Stefano",
+       "nom_famille": "COLAGE",
+       "prenom": "Stefano",
+       "rang": 1
+      },
+      {
+       "affiche": "IVANOV Ivan",
+       "nat": "RUS",
+       "nom_famille": "IVANOV",
+       "pays_site": "Rus",
+       "prenom": "Ivan",
+       "rang": 2
+      },
+      {
+       "affiche": "MORO Michele",
+       "nom_famille": "MORO",
+       "prenom": "Michele",
+       "rang": 3
+      }
+     ]
+    },
+    {
+     "annee": 1990,
+     "cle": "1990",
+     "date": "1990-08-04",
+     "date_txt": "4 août",
+     "podium": [
+      {
+       "affiche": "GHIROTTO Massimo",
+       "nom_famille": "GHIROTTO",
+       "prenom": "Massimo",
+       "rang": 1
+      },
+      {
+       "affiche": "CASTRO Daniel",
+       "nat": "ARG",
+       "nom_famille": "CASTRO",
+       "pays_site": "Arg",
+       "prenom": "Daniel",
+       "rang": 2
+      },
+      {
+       "affiche": "ROCCHI Edoardo",
+       "nom_famille": "ROCCHI",
+       "prenom": "Edoardo",
+       "rang": 3
+      }
+     ],
+     "url": "anc_italie/umbria_1990.html"
+    },
+    {
+     "annee": 1991,
+     "cle": "1991",
+     "podium": [
+      {
+       "affiche": "ROCCHI Edoardo",
+       "nom_famille": "ROCCHI",
+       "prenom": "Edoardo",
+       "rang": 1
+      },
+      {
+       "affiche": "MORO Michele",
+       "nom_famille": "MORO",
+       "prenom": "Michele",
+       "rang": 2
+      },
+      {
+       "affiche": "LELLI Massimiliano",
+       "nom_famille": "LELLI",
+       "prenom": "Massimiliano",
+       "rang": 3
+      }
+     ]
+    }
+   ],
    "gras": true,
    "groupe": "ITA",
    "id": "disparues-umbria",
+   "lu_le": "2026-11-23T03:41:44Z",
    "nom": "Giro dell'Umbria",
    "section": "disparues",
    "suffixe_index": "1938-1991",
+   "titre_page": "Giro delle Umbria (Ita) - Ex.",
    "url": "disparues/anc_umbria.html"
   },
   "disparues-utrecht_arnhem_utrecht": {
