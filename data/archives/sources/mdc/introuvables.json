@@ -9164,6 +9164,21 @@
   "essais": 2,
   "regle": 2
  },
+ "anc_europe/rhodes2001.html": {
+  "dernier_essai": "2026-11-24T04:35:02Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_europe/rhodes2002.html": {
+  "dernier_essai": "2026-11-24T04:35:05Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "anc_europe/rhodes2003.html": {
+  "dernier_essai": "2026-11-24T04:35:08Z",
+  "essais": 1,
+  "regle": 2
+ },
  "anc_europe/rochester1997.html": {
   "dernier_essai": "2026-11-24T01:09:27Z",
   "essais": 1,
@@ -29636,6 +29651,321 @@
  },
  "eta_italie/giro_abruzzo_2001.html": {
   "dernier_essai": "2026-11-24T01:38:32Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1935.html": {
+  "dernier_essai": "2026-11-24T04:58:55Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1936.html": {
+  "dernier_essai": "2026-11-24T04:58:58Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1941.html": {
+  "dernier_essai": "2026-11-24T04:59:02Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1942.html": {
+  "dernier_essai": "2026-11-24T04:59:05Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1945.html": {
+  "dernier_essai": "2026-11-24T04:59:08Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1946.html": {
+  "dernier_essai": "2026-11-24T04:59:11Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1947.html": {
+  "dernier_essai": "2026-11-24T04:59:14Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1948.html": {
+  "dernier_essai": "2026-11-24T04:59:18Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1950.html": {
+  "dernier_essai": "2026-11-24T04:59:21Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1955.html": {
+  "dernier_essai": "2026-11-24T04:59:24Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1956.html": {
+  "dernier_essai": "2026-11-24T04:59:27Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1957.html": {
+  "dernier_essai": "2026-11-24T04:59:30Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1958.html": {
+  "dernier_essai": "2026-11-24T04:59:34Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1959.html": {
+  "dernier_essai": "2026-11-24T04:59:37Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1960.html": {
+  "dernier_essai": "2026-11-24T04:59:40Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1961.html": {
+  "dernier_essai": "2026-11-24T04:59:43Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1962.html": {
+  "dernier_essai": "2026-11-24T04:59:46Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1963.html": {
+  "dernier_essai": "2026-11-24T04:59:50Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1964.html": {
+  "dernier_essai": "2026-11-24T04:59:53Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1965.html": {
+  "dernier_essai": "2026-11-24T04:59:56Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1966.html": {
+  "dernier_essai": "2026-11-24T04:59:59Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1967.html": {
+  "dernier_essai": "2026-11-24T05:00:02Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1968.html": {
+  "dernier_essai": "2026-11-24T05:00:06Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1969.html": {
+  "dernier_essai": "2026-11-24T05:00:09Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1970.html": {
+  "dernier_essai": "2026-11-24T05:00:12Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1971.html": {
+  "dernier_essai": "2026-11-24T05:00:15Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1972.html": {
+  "dernier_essai": "2026-11-24T05:00:18Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1973.html": {
+  "dernier_essai": "2026-11-24T05:00:22Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1974.html": {
+  "dernier_essai": "2026-11-24T05:00:25Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1975.html": {
+  "dernier_essai": "2026-11-24T05:00:28Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1976.html": {
+  "dernier_essai": "2026-11-24T05:00:31Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1977.html": {
+  "dernier_essai": "2026-11-24T05:00:34Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1978.html": {
+  "dernier_essai": "2026-11-24T05:00:38Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1979.html": {
+  "dernier_essai": "2026-11-24T05:00:41Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1980.html": {
+  "dernier_essai": "2026-11-24T05:00:44Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1981.html": {
+  "dernier_essai": "2026-11-24T05:00:47Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1982.html": {
+  "dernier_essai": "2026-11-24T05:00:50Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1983.html": {
+  "dernier_essai": "2026-11-24T05:00:54Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1984.html": {
+  "dernier_essai": "2026-11-24T05:00:57Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1985.html": {
+  "dernier_essai": "2026-11-24T05:01:00Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1986.html": {
+  "dernier_essai": "2026-11-24T05:01:03Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1987.html": {
+  "dernier_essai": "2026-11-24T05:01:06Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1988.html": {
+  "dernier_essai": "2026-11-24T05:01:10Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1989.html": {
+  "dernier_essai": "2026-11-24T05:01:13Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1990.html": {
+  "dernier_essai": "2026-11-24T05:01:16Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1991.html": {
+  "dernier_essai": "2026-11-24T05:01:19Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1992.html": {
+  "dernier_essai": "2026-11-24T05:01:22Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1993.html": {
+  "dernier_essai": "2026-11-24T05:01:26Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1994.html": {
+  "dernier_essai": "2026-11-24T05:01:29Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1995.html": {
+  "dernier_essai": "2026-11-24T05:01:32Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1996.html": {
+  "dernier_essai": "2026-11-24T05:01:35Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1997.html": {
+  "dernier_essai": "2026-11-24T05:01:38Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1998.html": {
+  "dernier_essai": "2026-11-24T05:01:42Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde1999.html": {
+  "dernier_essai": "2026-11-24T05:01:45Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde2000.html": {
+  "dernier_essai": "2026-11-24T05:01:48Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde2001.html": {
+  "dernier_essai": "2026-11-24T05:01:51Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde2002.html": {
+  "dernier_essai": "2026-11-24T05:01:54Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde2003.html": {
+  "dernier_essai": "2026-11-24T05:01:58Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde2004.html": {
+  "dernier_essai": "2026-11-24T05:02:01Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde2005.html": {
+  "dernier_essai": "2026-11-24T05:02:04Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde2006.html": {
+  "dernier_essai": "2026-11-24T05:02:07Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde2007.html": {
+  "dernier_essai": "2026-11-24T05:02:10Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_tde/tde2008.html": {
+  "dernier_essai": "2026-11-24T05:02:14Z",
   "essais": 1,
   "regle": 2
  },
