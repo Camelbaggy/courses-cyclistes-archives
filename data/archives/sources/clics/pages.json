@@ -71,6 +71,14 @@
   "lu_le": "2026-11-19T07:20:45Z",
   "nb_coureurs": 2
  },
+ "pages/a/aardenburg-sander.html": {
+  "empreinte": "d15106aaf5923454",
+  "lastmod": "2026-11-23T23:54:03+01:00",
+  "lastmod_lu": "2026-11-23T23:54:03+01:00",
+  "libelle": "AARDENBURG Sander",
+  "lu_le": "2026-11-24T16:27:12Z",
+  "nb_coureurs": 1
+ },
  "pages/a/aarhus-chris-aasheim-ludvig-fischer.html": {
   "empreinte": "8d57f9e7f296ea29",
   "lastmod": "2026-01-23T23:54:31+01:00",
@@ -16619,11 +16627,11 @@
   "nb_coureurs": 36
  },
  "pages/l/lousberg-jean-loustaunou-alain.html": {
-  "empreinte": "6486cb3f855636b3",
-  "lastmod": "2026-04-26T20:09:47+02:00",
-  "lastmod_lu": "2026-04-26T20:09:47+02:00",
+  "empreinte": "87ee6b7e798d87ba",
+  "lastmod": "2026-11-24T10:06:24+01:00",
+  "lastmod_lu": "2026-11-24T10:06:24+01:00",
   "libelle": "LOUSBERG Jean - LOUSTAUNOU Alain",
-  "lu_le": "2026-11-19T08:20:32Z",
+  "lu_le": "2026-11-24T16:27:28Z",
   "nb_coureurs": 15
  },
  "pages/l/loustaunou-nicolas-louvel-camille.html": {
@@ -17308,6 +17316,7 @@
  },
  "pages/m/-mariuzzo-dario-markouris-dennis.html": {
   "empreinte": "24a8f45360235c6a",
+  "hors_sitemap": true,
   "lastmod": "2026-07-28T20:22:07+02:00",
   "lastmod_lu": "2026-07-28T20:22:07+02:00",
   "libelle": "MARIUZZO Dario - MARKOURIS Dennis",
@@ -18933,6 +18942,14 @@
   "lu_le": "2026-11-19T06:40:04Z",
   "nb_coureurs": 26
  },
+ "pages/m/mariuzzo-dario-markouris-dennis.html": {
+  "empreinte": "b43b5a30a198c1ea",
+  "lastmod": "2026-11-24T00:10:25+01:00",
+  "lastmod_lu": "2026-11-24T00:10:25+01:00",
+  "libelle": "MARIUZZO Dario - MARKOURIS Dennis",
+  "lu_le": "2026-11-24T16:27:24Z",
+  "nb_coureurs": 28
+ },
  "pages/m/markwalder-urs-marmier-oscar.html": {
   "empreinte": "c01d1ac2ebbc4758",
   "lastmod": "2026-07-25T20:48:24+02:00",
@@ -19527,10 +19544,10 @@
  },
  "pages/m/massi-adriano-massias-guy.html": {
   "empreinte": "c5fc1136dca94d36",
-  "lastmod": "2026-09-20T23:32:48+02:00",
-  "lastmod_lu": "2026-09-20T23:32:48+02:00",
+  "lastmod": "2026-11-24T00:02:48+01:00",
+  "lastmod_lu": "2026-11-24T00:02:48+01:00",
   "libelle": "MASSI Adriano - MASSIAS Guy",
-  "lu_le": "2026-11-19T08:11:42Z",
+  "lu_le": "2026-11-24T16:27:21Z",
   "nb_coureurs": 8
  },
  "pages/m/massicot-massignan-imerio.html": {
@@ -20788,6 +20805,46 @@
   "libelle": "METCALFE Arthur - METLICKA Vaclav",
   "lu_le": "2026-11-23T16:29:56Z",
   "nb_coureurs": 33
+ },
+ "pages/m/metlushenko-yuriy-metrasse-bernard.html": {
+  "empreinte": "214b2c7ff848c2c2",
+  "lastmod": "2026-11-23T23:17:49+01:00",
+  "lastmod_lu": "2026-11-23T23:17:49+01:00",
+  "libelle": "METLUSHENKO Yuriy - METRASSE Bernard",
+  "lu_le": "2026-11-24T16:27:40Z",
+  "nb_coureurs": 9
+ },
+ "pages/m/metriau-metz-martin.html": {
+  "empreinte": "8a8c48327f251e61",
+  "lastmod": "2026-11-23T23:25:06+01:00",
+  "lastmod_lu": "2026-11-23T23:25:06+01:00",
+  "libelle": "METRIAU - METZ Martin",
+  "lu_le": "2026-11-24T16:27:31Z",
+  "nb_coureurs": 23
+ },
+ "pages/m/metze-erich-metzke-philipp.html": {
+  "empreinte": "5e17226d6b9c945e",
+  "lastmod": "2026-11-23T23:46:36+01:00",
+  "lastmod_lu": "2026-11-23T23:46:36+01:00",
+  "libelle": "METZE Erich - METZKE Philipp",
+  "lu_le": "2026-11-24T16:27:37Z",
+  "nb_coureurs": 9
+ },
+ "pages/m/metzler-antoine-meuleman-maurice.html": {
+  "empreinte": "55f95fabe86865fa",
+  "lastmod": "2026-11-23T23:36:58+01:00",
+  "lastmod_lu": "2026-11-23T23:36:58+01:00",
+  "libelle": "METZLER Antoine - MEULEMAN Maurice",
+  "lu_le": "2026-11-24T16:27:34Z",
+  "nb_coureurs": 19
+ },
+ "pages/m/meulemans-jan-meullard-andre.html": {
+  "empreinte": "5ffb8ce32e3196c2",
+  "lastmod": "2026-11-23T23:42:10+01:00",
+  "lastmod_lu": "2026-11-23T23:42:10+01:00",
+  "libelle": "MEULEMANS Jan - MEULLARD André",
+  "lu_le": "2026-11-24T16:27:18Z",
+  "nb_coureurs": 9
  },
  "pages/q-r/-rault-anthony-rault-dominique.html": {
   "empreinte": "fe18cb05f2d22676",
@@ -25702,12 +25759,12 @@
   "nb_coureurs": 17
  },
  "pages/s/schryvers-schuiten-roy.html": {
-  "empreinte": "a1bd0a91e59678c5",
-  "lastmod": "2026-11-15T20:45:43+01:00",
-  "lastmod_lu": "2026-11-15T20:45:43+01:00",
+  "empreinte": "6c47797010cc62df",
+  "lastmod": "2026-11-24T09:46:02+01:00",
+  "lastmod_lu": "2026-11-24T09:46:02+01:00",
   "libelle": "SCHRYVERS - SCHUITEN Roy",
-  "lu_le": "2026-11-19T06:09:12Z",
-  "nb_coureurs": 17
+  "lu_le": "2026-11-24T16:27:15Z",
+  "nb_coureurs": 16
  },
  "pages/s/schuller-schullian.html": {
   "empreinte": "03aca6012896d828",
