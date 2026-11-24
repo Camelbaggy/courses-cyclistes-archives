@@ -29579,6 +29579,11 @@
   "essais": 2,
   "regle": 2
  },
+ "cla_allemagne/rund_berlin_1921.html": {
+  "dernier_essai": "2026-11-24T12:32:00Z",
+  "essais": 1,
+  "regle": 2
+ },
  "cla_belgique/mandel_meulebeke_1953.html": {
   "dernier_essai": "2026-11-24T10:02:40Z",
   "essais": 1,
@@ -29651,6 +29656,11 @@
  },
  "disparues/anc_vaux_poperinge.html": {
   "dernier_essai": "2026-11-24T00:53:45Z",
+  "essais": 1,
+  "regle": 2
+ },
+ "eta_espagne/rioja1980.html": {
+  "dernier_essai": "2026-11-24T12:24:06Z",
   "essais": 1,
   "regle": 2
  },
