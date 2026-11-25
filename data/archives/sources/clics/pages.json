@@ -81,10 +81,19 @@
  },
  "pages/a/aarhus-chris-aasheim-ludvig-fischer.html": {
   "empreinte": "8d57f9e7f296ea29",
+  "hors_sitemap": true,
   "lastmod": "2026-01-23T23:54:31+01:00",
   "lastmod_lu": "2026-01-23T23:54:31+01:00",
   "libelle": "AARHUS Chris - AASVANG Marius",
   "lu_le": "2026-11-19T07:03:06Z",
+  "nb_coureurs": 12
+ },
+ "pages/a/aarhus-chris-aasvang-marius.html": {
+  "empreinte": "d4deb3e575e9ea85",
+  "lastmod": "2026-11-24T21:13:05+01:00",
+  "lastmod_lu": "2026-11-24T21:13:05+01:00",
+  "libelle": "AARHUS Chris - AASVANG Marius",
+  "lu_le": "2026-11-25T16:06:08Z",
   "nb_coureurs": 12
  },
  "pages/a/aasvold-kristian-aasvold-lorents-ola.html": {
@@ -20845,6 +20854,46 @@
   "libelle": "MEULEMANS Jan - MEULLARD André",
   "lu_le": "2026-11-24T16:27:18Z",
   "nb_coureurs": 9
+ },
+ "pages/m/meunier-carus-fabrice-meunier-georges.html": {
+  "empreinte": "b4bc66925470555f",
+  "lastmod": "2026-11-24T19:37:35+01:00",
+  "lastmod_lu": "2026-11-24T19:37:35+01:00",
+  "libelle": "MEUNIER CARUS Fabrice - MEUNIER Georges",
+  "lu_le": "2026-11-25T16:06:14Z",
+  "nb_coureurs": 11
+ },
+ "pages/m/meunier-georges.html": {
+  "empreinte": "6016c67f938b69a0",
+  "lastmod": "2026-11-24T19:47:17+01:00",
+  "lastmod_lu": "2026-11-24T19:47:17+01:00",
+  "libelle": "MEUNIER Georges",
+  "lu_le": "2026-11-25T16:06:04Z",
+  "nb_coureurs": 1
+ },
+ "pages/m/meunier-gerard-meunier-maxime.html": {
+  "empreinte": "5a74024a0905af18",
+  "lastmod": "2026-11-24T20:20:43+01:00",
+  "lastmod_lu": "2026-11-24T20:20:43+01:00",
+  "libelle": "MEUNIER Gérard - MEUNIER Maxime",
+  "lu_le": "2026-11-25T16:06:17Z",
+  "nb_coureurs": 13
+ },
+ "pages/m/meunier-meunier-bruno.html": {
+  "empreinte": "84c1b02bcaba3520",
+  "lastmod": "2026-11-24T19:31:36+01:00",
+  "lastmod_lu": "2026-11-24T19:31:36+01:00",
+  "libelle": "MEUNIER - MEUNIER Bruno",
+  "lu_le": "2026-11-25T16:06:20Z",
+  "nb_coureurs": 24
+ },
+ "pages/m/meunier-michel-meunier-stephane.html": {
+  "empreinte": "57cb8a34f4eb2c5d",
+  "lastmod": "2026-11-24T20:38:58+01:00",
+  "lastmod_lu": "2026-11-24T20:38:58+01:00",
+  "libelle": "MEUNIER Michel - MEUNIER Stéphane",
+  "lu_le": "2026-11-25T16:06:10Z",
+  "nb_coureurs": 16
  },
  "pages/q-r/-rault-anthony-rault-dominique.html": {
   "empreinte": "fe18cb05f2d22676",
