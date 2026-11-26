@@ -90,10 +90,10 @@
  },
  "pages/a/aarhus-chris-aasvang-marius.html": {
   "empreinte": "d4deb3e575e9ea85",
-  "lastmod": "2026-11-24T21:13:05+01:00",
-  "lastmod_lu": "2026-11-24T21:13:05+01:00",
+  "lastmod": "2026-11-25T18:42:55+01:00",
+  "lastmod_lu": "2026-11-25T18:42:55+01:00",
   "libelle": "AARHUS Chris - AASVANG Marius",
-  "lu_le": "2026-11-25T16:06:08Z",
+  "lu_le": "2026-11-26T15:48:24Z",
   "nb_coureurs": 12
  },
  "pages/a/aasvold-kristian-aasvold-lorents-ola.html": {
@@ -7561,12 +7561,12 @@
   "nb_coureurs": 23
  },
  "pages/f/fraissignes-fabien-frame-alex.html": {
-  "empreinte": "8e1088eef4bf6ddd",
-  "lastmod": "2026-01-15T23:38:37+01:00",
-  "lastmod_lu": "2026-01-15T23:38:37+01:00",
+  "empreinte": "4f2b22e8d7d28eff",
+  "lastmod": "2026-11-25T18:02:12+01:00",
+  "lastmod_lu": "2026-11-25T18:02:12+01:00",
   "libelle": "FRAISSIGNES Fabien - FRAME Alex",
-  "lu_le": "2026-11-19T07:24:16Z",
-  "nb_coureurs": 9
+  "lu_le": "2026-11-26T15:48:40Z",
+  "nb_coureurs": 10
  },
  "pages/f/framery-oscar-francesco.html": {
   "empreinte": "4d9a330522a2adaf",
@@ -11057,11 +11057,11 @@
   "nb_coureurs": 16
  },
  "pages/g/goury-goussot-marcel.html": {
-  "empreinte": "46dc9a8ad1d95d5b",
-  "lastmod": "2026-05-18T07:55:50+02:00",
-  "lastmod_lu": "2026-05-18T07:55:50+02:00",
+  "empreinte": "d61596c4ba1d9511",
+  "lastmod": "2026-11-25T18:30:47+01:00",
+  "lastmod_lu": "2026-11-25T18:30:47+01:00",
   "libelle": "GOURY - GOUSSOT Marcel",
-  "lu_le": "2026-11-19T08:30:31Z",
+  "lu_le": "2026-11-26T15:48:34Z",
   "nb_coureurs": 27
  },
  "pages/g/goussot-michel-gouta-alain.html": {
@@ -12732,6 +12732,7 @@
  },
  "pages/l/-le-houssais-le-joncour-georges.html": {
   "empreinte": "ee45676c08cbd28b",
+  "hors_sitemap": true,
   "lastmod": "2026-02-04T23:30:03+01:00",
   "lastmod_lu": "2026-02-04T23:30:03+01:00",
   "libelle": "LE HOUSSAIS - LE JONCOUR Georges",
@@ -14675,6 +14676,14 @@
   "lu_le": "2026-11-19T08:45:01Z",
   "nb_coureurs": 19
  },
+ "pages/l/le-houssais-le-joncour-georges.html": {
+  "empreinte": "5a143b32b9aa0da6",
+  "lastmod": "2026-11-25T17:51:27+01:00",
+  "lastmod_lu": "2026-11-25T17:51:27+01:00",
+  "libelle": "LE HOUSSAIS - LE JONCOUR Georges",
+  "lu_le": "2026-11-26T15:49:09Z",
+  "nb_coureurs": 21
+ },
  "pages/l/le-lavandier-maxime-le-lievre-jean-claude.html": {
   "empreinte": "747d7dab3fb7a543",
   "lastmod": "2026-02-04T23:58:53+01:00",
@@ -14789,10 +14798,10 @@
  },
  "pages/l/le-provost-le-queau-yann.html": {
   "empreinte": "5c946ff2d1ec80de",
-  "lastmod": "2026-02-08T20:18:01+01:00",
-  "lastmod_lu": "2026-02-08T20:18:01+01:00",
+  "lastmod": "2026-11-25T17:48:16+01:00",
+  "lastmod_lu": "2026-11-25T17:48:16+01:00",
   "libelle": "LE PROVOST - LE QUÉAU Yann",
-  "lu_le": "2026-11-19T08:45:49Z",
+  "lu_le": "2026-11-26T15:48:27Z",
   "nb_coureurs": 8
  },
  "pages/l/le-quellec-michel-le-rigoleur-eric.html": {
@@ -20592,12 +20601,12 @@
   "nb_coureurs": 19
  },
  "pages/m/merel-edmond-meriau-pierre.html": {
-  "empreinte": "ab9ead1b0d91d401",
-  "lastmod": "2026-11-16T20:25:46+01:00",
-  "lastmod_lu": "2026-11-16T20:25:46+01:00",
+  "empreinte": "d7051a54e28c7b49",
+  "lastmod": "2026-11-25T20:07:54+01:00",
+  "lastmod_lu": "2026-11-25T20:07:54+01:00",
   "libelle": "MEREL Edmond - MERIAU Pierre",
-  "lu_le": "2026-11-19T07:08:29Z",
-  "nb_coureurs": 28
+  "lu_le": "2026-11-26T15:48:47Z",
+  "nb_coureurs": 27
  },
  "pages/m/meriaux-merignant-gabriel.html": {
   "empreinte": "6083471860265852",
@@ -20656,12 +20665,12 @@
   "nb_coureurs": 21
  },
  "pages/m/mermillon-frich-mersang.html": {
-  "empreinte": "27dfcaf919083b1f",
-  "lastmod": "2026-11-18T23:33:56+01:00",
-  "lastmod_lu": "2026-11-18T23:33:56+01:00",
+  "empreinte": "3625c88a18b95c0b",
+  "lastmod": "2026-11-25T19:27:35+01:00",
+  "lastmod_lu": "2026-11-25T19:27:35+01:00",
   "libelle": "MERMILLON Frich - MERSANG",
-  "lu_le": "2026-11-19T07:01:49Z",
-  "nb_coureurs": 32
+  "lu_le": "2026-11-26T15:48:50Z",
+  "nb_coureurs": 33
  },
  "pages/m/mersch-arsene-mertens-bram.html": {
   "empreinte": "89864e5526999c7f",
@@ -20704,11 +20713,11 @@
   "nb_coureurs": 13
  },
  "pages/m/mervar-darko-mervin-jean-yves.html": {
-  "empreinte": "6e97463a44596179",
-  "lastmod": "2026-11-19T19:39:23+01:00",
-  "lastmod_lu": "2026-11-19T19:39:23+01:00",
+  "empreinte": "364391ee4fb0d73f",
+  "lastmod": "2026-11-25T17:07:47+01:00",
+  "lastmod_lu": "2026-11-25T17:07:47+01:00",
   "libelle": "MERVAR Darko - MERVIN Jean-Yves",
-  "lu_le": "2026-11-19T19:40:43Z",
+  "lu_le": "2026-11-26T15:48:43Z",
   "nb_coureurs": 8
  },
  "pages/m/merx-peter-merzyglod.html": {
@@ -20808,11 +20817,11 @@
   "nb_coureurs": 23
  },
  "pages/m/metcalfe-arthur-metlicka-vaclav.html": {
-  "empreinte": "f856b2e0290801b8",
-  "lastmod": "2026-11-22T19:11:20+01:00",
-  "lastmod_lu": "2026-11-22T19:11:20+01:00",
+  "empreinte": "89a57e54f352d78c",
+  "lastmod": "2026-11-25T17:34:23+01:00",
+  "lastmod_lu": "2026-11-25T17:34:23+01:00",
   "libelle": "METCALFE Arthur - METLICKA Vaclav",
-  "lu_le": "2026-11-23T16:29:56Z",
+  "lu_le": "2026-11-26T15:48:56Z",
   "nb_coureurs": 33
  },
  "pages/m/metlushenko-yuriy-metrasse-bernard.html": {
@@ -20824,11 +20833,11 @@
   "nb_coureurs": 9
  },
  "pages/m/metriau-metz-martin.html": {
-  "empreinte": "8a8c48327f251e61",
-  "lastmod": "2026-11-23T23:25:06+01:00",
-  "lastmod_lu": "2026-11-23T23:25:06+01:00",
+  "empreinte": "0430cd9b1783fe63",
+  "lastmod": "2026-11-25T17:39:48+01:00",
+  "lastmod_lu": "2026-11-25T17:39:48+01:00",
   "libelle": "METRIAU - METZ Martin",
-  "lu_le": "2026-11-24T16:27:31Z",
+  "lu_le": "2026-11-26T15:48:53Z",
   "nb_coureurs": 23
  },
  "pages/m/metze-erich-metzke-philipp.html": {
@@ -20840,19 +20849,19 @@
   "nb_coureurs": 9
  },
  "pages/m/metzler-antoine-meuleman-maurice.html": {
-  "empreinte": "55f95fabe86865fa",
-  "lastmod": "2026-11-23T23:36:58+01:00",
-  "lastmod_lu": "2026-11-23T23:36:58+01:00",
+  "empreinte": "217fe5b6c2e7a81b",
+  "lastmod": "2026-11-25T17:23:20+01:00",
+  "lastmod_lu": "2026-11-25T17:23:20+01:00",
   "libelle": "METZLER Antoine - MEULEMAN Maurice",
-  "lu_le": "2026-11-24T16:27:34Z",
+  "lu_le": "2026-11-26T15:49:03Z",
   "nb_coureurs": 19
  },
  "pages/m/meulemans-jan-meullard-andre.html": {
-  "empreinte": "5ffb8ce32e3196c2",
-  "lastmod": "2026-11-23T23:42:10+01:00",
-  "lastmod_lu": "2026-11-23T23:42:10+01:00",
+  "empreinte": "596bd955a1714069",
+  "lastmod": "2026-11-25T17:18:59+01:00",
+  "lastmod_lu": "2026-11-25T17:18:59+01:00",
   "libelle": "MEULEMANS Jan - MEULLARD André",
-  "lu_le": "2026-11-24T16:27:18Z",
+  "lu_le": "2026-11-26T15:48:59Z",
   "nb_coureurs": 9
  },
  "pages/m/meunier-carus-fabrice-meunier-georges.html": {
@@ -20894,6 +20903,46 @@
   "libelle": "MEUNIER Michel - MEUNIER Stéphane",
   "lu_le": "2026-11-25T16:06:10Z",
   "nb_coureurs": 16
+ },
+ "pages/m/meunos-meurs-alphonse.html": {
+  "empreinte": "f598aeeec8e32bf7",
+  "lastmod": "2026-11-25T22:55:29+01:00",
+  "lastmod_lu": "2026-11-25T22:55:29+01:00",
+  "libelle": "MEUNOS - MEURS Alphonse",
+  "lu_le": "2026-11-26T15:49:06Z",
+  "nb_coureurs": 29
+ },
+ "pages/m/meuter-meyer.html": {
+  "empreinte": "0435296870e021ee",
+  "lastmod": "2026-11-25T23:06:23+01:00",
+  "lastmod_lu": "2026-11-25T23:06:23+01:00",
+  "libelle": "MEUTER - MEYER",
+  "lu_le": "2026-11-26T15:48:18Z",
+  "nb_coureurs": 34
+ },
+ "pages/m/meyer-albert-meyer-carl-charles.html": {
+  "empreinte": "04c2f39e6106d85f",
+  "lastmod": "2026-11-25T23:21:06+01:00",
+  "lastmod_lu": "2026-11-25T23:21:06+01:00",
+  "libelle": "MEYER Albert - MEYER Carl \"Charles\"",
+  "lu_le": "2026-11-26T15:49:12Z",
+  "nb_coureurs": 15
+ },
+ "pages/m/meyer-charles-meyer-max.html": {
+  "empreinte": "5bfdaf0829973d16",
+  "lastmod": "2026-11-25T23:28:54+01:00",
+  "lastmod_lu": "2026-11-25T23:28:54+01:00",
+  "libelle": "MEYER Charles - MEYER Max",
+  "lu_le": "2026-11-26T15:49:15Z",
+  "nb_coureurs": 30
+ },
+ "pages/m/meyer-nicolas-meyer-eland-luke.html": {
+  "empreinte": "ec3c433f0f3d176d",
+  "lastmod": "2026-11-25T23:34:42+01:00",
+  "lastmod_lu": "2026-11-25T23:34:42+01:00",
+  "libelle": "MEYER Nicolas - MEYER-ELAND Luke",
+  "lu_le": "2026-11-26T15:48:31Z",
+  "nb_coureurs": 15
  },
  "pages/q-r/-rault-anthony-rault-dominique.html": {
   "empreinte": "fe18cb05f2d22676",
@@ -21761,6 +21810,7 @@
  },
  "pages/q-r/-rossignol-rossignol-pierre.html": {
   "empreinte": "c073b5c372daa8d2",
+  "hors_sitemap": true,
   "lastmod": "2026-08-01T23:13:51+02:00",
   "lastmod_lu": "2026-08-01T23:13:51+02:00",
   "libelle": "ROSSIGNOL - ROSSIGNOL Pierre",
@@ -23662,6 +23712,14 @@
   "libelle": "ROSSI Joao Pedro - ROSSI Pierre",
   "lu_le": "2026-11-19T06:43:57Z",
   "nb_coureurs": 28
+ },
+ "pages/q-r/rossignol-rossignol-pierre.html": {
+  "empreinte": "71b850876119896e",
+  "lastmod": "2026-11-25T18:16:43+01:00",
+  "lastmod_lu": "2026-11-25T18:16:43+01:00",
+  "libelle": "ROSSIGNOL - ROSSIGNOL Pierre",
+  "lu_le": "2026-11-26T15:48:37Z",
+  "nb_coureurs": 27
  },
  "pages/q-r/rosskopf-joseph-rostiti.html": {
   "empreinte": "ec6c0320c273d2bb",
@@ -25888,11 +25946,11 @@
   "nb_coureurs": 1
  },
  "pages/s/schurer-schuttkowsky-adolf.html": {
-  "empreinte": "50ef55e27b801402",
-  "lastmod": "2026-11-19T23:11:34+01:00",
-  "lastmod_lu": "2026-11-19T23:11:34+01:00",
+  "empreinte": "5e9b024cf5347554",
+  "lastmod": "2026-11-25T18:35:06+01:00",
+  "lastmod_lu": "2026-11-25T18:35:06+01:00",
   "libelle": "SCHURER - SCHÜTTKOWSKY Adolf",
-  "lu_le": "2026-11-19T23:13:55Z",
+  "lu_le": "2026-11-26T15:48:21Z",
   "nb_coureurs": 17
  },
  "pages/s/schutz-gody-schneiberger.html": {
