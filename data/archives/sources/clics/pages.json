@@ -104,6 +104,14 @@
   "lu_le": "2026-11-19T08:03:53Z",
   "nb_coureurs": 2
  },
+ "pages/a/ab-abadia-roberto-1.html": {
+  "empreinte": "605aa2ae6aa8d64e",
+  "lastmod": "2026-11-28T00:10:04+01:00",
+  "lastmod_lu": "2026-11-28T00:10:04+01:00",
+  "libelle": "AB - ABADIA Roberto",
+  "lu_le": "2026-11-28T14:32:31Z",
+  "nb_coureurs": 18
+ },
  "pages/a/ab-abadia-roberto.html": {
   "empreinte": "f13a17b3ad00fb6e",
   "lastmod": "2026-01-24T19:26:19+01:00",
@@ -20999,6 +21007,38 @@
   "libelle": "MEZO Iker - MEZZOLO Alexandre",
   "lu_le": "2026-11-27T15:36:40Z",
   "nb_coureurs": 14
+ },
+ "pages/m/mfitumukiza-jean-claude-miaux.html": {
+  "empreinte": "2c55c1cdc325f782",
+  "lastmod": "2026-11-27T23:22:58+01:00",
+  "lastmod_lu": "2026-11-27T23:22:58+01:00",
+  "libelle": "MFITUMUKIZA Jean-Claude - MIAUX",
+  "lu_le": "2026-11-28T14:32:34Z",
+  "nb_coureurs": 31
+ },
+ "pages/m/micali-rosario-mich-stefan.html": {
+  "empreinte": "f3f3d2fce0397ddf",
+  "lastmod": "2026-11-27T23:29:18+01:00",
+  "lastmod_lu": "2026-11-27T23:29:18+01:00",
+  "libelle": "MICALI Rosario - MICH Stefan",
+  "lu_le": "2026-11-28T14:32:37Z",
+  "nb_coureurs": 13
+ },
+ "pages/m/michael-michallet-pierre.html": {
+  "empreinte": "1996af09b495f3d5",
+  "lastmod": "2026-11-27T23:47:58+01:00",
+  "lastmod_lu": "2026-11-27T23:47:58+01:00",
+  "libelle": "MICHAEL - MICHALLET Pierre",
+  "lu_le": "2026-11-28T14:32:41Z",
+  "nb_coureurs": 20
+ },
+ "pages/m/michaelsen-lars.html": {
+  "empreinte": "ecef97bea64c7fd1",
+  "lastmod": "2026-11-27T23:45:47+01:00",
+  "lastmod_lu": "2026-11-27T23:45:47+01:00",
+  "libelle": "MICHAELSEN Lars",
+  "lu_le": "2026-11-28T14:32:28Z",
+  "nb_coureurs": 1
  },
  "pages/q-r/-rault-anthony-rault-dominique.html": {
   "empreinte": "fe18cb05f2d22676",
